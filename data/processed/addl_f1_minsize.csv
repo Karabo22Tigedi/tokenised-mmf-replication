@@ -1,0 +1,8 @@
+fund,size_filter,wallet_mode,n_denominator,value_denominator,n_lower,n_upper,lower_share_count_pct,upper_share_count_pct,lower_share_value_pct,upper_share_value_pct,n_under_1,n_under_20,n_under_100,n_ge_100,total_shares,median_shares,max_shares
+WTGXX,all_sizes,frozen,171,116029540.514235,35,68,20.4678,39.7661,27.6673,38.8084,,,,,,,
+WTGXX,all_sizes,excl_wallet_sample,167,84027546.578453,31,64,18.5629,38.3234,0.1192,15.5036,,,,,,,
+WTGXX,all_sizes,excl_wallet_numerator,171,116029540.514235,31,64,18.1287,37.4269,0.0864,11.2275,,,,,,,
+WTGXX,min_100_shares,with_wallet,68,116028721.575775,6,22,8.8235,32.3529,27.6674,38.8086,,,,,,,
+WTGXX,min_100_shares,excl_wallet_sample,64,84026727.639993,2,18,3.125,28.125,0.1191,15.5035,,,,,,,
+WTGXX,min_100_shares,excl_wallet_numerator,68,116028721.575775,2,18,2.9412,26.4706,0.0863,11.2275,,,,,,,
+WTGXX,distribution,hh_excl_wallet,,,31,,,,,,4,29,29,2,100198.415284,2.0,100000.0

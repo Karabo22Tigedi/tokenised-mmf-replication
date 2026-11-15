@@ -1,0 +1,298 @@
+name,value,unit,as_of,source_file
+addl_swap_n_transfers__WTGXX,28,count,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_n_distinct_tx__WTGXX,28,count,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_modal_hour_et__WTGXX,12,hour ET,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_hour_counts_et__WTGXX,8:3;10:3;11:2;12:6;13:3;14:1;15:3;16:1;20:2;23:4,text (hour:count),2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_n_nonbusiness_day_tr4__WTGXX,7,count,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_ta_modal_burn_hour_et__WTGXX,15,hour ET,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_ta_modal_burn_hour_share_pct__WTGXX,86.4213,pct,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_ta_issuance_mint_share_16_23_pct__WTGXX,60.0,pct,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_ta_issuance_mint_share_16_23_ethereum_pct__WTGXX,73.6318,pct,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_ta_burn_modal_hour_share_ethereum_pct__WTGXX,90.0,pct,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_n_on_ta_schedule__WTGXX,4,count,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_n_off_ta_schedule__WTGXX,24,count,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_n_off_ta_schedule_pct__WTGXX,85.7143,pct,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_n_in_any_hour_with_ta_event__WTGXX,24,count,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_total_shares__WTGXX,200124.001304,shares,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_median_shares__WTGXX,5.0,shares,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_max_shares__WTGXX,100000.0,shares,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_min_shares__WTGXX,1.0,shares,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_n_under_20_shares__WTGXX,24,count,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_n_ge_100_shares__WTGXX,4,count,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_largest4_share_of_total_pct__WTGXX,99.938,pct,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_wtgxx_redemption_value_window__WTGXX,347288651.563636,shares,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_total_share_of_redemption_value_pct__WTGXX,0.0576,pct,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_total_share_of_issuance_value_pct__WTGXX,0.0237,pct,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_n_wtgxx_burns_window__WTGXX,788,count,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_median_wtgxx_burn_shares__WTGXX,250.42289334999998,shares,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_max_month_swap_share_of_month_burn_value_pct__WTGXX,0.2866,pct,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_n_counterparties__WTGXX,6,count,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_n_counterparties_with_primary_market_flag__WTGXX,6,count,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_swap_proxy_wtgxx_events_full_history__WTGXX,0,count,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_n_transfers_sameday_burn_same_wallet__WTGXX,0,count,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_n_transfers_sameday_mint_same_wallet__WTGXX,5,count,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_n_transfers_sameday_issuance_mint_same_wallet__WTGXX,1,count,2026-01-01:2026-09-30,data/processed/addl_swap_summary.csv
+addl_swap_cp_flags__WTGXX__0xbe4c7aef,issuance_mint_recipient;dividend_mint_recipient,text,full frozen history to 2026-10-16,data/processed/addl_swap_counterparties.csv
+addl_swap_cp_flags__WTGXX__0x9acd8edc,issuance_mint_recipient;dividend_mint_recipient,text,full frozen history to 2026-10-16,data/processed/addl_swap_counterparties.csv
+addl_swap_cp_flags__WTGXX__0xa05c84c4,dividend_mint_recipient,text,full frozen history to 2026-10-16,data/processed/addl_swap_counterparties.csv
+addl_swap_cp_flags__WTGXX__0x13d923c6,dividend_mint_recipient,text,full frozen history to 2026-10-16,data/processed/addl_swap_counterparties.csv
+addl_swap_cp_flags__WTGXX__0x80d0e1d8,issuance_mint_recipient;dividend_mint_recipient,text,full frozen history to 2026-10-16,data/processed/addl_swap_counterparties.csv
+addl_swap_cp_flags__WTGXX__0x7a3e13dd,dividend_mint_recipient,text,full frozen history to 2026-10-16,data/processed/addl_swap_counterparties.csv
+addl_ownermatch_dominant_record_share_pct__FOBXX,74.46,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_onchain_balances_share_of_class_shares_pct__FOBXX,83.7195,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_share_of_class_shares_pct__FOBXX,31.0715,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top2_share_of_class_shares_pct__FOBXX,39.2734,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top3_share_of_class_shares_pct__FOBXX,45.4578,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_share_of_onchain_supply_pct__FOBXX,37.1138,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top2_share_of_onchain_supply_pct__FOBXX,46.9106,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top3_share_of_onchain_supply_pct__FOBXX,54.2977,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_minus_dominant_pp__FOBXX,-43.3885,pct points,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_pm_cluster_share_of_class_shares_pct__FOBXX,38.0419,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_pm_cluster_minus_dominant_pp__FOBXX,-36.4181,pct points,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_n_pm_wallets_with_balance__FOBXX,348,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_pm_broad_cluster_share_of_class_shares_pct__FOBXX,38.0419,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_pm_broad_cluster_minus_dominant_pp__FOBXX,-36.4181,pct points,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_n_pm_broad_wallets_with_balance__FOBXX,348,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_pm_broad__FOBXX,0,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_n_single_wallets_within_1pp__FOBXX,0,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_aggregates_within_1pp__FOBXX,none,text,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_address__FOBXX,GDXP7KSDSHVMPXBBXMRG7MMFLEYD3QTKQ7YC4YG6P3KLXZ3UCABPSYAA,text,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_pm__FOBXX,0,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_n_nonta_wallets__FOBXX,1009,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_ta_balance_share_of_class_shares_pct__FOBXX,0.4399,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_nearest_wallet_per_owner_entry__FOBXX,Non-financial corporation 74.46% -> GDXP7KSDSH 31.0715% (diff -43.3885 pp) | Other:OtherRetail Investor 6.18% -> GDB6N6R2UV 6.1845% (diff 0.0045 pp),text,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_dominant_record_share_pct__WTGXX,81.47,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_onchain_balances_share_of_class_shares_pct__WTGXX,99.9043,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_share_of_class_shares_pct__WTGXX,81.4707,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top2_share_of_class_shares_pct__WTGXX,90.1923,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top3_share_of_class_shares_pct__WTGXX,94.4885,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_share_of_onchain_supply_pct__WTGXX,81.5488,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top2_share_of_onchain_supply_pct__WTGXX,90.2786,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top3_share_of_onchain_supply_pct__WTGXX,94.579,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_minus_dominant_pp__WTGXX,0.0007,pct points,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_pm_cluster_share_of_class_shares_pct__WTGXX,93.5924,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_pm_cluster_minus_dominant_pp__WTGXX,12.1224,pct points,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_n_pm_wallets_with_balance__WTGXX,674,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_pm_broad_cluster_share_of_class_shares_pct__WTGXX,93.6005,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_pm_broad_cluster_minus_dominant_pp__WTGXX,12.1305,pct points,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_n_pm_broad_wallets_with_balance__WTGXX,675,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_pm_broad__WTGXX,1,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_n_single_wallets_within_1pp__WTGXX,1,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_aggregates_within_1pp__WTGXX,largest wallet,text,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_address__WTGXX,0xa568d33b6eb590362922c4f30f354b58b100861a,text,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_pm__WTGXX,1,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_n_nonta_wallets__WTGXX,681,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_ta_balance_share_of_class_shares_pct__WTGXX,2.0076,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_nearest_wallet_per_owner_entry__WTGXX,Other:Institutional Investor 5.49% -> 0x4fa39d8b 4.2962% (diff -1.1938 pp) | Other:Ultimate Parent Company 8.72% -> 0x0c561ed8 8.7215% (diff 0.0015 pp) | Other:Institutional Investor 81.47% -> 0xa568d33b 81.4707% (diff 0.0007 pp),text,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_wallet_0x0c561ed8_rank__WTGXX,2,rank (non-TA wallets),2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_wallet_0x0c561ed8_share_of_class_shares_pct__WTGXX,8.7215,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_dominant_record_share_pct__JLTXX,83.56,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_onchain_balances_share_of_class_shares_pct__JLTXX,100.0,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_share_of_class_shares_pct__JLTXX,83.5618,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top2_share_of_class_shares_pct__JLTXX,99.69,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top3_share_of_class_shares_pct__JLTXX,100.0,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_share_of_onchain_supply_pct__JLTXX,83.5618,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top2_share_of_onchain_supply_pct__JLTXX,99.69,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top3_share_of_onchain_supply_pct__JLTXX,100.0,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_minus_dominant_pp__JLTXX,0.0018,pct points,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_pm_cluster_share_of_class_shares_pct__JLTXX,100.0,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_pm_cluster_minus_dominant_pp__JLTXX,16.44,pct points,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_n_pm_wallets_with_balance__JLTXX,4,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_pm_broad_cluster_share_of_class_shares_pct__JLTXX,100.0,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_pm_broad_cluster_minus_dominant_pp__JLTXX,16.44,pct points,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_n_pm_broad_wallets_with_balance__JLTXX,4,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_pm_broad__JLTXX,1,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_n_single_wallets_within_1pp__JLTXX,1,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_aggregates_within_1pp__JLTXX,largest wallet,text,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_address__JLTXX,0xc1d56e817d8f6c53d42ed50ed0d789eeb1495b5e,text,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_pm__JLTXX,1,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_n_nonta_wallets__JLTXX,4,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_ta_balance_share_of_class_shares_pct__JLTXX,0.0,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_nearest_wallet_per_owner_entry__JLTXX,Non-financial corporation 16.12% -> 0x50400ee3 16.1283% (diff 0.0083 pp) | Depository institution or other banking institution 83.56% -> 0xc1d56e81 83.5618% (diff 0.0018 pp),text,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_dominant_record_share_pct__FYOXX,95.14,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_onchain_balances_share_of_class_shares_pct__FYOXX,99.6273,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_share_of_class_shares_pct__FYOXX,95.1364,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top2_share_of_class_shares_pct__FYOXX,99.6273,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top3_share_of_class_shares_pct__FYOXX,99.6273,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_share_of_onchain_supply_pct__FYOXX,95.4924,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top2_share_of_onchain_supply_pct__FYOXX,100.0,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top3_share_of_onchain_supply_pct__FYOXX,100.0,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_minus_dominant_pp__FYOXX,-0.0036,pct points,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_pm_cluster_share_of_class_shares_pct__FYOXX,0.0,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_pm_cluster_minus_dominant_pp__FYOXX,-95.14,pct points,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_n_pm_wallets_with_balance__FYOXX,0,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_pm_broad_cluster_share_of_class_shares_pct__FYOXX,99.6273,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_pm_broad_cluster_minus_dominant_pp__FYOXX,4.4873,pct points,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_n_pm_broad_wallets_with_balance__FYOXX,2,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_pm_broad__FYOXX,1,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_n_single_wallets_within_1pp__FYOXX,1,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_aggregates_within_1pp__FYOXX,largest wallet,text,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_address__FYOXX,0xa8335bdb0a1d1de9c4936f70b46148a56f27b1cb,text,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_top1_pm__FYOXX,0,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_n_nonta_wallets__FYOXX,2,count,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_ta_balance_share_of_class_shares_pct__FYOXX,0.0,pct,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_ownermatch_nearest_wallet_per_owner_entry__FYOXX,Other:PARTNERSHIP 95.14% -> 0xa8335bdb 95.1364% (diff -0.0036 pp),text,2026-09-30,data/processed/addl_ownermatch_summary.csv
+addl_reclass_m1_lower_share_value_pct__WTGXX__frozen__with_wallet,27.6673,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_lower_share_count_pct__WTGXX__frozen__with_wallet,20.4678,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_upper_share_value_pct__WTGXX__frozen__with_wallet,38.8084,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_upper_share_count_pct__WTGXX__frozen__with_wallet,39.7661,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_events__WTGXX__frozen__with_wallet,171,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_lower__WTGXX__frozen__with_wallet,35,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_upper__WTGXX__frozen__with_wallet,68,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_lower_share_value_pct__WTGXX__frozen__excl_wallet_numerator,0.0864,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_lower_share_count_pct__WTGXX__frozen__excl_wallet_numerator,18.1287,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_upper_share_value_pct__WTGXX__frozen__excl_wallet_numerator,11.2275,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_upper_share_count_pct__WTGXX__frozen__excl_wallet_numerator,37.4269,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_events__WTGXX__frozen__excl_wallet_numerator,171,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_lower__WTGXX__frozen__excl_wallet_numerator,31,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_upper__WTGXX__frozen__excl_wallet_numerator,64,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_lower_share_value_pct__WTGXX__frozen__excl_wallet_sample,0.1192,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_lower_share_count_pct__WTGXX__frozen__excl_wallet_sample,18.5629,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_upper_share_value_pct__WTGXX__frozen__excl_wallet_sample,15.5036,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_upper_share_count_pct__WTGXX__frozen__excl_wallet_sample,38.3234,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_events__WTGXX__frozen__excl_wallet_sample,167,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_lower__WTGXX__frozen__excl_wallet_sample,31,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_upper__WTGXX__frozen__excl_wallet_sample,64,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_lower_share_value_pct__WTGXX__reclass__with_wallet,27.6673,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_lower_share_count_pct__WTGXX__reclass__with_wallet,20.4678,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_upper_share_value_pct__WTGXX__reclass__with_wallet,47.5195,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_upper_share_count_pct__WTGXX__reclass__with_wallet,52.6316,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_events__WTGXX__reclass__with_wallet,171,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_lower__WTGXX__reclass__with_wallet,35,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_upper__WTGXX__reclass__with_wallet,90,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_lower_share_value_pct__WTGXX__reclass__excl_wallet_numerator,0.0864,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_lower_share_count_pct__WTGXX__reclass__excl_wallet_numerator,18.1287,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_upper_share_value_pct__WTGXX__reclass__excl_wallet_numerator,19.9386,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_upper_share_count_pct__WTGXX__reclass__excl_wallet_numerator,50.2924,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_events__WTGXX__reclass__excl_wallet_numerator,171,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_lower__WTGXX__reclass__excl_wallet_numerator,31,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_upper__WTGXX__reclass__excl_wallet_numerator,86,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_lower_share_value_pct__WTGXX__reclass__excl_wallet_sample,0.1192,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_lower_share_count_pct__WTGXX__reclass__excl_wallet_sample,18.5629,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_upper_share_value_pct__WTGXX__reclass__excl_wallet_sample,27.5323,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_upper_share_count_pct__WTGXX__reclass__excl_wallet_sample,51.497,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_events__WTGXX__reclass__excl_wallet_sample,167,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_lower__WTGXX__reclass__excl_wallet_sample,31,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_upper__WTGXX__reclass__excl_wallet_sample,86,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_lower_share_value_pct__WTGXX__allhp__with_wallet,75.2876,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_lower_share_count_pct__WTGXX__allhp__with_wallet,59.6491,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_upper_share_value_pct__WTGXX__allhp__with_wallet,100.0,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_upper_share_count_pct__WTGXX__allhp__with_wallet,100.0,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_events__WTGXX__allhp__with_wallet,171,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_lower__WTGXX__allhp__with_wallet,102,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_upper__WTGXX__allhp__with_wallet,171,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_lower_share_value_pct__WTGXX__allhp__excl_wallet_numerator,47.7067,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_lower_share_count_pct__WTGXX__allhp__excl_wallet_numerator,57.3099,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_upper_share_value_pct__WTGXX__allhp__excl_wallet_numerator,72.4191,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_upper_share_count_pct__WTGXX__allhp__excl_wallet_numerator,97.6608,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_events__WTGXX__allhp__excl_wallet_numerator,171,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_lower__WTGXX__allhp__excl_wallet_numerator,98,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_upper__WTGXX__allhp__excl_wallet_numerator,167,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_lower_share_value_pct__WTGXX__allhp__excl_wallet_sample,65.8759,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_lower_share_count_pct__WTGXX__allhp__excl_wallet_sample,58.6826,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_upper_share_value_pct__WTGXX__allhp__excl_wallet_sample,100.0,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_upper_share_count_pct__WTGXX__allhp__excl_wallet_sample,100.0,pct,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_events__WTGXX__allhp__excl_wallet_sample,167,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_lower__WTGXX__allhp__excl_wallet_sample,98,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_m1_n_upper__WTGXX__allhp__excl_wallet_sample,167,count,2026-01-01:2026-09-30,data/processed/addl_reclass_m1.csv
+addl_reclass_n_hop_parking_ta__WTGXX,21,count,freeze_2026-10-16,data/processed/addl_ta_hop_parking.csv
+addl_reclass_n_material__WTGXX,4,count,2026-01-01:2026-09-30,data/processed/addl_ta_hop_parking.csv
+addl_reclass_n_moved__WTGXX,1,count,freeze_2026-10-16,data/processed/addl_ta_hop_parking.csv
+addl_reclass_n_hop_parking_ta__FOBXX,5,count,freeze_2026-10-16,data/processed/addl_ta_hop_parking.csv
+addl_reclass_n_material__FOBXX,3,count,2026-01-01:2026-09-30,data/processed/addl_ta_hop_parking.csv
+addl_reclass_n_moved__FOBXX,0,count,freeze_2026-10-16,data/processed/addl_ta_hop_parking.csv
+addl_frax_n_transfers__WTGXX,22,count,2026-01-01:2026-09-30,data/processed/addl_frax_custodian.csv
+addl_frax_n_in__WTGXX,10,count,2026-01-01:2026-09-30,data/processed/addl_frax_custodian.csv
+addl_frax_value_in__WTGXX,2678021.0,shares,2026-01-01:2026-09-30,data/processed/addl_frax_custodian.csv
+addl_frax_n_out__WTGXX,12,count,2026-01-01:2026-09-30,data/processed/addl_frax_custodian.csv
+addl_frax_value_out__WTGXX,7429407.053409,shares,2026-01-01:2026-09-30,data/processed/addl_frax_custodian.csv
+addl_frax_n_distinct_counterparties__WTGXX,5,count,2026-01-01:2026-09-30,data/processed/addl_frax_custodian.csv
+addl_frax_share_of_fund_transfer_value_pct__WTGXX,8.7111,pct,2026-01-01:2026-09-30,data/processed/addl_frax_custodian.csv
+addl_pairs_n__FrxUSDCustodian,1,count,2026-01-01:2026-09-30,data/processed/addl_frax_pairs.csv
+addl_pairs_ratio_counts__FrxUSDCustodian,0.49995:1,text (ratio:count),2026-01-01:2026-09-30,data/processed/addl_frax_pairs.csv
+addl_pairs_median_ratio__FrxUSDCustodian,0.49995,ratio,2026-01-01:2026-09-30,data/processed/addl_frax_pairs.csv
+addl_pairs_n_ratio_0999__FrxUSDCustodian,0,count (ratio exactly 0.999 at 6 dp),2026-01-01:2026-09-30,data/processed/addl_frax_pairs.csv
+addl_pairs_n_ratio_1__FrxUSDCustodian,0,count (ratio exactly 1),2026-01-01:2026-09-30,data/processed/addl_frax_pairs.csv
+addl_pairs_n__MultiliquidSwap_routed_0x9acd8edc,4,count,2026-01-01:2026-09-30,data/processed/addl_frax_pairs.csv
+addl_pairs_ratio_counts__MultiliquidSwap_routed_0x9acd8edc,0.999:3;4.992504:1,text (ratio:count),2026-01-01:2026-09-30,data/processed/addl_frax_pairs.csv
+addl_pairs_median_ratio__MultiliquidSwap_routed_0x9acd8edc,0.999,ratio,2026-01-01:2026-09-30,data/processed/addl_frax_pairs.csv
+addl_pairs_n_ratio_0999__MultiliquidSwap_routed_0x9acd8edc,3,count (ratio exactly 0.999 at 6 dp),2026-01-01:2026-09-30,data/processed/addl_frax_pairs.csv
+addl_pairs_n_ratio_1__MultiliquidSwap_routed_0x9acd8edc,0,count (ratio exactly 1),2026-01-01:2026-09-30,data/processed/addl_frax_pairs.csv
+addl_pairs_n__hop_parking_0x894bb634,8,count,2026-01-01:2026-09-30,data/processed/addl_frax_pairs.csv
+addl_pairs_ratio_counts__hop_parking_0x894bb634,0.00999:1;0.4995:1;0.999:2;1.0:3;1.998:1,text (ratio:count),2026-01-01:2026-09-30,data/processed/addl_frax_pairs.csv
+addl_pairs_median_ratio__hop_parking_0x894bb634,0.9995,ratio,2026-01-01:2026-09-30,data/processed/addl_frax_pairs.csv
+addl_pairs_n_ratio_0999__hop_parking_0x894bb634,2,count (ratio exactly 0.999 at 6 dp),2026-01-01:2026-09-30,data/processed/addl_frax_pairs.csv
+addl_pairs_n_ratio_1__hop_parking_0x894bb634,3,count (ratio exactly 1),2026-01-01:2026-09-30,data/processed/addl_frax_pairs.csv
+addl_turnred_hh_value_shares__WTGXX__with_wallet,32102192.351066,shares,2026-01-01:2026-09-30,data/processed/addl_turnover_vs_reds.csv
+addl_turnred_nmfp_gross_reds_sum__WTGXX__with_wallet,357685298.52,USD (N-MFP3),2026-01-01:2026-09-30,data/processed/addl_turnover_vs_reds.csv
+addl_turnred_hh_value_share_of_gross_reds_pct__WTGXX__with_wallet,8.975,pct,2026-01-01:2026-09-30,data/processed/addl_turnover_vs_reds.csv
+addl_turnred_upper_nonta_value_shares__WTGXX__with_wallet,45029264.113628,shares,2026-01-01:2026-09-30,data/processed/addl_turnover_vs_reds.csv
+addl_turnred_upper_value_share_of_gross_reds_pct__WTGXX__with_wallet,12.5891,pct,2026-01-01:2026-09-30,data/processed/addl_turnover_vs_reds.csv
+addl_turnred_hh_value_shares__WTGXX__excl_wallet_numerator,100198.415284,shares,2026-01-01:2026-09-30,data/processed/addl_turnover_vs_reds.csv
+addl_turnred_nmfp_gross_reds_sum__WTGXX__excl_wallet_numerator,357685298.52,USD (N-MFP3),2026-01-01:2026-09-30,data/processed/addl_turnover_vs_reds.csv
+addl_turnred_hh_value_share_of_gross_reds_pct__WTGXX__excl_wallet_numerator,0.028,pct,2026-01-01:2026-09-30,data/processed/addl_turnover_vs_reds.csv
+addl_turnred_upper_nonta_value_shares__WTGXX__excl_wallet_numerator,13027270.177846,shares,2026-01-01:2026-09-30,data/processed/addl_turnover_vs_reds.csv
+addl_turnred_upper_value_share_of_gross_reds_pct__WTGXX__excl_wallet_numerator,3.6421,pct,2026-01-01:2026-09-30,data/processed/addl_turnover_vs_reds.csv
+addl_turnred_hh_value_shares__FOBXX__with_wallet,8020222.18,shares,2026-01-01:2026-09-30,data/processed/addl_turnover_vs_reds.csv
+addl_turnred_nmfp_gross_reds_sum__FOBXX__with_wallet,404324313.62,USD (N-MFP3),2026-01-01:2026-09-30,data/processed/addl_turnover_vs_reds.csv
+addl_turnred_hh_value_share_of_gross_reds_pct__FOBXX__with_wallet,1.9836,pct,2026-01-01:2026-09-30,data/processed/addl_turnover_vs_reds.csv
+addl_turnred_upper_nonta_value_shares__FOBXX__with_wallet,8020222.18,shares,2026-01-01:2026-09-30,data/processed/addl_turnover_vs_reds.csv
+addl_turnred_upper_value_share_of_gross_reds_pct__FOBXX__with_wallet,1.9836,pct,2026-01-01:2026-09-30,data/processed/addl_turnover_vs_reds.csv
+addl_netbuf_min_share_of_reds_pct__FOBXX,7.2973,pct,2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_min_share_of_subs_plus_reds_pct__FOBXX,4.1516,pct,2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_sum_daily_min__FOBXX,29504821.24,USD (N-MFP3),2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_sum_reds__FOBXX,404324313.62,USD (N-MFP3),2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_sum_subs__FOBXX,306358491.43,USD (N-MFP3),2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_n_days__FOBXX,187,count,2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_min_share_of_reds_pct__WTGXX,3.9493,pct,2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_min_share_of_subs_plus_reds_pct__WTGXX,1.1679,pct,2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_sum_daily_min__WTGXX,14126152.84,USD (N-MFP3),2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_sum_reds__WTGXX,357685298.52,USD (N-MFP3),2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_sum_subs__WTGXX,851841325.82,USD (N-MFP3),2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_n_days__WTGXX,186,count,2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_min_share_of_reds_pct__JLTXX,7.7622,pct,2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_min_share_of_subs_plus_reds_pct__JLTXX,2.0938,pct,2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_sum_daily_min__JLTXX,28574360.9,USD (N-MFP3),2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_sum_reds__JLTXX,368122485.86,USD (N-MFP3),2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_sum_subs__JLTXX,996607333.08,USD (N-MFP3),2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_n_days__JLTXX,97,count,2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_min_share_of_reds_pct__FYOXX,3.7665,pct,2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_min_share_of_subs_plus_reds_pct__FYOXX,2.8586,pct,2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_sum_daily_min__FYOXX,12581596.24,USD (N-MFP3),2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_sum_reds__FYOXX,334037538.28,USD (N-MFP3),2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_sum_subs__FYOXX,106086376.25,USD (N-MFP3),2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_netbuf_n_days__FYOXX,189,count,2026-01-01:2026-09-30,data/processed/addl_netting_buffer.csv
+addl_xchain_n_burns_window__FOBXX,640,count,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_n_pairs__FOBXX,34,count,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_value_pairs_burn_side__FOBXX,0.664333,shares,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_pairs_share_of_burn_value_pct__FOBXX,0.0,pct,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_n_pairs_mint_issuance__FOBXX,0,count,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_n_pairs_mint_dividend__FOBXX,34,count,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_n_pairs_ge_100_shares__FOBXX,0,count,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_value_pairs_ge_100_shares__FOBXX,0,shares,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_placebo_shift10d_n_pairs__FOBXX,35,count,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_placebo_shift10d_n_pairs_ge_100_shares__FOBXX,0,count,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_placebo_shift10d_value__FOBXX,1.664333,shares,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_chain_pairs__FOBXX,stellar->arbitrum:11;stellar->polygon:22;stellar->solana:1,text,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_pair_amount_bands__FOBXX,<1:34,text,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_m2_frozen_nonbusiness_share_pct__FOBXX,0.0075,pct,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_m2_excl_pairs_nonbusiness_share_pct__FOBXX,0.0075,pct,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_m2_excl_pairs_issuance_value__FOBXX,283282919.112354,shares,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_m2_excl_pairs_redemption_value__FOBXX,359240322.826613,shares,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_n_burns_window__WTGXX,788,count,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_n_pairs__WTGXX,79,count,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_value_pairs_burn_side__WTGXX,1600155.956761,shares,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_pairs_share_of_burn_value_pct__WTGXX,0.4608,pct,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_n_pairs_mint_issuance__WTGXX,50,count,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_n_pairs_mint_dividend__WTGXX,29,count,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_n_pairs_ge_100_shares__WTGXX,19,count,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_value_pairs_ge_100_shares__WTGXX,1599956.025475,shares,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_placebo_shift10d_n_pairs__WTGXX,25,count,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_placebo_shift10d_n_pairs_ge_100_shares__WTGXX,6,count,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_placebo_shift10d_value__WTGXX,6484.009673,shares,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_chain_pairs__WTGXX,arbitrum->ethereum:1;arbitrum->stellar:2;ethereum->arbitrum:1;ethereum->stellar:18;stellar->arbitrum:1;stellar->ethereum:51;stellar->solana:5,text,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_pair_amount_bands__WTGXX,1-<100:31;100-<10k:15;<1:29;>=10k:4,text,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_m2_frozen_nonbusiness_share_pct__WTGXX,0.0049,pct,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_m2_excl_pairs_nonbusiness_share_pct__WTGXX,0.0,pct,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_m2_excl_pairs_issuance_value__WTGXX,841725451.723532,shares,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv
+addl_xchain_m2_excl_pairs_redemption_value__WTGXX,345688495.606875,shares,2026-01-01:2026-09-30,data/processed/addl_xchain_summary.csv

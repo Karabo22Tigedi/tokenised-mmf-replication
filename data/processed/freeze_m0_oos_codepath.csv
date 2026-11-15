@@ -1,0 +1,209 @@
+fund,report_date,clock,register_row,computed,coverage,chains_missing,f0_counting_row,gap_pct,gap_pct_tr3_all,gap_pct_tr3_iii,gap_raw_pct,f0_month_status,f0_month_status_tr3_all
+FOBXX,2024-06-30,ET,True,yes,coverage-incomplete,aptos;stellar,yes,-99.4724,-99.4723,-99.4724,-99.4724,incomplete_undetermined,incomplete_undetermined
+FOBXX,2024-06-30,UTC,True,yes,coverage-incomplete,aptos;stellar,no (TR-1 UTC sensitivity),-99.4724,-99.4723,-99.4724,-99.4724,incomplete_undetermined,incomplete_undetermined
+FOBXX,2024-07-31,ET,True,yes,coverage-incomplete,aptos;stellar,yes,-99.4928,-99.4928,-99.4928,-99.4928,incomplete_undetermined,incomplete_undetermined
+FOBXX,2024-07-31,UTC,True,yes,coverage-incomplete,aptos;stellar,no (TR-1 UTC sensitivity),-99.4928,-99.4928,-99.4928,-99.4928,incomplete_undetermined,incomplete_undetermined
+FOBXX,2024-08-31,ET,True,yes,coverage-incomplete,aptos;stellar,yes,-99.3829,-99.3826,-99.3829,-99.3829,incomplete_undetermined,incomplete_undetermined
+FOBXX,2024-08-31,UTC,True,yes,coverage-incomplete,aptos;stellar,no (TR-1 UTC sensitivity),-99.3829,-99.3826,-99.3829,-99.3829,incomplete_undetermined,incomplete_undetermined
+FOBXX,2024-09-30,ET,True,yes,coverage-incomplete,aptos;stellar,yes,-95.4486,-95.4474,-95.4486,-95.4486,incomplete_undetermined,incomplete_undetermined
+FOBXX,2024-09-30,UTC,True,yes,coverage-incomplete,aptos;stellar,no (TR-1 UTC sensitivity),-95.4486,-95.4474,-95.4486,-95.4486,incomplete_undetermined,incomplete_undetermined
+FOBXX,2024-10-31,ET,True,yes,coverage-incomplete,aptos;stellar,yes,-94.4386,-94.4365,-94.4386,-94.4386,incomplete_undetermined,incomplete_undetermined
+FOBXX,2024-10-31,UTC,True,yes,coverage-incomplete,aptos;stellar,no (TR-1 UTC sensitivity),-94.4386,-94.4365,-94.4386,-94.4386,incomplete_undetermined,incomplete_undetermined
+FOBXX,2024-11-30,ET,True,yes,coverage-incomplete,aptos;stellar,yes,-59.7579,-59.7532,-59.7579,-59.7579,incomplete_undetermined,incomplete_undetermined
+FOBXX,2024-11-30,UTC,True,yes,coverage-incomplete,aptos;stellar,no (TR-1 UTC sensitivity),-59.7579,-59.7532,-59.7579,-59.7579,incomplete_undetermined,incomplete_undetermined
+FOBXX,2024-12-31,ET,True,yes,coverage-incomplete,aptos;stellar,yes,-54.2289,-54.2216,-54.2289,-54.2289,incomplete_undetermined,incomplete_undetermined
+FOBXX,2024-12-31,UTC,True,yes,coverage-incomplete,aptos;stellar,no (TR-1 UTC sensitivity),-54.2289,-54.2216,-54.2289,-54.2289,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-01-31,ET,True,yes,coverage-incomplete,aptos;stellar,yes,-61.4716,-61.4636,-61.4716,-61.4716,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-01-31,UTC,True,yes,coverage-incomplete,aptos;stellar,no (TR-1 UTC sensitivity),-61.4716,-61.4636,-61.4716,-61.4716,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-02-28,ET,True,yes,coverage-incomplete,aptos;stellar,yes,-67.7694,-67.7626,-67.7694,-67.7694,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-02-28,UTC,True,yes,coverage-incomplete,aptos;stellar,no (TR-1 UTC sensitivity),-67.7694,-67.7626,-67.7694,-67.7694,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-03-31,ET,True,yes,coverage-incomplete,aptos;stellar,yes,-68.953,-68.9508,-68.953,-68.953,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-03-31,UTC,True,yes,coverage-incomplete,aptos;stellar,no (TR-1 UTC sensitivity),-68.953,-68.9508,-68.953,-68.953,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-04-30,ET,True,yes,coverage-incomplete,aptos;stellar,yes,-67.5784,-67.5761,-67.5784,-67.5784,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-04-30,UTC,True,yes,coverage-incomplete,aptos;stellar,no (TR-1 UTC sensitivity),-67.5784,-67.5761,-67.5784,-67.5784,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-05-31,ET,True,yes,coverage-incomplete,aptos;stellar,yes,-65.1424,-65.1371,-65.1424,-65.1424,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-05-31,UTC,True,yes,coverage-incomplete,aptos;stellar,no (TR-1 UTC sensitivity),-65.1424,-65.1371,-65.1424,-65.1424,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-06-30,ET,True,yes,coverage-incomplete,aptos;stellar,yes,-60.4897,-60.4866,-60.4897,-60.4897,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-06-30,UTC,True,yes,coverage-incomplete,aptos;stellar,no (TR-1 UTC sensitivity),-60.4897,-60.4866,-60.4897,-60.4897,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-07-31,ET,True,yes,coverage-incomplete,aptos;stellar,yes,-65.5205,-65.5177,-65.5205,-65.5205,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-07-31,UTC,True,yes,coverage-incomplete,aptos;stellar,no (TR-1 UTC sensitivity),-65.5205,-65.5177,-65.5205,-65.5205,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-08-31,ET,True,yes,coverage-incomplete,aptos;stellar,yes,-69.7539,-69.7499,-69.7539,-69.7539,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-08-31,UTC,True,yes,coverage-incomplete,aptos;stellar,no (TR-1 UTC sensitivity),-69.7539,-69.7499,-69.7539,-69.7539,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-09-30,ET,True,yes,coverage-incomplete,aptos,yes,-8.2684,-8.2663,-8.2684,-8.2684,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-09-30,UTC,True,yes,coverage-incomplete,aptos,no (TR-1 UTC sensitivity),-8.2684,-8.2663,-8.2684,-8.2684,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-10-31,ET,True,yes,coverage-incomplete,aptos,yes,-7.4674,-7.4619,-7.4674,-7.4674,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-10-31,UTC,True,yes,coverage-incomplete,aptos,no (TR-1 UTC sensitivity),-7.4674,-7.4619,-7.4674,-7.4674,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-11-30,ET,True,yes,coverage-incomplete,aptos,yes,-7.4789,-7.4771,-7.4789,-7.4789,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-11-30,UTC,True,yes,coverage-incomplete,aptos,no (TR-1 UTC sensitivity),-7.4789,-7.4771,-7.4789,-7.4789,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-12-31,ET,True,yes,coverage-incomplete,aptos,yes,-7.6487,-7.6322,-7.6487,-7.6487,incomplete_undetermined,incomplete_undetermined
+FOBXX,2025-12-31,UTC,True,yes,coverage-incomplete,aptos,no (TR-1 UTC sensitivity),-7.6487,-7.6322,-7.6487,-7.6487,incomplete_undetermined,incomplete_undetermined
+FOBXX,2026-01-31,ET,True,yes,coverage-incomplete,aptos,yes,-7.0018,-6.9851,-7.0018,-7.0018,incomplete_undetermined,incomplete_undetermined
+FOBXX,2026-01-31,UTC,True,yes,coverage-incomplete,aptos,no (TR-1 UTC sensitivity),-7.0018,-6.9851,-7.0018,-7.0018,incomplete_undetermined,incomplete_undetermined
+FOBXX,2026-02-28,ET,True,yes,coverage-incomplete,aptos,yes,-6.3145,-6.2978,-6.3145,-6.3145,incomplete_undetermined,incomplete_undetermined
+FOBXX,2026-02-28,UTC,True,yes,coverage-incomplete,aptos,no (TR-1 UTC sensitivity),-6.3145,-6.2978,-6.3145,-6.3145,incomplete_undetermined,incomplete_undetermined
+FOBXX,2026-03-31,ET,True,yes,coverage-incomplete,aptos,yes,-6.4784,-6.4701,-6.4784,-6.4784,incomplete_undetermined,incomplete_undetermined
+FOBXX,2026-03-31,UTC,True,yes,coverage-incomplete,aptos,no (TR-1 UTC sensitivity),-6.4784,-6.4701,-6.4784,-6.4784,incomplete_undetermined,incomplete_undetermined
+FOBXX,2026-04-30,ET,True,yes,coverage-incomplete,aptos,yes,-6.4483,-6.4401,-6.4483,-6.4483,incomplete_undetermined,incomplete_undetermined
+FOBXX,2026-04-30,UTC,True,yes,coverage-incomplete,aptos,no (TR-1 UTC sensitivity),-6.4483,-6.4401,-6.4483,-6.4483,incomplete_undetermined,incomplete_undetermined
+FOBXX,2026-05-29,ET,False,no,coverage-incomplete,aptos;arbitrum;avalanche;base;ethereum;polygon,yes,,,,,not_computed,not_computed
+FOBXX,2026-05-29,UTC,False,no,coverage-incomplete,aptos;arbitrum;avalanche;base;ethereum;polygon,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+FOBXX,2026-05-31,ET,True,yes,coverage-incomplete,aptos,yes,-4.9826,-4.9744,-4.9826,-4.9826,incomplete_undetermined,incomplete_undetermined
+FOBXX,2026-05-31,UTC,True,yes,coverage-incomplete,aptos,no (TR-1 UTC sensitivity),-4.9826,-4.9744,-4.9826,-4.9826,incomplete_undetermined,incomplete_undetermined
+FOBXX,2026-06-30,ET,True,yes,coverage-incomplete,aptos,yes,-5.3647,-5.3568,-5.3647,-5.3647,incomplete_undetermined,incomplete_undetermined
+FOBXX,2026-06-30,UTC,True,yes,coverage-incomplete,aptos,no (TR-1 UTC sensitivity),-5.3647,-5.3568,-5.3647,-5.3647,incomplete_undetermined,incomplete_undetermined
+WTGXX,2024-06-30,ET,True,yes,coverage-incomplete,stellar,yes,-100.0,-100.0,-100.0,-100.0,incomplete_undetermined,incomplete_undetermined
+WTGXX,2024-06-30,UTC,True,yes,coverage-incomplete,stellar,no (TR-1 UTC sensitivity),-100.0,-100.0,-100.0,-100.0,incomplete_undetermined,incomplete_undetermined
+WTGXX,2024-07-31,ET,True,yes,coverage-incomplete,stellar,yes,-100.0,-100.0,-100.0,-100.0,incomplete_undetermined,incomplete_undetermined
+WTGXX,2024-07-31,UTC,True,yes,coverage-incomplete,stellar,no (TR-1 UTC sensitivity),-100.0,-100.0,-100.0,-100.0,incomplete_undetermined,incomplete_undetermined
+WTGXX,2024-08-31,ET,True,yes,coverage-incomplete,stellar,yes,-100.0,-100.0,-100.0,-100.0,incomplete_undetermined,incomplete_undetermined
+WTGXX,2024-08-31,UTC,True,yes,coverage-incomplete,stellar,no (TR-1 UTC sensitivity),-100.0,-100.0,-100.0,-100.0,incomplete_undetermined,incomplete_undetermined
+WTGXX,2024-09-30,ET,True,yes,coverage-incomplete,stellar,yes,-7.5958,-7.5958,-7.5958,-7.5958,incomplete_undetermined,incomplete_undetermined
+WTGXX,2024-09-30,UTC,True,yes,coverage-incomplete,stellar,no (TR-1 UTC sensitivity),-7.5958,-7.5958,-7.5958,-7.5958,incomplete_undetermined,incomplete_undetermined
+WTGXX,2024-10-31,ET,True,yes,coverage-incomplete,stellar,yes,-5.3098,-5.3098,-5.3098,-5.3098,incomplete_undetermined,incomplete_undetermined
+WTGXX,2024-10-31,UTC,True,yes,coverage-incomplete,stellar,no (TR-1 UTC sensitivity),-5.3098,-5.3098,-5.3098,-5.3098,incomplete_undetermined,incomplete_undetermined
+WTGXX,2024-11-30,ET,True,yes,coverage-incomplete,stellar,yes,-5.5319,-5.5319,-5.5319,-5.5319,incomplete_undetermined,incomplete_undetermined
+WTGXX,2024-11-30,UTC,True,yes,coverage-incomplete,stellar,no (TR-1 UTC sensitivity),-5.5319,-5.5319,-5.5319,-5.5319,incomplete_undetermined,incomplete_undetermined
+WTGXX,2024-12-31,ET,True,yes,coverage-incomplete,stellar,yes,-6.5425,-6.5425,-6.5425,-6.5425,incomplete_undetermined,incomplete_undetermined
+WTGXX,2024-12-31,UTC,True,yes,coverage-incomplete,stellar,no (TR-1 UTC sensitivity),-6.5425,-6.5425,-6.5425,-6.5425,incomplete_undetermined,incomplete_undetermined
+WTGXX,2025-01-31,ET,True,yes,coverage-incomplete,stellar,yes,-7.2304,-7.2304,-7.2304,-7.2304,incomplete_undetermined,incomplete_undetermined
+WTGXX,2025-01-31,UTC,True,yes,coverage-incomplete,stellar,no (TR-1 UTC sensitivity),-7.2304,-7.2304,-7.2304,-7.2304,incomplete_undetermined,incomplete_undetermined
+WTGXX,2025-02-28,ET,True,yes,coverage-incomplete,stellar,yes,-0.8997,-0.8997,-0.8997,-0.8997,incomplete_undetermined,incomplete_undetermined
+WTGXX,2025-02-28,UTC,True,yes,coverage-incomplete,stellar,no (TR-1 UTC sensitivity),-0.8997,-0.8997,-0.8997,-0.8997,incomplete_undetermined,incomplete_undetermined
+WTGXX,2025-03-31,ET,True,yes,coverage-incomplete,stellar,yes,-0.9356,-0.9356,-0.9356,-0.9356,incomplete_undetermined,incomplete_undetermined
+WTGXX,2025-03-31,UTC,True,yes,coverage-incomplete,stellar,no (TR-1 UTC sensitivity),-0.9356,-0.9356,-0.9356,-0.9356,incomplete_undetermined,incomplete_undetermined
+WTGXX,2025-04-30,ET,True,yes,coverage-incomplete,stellar,yes,-1.0437,-1.0437,-1.0437,-1.0437,incomplete_undetermined,incomplete_undetermined
+WTGXX,2025-04-30,UTC,True,yes,coverage-incomplete,stellar,no (TR-1 UTC sensitivity),-1.0437,-1.0437,-1.0437,-1.0437,incomplete_undetermined,incomplete_undetermined
+WTGXX,2025-05-31,ET,True,yes,coverage-incomplete,stellar,yes,-0.5358,-0.5181,-0.5358,-0.5358,incomplete_undetermined,incomplete_undetermined
+WTGXX,2025-05-31,UTC,True,yes,coverage-incomplete,stellar,no (TR-1 UTC sensitivity),-0.5358,-0.5181,-0.5358,-0.5358,incomplete_undetermined,incomplete_undetermined
+WTGXX,2025-06-30,ET,True,yes,coverage-incomplete,stellar,yes,-0.3434,-0.1226,-0.3434,-0.3434,incomplete_undetermined,incomplete_undetermined
+WTGXX,2025-06-30,UTC,True,yes,coverage-incomplete,stellar,no (TR-1 UTC sensitivity),-0.3434,-0.1226,-0.3434,-0.3434,incomplete_undetermined,incomplete_undetermined
+WTGXX,2025-07-31,ET,True,yes,coverage-incomplete,stellar,yes,-0.2267,-0.0642,-0.2267,-0.2267,incomplete_undetermined,incomplete_undetermined
+WTGXX,2025-07-31,UTC,True,yes,coverage-incomplete,stellar,no (TR-1 UTC sensitivity),-0.2267,-0.0642,-0.2267,-0.2267,incomplete_undetermined,incomplete_undetermined
+WTGXX,2025-08-31,ET,True,yes,coverage-incomplete,stellar,yes,-0.1326,-0.0419,-0.1326,-0.1326,incomplete_undetermined,incomplete_undetermined
+WTGXX,2025-08-31,UTC,True,yes,coverage-incomplete,stellar,no (TR-1 UTC sensitivity),-0.1326,-0.0419,-0.1326,-0.1326,incomplete_undetermined,incomplete_undetermined
+WTGXX,2025-09-30,ET,True,yes,complete,,yes,0.0,0.0063,0.0,0.0,complete_within,complete_within
+WTGXX,2025-09-30,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),0.0,0.0063,0.0,0.0,complete_within,complete_within
+WTGXX,2025-10-31,ET,True,yes,complete,,yes,-0.0,0.1886,-0.0,-0.0,complete_within,complete_exceeds
+WTGXX,2025-10-31,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),-0.0,0.1886,-0.0,-0.0,complete_within,complete_exceeds
+WTGXX,2025-11-30,ET,True,yes,complete,,yes,0.0,0.1715,0.0,0.0,complete_within,complete_exceeds
+WTGXX,2025-11-30,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),0.0,0.1715,0.0,0.0,complete_within,complete_exceeds
+WTGXX,2025-12-31,ET,True,yes,complete,,yes,-0.0,0.0071,-0.0,-0.0,complete_within,complete_within
+WTGXX,2025-12-31,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),-0.0,0.0071,-0.0,-0.0,complete_within,complete_within
+WTGXX,2026-01-31,ET,True,yes,complete,,yes,-0.0,0.1559,-0.0,-0.0,complete_within,complete_exceeds
+WTGXX,2026-01-31,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),-0.0,0.1559,-0.0,-0.0,complete_within,complete_exceeds
+WTGXX,2026-02-28,ET,True,yes,complete,,yes,-0.0,0.137,-0.0,-0.0,complete_within,complete_exceeds
+WTGXX,2026-02-28,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),-0.0,0.137,-0.0,-0.0,complete_within,complete_exceeds
+WTGXX,2026-03-31,ET,True,yes,complete,,yes,-0.0,0.081,-0.0,-0.0,complete_within,complete_within
+WTGXX,2026-03-31,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),-0.0,0.081,-0.0,-0.0,complete_within,complete_within
+WTGXX,2026-04-30,ET,True,yes,complete,,yes,-0.0,0.1005,-0.0,-0.0,complete_within,complete_exceeds
+WTGXX,2026-04-30,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),-0.0,0.1005,-0.0,-0.0,complete_within,complete_exceeds
+WTGXX,2026-05-29,ET,False,no,coverage-incomplete,arbitrum;avalanche;base;ethereum;optimism;plume,yes,,,,,not_computed,not_computed
+WTGXX,2026-05-29,UTC,False,no,coverage-incomplete,arbitrum;avalanche;base;ethereum;optimism;plume,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+WTGXX,2026-05-31,ET,True,yes,complete,,yes,0.0,0.1443,0.0,0.0,complete_within,complete_exceeds
+WTGXX,2026-05-31,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),0.0,0.1443,0.0,0.0,complete_within,complete_exceeds
+WTGXX,2026-06-30,ET,True,yes,complete,,yes,0.0,0.0942,0.0,0.0,complete_within,complete_within
+WTGXX,2026-06-30,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),0.0,0.0942,0.0,0.0,complete_within,complete_within
+JLTXX,2024-06-30,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2024-06-30,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2024-07-31,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2024-07-31,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2024-08-31,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2024-08-31,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2024-09-30,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2024-09-30,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2024-10-31,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2024-10-31,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2024-11-30,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2024-11-30,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2024-12-31,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2024-12-31,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2025-01-31,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2025-01-31,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2025-02-28,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2025-02-28,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2025-03-31,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2025-03-31,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2025-04-30,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2025-04-30,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2025-05-31,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2025-05-31,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2025-06-30,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2025-06-30,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2025-07-31,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2025-07-31,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2025-08-31,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2025-08-31,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2025-09-30,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2025-09-30,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2025-10-31,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2025-10-31,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2025-11-30,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2025-11-30,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2025-12-31,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2025-12-31,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2026-01-31,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2026-01-31,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2026-02-28,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2026-02-28,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2026-03-31,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2026-03-31,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2026-04-30,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2026-04-30,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2026-05-29,ET,True,yes,complete,,yes,0.0,0.0,0.0,0.0,complete_within,complete_within
+JLTXX,2026-05-29,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),0.0,0.0,0.0,0.0,complete_within,complete_within
+JLTXX,2026-05-31,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+JLTXX,2026-05-31,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+JLTXX,2026-06-30,ET,True,yes,complete,,yes,0.0,0.0096,0.0,0.0,complete_within,complete_within
+JLTXX,2026-06-30,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),0.0,0.0096,0.0,0.0,complete_within,complete_within
+FYOXX,2024-06-30,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+FYOXX,2024-06-30,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+FYOXX,2024-07-31,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+FYOXX,2024-07-31,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+FYOXX,2024-08-31,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+FYOXX,2024-08-31,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+FYOXX,2024-09-30,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+FYOXX,2024-09-30,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+FYOXX,2024-10-31,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+FYOXX,2024-10-31,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+FYOXX,2024-11-30,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+FYOXX,2024-11-30,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+FYOXX,2024-12-31,ET,False,no,coverage-incomplete,,yes,,,,,not_computed,not_computed
+FYOXX,2024-12-31,UTC,False,no,coverage-incomplete,,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+FYOXX,2025-01-31,ET,False,no,coverage-incomplete,,yes,,,,,not_computed,not_computed
+FYOXX,2025-01-31,UTC,False,no,coverage-incomplete,,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+FYOXX,2025-02-28,ET,False,no,coverage-incomplete,,yes,,,,,not_computed,not_computed
+FYOXX,2025-02-28,UTC,False,no,coverage-incomplete,,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+FYOXX,2025-03-31,ET,False,no,coverage-incomplete,,yes,,,,,not_computed,not_computed
+FYOXX,2025-03-31,UTC,False,no,coverage-incomplete,,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+FYOXX,2025-04-30,ET,False,no,coverage-incomplete,,yes,,,,,not_computed,not_computed
+FYOXX,2025-04-30,UTC,False,no,coverage-incomplete,,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+FYOXX,2025-05-31,ET,False,no,coverage-incomplete,,yes,,,,,not_computed,not_computed
+FYOXX,2025-05-31,UTC,False,no,coverage-incomplete,,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+FYOXX,2025-06-30,ET,False,no,coverage-incomplete,,yes,,,,,not_computed,not_computed
+FYOXX,2025-06-30,UTC,False,no,coverage-incomplete,,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+FYOXX,2025-07-31,ET,False,no,coverage-incomplete,,yes,,,,,not_computed,not_computed
+FYOXX,2025-07-31,UTC,False,no,coverage-incomplete,,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+FYOXX,2025-08-31,ET,True,yes,complete,,yes,-0.2685,-0.2685,-0.2685,-0.2685,complete_exceeds,complete_exceeds
+FYOXX,2025-08-31,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),-0.2685,-0.2685,-0.2685,-0.2685,complete_exceeds,complete_exceeds
+FYOXX,2025-09-30,ET,True,yes,complete,,yes,-0.3255,-0.3255,-0.3255,-0.3255,complete_exceeds,complete_exceeds
+FYOXX,2025-09-30,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),-0.3255,-0.3255,-0.3255,-0.3255,complete_exceeds,complete_exceeds
+FYOXX,2025-10-31,ET,True,yes,complete,,yes,-0.3204,-0.3204,-0.3204,-0.3204,complete_exceeds,complete_exceeds
+FYOXX,2025-10-31,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),-0.3204,-0.3204,-0.3204,-0.3204,complete_exceeds,complete_exceeds
+FYOXX,2025-11-30,ET,True,yes,complete,,yes,-0.2855,-0.2855,-0.2855,-0.2855,complete_exceeds,complete_exceeds
+FYOXX,2025-11-30,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),-0.2855,-0.2855,-0.2855,-0.2855,complete_exceeds,complete_exceeds
+FYOXX,2025-12-31,ET,True,yes,complete,,yes,-0.3263,-0.3263,-0.3263,4.8569,complete_exceeds,complete_exceeds
+FYOXX,2025-12-31,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),-0.3263,-0.3263,-0.3263,4.8569,complete_exceeds,complete_exceeds
+FYOXX,2026-01-31,ET,True,yes,complete,,yes,-0.4014,-0.4014,-0.4014,-0.4014,complete_exceeds,complete_exceeds
+FYOXX,2026-01-31,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),-0.4014,-0.4014,-0.4014,-0.4014,complete_exceeds,complete_exceeds
+FYOXX,2026-02-28,ET,True,yes,complete,,yes,-0.256,-0.256,-0.256,-0.256,complete_exceeds,complete_exceeds
+FYOXX,2026-02-28,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),-0.256,-0.256,-0.256,-0.256,complete_exceeds,complete_exceeds
+FYOXX,2026-03-31,ET,True,yes,complete,,yes,-0.3169,-0.3169,-0.3169,2.6073,complete_exceeds,complete_exceeds
+FYOXX,2026-03-31,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),-0.3169,-0.3169,-0.3169,2.6073,complete_exceeds,complete_exceeds
+FYOXX,2026-04-30,ET,True,yes,complete,,yes,-0.2942,-0.2942,-0.2942,-0.2942,complete_exceeds,complete_exceeds
+FYOXX,2026-04-30,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),-0.2942,-0.2942,-0.2942,-0.2942,complete_exceeds,complete_exceeds
+FYOXX,2026-05-29,ET,False,no,coverage-incomplete,ethereum,yes,,,,,not_computed,not_computed
+FYOXX,2026-05-29,UTC,False,no,coverage-incomplete,ethereum,no (TR-1 UTC sensitivity),,,,,not_computed,not_computed
+FYOXX,2026-05-31,ET,True,yes,complete,,yes,-0.3119,-0.3119,-0.3119,-0.3119,complete_exceeds,complete_exceeds
+FYOXX,2026-05-31,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),-0.3119,-0.3119,-0.3119,-0.3119,complete_exceeds,complete_exceeds
+FYOXX,2026-06-30,ET,True,yes,complete,,yes,-0.5353,-0.5353,-0.5353,37.9165,complete_exceeds,complete_exceeds
+FYOXX,2026-06-30,UTC,True,yes,complete,,no (TR-1 UTC sensitivity),-0.5353,-0.5353,-0.5353,37.9165,complete_exceeds,complete_exceeds

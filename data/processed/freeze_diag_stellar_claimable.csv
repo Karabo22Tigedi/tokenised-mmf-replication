@@ -1,0 +1,67 @@
+fund,scope,test,value,note
+FOBXX,crawl_2025-09-01_to_freeze,holder_created_n,134,deduplicated by Horizon op id; successful tx only
+FOBXX,crawl_2025-09-01_to_freeze,holder_created_value,37702748.8278842,shares
+FOBXX,crawl_2025-09-01_to_freeze,self_and_issuer_only_n,106,
+FOBXX,crawl_2025-09-01_to_freeze,self_and_issuer_only_value,37702613.5778842,shares
+FOBXX,crawl_2025-09-01_to_freeze,other_holder_possible_n,28,
+FOBXX,crawl_2025-09-01_to_freeze,other_holder_possible_value,135.25,shares
+FOBXX,crawl_2025-09-01_to_freeze,ta_side_n,0,
+FOBXX,crawl_2025-09-01_to_freeze,ta_side_value,0,shares
+FOBXX,crawl_2025-09-01_to_freeze,with_issuer_as_claimant_n,106,
+FOBXX,crawl_2025-09-01_to_freeze,distinct_source_accounts,101,
+FOBXX,crawl_2025-09-01_to_freeze,source_role_counts,TA:2;holder:132,
+FOBXX,crawl_2025-09-01_to_freeze,claimant_count_distribution,2:134,
+FOBXX,crawl_2025-09-01_to_freeze,issuer_claimant_predicate_types,not_abs_before:106,
+FOBXX,crawl_2025-09-01_to_freeze,first_et_date,2025-08-30,
+FOBXX,crawl_2025-09-01_to_freeze,last_et_date,2026-10-16,
+FOBXX,window_2026-01-01_to_2026-09-30_ET,holder_created_n,101,deduplicated by Horizon op id; successful tx only
+FOBXX,window_2026-01-01_to_2026-09-30_ET,holder_created_value,36482732.5477424,shares
+FOBXX,window_2026-01-01_to_2026-09-30_ET,self_and_issuer_only_n,82,
+FOBXX,window_2026-01-01_to_2026-09-30_ET,self_and_issuer_only_value,36482642.2977424,shares
+FOBXX,window_2026-01-01_to_2026-09-30_ET,other_holder_possible_n,19,
+FOBXX,window_2026-01-01_to_2026-09-30_ET,other_holder_possible_value,90.25,shares
+FOBXX,window_2026-01-01_to_2026-09-30_ET,ta_side_n,0,
+FOBXX,window_2026-01-01_to_2026-09-30_ET,ta_side_value,0,shares
+FOBXX,window_2026-01-01_to_2026-09-30_ET,with_issuer_as_claimant_n,82,
+FOBXX,window_2026-01-01_to_2026-09-30_ET,distinct_source_accounts,79,
+FOBXX,window_2026-01-01_to_2026-09-30_ET,source_role_counts,TA:1;holder:100,
+FOBXX,window_2026-01-01_to_2026-09-30_ET,claimant_count_distribution,2:101,
+FOBXX,window_2026-01-01_to_2026-09-30_ET,issuer_claimant_predicate_types,not_abs_before:82,
+FOBXX,window_2026-01-01_to_2026-09-30_ET,first_et_date,2026-01-01,
+FOBXX,window_2026-01-01_to_2026-09-30_ET,last_et_date,2026-09-28,
+FOBXX,window_2026-01-01_to_2026-09-30_ET,f1_upper_value_pct_frozen,66.9896,freeze_m1_secondary pooled transfers_only
+FOBXX,window_2026-01-01_to_2026-09-30_ET,f1_upper_value_pct_if_all_other_holder_possible_converted,66.9898,descriptive bound only; F1 measure unchanged
+FOBXX,window_2026-01-01_to_2026-09-30_ET,f1_upper_count_pct_frozen,63.7681,
+FOBXX,window_2026-01-01_to_2026-09-30_ET,f1_upper_count_pct_if_all_other_holder_possible_converted,71.5909,descriptive bound only; F1 measure unchanged
+WTGXX,crawl_2025-09-01_to_freeze,holder_created_n,0,deduplicated by Horizon op id; successful tx only
+WTGXX,crawl_2025-09-01_to_freeze,holder_created_value,0,shares
+WTGXX,crawl_2025-09-01_to_freeze,self_and_issuer_only_n,0,
+WTGXX,crawl_2025-09-01_to_freeze,self_and_issuer_only_value,0,shares
+WTGXX,crawl_2025-09-01_to_freeze,other_holder_possible_n,0,
+WTGXX,crawl_2025-09-01_to_freeze,other_holder_possible_value,0,shares
+WTGXX,crawl_2025-09-01_to_freeze,ta_side_n,0,
+WTGXX,crawl_2025-09-01_to_freeze,ta_side_value,0,shares
+WTGXX,crawl_2025-09-01_to_freeze,with_issuer_as_claimant_n,0,
+WTGXX,crawl_2025-09-01_to_freeze,distinct_source_accounts,0,
+WTGXX,crawl_2025-09-01_to_freeze,source_role_counts,,
+WTGXX,crawl_2025-09-01_to_freeze,claimant_count_distribution,,
+WTGXX,crawl_2025-09-01_to_freeze,issuer_claimant_predicate_types,,
+WTGXX,window_2026-01-01_to_2026-09-30_ET,holder_created_n,0,deduplicated by Horizon op id; successful tx only
+WTGXX,window_2026-01-01_to_2026-09-30_ET,holder_created_value,0,shares
+WTGXX,window_2026-01-01_to_2026-09-30_ET,self_and_issuer_only_n,0,
+WTGXX,window_2026-01-01_to_2026-09-30_ET,self_and_issuer_only_value,0,shares
+WTGXX,window_2026-01-01_to_2026-09-30_ET,other_holder_possible_n,0,
+WTGXX,window_2026-01-01_to_2026-09-30_ET,other_holder_possible_value,0,shares
+WTGXX,window_2026-01-01_to_2026-09-30_ET,ta_side_n,0,
+WTGXX,window_2026-01-01_to_2026-09-30_ET,ta_side_value,0,shares
+WTGXX,window_2026-01-01_to_2026-09-30_ET,with_issuer_as_claimant_n,0,
+WTGXX,window_2026-01-01_to_2026-09-30_ET,distinct_source_accounts,0,
+WTGXX,window_2026-01-01_to_2026-09-30_ET,source_role_counts,,
+WTGXX,window_2026-01-01_to_2026-09-30_ET,claimant_count_distribution,,
+WTGXX,window_2026-01-01_to_2026-09-30_ET,issuer_claimant_predicate_types,,
+WTGXX,window_2026-01-01_to_2026-09-30_ET,f1_upper_value_pct_frozen,38.8084,freeze_m1_secondary pooled transfers_only
+WTGXX,window_2026-01-01_to_2026-09-30_ET,f1_upper_value_pct_if_all_other_holder_possible_converted,38.8084,descriptive bound only; F1 measure unchanged
+WTGXX,window_2026-01-01_to_2026-09-30_ET,f1_upper_count_pct_frozen,39.7661,
+WTGXX,window_2026-01-01_to_2026-09-30_ET,f1_upper_count_pct_if_all_other_holder_possible_converted,39.7661,descriptive bound only; F1 measure unchanged
+both,crawl_2025-09-01_to_freeze,claim_ops_claimant_issuer_FOBXX,2414,claim_claimable_balance ops in the crawl (asset not identifiable in the op)
+both,crawl_2025-09-01_to_freeze,claim_ops_claimant_other,869,claim_claimable_balance ops in the crawl (asset not identifiable in the op)

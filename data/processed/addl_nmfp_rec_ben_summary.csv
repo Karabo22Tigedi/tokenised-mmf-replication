@@ -1,0 +1,7 @@
+fund,class_id,class_name,token_class,months,first,last,category_rows,rows_ben_positive,months_with_any_ben_positive,max_ben,reading
+FOBXX,C000215714,Franklin OnChain U.S. Government Money Fund,1,28,2024-06-30,2026-09-30,69,0,0,0.0,ben always blank or zero
+FYOXX,C000255665,Fidelity Treasury Digital Fund,0,7,2024-12-31,2025-06-30,10,0,0,0.0,ben always blank or zero
+FYOXX,C000255665,Fidelity Treasury Digital Fund - Liquidity,0,15,2025-07-31,2026-09-30,24,0,0,0.0,ben always blank or zero
+FYOXX,C000261149,Fidelity Treasury Digital Fund - OnChain Class,1,14,2025-08-31,2026-09-30,14,0,0,0.0,ben always blank or zero
+JLTXX,C000272118,Token,1,5,2026-05-29,2026-09-30,10,0,0,0.0,ben always blank or zero
+WTGXX,C000245468,A,1,28,2024-06-30,2026-09-30,74,74,28,0.9092,ben reported (positive in some rows)

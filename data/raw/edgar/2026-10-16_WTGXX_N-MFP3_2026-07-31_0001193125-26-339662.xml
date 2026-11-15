@@ -1,0 +1,2029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/nmfp3 eis_NMFP3_Filer.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:ns2="http://www.sec.gov/edgar/statecodes" xmlns:ns3="http://www.sec.gov/edgar/nmfp3common" xmlns="http://www.sec.gov/edgar/nmfp3">
+  <headerData>
+    <submissionType>N-MFP3</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001859001</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <generalInfo>
+      <reportDate>2026-07-31</reportDate>
+      <registrantFullName>WisdomTree Digital Trust</registrantFullName>
+      <cik>0001859001</cik>
+      <registrantLEIId>549300NY04UPBR9ODB18</registrantLEIId>
+      <nameOfSeries>WisdomTree Treasury Money Market Digital Fund</nameOfSeries>
+      <leiOfSeries>25490019MZ0C1RQLYE12</leiOfSeries>
+      <seriesId>S000082184</seriesId>
+      <totalShareClassesInSeries>1</totalShareClassesInSeries>
+      <finalFilingFlag>N</finalFilingFlag>
+      <fundAcqrdOrMrgdWthAnthrFlag>N</fundAcqrdOrMrgdWthAnthrFlag>
+    </generalInfo>
+    <seriesLevelInfo>
+      <securitiesActFileNumber>333-255575</securitiesActFileNumber>
+      <adviser>
+        <adviserName>WisdomTree Digital Management, Inc.</adviserName>
+        <adviserFileNumber>801-126387</adviserFileNumber>
+      </adviser>
+      <subAdviser>
+        <adviserName>Voya Investment Management Co. LLC</adviserName>
+        <adviserFileNumber>801-09046</adviserFileNumber>
+      </subAdviser>
+      <indpPubAccountant>
+        <name>Ernst &amp; Young, LLP</name>
+        <city>New York</city>
+        <stateCountry>NY</stateCountry>
+      </indpPubAccountant>
+      <administrator>
+        <administratorName>BNY Mellon Investment Servicing (US) Inc.</administratorName>
+      </administrator>
+      <transferAgent>
+        <name>WisdomTree Transfers, Inc.</name>
+        <cik>0001846640</cik>
+        <fileNumber>084-06766</fileNumber>
+      </transferAgent>
+      <feederFundFlag>N</feederFundFlag>
+      <masterFundFlag>N</masterFundFlag>
+      <seriesFundInsuCmpnySepAccntFlag>N</seriesFundInsuCmpnySepAccntFlag>
+      <moneyMarketFundCategory>Government</moneyMarketFundCategory>
+      <fundRetailMoneyMarketFlag>N</fundRetailMoneyMarketFlag>
+      <govMoneyMrktFundFlag>Y</govMoneyMrktFundFlag>
+      <averagePortfolioMaturity>30</averagePortfolioMaturity>
+      <averageLifeMaturity>30</averageLifeMaturity>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>714252082.34</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>714252082.34</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9988</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9988</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-01</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>888169294.08</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>888169294.08</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9991</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9991</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-02</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>888370595.93</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>888370595.93</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9990</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9990</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-06</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>714443933.97</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>714443933.97</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9987</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9987</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-07</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>714499466.10</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>714499466.10</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9987</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9987</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-08</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>764567174.89</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>764567174.89</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9988</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9988</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-09</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>764631101.59</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>764631101.59</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9988</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9988</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-10</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>764811832.87</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>764811832.87</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9987</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9987</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-13</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>775363723.71</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>775363723.71</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9987</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9987</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-14</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>924269382.13</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>924269382.14</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9989</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9989</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-15</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>950036711.22</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>950036711.23</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9989</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9989</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-16</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>950083764.49</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>950083764.50</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9989</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9989</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-17</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>949992212.38</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>949992212.39</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9988</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9988</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-20</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>815186906.37</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>815186906.37</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9987</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9987</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-21</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>765652912.54</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>765652912.54</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9985</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9985</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-22</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1209748733.45</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1209748733.45</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9991</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9991</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-23</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1210756249.30</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1210756249.30</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9990</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9990</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-24</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1210949486.65</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1210949486.65</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9990</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9990</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-27</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>985237931.13</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>985237931.13</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9988</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9988</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-28</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1083420310.93</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1083420310.93</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9989</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9989</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-29</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>864455719.87</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>864455719.87</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9986</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9986</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-30</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>767824526.15</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>767824526.15</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>1.0000</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>1.0000</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-07-31</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <cash>1216382.50</cash>
+      <totalValuePortfolioSecurities>717529648.38</totalValuePortfolioSecurities>
+      <amortizedCostPortfolioSecurities>717372885.82</amortizedCostPortfolioSecurities>
+      <totalValueOtherAssets>49260652.51</totalValueOtherAssets>
+      <totalValueLiabilities>2368944.80</totalValueLiabilities>
+      <netAssetOfSeries>765480976.03</netAssetOfSeries>
+      <numberOfSharesOutstanding>765307444.1990</numberOfSharesOutstanding>
+      <seekStablePricePerShare>Y</seekStablePricePerShare>
+      <stablePricePerShare>1.0000</stablePricePerShare>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0370</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-01</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0371</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-02</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0373</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-06</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0372</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-07</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0372</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-08</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0371</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-09</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0370</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-10</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0369</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-13</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0369</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-14</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0369</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-15</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0370</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-16</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0369</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-17</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0369</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-20</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0368</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-21</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0368</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-22</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0369</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-23</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0369</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-24</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0370</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-27</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0372</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-28</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0372</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-29</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0373</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-30</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0374</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-07-31</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0003</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-01</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0003</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-02</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0003</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-06</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0003</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-07</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0003</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-08</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0003</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-09</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0004</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-10</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0002</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-13</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0002</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-14</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0002</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-15</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0001</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-16</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0003</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-17</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0003</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-20</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0002</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-21</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0002</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-22</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0000</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-23</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0002</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-24</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0002</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-27</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0002</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-28</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0003</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-29</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0003</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-30</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0004</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-07-31</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <cashMgmtVehicleAffliatedFundFlag>N</cashMgmtVehicleAffliatedFundFlag>
+      <liquidityFeeFundApplyFlag>N</liquidityFeeFundApplyFlag>
+    </seriesLevelInfo>
+    <classLevelInfo>
+      <classFullName>A</classFullName>
+      <classesId>C000245468</classesId>
+      <minInitialInvestment>1.00</minInitialInvestment>
+      <netAssetsOfClass>765480976.03</netAssetsOfClass>
+      <numberOfSharesOutstanding>765307444.1990</numberOfSharesOutstanding>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0003</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-01</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0003</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-02</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0003</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-06</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0003</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-07</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0003</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-08</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0003</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-09</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0004</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-10</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0002</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-13</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0002</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-14</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0002</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-15</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0001</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-16</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0003</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-17</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0003</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-20</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0002</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-21</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0002</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-22</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0000</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-23</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0002</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-24</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0002</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-27</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0002</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-28</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0003</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-29</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0003</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-30</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0004</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-07-31</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>877646.53</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>3711754.49</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-01</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>1016.94</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>310.79</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-02</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>632.74</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>16100.91</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-06</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>3712.68</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>185.89</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-07</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>288.88</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>4092.54</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-08</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>50008539.00</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>0.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-09</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>211.99</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>54.39</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-10</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>262.88</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>10891.59</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-13</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>521097.14</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>4905.31</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-14</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>42064.20</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>22460.15</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-15</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>8.33</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>0.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-16</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>432.00</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>0.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-17</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>1913.08</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>79723.69</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-20</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>278.96</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>385.01</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-21</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>33.00</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>262.44</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-22</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>1030147.49</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>5683.38</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-23</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>1000209.50</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>23504.75</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-24</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>156.46</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>164.28</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-27</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>6.00</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>1850300.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-28</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>200119.48</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>1503.59</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-29</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>1085.32</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>30.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-30</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>39366.33</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>0.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-07-31</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <monthlyShareholderFlowReported>
+        <totalGrossSubscriptions>53729228.93</totalGrossSubscriptions>
+        <totalGrossRedemptions>5732313.20</totalGrossRedemptions>
+      </monthlyShareholderFlowReported>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0345</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-01</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0346</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-02</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0348</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-06</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0347</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-07</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0347</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-08</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0346</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-09</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0345</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-10</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0344</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-13</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0344</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-14</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0344</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-15</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0345</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-16</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0344</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-17</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0344</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-20</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0343</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-21</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0343</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-22</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0344</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-23</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0344</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-24</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0345</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-27</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0347</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-28</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0347</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-29</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0348</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-30</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0349</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-07-31</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <personPayForFundFlag>N</personPayForFundFlag>
+      <nameOfPersonDescExpensePay>0.00</nameOfPersonDescExpensePay>
+      <beneficialRecordOwnerCategory>
+        <beneficialRecordOwnerCategoryType>Other</beneficialRecordOwnerCategoryType>
+        <otherInvestorCategory>Institutional Investor</otherInvestorCategory>
+        <percentOutstandingSharesRecord>0.0784</percentOutstandingSharesRecord>
+        <percentOutstandingSharesBeneficial>0.0784</percentOutstandingSharesBeneficial>
+      </beneficialRecordOwnerCategory>
+      <beneficialRecordOwnerCategory>
+        <beneficialRecordOwnerCategoryType>Other</beneficialRecordOwnerCategoryType>
+        <otherInvestorCategory>Ultimate Parent Company</otherInvestorCategory>
+        <percentOutstandingSharesRecord>0.1287</percentOutstandingSharesRecord>
+        <percentOutstandingSharesBeneficial>0.1287</percentOutstandingSharesBeneficial>
+      </beneficialRecordOwnerCategory>
+      <beneficialRecordOwnerCategory>
+        <beneficialRecordOwnerCategoryType>Other</beneficialRecordOwnerCategoryType>
+        <otherInvestorCategory>Institutional Investor</otherInvestorCategory>
+        <percentOutstandingSharesRecord>0.7187</percentOutstandingSharesRecord>
+        <percentOutstandingSharesBeneficial>0.7187</percentOutstandingSharesBeneficial>
+      </beneficialRecordOwnerCategory>
+      <shareCancellationReportingPeriod>N</shareCancellationReportingPeriod>
+    </classLevelInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>BLACKROCK SELECT TREASURY BASED LIQUIDITY FUND</nameOfIssuer>
+      <titleOfIssuer>BLACKROCK SELECT TREASURY BASED LIQUIDITY FUND 3.589000%</titleOfIssuer>
+      <coupon/>
+      <CUSIPMember>09250C721</CUSIPMember>
+      <LEIID>549300ZAULWRIGH03856</LEIID>
+      <ISINId>US09250C7213</ISINId>
+      <investmentCategory>Investment Company</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-08-03</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-08-03</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-08-03</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0359</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>25000.00</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>25000.00</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0000</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>STABLECOIN RESERVES FUND</nameOfIssuer>
+      <titleOfIssuer>STABLECOIN RESERVES FUND 3.583000%</titleOfIssuer>
+      <coupon/>
+      <CUSIPMember>26203B204</CUSIPMember>
+      <LEIID>98450011CA3D3DAPB732</LEIID>
+      <ISINId>US26203B2043</ISINId>
+      <investmentCategory>Investment Company</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-08-03</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-08-03</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-08-03</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0358</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>25000.00</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>25000.00</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0000</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>UNITED STATES TREASURY BILL</nameOfIssuer>
+      <titleOfIssuer>UNITED STATES TREASURY BILL</titleOfIssuer>
+      <coupon/>
+      <CUSIPMember>912797RG4</CUSIPMember>
+      <LEIID>254900HROIFWPRGM1V77</LEIID>
+      <ISINId>US912797RG48</ISINId>
+      <investmentCategory>U.S. Treasury Debt</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-08-06</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-08-06</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-08-06</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0365</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>24242745.25</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>24242745.25</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0317</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>UNITED STATES TREASURY BILL</nameOfIssuer>
+      <titleOfIssuer>UNITED STATES TREASURY BILL</titleOfIssuer>
+      <coupon/>
+      <CUSIPMember>912797UF2</CUSIPMember>
+      <LEIID>254900HROIFWPRGM1V77</LEIID>
+      <ISINId>US912797UF28</ISINId>
+      <investmentCategory>U.S. Treasury Debt</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-09-10</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-09-10</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-09-10</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0370</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>219159633.00</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>219159633.00</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.2863</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>UNITED STATES TREASURY BILL</nameOfIssuer>
+      <titleOfIssuer>UNITED STATES TREASURY BILL</titleOfIssuer>
+      <coupon/>
+      <CUSIPMember>912797VD6</CUSIPMember>
+      <LEIID>254900HROIFWPRGM1V77</LEIID>
+      <ISINId>US912797VD60</ISINId>
+      <investmentCategory>U.S. Treasury Debt</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-09-22</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-09-22</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-09-22</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0379</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>223849270.13</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>223849270.13</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.2924</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>ROYAL BANK OF CANADA</nameOfIssuer>
+      <titleOfIssuer>TRI-PARTY ROYAL BANK OF CANADA 3.540000%</titleOfIssuer>
+      <coupon/>
+      <CUSIPMember>BIN2K0LN5</CUSIPMember>
+      <LEIID>ES7IP3U3RHIGC71XBU11</LEIID>
+      <cik>0001000275</cik>
+      <otherUniqueId>BIN2K0LN5</otherUniqueId>
+      <investmentCategory>U.S. Treasury Repurchase Agreement, if collateralized only by U.S. Treasuries (including Strips) and cash</investmentCategory>
+      <fundAcqstnUndrlyngSecurityFlag>Y</fundAcqstnUndrlyngSecurityFlag>
+      <repurchaseAgreement>
+        <repurchaseAgreementOpenFlag>N</repurchaseAgreementOpenFlag>
+        <repurchaseAgreementClearedFlag>N</repurchaseAgreementClearedFlag>
+        <nameOfCCP/>
+        <repurchaseAgreementTripartyFlag>Y</repurchaseAgreementTripartyFlag>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury Note</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CGC9</CUSIPMember>
+          <maturityDate>
+            <date>2027-12-31</date>
+          </maturityDate>
+          <coupon>3.875000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>34400.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>34330.62</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury Note</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CHC8</CUSIPMember>
+          <maturityDate>
+            <date>2033-05-15</date>
+          </maturityDate>
+          <coupon>3.375000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>27041900.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>25339661.63</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury Note</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CLR0</CUSIPMember>
+          <maturityDate>
+            <date>2029-10-31</date>
+          </maturityDate>
+          <coupon>4.125000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>125700.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>126019.59</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+      </repurchaseAgreement>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-08-03</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-08-03</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-08-03</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0354</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>25000000.00</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>25000000.00</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0327</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>DEUTSCHE BANK AG</nameOfIssuer>
+      <titleOfIssuer>TRI-PARTY DEUTSCHE BANK AG 3.640000%</titleOfIssuer>
+      <coupon/>
+      <CUSIPMember>BIN2K1EE1</CUSIPMember>
+      <LEIID>7LTWFZYICNSX8D621K86</LEIID>
+      <cik>0001074042</cik>
+      <otherUniqueId>BIN2K1EE1</otherUniqueId>
+      <investmentCategory>U.S. Treasury Repurchase Agreement, if collateralized only by U.S. Treasuries (including Strips) and cash</investmentCategory>
+      <fundAcqstnUndrlyngSecurityFlag>Y</fundAcqstnUndrlyngSecurityFlag>
+      <repurchaseAgreement>
+        <repurchaseAgreementOpenFlag>N</repurchaseAgreementOpenFlag>
+        <repurchaseAgreementClearedFlag>N</repurchaseAgreementClearedFlag>
+        <nameOfCCP/>
+        <repurchaseAgreementTripartyFlag>Y</repurchaseAgreementTripartyFlag>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803DT7</CUSIPMember>
+          <maturityDate>
+            <date>2041-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>832400.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>386682.26</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803DU4</CUSIPMember>
+          <maturityDate>
+            <date>2041-11-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>4602400.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2101023.21</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803DV2</CUSIPMember>
+          <maturityDate>
+            <date>2042-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>703600.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>315984.65</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803DX8</CUSIPMember>
+          <maturityDate>
+            <date>2042-05-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2267900.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1002271.19</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803DY6</CUSIPMember>
+          <maturityDate>
+            <date>2042-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1310200.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>569315.97</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803DZ3</CUSIPMember>
+          <maturityDate>
+            <date>2042-11-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>612200.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>261857.53</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803EA7</CUSIPMember>
+          <maturityDate>
+            <date>2043-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3653200.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1538241.96</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803ED1</CUSIPMember>
+          <maturityDate>
+            <date>2043-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>4307400.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1757259.83</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803EE9</CUSIPMember>
+          <maturityDate>
+            <date>2043-11-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>96300.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>38689.87</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803EF6</CUSIPMember>
+          <maturityDate>
+            <date>2044-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>234100.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>92689.32</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803EH2</CUSIPMember>
+          <maturityDate>
+            <date>2044-05-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>81400.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>31781.90</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803EJ8</CUSIPMember>
+          <maturityDate>
+            <date>2044-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1476000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>567736.02</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803EK5</CUSIPMember>
+          <maturityDate>
+            <date>2044-11-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>5229000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1981848.52</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803EL3</CUSIPMember>
+          <maturityDate>
+            <date>2045-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3739700.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1397791.41</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803EN9</CUSIPMember>
+          <maturityDate>
+            <date>2045-05-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>73900.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>27269.47</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803EP4</CUSIPMember>
+          <maturityDate>
+            <date>2045-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>5238100.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1902818.40</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803EQ2</CUSIPMember>
+          <maturityDate>
+            <date>2045-11-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>965400.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>345871.93</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803ER0</CUSIPMember>
+          <maturityDate>
+            <date>2046-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>107900.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>38145.89</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803EU3</CUSIPMember>
+          <maturityDate>
+            <date>2046-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>25391600.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>8733923.26</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803EV1</CUSIPMember>
+          <maturityDate>
+            <date>2046-11-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>8775000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2975295.38</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803EW9</CUSIPMember>
+          <maturityDate>
+            <date>2047-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2870800.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>959610.83</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803EY5</CUSIPMember>
+          <maturityDate>
+            <date>2047-05-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1281800.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>422568.44</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803EZ2</CUSIPMember>
+          <maturityDate>
+            <date>2047-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>305700.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>99327.13</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803FA6</CUSIPMember>
+          <maturityDate>
+            <date>2047-11-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>14031900.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>4501068.69</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803FB4</CUSIPMember>
+          <maturityDate>
+            <date>2048-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>151300.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>47813.83</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803FD0</CUSIPMember>
+          <maturityDate>
+            <date>2048-05-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>11564800.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>3605673.34</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803FE8</CUSIPMember>
+          <maturityDate>
+            <date>2048-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>84000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>25821.35</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803FF5</CUSIPMember>
+          <maturityDate>
+            <date>2048-11-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>11275100.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>3421282.52</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803FG3</CUSIPMember>
+          <maturityDate>
+            <date>2049-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>12571400.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>3761790.31</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803FJ7</CUSIPMember>
+          <maturityDate>
+            <date>2049-05-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1575700.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>465305.79</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803FK4</CUSIPMember>
+          <maturityDate>
+            <date>2049-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>509900.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>148715.90</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803FL2</CUSIPMember>
+          <maturityDate>
+            <date>2049-11-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>672900.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>193613.52</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803FM0</CUSIPMember>
+          <maturityDate>
+            <date>2050-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>17153600.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>4881708.72</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803FQ1</CUSIPMember>
+          <maturityDate>
+            <date>2040-05-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>309000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>154576.01</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803FR9</CUSIPMember>
+          <maturityDate>
+            <date>2050-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>850500.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>236325.88</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803FS7</CUSIPMember>
+          <maturityDate>
+            <date>2040-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1064000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>523799.75</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803FT5</CUSIPMember>
+          <maturityDate>
+            <date>2050-11-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>62106700.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>17013323.08</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803FU2</CUSIPMember>
+          <maturityDate>
+            <date>2040-11-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>94000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>45519.69</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803FV0</CUSIPMember>
+          <maturityDate>
+            <date>2051-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2123300.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>573072.30</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803FW8</CUSIPMember>
+          <maturityDate>
+            <date>2041-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>54500.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>25976.88</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803FY4</CUSIPMember>
+          <maturityDate>
+            <date>2051-05-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>63488900.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>16919093.47</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803FZ1</CUSIPMember>
+          <maturityDate>
+            <date>2041-05-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>380000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>178267.88</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803GA5</CUSIPMember>
+          <maturityDate>
+            <date>2051-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>46807600.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>12303096.81</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803GB3</CUSIPMember>
+          <maturityDate>
+            <date>2041-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>461.82</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803GC1</CUSIPMember>
+          <maturityDate>
+            <date>2051-11-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>35572000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>9242139.18</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803GE7</CUSIPMember>
+          <maturityDate>
+            <date>2052-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>156436300.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>40122312.92</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803GF4</CUSIPMember>
+          <maturityDate>
+            <date>2042-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>352000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>157346.11</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803GH0</CUSIPMember>
+          <maturityDate>
+            <date>2052-05-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>61732500.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>15632397.51</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803GJ6</CUSIPMember>
+          <maturityDate>
+            <date>2042-05-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>769000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>338762.96</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803GK3</CUSIPMember>
+          <maturityDate>
+            <date>2052-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>12541400.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>3140053.02</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803GM9</CUSIPMember>
+          <maturityDate>
+            <date>2052-11-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>363300.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>89735.83</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803GP2</CUSIPMember>
+          <maturityDate>
+            <date>2053-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>7792400.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1904236.58</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803GQ0</CUSIPMember>
+          <maturityDate>
+            <date>2043-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>40000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>16805.64</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803GS6</CUSIPMember>
+          <maturityDate>
+            <date>2053-05-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1934700.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>466908.89</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803GU1</CUSIPMember>
+          <maturityDate>
+            <date>2053-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>11001900.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2627671.79</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803GV9</CUSIPMember>
+          <maturityDate>
+            <date>2043-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>8000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>3262.06</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803GW7</CUSIPMember>
+          <maturityDate>
+            <date>2053-11-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>694600.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>164036.74</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803GY3</CUSIPMember>
+          <maturityDate>
+            <date>2054-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>9186800.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2147129.71</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803HB2</CUSIPMember>
+          <maturityDate>
+            <date>2054-05-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>27277000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>6323572.36</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803HD8</CUSIPMember>
+          <maturityDate>
+            <date>2054-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>18381300.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>4212497.66</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803HE6</CUSIPMember>
+          <maturityDate>
+            <date>2044-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>16000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>6155.44</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803HF3</CUSIPMember>
+          <maturityDate>
+            <date>2054-11-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>256100.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>57984.88</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803HG1</CUSIPMember>
+          <maturityDate>
+            <date>2044-11-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1525000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>578162.58</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803HH9</CUSIPMember>
+          <maturityDate>
+            <date>2055-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>6929000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1552795.83</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803HJ5</CUSIPMember>
+          <maturityDate>
+            <date>2045-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>50000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>18669.70</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803HL0</CUSIPMember>
+          <maturityDate>
+            <date>2055-05-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3344700.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>741737.40</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803HN6</CUSIPMember>
+          <maturityDate>
+            <date>2055-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>44070800.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>9668780.95</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803HQ9</CUSIPMember>
+          <maturityDate>
+            <date>2055-11-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>17757400.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>3853870.76</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803HS5</CUSIPMember>
+          <maturityDate>
+            <date>2056-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>289000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>62127.20</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803HV8</CUSIPMember>
+          <maturityDate>
+            <date>2056-05-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2094900.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>445528.67</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803CZ4</CUSIPMember>
+          <maturityDate>
+            <date>2037-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>27200.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>16715.13</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803DA8</CUSIPMember>
+          <maturityDate>
+            <date>2037-05-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>5263400.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>3196904.95</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803DC4</CUSIPMember>
+          <maturityDate>
+            <date>2038-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>411000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>239511.48</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803DD2</CUSIPMember>
+          <maturityDate>
+            <date>2038-05-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>145100.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>83203.24</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803DF7</CUSIPMember>
+          <maturityDate>
+            <date>2039-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>246200.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>135041.19</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803DG5</CUSIPMember>
+          <maturityDate>
+            <date>2039-05-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>389000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>209053.66</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803DH3</CUSIPMember>
+          <maturityDate>
+            <date>2039-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1285100.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>677170.59</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803DJ9</CUSIPMember>
+          <maturityDate>
+            <date>2039-11-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3273600.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1698903.47</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803DK6</CUSIPMember>
+          <maturityDate>
+            <date>2040-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>43215200.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>22084522.95</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803DN0</CUSIPMember>
+          <maturityDate>
+            <date>2040-08-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3081800.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1524039.47</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803DP5</CUSIPMember>
+          <maturityDate>
+            <date>2040-11-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>41400.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>20151.99</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803DQ3</CUSIPMember>
+          <maturityDate>
+            <date>2041-02-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>233700.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>112036.48</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>UNITED STATES TREASURY</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912803DS9</CUSIPMember>
+          <maturityDate>
+            <date>2041-05-15</date>
+          </maturityDate>
+          <coupon>0.00</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3900200.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1838593.28</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+      </repurchaseAgreement>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-08-03</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-08-03</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-08-03</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0364</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>225228000.00</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>225228000.00</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.2942</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <dispositionOfPortfolioSecurities/>
+    <signature>
+      <registrant>WisdomTree Digital Trust</registrant>
+      <signatureDate>2026-08-07</signatureDate>
+      <signature>Clint Martin</signature>
+      <nameOfSigningOfficer>Clint Martin</nameOfSigningOfficer>
+      <titleOfSigningOfficer>Assistant Treasurer</titleOfSigningOfficer>
+    </signature>
+  </formData>
+</edgarSubmission>

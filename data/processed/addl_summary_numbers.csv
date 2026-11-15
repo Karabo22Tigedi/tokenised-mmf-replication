@@ -1,0 +1,253 @@
+name,value,unit,as_of,source_file
+addl_signer_n__FOBXX__stellar__issuer_ta_operator,44,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__FOBXX__stellar__issuer_ta_operator,100.0,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__JLTXX__ethereum__other,4,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__JLTXX__ethereum__other,60.0,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__JLTXX__ethereum__sender_holder,4,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__JLTXX__ethereum__sender_holder,40.0,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__all__receiver_pull,18,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__all__receiver_pull,11.2333,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__all__sender_holder,50,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__all__sender_holder,88.7667,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__ethereum__receiver_pull,11,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__ethereum__receiver_pull,11.2583,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__ethereum__sender_holder,39,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__ethereum__sender_holder,88.7417,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__solana__receiver_pull,7,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__solana__receiver_pull,39.6411,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__solana__sender_holder,9,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__solana__sender_holder,60.3589,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__stellar__sender_holder,2,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__stellar__sender_holder,100.0,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__FOBXX__stellar__issuer_account_signer_keys_current_or_former_sign,44,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__FOBXX__stellar__issuer_account_signer_keys_current_or_former_sign,100.0,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__JLTXX__ethereum__sender_smart_account_erc_4337_userop,4,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__JLTXX__ethereum__sender_smart_account_erc_4337_userop,40.0,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__JLTXX__ethereum__third_party_smart_account_erc_4337_userop_sender_i,4,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__JLTXX__ethereum__third_party_smart_account_erc_4337_userop_sender_i,60.0,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__all__owner_of_receiver_s_safe_executes_pull_via_contrac,3,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__all__owner_of_receiver_s_safe_executes_pull_via_contrac,11.1666,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__all__owner_of_sender_s_safe_calls_other_contract,1,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__all__owner_of_sender_s_safe_calls_other_contract,0.0,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__all__owner_of_sender_s_safe_executes,7,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__all__owner_of_sender_s_safe_executes,15.3887,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__all__receiver_eoa_signs_pull_via_contract,8,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__all__receiver_eoa_signs_pull_via_contract,0.0667,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__all__receiver_signs_source_owner_not_among_tx_signers,7,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__all__receiver_signs_source_owner_not_among_tx_signers,0.0,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__all__sender_eoa_signs,31,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__all__sender_eoa_signs,73.1559,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__all__sender_account_master_key_signs,2,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__all__sender_account_master_key_signs,0.2221,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__all__sender_signs,9,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__all__sender_signs,0.0,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__ethereum__owner_of_receiver_s_safe_executes_pull_via_contrac,3,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__ethereum__owner_of_receiver_s_safe_executes_pull_via_contrac,11.1914,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__ethereum__owner_of_sender_s_safe_calls_other_contract,1,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__ethereum__owner_of_sender_s_safe_calls_other_contract,0.0,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__ethereum__owner_of_sender_s_safe_executes,7,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__ethereum__owner_of_sender_s_safe_executes,15.423,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__ethereum__receiver_eoa_signs_pull_via_contract,8,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__ethereum__receiver_eoa_signs_pull_via_contract,0.0669,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__ethereum__sender_eoa_signs,31,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__ethereum__sender_eoa_signs,73.3187,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__solana__receiver_signs_source_owner_not_among_tx_signers,7,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__solana__receiver_signs_source_owner_not_among_tx_signers,39.6411,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__solana__sender_signs,9,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__solana__sender_signs,60.3589,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_n__WTGXX__stellar__sender_account_master_key_signs,2,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_signer_value_share_pct__WTGXX__stellar__sender_account_master_key_signs,100.0,percent of non-TA transfer value,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_nonta_transfers_n__FOBXX__all,44,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_nonta_transfers_n__FOBXX__stellar,44,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_nonta_transfers_n__JLTXX__all,8,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_nonta_transfers_n__JLTXX__ethereum,8,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_nonta_transfers_n__WTGXX__all,68,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_nonta_transfers_n__WTGXX__ethereum,50,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_nonta_transfers_n__WTGXX__solana,16,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_nonta_transfers_n__WTGXX__stellar,2,count,2026-01-01:2026-09-30,data/processed/addl_signer_summary.csv
+addl_jltxx_bundler_is_ta_wallet_n,3,count of JLTXX non-TA transfers whose ERC-4337 bundler (tx.from) is a TA-role wallet,2026-01-01:2026-09-30,data/processed/addl_signer_function.csv
+addl_fobxx_stellar_sender_master_weight0_n,44,count of FOBXX non-TA transfers whose sender account master key has weight 0 (16 Oct),2026-01-01:2026-09-30,data/processed/addl_signer_function.csv
+addl_nonta_transfers_using_admin_like_function_n,0,count,2026-01-01:2026-09-30,data/processed/addl_signer_function.csv
+addl_conc_top1_share_pct__WTGXX__lower,93.4516,percent of lower (hh) value,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_top3_share_pct__WTGXX__lower,99.9932,percent of lower (hh) value,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_top5_share_pct__WTGXX__lower,99.9994,percent of lower (hh) value,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_value__WTGXX__lower,32102192.351066,shares,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_top1_share_pct__WTGXX__upper,66.6233,percent of upper (non-TA) value,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_top3_share_pct__WTGXX__upper,84.0812,percent of upper (non-TA) value,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_top5_share_pct__WTGXX__upper,93.9092,percent of upper (non-TA) value,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_value__WTGXX__upper,45029264.113628,shares,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_top1_share_pct__FOBXX__lower,44.047,percent of lower (hh) value,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_top3_share_pct__FOBXX__lower,96.8218,percent of lower (hh) value,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_top5_share_pct__FOBXX__lower,99.2727,percent of lower (hh) value,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_value__FOBXX__lower,8020222.18,shares,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_top1_share_pct__FOBXX__upper,44.047,percent of upper (non-TA) value,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_top3_share_pct__FOBXX__upper,96.8218,percent of upper (non-TA) value,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_top5_share_pct__FOBXX__upper,99.2727,percent of upper (non-TA) value,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_value__FOBXX__upper,8020222.18,shares,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_top1_share_pct__JLTXX__lower,,percent of lower (hh) value,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_top3_share_pct__JLTXX__lower,,percent of lower (hh) value,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_top5_share_pct__JLTXX__lower,,percent of lower (hh) value,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_value__JLTXX__lower,0,shares,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_top1_share_pct__JLTXX__upper,20.0,percent of upper (non-TA) value,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_top3_share_pct__JLTXX__upper,50.0,percent of upper (non-TA) value,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_top5_share_pct__JLTXX__upper,70.0,percent of upper (non-TA) value,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_conc_value__JLTXX__upper,10.0,shares,2026-01-01:2026-09-30,data/processed/addl_concentration.csv
+addl_pmwallet_issuance_mints_value,542842216.478791,see name,2026-10-16,data/processed/addl_pm_wallet_profile.csv
+addl_pmwallet_largest_issuance_mint,336000000.0,see name,2026-10-16,data/processed/addl_pm_wallet_profile.csv
+addl_pmwallet_burns_from_wallet_value,388000000.0,see name,2026-10-16,data/processed/addl_pm_wallet_profile.csv
+addl_pmwallet_f1_lower_transfers_touching_n,4,see name,2026-10-16,data/processed/addl_pm_wallet_profile.csv
+addl_pmwallet_f1_lower_value_touching,32001993.935782,see name,2026-10-16,data/processed/addl_pm_wallet_profile.csv
+addl_pmwallet_f1_lower_value_touching_share_of_lower_pct,99.6879,see name,2026-10-16,data/processed/addl_pm_wallet_profile.csv
+addl_pmwallet_f1_upper_value_touching_share_of_upper_pct,71.0693,see name,2026-10-16,data/processed/addl_pm_wallet_profile.csv
+addl_pmwallet_f1_lower_share_without_wallet_pct_of_all_transfer_value,0.0864,see name,2026-10-16,data/processed/addl_pm_wallet_profile.csv
+addl_pmwallet_largest_single_transfer_points_of_upper_bound,25.8555,see name,2026-10-16,data/processed/addl_pm_wallet_profile.csv
+addl_m1x_lower_share_value_pct__FOBXX__excl_wallet_0x0c561ed8__drop_from_sample,66.9896,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_lower_share_count_pct__FOBXX__excl_wallet_0x0c561ed8__drop_from_sample,63.7681,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_upper_share_value_pct__FOBXX__excl_wallet_0x0c561ed8__drop_from_sample,66.9896,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_upper_share_count_pct__FOBXX__excl_wallet_0x0c561ed8__drop_from_sample,63.7681,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_lower_share_value_pct__FOBXX__excl_wallet_0x0c561ed8__drop_from_numerator_only,66.9896,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_lower_share_count_pct__FOBXX__excl_wallet_0x0c561ed8__drop_from_numerator_only,63.7681,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_upper_share_value_pct__FOBXX__excl_wallet_0x0c561ed8__drop_from_numerator_only,66.9896,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_upper_share_count_pct__FOBXX__excl_wallet_0x0c561ed8__drop_from_numerator_only,63.7681,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_lower_share_value_pct__FOBXX__excl_all_primary_market_wallets__drop_from_sample,100.0,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_lower_share_count_pct__FOBXX__excl_all_primary_market_wallets__drop_from_sample,100.0,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_upper_share_value_pct__FOBXX__excl_all_primary_market_wallets__drop_from_sample,100.0,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_upper_share_count_pct__FOBXX__excl_all_primary_market_wallets__drop_from_sample,100.0,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_lower_share_value_pct__FOBXX__excl_all_primary_market_wallets__drop_from_numerator_only,0.0,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_lower_share_count_pct__FOBXX__excl_all_primary_market_wallets__drop_from_numerator_only,1.4493,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_upper_share_value_pct__FOBXX__excl_all_primary_market_wallets__drop_from_numerator_only,0.0,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_upper_share_count_pct__FOBXX__excl_all_primary_market_wallets__drop_from_numerator_only,1.4493,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_lower_share_value_pct__WTGXX__excl_wallet_0x0c561ed8__drop_from_sample,0.1192,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_lower_share_count_pct__WTGXX__excl_wallet_0x0c561ed8__drop_from_sample,18.5629,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_upper_share_value_pct__WTGXX__excl_wallet_0x0c561ed8__drop_from_sample,15.5036,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_upper_share_count_pct__WTGXX__excl_wallet_0x0c561ed8__drop_from_sample,38.3234,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_lower_share_value_pct__WTGXX__excl_wallet_0x0c561ed8__drop_from_numerator_only,0.0864,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_lower_share_count_pct__WTGXX__excl_wallet_0x0c561ed8__drop_from_numerator_only,18.1287,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_upper_share_value_pct__WTGXX__excl_wallet_0x0c561ed8__drop_from_numerator_only,11.2275,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_upper_share_count_pct__WTGXX__excl_wallet_0x0c561ed8__drop_from_numerator_only,37.4269,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_lower_share_value_pct__WTGXX__excl_all_primary_market_wallets__drop_from_sample,0.0,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_lower_share_count_pct__WTGXX__excl_all_primary_market_wallets__drop_from_sample,0.0,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_upper_share_value_pct__WTGXX__excl_all_primary_market_wallets__drop_from_sample,0.0,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_upper_share_count_pct__WTGXX__excl_all_primary_market_wallets__drop_from_sample,0.0,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_lower_share_value_pct__WTGXX__excl_all_primary_market_wallets__drop_from_numerator_only,0.0,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_lower_share_count_pct__WTGXX__excl_all_primary_market_wallets__drop_from_numerator_only,0.0,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_upper_share_value_pct__WTGXX__excl_all_primary_market_wallets__drop_from_numerator_only,0.0,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_m1x_upper_share_count_pct__WTGXX__excl_all_primary_market_wallets__drop_from_numerator_only,0.0,percent,2026-01-01:2026-09-30,data/processed/addl_m1_excl_pm.csv
+addl_pm_wallets_n__WTGXX,948,count,2026-10-16,data/processed/addl_m1_excl_pm.csv
+addl_pm_wallets_n__FOBXX,432,count,2026-10-16,data/processed/addl_m1_excl_pm.csv
+addl_stellar_auth_required__FOBXX,True,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_auth_revocable__FOBXX,True,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_auth_clawback_enabled__FOBXX,True,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_asset_accounts_unauthorized__FOBXX,1050,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_asset_accounts_authorized__FOBXX,1380,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_authorized_accounts_sharing_a_signer_key_with_issuer__FOBXX,1380,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_authorized_accounts_master_weight_0__FOBXX,1380,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_balance_share_in_accounts_sharing_issuer_key_pct__FOBXX,100.0,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_issuer_signers_weight_gt0__FOBXX,14,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_issuer_ops_clawback_since_crawl_start__FOBXX,0,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_issuer_ops_set_trust_line_flags_since_crawl_start__FOBXX,0,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_issuer_ops_allow_trust_since_crawl_start__FOBXX,1780,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_auth_required__WTGXX,True,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_auth_revocable__WTGXX,True,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_auth_clawback_enabled__WTGXX,True,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_asset_accounts_unauthorized__WTGXX,28673,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_asset_accounts_authorized__WTGXX,1192,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_authorized_accounts_sharing_a_signer_key_with_issuer__WTGXX,0,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_authorized_accounts_master_weight_0__WTGXX,2,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_balance_share_in_accounts_sharing_issuer_key_pct__WTGXX,0.0,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_issuer_signers_weight_gt0__WTGXX,2,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_issuer_ops_clawback_since_crawl_start__WTGXX,6,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_issuer_ops_set_trust_line_flags_since_crawl_start__WTGXX,583,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_stellar_issuer_ops_allow_trust_since_crawl_start__WTGXX,0,see name,2026-10-16,data/processed/addl_stellar_issuer_controls.csv
+addl_evm_nonview_functions_n__FOBXX__arbitrum,25,count,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_forced_transfer_like_functions__FOBXX__arbitrum,instantCXTransferIn;instantCXTransferOut;instantTransfer;transferShares,text,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_nonview_functions_n__FOBXX__avalanche,0,count,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_forced_transfer_like_functions__FOBXX__avalanche,(no verified ABI),text,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_nonview_functions_n__FOBXX__base,25,count,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_forced_transfer_like_functions__FOBXX__base,instantCXTransferIn;instantCXTransferOut;instantTransfer;transferShares,text,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_nonview_functions_n__FOBXX__ethereum,26,count,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_forced_transfer_like_functions__FOBXX__ethereum,instantCXTransferIn;instantCXTransferOut;instantTransfer;transferShares,text,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_nonview_functions_n__FOBXX__polygon,25,count,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_forced_transfer_like_functions__FOBXX__polygon,instantCXTransferIn;instantCXTransferOut;instantTransfer;transferShares,text,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_nonview_functions_n__FYOXX__ethereum,22,count,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_forced_transfer_like_functions__FYOXX__ethereum,(none),text,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_nonview_functions_n__JLTXX__ethereum,3,count,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_forced_transfer_like_functions__JLTXX__ethereum,(none),text,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_nonview_functions_n__WTGXX__arbitrum,28,count,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_forced_transfer_like_functions__WTGXX__arbitrum,batchClawback;clawback,text,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_nonview_functions_n__WTGXX__avalanche,0,count,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_forced_transfer_like_functions__WTGXX__avalanche,(no verified ABI),text,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_nonview_functions_n__WTGXX__base,28,count,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_forced_transfer_like_functions__WTGXX__base,batchClawback;clawback,text,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_nonview_functions_n__WTGXX__ethereum,28,count,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_forced_transfer_like_functions__WTGXX__ethereum,batchClawback;clawback,text,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_nonview_functions_n__WTGXX__optimism,28,count,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_evm_forced_transfer_like_functions__WTGXX__optimism,batchClawback;clawback,text,2026-10-17,data/processed/addl_evm_admin_functions.csv
+addl_solana_extensions__FOBXX,metadataPointer;transferHook;permanentDelegate;tokenMetadata,text,2026-10-17,data/processed/addl_solana_mint_controls.csv
+addl_solana_extensions__WTGXX,metadataPointer;scaledUiAmountConfig;pausableConfig;permanentDelegate;transferHook;tokenMetadata,text,2026-10-17,data/processed/addl_solana_mint_controls.csv
+addl_fyoxx_gap_raw_pct_recomputed__2025-12-31,4.8569,see name,2025-12-31,data/processed/addl_fyoxx_quarter_gaps.csv
+addl_fyoxx_tr2_parked_pct_of_class__2025-12-31,5.1832,see name,2025-12-31,data/processed/addl_fyoxx_quarter_gaps.csv
+addl_fyoxx_gap_after_tr2_pct_recomputed__2025-12-31,-0.3263,see name,2025-12-31,data/processed/addl_fyoxx_quarter_gaps.csv
+addl_fyoxx_tr2_parked_shares__2025-12-31,13053124.08,see name,2025-12-31,data/processed/addl_fyoxx_quarter_gaps.csv
+addl_fyoxx_gap_raw_pct_recomputed__2026-03-31,2.6073,see name,2026-03-31,data/processed/addl_fyoxx_quarter_gaps.csv
+addl_fyoxx_tr2_parked_pct_of_class__2026-03-31,2.9241,see name,2026-03-31,data/processed/addl_fyoxx_quarter_gaps.csv
+addl_fyoxx_gap_after_tr2_pct_recomputed__2026-03-31,-0.3169,see name,2026-03-31,data/processed/addl_fyoxx_quarter_gaps.csv
+addl_fyoxx_tr2_parked_shares__2026-03-31,4750000.0,see name,2026-03-31,data/processed/addl_fyoxx_quarter_gaps.csv
+addl_fyoxx_gap_raw_pct_recomputed__2026-06-30,37.9165,see name,2026-06-30,data/processed/addl_fyoxx_quarter_gaps.csv
+addl_fyoxx_tr2_parked_pct_of_class__2026-06-30,38.4519,see name,2026-06-30,data/processed/addl_fyoxx_quarter_gaps.csv
+addl_fyoxx_gap_after_tr2_pct_recomputed__2026-06-30,-0.5353,see name,2026-06-30,data/processed/addl_fyoxx_quarter_gaps.csv
+addl_fyoxx_tr2_parked_shares__2026-06-30,28000000.0,see name,2026-06-30,data/processed/addl_fyoxx_quarter_gaps.csv
+addl_fyoxx_gap_raw_pct_recomputed__2026-09-30,-0.3727,see name,2026-09-30,data/processed/addl_fyoxx_quarter_gaps.csv
+addl_fyoxx_tr2_parked_pct_of_class__2026-09-30,0.0,see name,2026-09-30,data/processed/addl_fyoxx_quarter_gaps.csv
+addl_fyoxx_gap_after_tr2_pct_recomputed__2026-09-30,-0.3727,see name,2026-09-30,data/processed/addl_fyoxx_quarter_gaps.csv
+addl_fyoxx_tr2_parked_shares__2026-09-30,0,see name,2026-09-30,data/processed/addl_fyoxx_quarter_gaps.csv
+addl_frag_supply_share_pct__FOBXX__arbitrum,7.3442,percent of measured on-chain supply,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_supply_share_pct__FOBXX__avalanche,5.2548,percent of measured on-chain supply,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_supply_share_pct__FOBXX__base,9.1476,percent of measured on-chain supply,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_supply_share_pct__FOBXX__ethereum,7.3837,percent of measured on-chain supply,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_supply_share_pct__FOBXX__polygon,4.9327,percent of measured on-chain supply,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_supply_share_pct__FOBXX__solana,0.0474,percent of measured on-chain supply,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_supply_share_pct__FOBXX__stellar,65.8895,percent of measured on-chain supply,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_chains_listed_n__FOBXX,8,count,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_chains_supply_gt0_n__FOBXX,7,count,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_supply_share_pct__WTGXX__arbitrum,1.2346,percent of measured on-chain supply,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_supply_share_pct__WTGXX__avalanche,0.0915,percent of measured on-chain supply,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_supply_share_pct__WTGXX__base,0.0042,percent of measured on-chain supply,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_supply_share_pct__WTGXX__ethereum,98.4887,percent of measured on-chain supply,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_supply_share_pct__WTGXX__optimism,0.0,percent of measured on-chain supply,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_supply_share_pct__WTGXX__plume,0.0,percent of measured on-chain supply,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_supply_share_pct__WTGXX__solana,0.0,percent of measured on-chain supply,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_supply_share_pct__WTGXX__stellar,0.181,percent of measured on-chain supply,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_chains_listed_n__WTGXX,8,count,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_chains_supply_gt0_n__WTGXX,7,count,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_supply_share_pct__JLTXX__ethereum,100.0,percent of measured on-chain supply,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_chains_listed_n__JLTXX,1,count,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_chains_supply_gt0_n__JLTXX,1,count,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_supply_share_pct__FYOXX__ethereum,100.0,percent of measured on-chain supply,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_chains_listed_n__FYOXX,1,count,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_chains_supply_gt0_n__FYOXX,1,count,2026-09-30,data/processed/addl_fragmentation_supply.csv
+addl_frag_nonta_event_share_pct__FOBXX__aptos,0.0,percent of fund non-TA transfer events,2026-01-01:2026-09-30,data/processed/addl_fragmentation_transfers.csv
+addl_frag_nonta_event_share_pct__FOBXX__arbitrum,0.0,percent of fund non-TA transfer events,2026-01-01:2026-09-30,data/processed/addl_fragmentation_transfers.csv
+addl_frag_nonta_event_share_pct__FOBXX__avalanche,0.0,percent of fund non-TA transfer events,2026-01-01:2026-09-30,data/processed/addl_fragmentation_transfers.csv
+addl_frag_nonta_event_share_pct__FOBXX__base,0.0,percent of fund non-TA transfer events,2026-01-01:2026-09-30,data/processed/addl_fragmentation_transfers.csv
+addl_frag_nonta_event_share_pct__FOBXX__ethereum,0.0,percent of fund non-TA transfer events,2026-01-01:2026-09-30,data/processed/addl_fragmentation_transfers.csv
+addl_frag_nonta_event_share_pct__FOBXX__polygon,0.0,percent of fund non-TA transfer events,2026-01-01:2026-09-30,data/processed/addl_fragmentation_transfers.csv
+addl_frag_nonta_event_share_pct__FOBXX__solana,0.0,percent of fund non-TA transfer events,2026-01-01:2026-09-30,data/processed/addl_fragmentation_transfers.csv
+addl_frag_nonta_event_share_pct__FOBXX__stellar,100.0,percent of fund non-TA transfer events,2026-01-01:2026-09-30,data/processed/addl_fragmentation_transfers.csv
+addl_frag_nonta_event_share_pct__WTGXX__arbitrum,0.0,percent of fund non-TA transfer events,2026-01-01:2026-09-30,data/processed/addl_fragmentation_transfers.csv
+addl_frag_nonta_event_share_pct__WTGXX__avalanche,0.0,percent of fund non-TA transfer events,2026-01-01:2026-09-30,data/processed/addl_fragmentation_transfers.csv
+addl_frag_nonta_event_share_pct__WTGXX__base,0.0,percent of fund non-TA transfer events,2026-01-01:2026-09-30,data/processed/addl_fragmentation_transfers.csv
+addl_frag_nonta_event_share_pct__WTGXX__ethereum,73.5294,percent of fund non-TA transfer events,2026-01-01:2026-09-30,data/processed/addl_fragmentation_transfers.csv
+addl_frag_nonta_event_share_pct__WTGXX__optimism,0.0,percent of fund non-TA transfer events,2026-01-01:2026-09-30,data/processed/addl_fragmentation_transfers.csv
+addl_frag_nonta_event_share_pct__WTGXX__plume,0.0,percent of fund non-TA transfer events,2026-01-01:2026-09-30,data/processed/addl_fragmentation_transfers.csv
+addl_frag_nonta_event_share_pct__WTGXX__solana,23.5294,percent of fund non-TA transfer events,2026-01-01:2026-09-30,data/processed/addl_fragmentation_transfers.csv
+addl_frag_nonta_event_share_pct__WTGXX__stellar,2.9412,percent of fund non-TA transfer events,2026-01-01:2026-09-30,data/processed/addl_fragmentation_transfers.csv
+addl_frag_nonta_event_share_pct__JLTXX__ethereum,100.0,percent of fund non-TA transfer events,2026-01-01:2026-09-30,data/processed/addl_fragmentation_transfers.csv
+addl_nmfp_months_with_ben_positive__FOBXX,0,count of report months,2024-06-30:2026-09-30,data/processed/addl_nmfp_rec_ben_summary.csv
+addl_nmfp_months__FOBXX,28,count of report months,2024-06-30:2026-09-30,data/processed/addl_nmfp_rec_ben_summary.csv
+addl_nmfp_months_with_ben_positive__FYOXX,0,count of report months,2025-08-31:2026-09-30,data/processed/addl_nmfp_rec_ben_summary.csv
+addl_nmfp_months__FYOXX,14,count of report months,2025-08-31:2026-09-30,data/processed/addl_nmfp_rec_ben_summary.csv
+addl_nmfp_months_with_ben_positive__JLTXX,0,count of report months,2026-05-29:2026-09-30,data/processed/addl_nmfp_rec_ben_summary.csv
+addl_nmfp_months__JLTXX,5,count of report months,2026-05-29:2026-09-30,data/processed/addl_nmfp_rec_ben_summary.csv
+addl_nmfp_months_with_ben_positive__WTGXX,28,count of report months,2024-06-30:2026-09-30,data/processed/addl_nmfp_rec_ben_summary.csv
+addl_nmfp_months__WTGXX,28,count of report months,2024-06-30:2026-09-30,data/processed/addl_nmfp_rec_ben_summary.csv

@@ -1,0 +1,27 @@
+fund,chain,address,reasons,has_code,contract_name_addition,n_events_full_history,n_transfers_window,transfer_value_window,share_of_fund_transfer_value_window_pct,material_ge_0_1pct
+FOBXX,stellar,GBQOB2LV27UQGDYUGBUYQMJHUGPKQNM7FMFLCCCIU23Q422ZSRE5P446,hop,0,(none held),326,1,3817000.0,31.8818,1
+FOBXX,stellar,GCVBY4O67HYLA3CHI44SGOKSHJTL2S5U36XVAPXDJSWX74C4GNCG7U45,hop,0,(none held),318,12,116614.52,0.974,1
+FOBXX,stellar,GADTKKKTS34GBTLW7ZNO53EYORD5TNJYMSM7KMOWQCC2L3LGQRQH2MTB,parking,0,(none held),298,2,18500.0,0.1545,1
+FOBXX,stellar,GCA2QTVZZBW3ZMORUUXO6M6SSTCMBKW2C7S2HR5TOD43E4ZGWD4JQZWF,hop,0,(none held),298,10,0.73,0.0,0
+FOBXX,stellar,GC2JPRDPKAUN4TWFJQVJAX66MHUDVM2CFV46WHV4HEFPQRL4J2IHSBZF,parking,0,(none held),75,0,0,0.0,0
+WTGXX,ethereum,0x894bb63432e8c5865a50d6bc495fa70a765cbc84,hop,0,(none held),82,45,40154956.835883,34.6075,1
+WTGXX,ethereum,0x63a8bb98d70d0ac73460d22b6756528a087ecbf8,parking,0,(none held),58,21,20531886.84205,17.6954,1
+WTGXX,ethereum,0x860cc723935fc9a15ff8b1a94237a711dfef7857,hop,1,TransparentUpgradeableProxy->FrxUSDCustodianWithReceiver,80,22,10107428.053409,8.7111,1
+WTGXX,ethereum,0x8d68480ea48003dbb7fef6c0d486d86fab921740,parking,0,(none held),28,11,5038389.836951,4.3423,1
+WTGXX,ethereum,0x4bd0501435446eeff38632738497674286d5962e,parking,0,(none held),4,2,101820.24809,0.0878,0
+WTGXX,ethereum,0x9473dbecd1f9f600e3650012c0b3fb326b65cb32,parking,0,(none held),4,2,101000.0,0.087,0
+WTGXX,ethereum,0xd28d9feaaca4afed8dfc35dae5221cd0a61e0599,parking,0,(none held),9,2,3131.477941,0.0027,0
+WTGXX,arbitrum,0x4814879a54962ae7f91a06e0156b29df46853343,parking,0,(none held),26,3,46.94,0.0,0
+WTGXX,stellar,GBJ3ZL37V3ZSWZKXFZ55AMGPLDVZRR6BBCTBRQVQT7WGJDPGXF5V25J2,parking,0,(none held),2,1,2.0,0.0,0
+WTGXX,solana,EFdobXemkUg2Up2euW1hFZFLuTrVN1FmYViHCQRFHCTp,parking,(not in freeze_evm_codes.csv),(none held),4,2,1.003235,0.0,0
+WTGXX,arbitrum,0x63a8bb98d70d0ac73460d22b6756528a087ecbf8,parking,0,(none held),2,1,1.0,0.0,0
+WTGXX,ethereum,0x4814879a54962ae7f91a06e0156b29df46853343,parking,0,(none held),2,1,1.0,0.0,0
+WTGXX,ethereum,0x419dc0d9fcd2e7f9c914f2b0ef19bb197665dbf4,parking,0,(none held),8,1,1.0,0.0,0
+WTGXX,arbitrum,0x8355c60442620ef4a71164d7bc41f0a3f49f7346,parking,0,(none held),2,0,0,0.0,0
+WTGXX,ethereum,0xcb1a4854ab3c9acec5ebce4c12f759eb26c57ef5,parking,0,(none held),2,0,0,0.0,0
+WTGXX,ethereum,0x329c55b080f1154f507a4907c39b5d2196e7d31a,parking,0,(none held),2,0,0,0.0,0
+WTGXX,ethereum,0x7dd65a0e2cb3c1442f5a6ae2a106c67c27c4abd8,parking,0,(none held),4,0,0,0.0,0
+WTGXX,ethereum,0xfa160a6ed750aa63c4aeb8dfa7c60c9548210d13,parking,0,(none held),2,0,0,0.0,0
+WTGXX,ethereum,0xc8ba5ab175eefa04feebb227ff85419679b52300,hop,0,(none held),16,0,0,0.0,0
+WTGXX,ethereum,0x146c01e6fae187fda19b01b0b1615f4e7ae36767,parking,0,(none held),2,0,0,0.0,0
+WTGXX,ethereum,0x8355c60442620ef4a71164d7bc41f0a3f49f7346,parking,0,(none held),18,0,0,0.0,0

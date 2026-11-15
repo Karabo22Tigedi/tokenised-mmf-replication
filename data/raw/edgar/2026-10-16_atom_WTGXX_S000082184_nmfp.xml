@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <author>
+      <email>webmaster@sec.gov</email>
+      <name>Webmaster</name>
+    </author>
+    <company-info>
+      <addresses>
+        <address type="mailing">
+          <city>NEW YORK</city>
+          <state>NY</state>
+          <street1>250 WEST 34TH STREET</street1>
+          <street2>3RD FLOOR</street2>
+          <zip>10119</zip>
+        </address>
+        <address type="business">
+          <city>NEW YORK</city>
+          <phone>866-909-9473</phone>
+          <state>NY</state>
+          <street1>250 WEST 34TH STREET</street1>
+          <street2>3RD FLOOR</street2>
+          <zip>10119</zip>
+        </address>
+      </addresses>
+      <cik>0001859001</cik>
+      <cik-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001859001&amp;owner=include&amp;count=100</cik-href>
+      <conformed-name>WisdomTree Digital Trust</conformed-name>
+      <state-location>NY</state-location>
+      <state-location-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;State=NY&amp;owner=include&amp;count=100</state-location-href>
+    </company-info>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001193125-26-416361</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2026-10-07</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000119312526416361/0001193125-26-416361-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>261445914</film-number>
+        <size>146 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001193125-26-416361</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000119312526416361/0001193125-26-416361-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2026-10-07 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-26-416361 &lt;b&gt;Size:&lt;/b&gt; 146 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2026-10-07T10:41:50-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001193125-26-382896</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2026-09-04</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000119312526382896/0001193125-26-382896-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>261360309</film-number>
+        <size>58 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001193125-26-382896</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000119312526382896/0001193125-26-382896-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2026-09-04 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-26-382896 &lt;b&gt;Size:&lt;/b&gt; 58 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2026-09-04T09:12:35-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001193125-26-339662</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2026-08-07</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000119312526339662/0001193125-26-339662-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>261252644</film-number>
+        <size>112 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001193125-26-339662</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000119312526339662/0001193125-26-339662-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2026-08-07 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-26-339662 &lt;b&gt;Size:&lt;/b&gt; 112 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2026-08-07T11:52:39-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001193125-26-296145</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2026-07-06</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000119312526296145/0001193125-26-296145-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>261155723</film-number>
+        <size>59 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001193125-26-296145</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000119312526296145/0001193125-26-296145-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2026-07-06 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-26-296145 &lt;b&gt;Size:&lt;/b&gt; 59 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2026-07-06T15:53:30-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001193125-26-258516</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2026-06-05</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000119312526258516/0001193125-26-258516-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>261067076</film-number>
+        <size>58 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001193125-26-258516</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000119312526258516/0001193125-26-258516-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2026-06-05 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-26-258516 &lt;b&gt;Size:&lt;/b&gt; 58 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2026-06-05T09:15:21-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001193125-26-209038</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2026-05-06</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000119312526209038/0001193125-26-209038-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>26948729</film-number>
+        <size>63 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001193125-26-209038</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000119312526209038/0001193125-26-209038-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2026-05-06 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-26-209038 &lt;b&gt;Size:&lt;/b&gt; 63 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2026-05-06T16:18:31-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001193125-26-144923</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2026-04-07</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000119312526144923/0001193125-26-144923-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>26843636</film-number>
+        <size>62 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001193125-26-144923</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000119312526144923/0001193125-26-144923-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2026-04-07 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-26-144923 &lt;b&gt;Size:&lt;/b&gt; 62 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2026-04-07T11:43:00-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001193125-26-095337</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2026-03-06</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000119312526095337/0001193125-26-095337-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>26728956</film-number>
+        <size>110 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001193125-26-095337</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000119312526095337/0001193125-26-095337-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2026-03-06 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-26-095337 &lt;b&gt;Size:&lt;/b&gt; 110 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2026-03-06T10:05:47-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001193125-26-040456</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2026-02-06</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000119312526040456/0001193125-26-040456-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>26605468</film-number>
+        <size>147 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001193125-26-040456</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000119312526040456/0001193125-26-040456-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2026-02-06 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-26-040456 &lt;b&gt;Size:&lt;/b&gt; 147 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2026-02-06T09:18:57-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001193125-26-007483</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2026-01-08</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000119312526007483/0001193125-26-007483-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>26519073</film-number>
+        <size>127 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001193125-26-007483</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000119312526007483/0001193125-26-007483-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2026-01-08 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-26-007483 &lt;b&gt;Size:&lt;/b&gt; 127 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2026-01-08T14:25:59-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001193125-25-309340</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2025-12-05</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000119312525309340/0001193125-25-309340-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>251552290</film-number>
+        <size>54 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001193125-25-309340</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000119312525309340/0001193125-25-309340-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2025-12-05 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-25-309340 &lt;b&gt;Size:&lt;/b&gt; 54 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2025-12-05T13:49:54-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001193125-25-271442</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2025-11-07</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000119312525271442/0001193125-25-271442-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>251461096</film-number>
+        <size>54 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001193125-25-271442</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000119312525271442/0001193125-25-271442-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2025-11-07 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-25-271442 &lt;b&gt;Size:&lt;/b&gt; 54 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2025-11-07T11:02:04-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001193125-25-232886</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2025-10-07</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000119312525232886/0001193125-25-232886-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>251378668</film-number>
+        <size>71 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001193125-25-232886</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000119312525232886/0001193125-25-232886-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2025-10-07 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-25-232886 &lt;b&gt;Size:&lt;/b&gt; 71 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2025-10-07T10:52:44-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001145549-25-058009</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2025-09-08</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554925058009/0001145549-25-058009-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>251299298</film-number>
+        <size>75 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-25-058009</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554925058009/0001145549-25-058009-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2025-09-08 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-25-058009 &lt;b&gt;Size:&lt;/b&gt; 75 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2025-09-08T12:24:45-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001145549-25-050719</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2025-08-07</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554925050719/0001145549-25-050719-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>251192032</film-number>
+        <size>82 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-25-050719</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554925050719/0001145549-25-050719-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2025-08-07 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-25-050719 &lt;b&gt;Size:&lt;/b&gt; 82 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2025-08-07T09:19:12-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001145549-25-045933</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2025-07-07</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554925045933/0001145549-25-045933-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>251108448</film-number>
+        <size>73 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-25-045933</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554925045933/0001145549-25-045933-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2025-07-07 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-25-045933 &lt;b&gt;Size:&lt;/b&gt; 73 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2025-07-07T16:34:31-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001145549-25-038794</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2025-06-06</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554925038794/0001145549-25-038794-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>251029300</film-number>
+        <size>75 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-25-038794</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554925038794/0001145549-25-038794-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2025-06-06 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-25-038794 &lt;b&gt;Size:&lt;/b&gt; 75 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2025-06-06T10:37:42-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001145549-25-029199</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2025-05-07</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554925029199/0001145549-25-029199-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>25919904</film-number>
+        <size>73 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-25-029199</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554925029199/0001145549-25-029199-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2025-05-07 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-25-029199 &lt;b&gt;Size:&lt;/b&gt; 73 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2025-05-07T10:56:41-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001145549-25-024279</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2025-04-07</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554925024279/0001145549-25-024279-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>25817338</film-number>
+        <size>71 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-25-024279</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554925024279/0001145549-25-024279-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2025-04-07 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-25-024279 &lt;b&gt;Size:&lt;/b&gt; 71 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2025-04-07T13:08:16-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001145549-25-016518</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2025-03-06</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554925016518/0001145549-25-016518-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>25714241</film-number>
+        <size>71 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-25-016518</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554925016518/0001145549-25-016518-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2025-03-06 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-25-016518 &lt;b&gt;Size:&lt;/b&gt; 71 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2025-03-06T11:55:01-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001145549-25-006175</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2025-02-06</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554925006175/0001145549-25-006175-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>25598392</film-number>
+        <size>62 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-25-006175</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554925006175/0001145549-25-006175-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2025-02-06 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-25-006175 &lt;b&gt;Size:&lt;/b&gt; 62 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2025-02-06T17:14:39-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001145549-25-000913</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2025-01-08</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554925000913/0001145549-25-000913-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>25517015</film-number>
+        <size>62 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-25-000913</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554925000913/0001145549-25-000913-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2025-01-08 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-25-000913 &lt;b&gt;Size:&lt;/b&gt; 62 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2025-01-08T10:35:49-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001145549-24-078209</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2024-12-06</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554924078209/0001145549-24-078209-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>241530965</film-number>
+        <size>58 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-24-078209</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554924078209/0001145549-24-078209-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2024-12-06 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-24-078209 &lt;b&gt;Size:&lt;/b&gt; 58 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2024-12-06T10:46:40-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001145549-24-068546</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2024-11-07</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554924068546/0001145549-24-068546-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>241434315</film-number>
+        <size>60 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-24-068546</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554924068546/0001145549-24-068546-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2024-11-07 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-24-068546 &lt;b&gt;Size:&lt;/b&gt; 60 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2024-11-07T12:47:56-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001145549-24-063252</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2024-10-04</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554924063252/0001145549-24-063252-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>241354439</film-number>
+        <size>63 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-24-063252</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554924063252/0001145549-24-063252-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2024-10-04 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-24-063252 &lt;b&gt;Size:&lt;/b&gt; 63 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2024-10-04T14:15:15-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001145549-24-057297</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2024-09-09</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554924057297/0001145549-24-057297-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>241286375</film-number>
+        <size>57 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-24-057297</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554924057297/0001145549-24-057297-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2024-09-09 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-24-057297 &lt;b&gt;Size:&lt;/b&gt; 57 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2024-09-09T11:20:52-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001145549-24-047774</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2024-08-07</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554924047774/0001145549-24-047774-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>241182575</film-number>
+        <size>62 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-24-047774</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554924047774/0001145549-24-047774-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2024-08-07 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-24-047774 &lt;b&gt;Size:&lt;/b&gt; 62 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2024-08-07T12:41:11-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP3" />
+      <content type="text/xml">
+        <accession-number>0001145549-24-042634</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2024-07-08</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554924042634/0001145549-24-042634-index.htm</filing-href>
+        <filing-type>N-MFP3</filing-type>
+        <film-number>241103748</film-number>
+        <size>59 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-24-042634</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554924042634/0001145549-24-042634-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2024-07-08 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-24-042634 &lt;b&gt;Size:&lt;/b&gt; 59 KB</summary>
+      <title>N-MFP3  - </title>
+      <updated>2024-07-08T11:07:07-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP2" />
+      <content type="text/xml">
+        <accession-number>0001145549-24-035779</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2024-06-06</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554924035779/0001145549-24-035779-index.htm</filing-href>
+        <filing-type>N-MFP2</filing-type>
+        <film-number>241024486</film-number>
+        <size>27 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-24-035779</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554924035779/0001145549-24-035779-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2024-06-06 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-24-035779 &lt;b&gt;Size:&lt;/b&gt; 27 KB</summary>
+      <title>N-MFP2  - </title>
+      <updated>2024-06-06T13:22:28-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP2" />
+      <content type="text/xml">
+        <accession-number>0001145549-24-026015</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2024-05-06</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554924026015/0001145549-24-026015-index.htm</filing-href>
+        <filing-type>N-MFP2</filing-type>
+        <film-number>24917639</film-number>
+        <size>22 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-24-026015</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554924026015/0001145549-24-026015-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2024-05-06 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-24-026015 &lt;b&gt;Size:&lt;/b&gt; 22 KB</summary>
+      <title>N-MFP2  - </title>
+      <updated>2024-05-06T16:13:58-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP2" />
+      <content type="text/xml">
+        <accession-number>0001145549-24-021418</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2024-04-05</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554924021418/0001145549-24-021418-index.htm</filing-href>
+        <filing-type>N-MFP2</filing-type>
+        <film-number>24825078</film-number>
+        <size>23 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-24-021418</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554924021418/0001145549-24-021418-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2024-04-05 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-24-021418 &lt;b&gt;Size:&lt;/b&gt; 23 KB</summary>
+      <title>N-MFP2  - </title>
+      <updated>2024-04-05T10:19:57-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP2" />
+      <content type="text/xml">
+        <accession-number>0001145549-24-015074</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2024-03-07</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554924015074/0001145549-24-015074-index.htm</filing-href>
+        <filing-type>N-MFP2</filing-type>
+        <film-number>24729288</film-number>
+        <size>30 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-24-015074</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554924015074/0001145549-24-015074-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2024-03-07 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-24-015074 &lt;b&gt;Size:&lt;/b&gt; 30 KB</summary>
+      <title>N-MFP2  - </title>
+      <updated>2024-03-07T13:21:47-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP2" />
+      <content type="text/xml">
+        <accession-number>0001145549-24-005977</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2024-02-07</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554924005977/0001145549-24-005977-index.htm</filing-href>
+        <filing-type>N-MFP2</filing-type>
+        <film-number>24603473</film-number>
+        <size>31 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-24-005977</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554924005977/0001145549-24-005977-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2024-02-07 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-24-005977 &lt;b&gt;Size:&lt;/b&gt; 31 KB</summary>
+      <title>N-MFP2  - </title>
+      <updated>2024-02-07T13:12:43-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP2" />
+      <content type="text/xml">
+        <accession-number>0001145549-24-001041</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2024-01-05</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554924001041/0001145549-24-001041-index.htm</filing-href>
+        <filing-type>N-MFP2</filing-type>
+        <film-number>24515621</film-number>
+        <size>30 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-24-001041</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554924001041/0001145549-24-001041-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2024-01-05 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-24-001041 &lt;b&gt;Size:&lt;/b&gt; 30 KB</summary>
+      <title>N-MFP2  - </title>
+      <updated>2024-01-05T14:12:12-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="N-MFP2" />
+      <content type="text/xml">
+        <accession-number>0001145549-23-075315</accession-number>
+        <act>40</act>
+        <file-number>811-23659</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=811-23659&amp;owner=include&amp;count=100</file-number-href>
+        <filing-date>2023-12-07</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/1859001/000114554923075315/0001145549-23-075315-index.htm</filing-href>
+        <filing-type>N-MFP2</filing-type>
+        <film-number>231471709</film-number>
+        <size>19 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001145549-23-075315</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/1859001/000114554923075315/0001145549-23-075315-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2023-12-07 &lt;b&gt;AccNo:&lt;/b&gt; 0001145549-23-075315 &lt;b&gt;Size:&lt;/b&gt; 19 KB</summary>
+      <title>N-MFP2  - </title>
+      <updated>2023-12-07T12:55:49-05:00</updated>
+    </entry>
+    <id>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001859001</id>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=S000082184&amp;type=N-MFP&amp;owner=include&amp;start=0&amp;count=100" rel="alternate" type="text/html" />
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=S000082184&amp;type=N-MFP&amp;owner=include&amp;start=0&amp;count=100&amp;output=atom" rel="self" type="application/atom+xml" />
+    <title>WisdomTree Digital Trust  (0001859001)</title>
+    <updated>2026-10-16T08:15:35-04:00</updated>
+  </feed>

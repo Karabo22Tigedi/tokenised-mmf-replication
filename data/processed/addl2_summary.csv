@@ -1,0 +1,8 @@
+route,token,symbol,n_tx,n_tx_direct_pair,n_tx_any_other_token,n_tx_no_other_token,n_tx_third_party_only,wtgxx_amount_all,wtgxx_amount_direct,n_tx_atomic,name,n_tx_sender_receives,n_tx_recipient_pays,token_amount_direct,token_amount_third_party,price_min,price_median,price_max,n_tx_gross_price,gross_price_min,gross_price_median,gross_price_max
+swap,ALL,ALL,28,28,28,0,0,200124.00130419756,200124.00130419756,28,,,,,,,,,,,,
+swap,0x6f4e688a151dfa05b20cb3151e6066d9fd5d7b32,TSY,5,5,,,0,,200005.04070419754,5,Treasury,4,1,200005.0,0,0.9919248986,1.0,1.0,1,0.9919248986,0.9919248986,0.9919248986
+swap,0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48,USDC,23,23,,,0,,118.9606,23,USD Coin,23,0,118.881597,0,0.998,0.999,1.0,23,0.9981,1.0,1.001001001
+custodian,ALL,ALL,22,13,17,5,4,10107428.053409,8929415.953409,13,,,,,,,,,,,,
+custodian,0x43415eb6ff9db7e26a15b704e7a3edce97d31c4e,USTB,1,1,,,0,,490000.0,1,Invesco Short Duration US Government Securities Fund,0,1,44410.752696,0,0.0906341892,0.0906341892,0.0906341892,1,0.0906341892,0.0906341892,0.0906341892
+custodian,0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48,USDC,5,5,,,0,,6439395.954009,5,USD Coin,0,5,6439395.954009,0,1.0,1.0,1.0,5,1.0,1.0,1.0
+custodian,0xcacd6fd266af91b8aed52accc382b4e165586e29,frxUSD,17,7,,,10,,2000019.9994,7,Frax USD,5,2,2000020.0,6929402.954009,1.0,1.0,1.00010001,2,1.00010001,1.00010001,1.00010001

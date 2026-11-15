@@ -1,0 +1,27 @@
+fund,chain,supply,source,share_of_measured_onchain_pct,share_of_nmfp_class_shares_pct
+FOBXX,aptos,,not measured (no data in vintage),,
+FOBXX,arbitrum,47980254.137611,events,7.3442,7.183
+FOBXX,avalanche,34330417.201451,totalSupply@block,5.2548,5.1395
+FOBXX,base,59762338.010118,totalSupply@block,9.1476,8.9469
+FOBXX,ethereum,48238907.896735,totalSupply@block,7.3837,7.2217
+FOBXX,polygon,32226231.994119,totalSupply@block,4.9327,4.8245
+FOBXX,solana,309581.350813,events_full_history,0.0474,0.0463
+FOBXX,stellar,430464265.956833,horizon_backout,65.8895,64.4439
+FOBXX,(total measured),653311996.54768,sum; equals freeze_m0_reconciliation onchain_supply_raw,100.0,97.806
+FOBXX,(N-MFP3 class shares),667967346.67,freeze_m0_reconciliation nmfp_class_shares,,100.0
+WTGXX,arbitrum,15154435.434657,events,1.2346,1.2346
+WTGXX,avalanche,1123209.915585,totalSupply@block,0.0915,0.0915
+WTGXX,base,51279.704008,totalSupply@block,0.0042,0.0042
+WTGXX,ethereum,1208884583.410127,totalSupply@block,98.4887,98.4887
+WTGXX,optimism,0.0,totalSupply@block,0.0,0.0
+WTGXX,plume,0.080151,totalSupply@block,0.0,0.0
+WTGXX,solana,38.073909,events_full_history,0.0,0.0
+WTGXX,stellar,2221140.415141,horizon_backout,0.181,0.181
+WTGXX,(total measured),1227434687.033579,sum; equals freeze_m0_reconciliation onchain_supply_raw,100.0,100.0
+WTGXX,(N-MFP3 class shares),1227434687.034,freeze_m0_reconciliation nmfp_class_shares,,100.0
+JLTXX,ethereum,628484843.22,totalSupply@block,100.0,100.0
+JLTXX,(total measured),628484843.22,sum; equals freeze_m0_reconciliation onchain_supply_raw,100.0,100.0
+JLTXX,(N-MFP3 class shares),628484847.22,freeze_m0_reconciliation nmfp_class_shares,,100.0
+FYOXX,ethereum,23062850.92,totalSupply@block,100.0,99.6273
+FYOXX,(total measured),23062850.92,sum; equals freeze_m0_reconciliation onchain_supply_raw,100.0,99.6273
+FYOXX,(N-MFP3 class shares),23149136.01,freeze_m0_reconciliation nmfp_class_shares,,100.0

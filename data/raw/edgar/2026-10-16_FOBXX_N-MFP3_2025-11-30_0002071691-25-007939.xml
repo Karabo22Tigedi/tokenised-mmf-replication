@@ -1,0 +1,2641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/nmfp3 eis_NMFP3_Filer.xsd" xmlns="http://www.sec.gov/edgar/nmfp3" xmlns:ns3="http://www.sec.gov/edgar/nmfp3common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>N-MFP3</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001786958</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <generalInfo>
+      <reportDate>2025-11-30</reportDate>
+      <registrantFullName>FRANKLIN TEMPLETON TRUST</registrantFullName>
+      <cik>0001786958</cik>
+      <registrantLEIId>254900NKWTMXPL7XHW39</registrantLEIId>
+      <nameOfSeries>Franklin OnChain U.S. Government Money Fund</nameOfSeries>
+      <leiOfSeries>549300RHMKYGLHGI7667</leiOfSeries>
+      <seriesId>S000067043</seriesId>
+      <totalShareClassesInSeries>1</totalShareClassesInSeries>
+      <finalFilingFlag>N</finalFilingFlag>
+      <fundAcqrdOrMrgdWthAnthrFlag>N</fundAcqrdOrMrgdWthAnthrFlag>
+    </generalInfo>
+    <seriesLevelInfo>
+      <securitiesActFileNumber>333-233596</securitiesActFileNumber>
+      <adviser>
+        <adviserName>Franklin Advisers, Inc.</adviserName>
+        <adviserFileNumber>801-26292</adviserFileNumber>
+      </adviser>
+      <indpPubAccountant>
+        <name>PricewaterhouseCoopers LLP</name>
+        <city>San Francisco</city>
+        <stateCountry>CA</stateCountry>
+      </indpPubAccountant>
+      <administrator>
+        <administratorName>Franklin Templeton Services LLC</administratorName>
+      </administrator>
+      <transferAgent>
+        <name>Franklin Templeton Investor Services LLC</name>
+        <cik>0000353291</cik>
+        <fileNumber>084-01036</fileNumber>
+      </transferAgent>
+      <feederFundFlag>N</feederFundFlag>
+      <masterFundFlag>N</masterFundFlag>
+      <seriesFundInsuCmpnySepAccntFlag>N</seriesFundInsuCmpnySepAccntFlag>
+      <moneyMarketFundCategory>Government</moneyMarketFundCategory>
+      <fundRetailMoneyMarketFlag>N</fundRetailMoneyMarketFlag>
+      <govMoneyMrktFundFlag>N</govMoneyMrktFundFlag>
+      <averagePortfolioMaturity>18</averagePortfolioMaturity>
+      <averageLifeMaturity>50</averageLifeMaturity>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>460541885.28</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>665868126.77</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.5759</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.8327</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2025-11-03</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>461477644.20</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>666131429.20</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.5767</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.8325</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2025-11-04</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>454401885.28</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>659078136.02</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.5729</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.8310</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2025-11-05</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>464670850.02</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>659030633.50</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.5859</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.8310</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2025-11-06</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>459427011.90</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>653808086.90</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.5831</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.8299</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2025-11-07</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>483983932.92</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>654197173.96</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.6140</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.8299</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2025-11-10</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>483907397.91</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>654139230.57</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.6139</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.8299</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2025-11-12</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>491170564.81</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>659259848.47</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.6191</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.8310</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2025-11-13</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>487643397.16</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>667339405.13</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.6146</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.8411</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2025-11-14</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>487348570.74</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>667103307.95</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.6145</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.8411</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2025-11-17</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>495961751.76</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>663717746.89</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.6280</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.8404</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2025-11-18</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>499984145.29</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>664227651.68</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.6327</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.8405</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2025-11-19</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>521497044.18</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>675760092.93</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.6532</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.8465</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2025-11-20</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>495738672.46</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>667827544.43</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.6272</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.8449</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2025-11-21</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>495910513.78</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>687832143.49</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.6272</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.8699</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2025-11-24</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>498855700.24</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>690797706.46</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.6285</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.8704</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2025-11-25</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>502661104.05</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>691123486.76</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.6331</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.8704</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2025-11-26</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>506447991.54</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>690952021.66</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.6380</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.8705</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2025-11-28</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <cash>255.77</cash>
+      <totalValuePortfolioSecurities>793440429.50</totalValuePortfolioSecurities>
+      <amortizedCostPortfolioSecurities>793447368.82</amortizedCostPortfolioSecurities>
+      <totalValueOtherAssets>480728.95</totalValueOtherAssets>
+      <totalValueLiabilities>388502.46</totalValueLiabilities>
+      <netAssetOfSeries>793539851.08</netAssetOfSeries>
+      <numberOfSharesOutstanding>793539763.7100</numberOfSharesOutstanding>
+      <seekStablePricePerShare>Y</seekStablePricePerShare>
+      <stablePricePerShare>1.0000</stablePricePerShare>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0411</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2025-11-03</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0409</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2025-11-04</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0407</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2025-11-05</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0406</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2025-11-06</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0405</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2025-11-07</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0401</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2025-11-10</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0401</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2025-11-11</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0401</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2025-11-12</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0401</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2025-11-13</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0401</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2025-11-14</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0402</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2025-11-17</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0401</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2025-11-18</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0401</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2025-11-19</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0400</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2025-11-20</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0399</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2025-11-21</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0398</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2025-11-24</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0399</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2025-11-25</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0399</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2025-11-26</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0402</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2025-11-28</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0000</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2025-11-03</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0000</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2025-11-04</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0000</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2025-11-05</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0000</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2025-11-06</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0000</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2025-11-07</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0000</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2025-11-10</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0000</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2025-11-11</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0000</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2025-11-12</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0000</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2025-11-13</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0000</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2025-11-14</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0000</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2025-11-17</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0000</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2025-11-18</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0000</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2025-11-19</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0000</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2025-11-20</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0000</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2025-11-21</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0000</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2025-11-24</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0000</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2025-11-25</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0000</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2025-11-26</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0000</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2025-11-28</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <cashMgmtVehicleAffliatedFundFlag>N</cashMgmtVehicleAffliatedFundFlag>
+      <liquidityFeeFundApplyFlag>N</liquidityFeeFundApplyFlag>
+    </seriesLevelInfo>
+    <classLevelInfo>
+      <classFullName>Franklin OnChain U.S. Government Money Fund</classFullName>
+      <classesId>C000215714</classesId>
+      <minInitialInvestment>20.00</minInitialInvestment>
+      <netAssetsOfClass>793539851.08</netAssetsOfClass>
+      <numberOfSharesOutstanding>793539763.7100</numberOfSharesOutstanding>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0000</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2025-11-03</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0000</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2025-11-04</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0000</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2025-11-05</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0000</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2025-11-06</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0000</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2025-11-07</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0000</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2025-11-10</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0000</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2025-11-11</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0000</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2025-11-12</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0000</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2025-11-13</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0000</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2025-11-14</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0000</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2025-11-17</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0000</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2025-11-18</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0000</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2025-11-19</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0000</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2025-11-20</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0000</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2025-11-21</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0000</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2025-11-24</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0000</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2025-11-25</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0000</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2025-11-26</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0000</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2025-11-28</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>186213.54</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>0.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2025-11-03</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>448653.64</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>4050.27</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2025-11-04</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>183833.50</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>2526400.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2025-11-05</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>156821.30</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>190435.73</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2025-11-06</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>93040.52</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>5303628.45</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2025-11-07</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>293350.28</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>0.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2025-11-10</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>0.00</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>0.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2025-11-11</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>263527.80</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>250000.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2025-11-12</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>5383692.71</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>270805.82</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2025-11-13</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>89869.18</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>15096.03</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2025-11-14</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>249176.79</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>550412.06</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2025-11-17</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>84539.04</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>3457552.04</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2025-11-18</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>582790.86</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>40310.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2025-11-19</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>84407.56</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>50.70</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2025-11-20</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>82109.97</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>20350.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2025-11-21</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>256540.30</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>0.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2025-11-24</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>3137533.22</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>164336.60</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2025-11-25</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>333763.10</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>57.08</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2025-11-26</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>567261.54</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>827640.39</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2025-11-28</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <monthlyShareholderFlowReported>
+        <totalGrossSubscriptions>12477124.85</totalGrossSubscriptions>
+        <totalGrossRedemptions>13621125.17</totalGrossRedemptions>
+      </monthlyShareholderFlowReported>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0391</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2025-11-03</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0389</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2025-11-04</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0387</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2025-11-05</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0386</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2025-11-06</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0385</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2025-11-07</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0381</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2025-11-10</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0381</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2025-11-11</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0381</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2025-11-12</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0381</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2025-11-13</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0381</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2025-11-14</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0382</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2025-11-17</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0381</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2025-11-18</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0381</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2025-11-19</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0380</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2025-11-20</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0379</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2025-11-21</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0378</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2025-11-24</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0379</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2025-11-25</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0379</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2025-11-26</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0382</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2025-11-28</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <personPayForFundFlag>Y</personPayForFundFlag>
+      <nameOfPersonDescExpensePay>11854.90</nameOfPersonDescExpensePay>
+      <beneficialRecordOwnerCategory>
+        <beneficialRecordOwnerCategoryType>Non-financial corporation</beneficialRecordOwnerCategoryType>
+        <percentOutstandingSharesRecord>0.5890</percentOutstandingSharesRecord>
+        <percentOutstandingSharesBeneficial>0.0</percentOutstandingSharesBeneficial>
+      </beneficialRecordOwnerCategory>
+      <beneficialRecordOwnerCategory>
+        <beneficialRecordOwnerCategoryType>Other</beneficialRecordOwnerCategoryType>
+        <otherInvestorCategory>OtherRetail Investor</otherInvestorCategory>
+        <percentOutstandingSharesRecord>0.1271</percentOutstandingSharesRecord>
+        <percentOutstandingSharesBeneficial>0.0</percentOutstandingSharesBeneficial>
+      </beneficialRecordOwnerCategory>
+      <beneficialRecordOwnerCategory>
+        <beneficialRecordOwnerCategoryType>Retail investor</beneficialRecordOwnerCategoryType>
+        <percentOutstandingSharesRecord>0.0669</percentOutstandingSharesRecord>
+        <percentOutstandingSharesBeneficial>0.0</percentOutstandingSharesBeneficial>
+      </beneficialRecordOwnerCategory>
+      <shareCancellationReportingPeriod>N</shareCancellationReportingPeriod>
+    </classLevelInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Farm Credit Banks Funding Corp.</nameOfIssuer>
+      <titleOfIssuer>Federal Farm Credit Banks Funding Corp.</titleOfIssuer>
+      <coupon>4.03499880</coupon>
+      <CUSIPMember>3133ERTE1</CUSIPMember>
+      <LEIID>254900C5LP6DN9OP9V83</LEIID>
+      <ISINId>US3133ERTE18</ISINId>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as coupon-paying notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-09-16</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-09-16</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0403</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>2251117.15</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>2251117.15</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0028</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Farm Credit Banks Funding Corp.</nameOfIssuer>
+      <titleOfIssuer>Federal Farm Credit Banks Funding Corp.</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313313QW1</CUSIPMember>
+      <LEIID>254900C5LP6DN9OP9V83</LEIID>
+      <ISINId>US313313QW11</ISINId>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-23</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-23</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-23</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0391</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>3990138.88</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>3990138.88</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0050</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313385RP3</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US313385RP38</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-01-09</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-01-09</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-01-09</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0387</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>10853902.05</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>10853902.05</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0137</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Farm Credit Banks Funding Corp.</nameOfIssuer>
+      <titleOfIssuer>Federal Farm Credit Banks Funding Corp.</titleOfIssuer>
+      <coupon>3.94999920</coupon>
+      <CUSIPMember>3133ETG92</CUSIPMember>
+      <LEIID>254900C5LP6DN9OP9V83</LEIID>
+      <ISINId>US3133ETG927</ISINId>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as coupon-paying notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-10-15</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-10-15</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0401</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>3999900.96</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>3999900.96</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0050</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313385QJ8</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US313385QJ86</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-11</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-11</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-11</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0393</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>4144679.95</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>4144679.95</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0052</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313385QW9</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US313385QW97</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-23</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-23</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-23</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0389</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>11471649.28</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>11471649.28</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0145</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Farm Credit Banks Funding Corp.</nameOfIssuer>
+      <titleOfIssuer>Federal Farm Credit Banks Funding Corp.</titleOfIssuer>
+      <coupon>4.10000040</coupon>
+      <CUSIPMember>3133ETE52</CUSIPMember>
+      <LEIID>254900C5LP6DN9OP9V83</LEIID>
+      <ISINId>US3133ETE526</ISINId>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as coupon-paying notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-11-10</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-11-10</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0416</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>2149964.25</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>2149964.25</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0027</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Farm Credit Banks Funding Corp.</nameOfIssuer>
+      <titleOfIssuer>Federal Farm Credit Banks Funding Corp.</titleOfIssuer>
+      <coupon>4.14500040</coupon>
+      <CUSIPMember>3133ETWQ6</CUSIPMember>
+      <LEIID>254900C5LP6DN9OP9V83</LEIID>
+      <ISINId>US3133ETWQ66</ISINId>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as coupon-paying notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2027-03-05</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2027-03-05</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0420</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>999942.45</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>999942.45</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0013</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>RBC Dominion Securities, Inc.</nameOfIssuer>
+      <titleOfIssuer>RBC Dominion Securities, Inc.</titleOfIssuer>
+      <coupon>4.08000000</coupon>
+      <CUSIPMember>N/A</CUSIPMember>
+      <LEIID>549300QJJX6CVVUXLE15</LEIID>
+      <cik>0001317808</cik>
+      <otherUniqueId>ZS3HBLY</otherUniqueId>
+      <investmentCategory>U.S. Treasury Repurchase Agreement, if collateralized only by U.S. Treasuries (including Strips) and cash</investmentCategory>
+      <fundAcqstnUndrlyngSecurityFlag>Y</fundAcqstnUndrlyngSecurityFlag>
+      <repurchaseAgreement>
+        <repurchaseAgreementOpenFlag>N</repurchaseAgreementOpenFlag>
+        <repurchaseAgreementClearedFlag>N</repurchaseAgreementClearedFlag>
+        <repurchaseAgreementTripartyFlag>Y</repurchaseAgreementTripartyFlag>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CBB6</CUSIPMember>
+          <maturityDate>
+            <date>2027-12-31</date>
+          </maturityDate>
+          <coupon>0.625</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>11100.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>10492.09</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CJT9</CUSIPMember>
+          <maturityDate>
+            <date>2027-01-15</date>
+          </maturityDate>
+          <coupon>4</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>5277000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>5377403.41</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CEW7</CUSIPMember>
+          <maturityDate>
+            <date>2027-06-30</date>
+          </maturityDate>
+          <coupon>3.25</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>10000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>10088.92</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CBP5</CUSIPMember>
+          <maturityDate>
+            <date>2028-02-29</date>
+          </maturityDate>
+          <coupon>1.125</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>100.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>95.20</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>9128284N7</CUSIPMember>
+          <maturityDate>
+            <date>2028-05-15</date>
+          </maturityDate>
+          <coupon>2.875</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>44667600.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>44062419.17</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CGH8</CUSIPMember>
+          <maturityDate>
+            <date>2028-01-31</date>
+          </maturityDate>
+          <coupon>3.5</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>24000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>24274.39</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CCH2</CUSIPMember>
+          <maturityDate>
+            <date>2028-06-30</date>
+          </maturityDate>
+          <coupon>1.25</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>6369900.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>6052418.30</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CEC1</CUSIPMember>
+          <maturityDate>
+            <date>2027-02-28</date>
+          </maturityDate>
+          <coupon>1.875</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>60000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>59030.75</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CKJ9</CUSIPMember>
+          <maturityDate>
+            <date>2027-04-15</date>
+          </maturityDate>
+          <coupon>4.5</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>1775200.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1806682.39</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CGB1</CUSIPMember>
+          <maturityDate>
+            <date>2029-12-31</date>
+          </maturityDate>
+          <coupon>3.875</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>5267500.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>5412873.18</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CJW2</CUSIPMember>
+          <maturityDate>
+            <date>2029-01-31</date>
+          </maturityDate>
+          <coupon>4</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>100.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>102.74</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CLL3</CUSIPMember>
+          <maturityDate>
+            <date>2027-09-15</date>
+          </maturityDate>
+          <coupon>3.375</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>117800.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>118316.22</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CCE9</CUSIPMember>
+          <maturityDate>
+            <date>2028-05-31</date>
+          </maturityDate>
+          <coupon>1.25</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>14446900.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>13766663.29</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CLS8</CUSIPMember>
+          <maturityDate>
+            <date>2026-10-31</date>
+          </maturityDate>
+          <coupon>4.125</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>4999700.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>5036345.84</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CFU0</CUSIPMember>
+          <maturityDate>
+            <date>2027-10-31</date>
+          </maturityDate>
+          <coupon>4.125</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>5000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>5072.15</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CHW4</CUSIPMember>
+          <maturityDate>
+            <date>2030-08-31</date>
+          </maturityDate>
+          <coupon>4.125</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>5034300.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>5199719.92</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CGP0</CUSIPMember>
+          <maturityDate>
+            <date>2028-02-29</date>
+          </maturityDate>
+          <coupon>4</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>77000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>78583.68</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>9128286S4</CUSIPMember>
+          <maturityDate>
+            <date>2026-04-30</date>
+          </maturityDate>
+          <coupon>2.375</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>27600.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>27487.97</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CAL5</CUSIPMember>
+          <maturityDate>
+            <date>2027-09-30</date>
+          </maturityDate>
+          <coupon>0.375</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>102600.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>96987.66</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CHK0</CUSIPMember>
+          <maturityDate>
+            <date>2028-06-30</date>
+          </maturityDate>
+          <coupon>4</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>5000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>5145.05</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>9128284V9</CUSIPMember>
+          <maturityDate>
+            <date>2028-08-15</date>
+          </maturityDate>
+          <coupon>2.875</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>12700.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>12601.70</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>9128283W8</CUSIPMember>
+          <maturityDate>
+            <date>2028-02-15</date>
+          </maturityDate>
+          <coupon>2.75</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>39900.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>39582.89</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CKA8</CUSIPMember>
+          <maturityDate>
+            <date>2027-02-15</date>
+          </maturityDate>
+          <coupon>4.125</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>89600.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>91210.98</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CFZ9</CUSIPMember>
+          <maturityDate>
+            <date>2027-11-30</date>
+          </maturityDate>
+          <coupon>3.875</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>100.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>102.62</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CBZ3</CUSIPMember>
+          <maturityDate>
+            <date>2028-04-30</date>
+          </maturityDate>
+          <coupon>1.25</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>140100.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>133013.02</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CKT7</CUSIPMember>
+          <maturityDate>
+            <date>2029-05-31</date>
+          </maturityDate>
+          <coupon>4.5</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>523400.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>551619.69</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CCV1</CUSIPMember>
+          <maturityDate>
+            <date>2028-08-31</date>
+          </maturityDate>
+          <coupon>1.125</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>2295100.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2159883.92</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CHA2</CUSIPMember>
+          <maturityDate>
+            <date>2028-04-30</date>
+          </maturityDate>
+          <coupon>3.5</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>29000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>29082.16</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CAD3</CUSIPMember>
+          <maturityDate>
+            <date>2027-07-31</date>
+          </maturityDate>
+          <coupon>0.375</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>718800.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>683212.09</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CJA0</CUSIPMember>
+          <maturityDate>
+            <date>2028-09-30</date>
+          </maturityDate>
+          <coupon>4.625</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>18438300.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>19136034.15</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CCY5</CUSIPMember>
+          <maturityDate>
+            <date>2028-09-30</date>
+          </maturityDate>
+          <coupon>1.25</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>139400.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>131312.72</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CEN7</CUSIPMember>
+          <maturityDate>
+            <date>2027-04-30</date>
+          </maturityDate>
+          <coupon>2.75</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>9334100.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>9248516.31</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CFL0</CUSIPMember>
+          <maturityDate>
+            <date>2029-09-30</date>
+          </maturityDate>
+          <coupon>3.875</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>30473500.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>31017753.86</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CDF5</CUSIPMember>
+          <maturityDate>
+            <date>2028-10-31</date>
+          </maturityDate>
+          <coupon>1.375</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>14405300.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>13577780.86</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912828V98</CUSIPMember>
+          <maturityDate>
+            <date>2027-02-15</date>
+          </maturityDate>
+          <coupon>2.25</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>21065600.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>20872319.69</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CEF4</CUSIPMember>
+          <maturityDate>
+            <date>2027-03-31</date>
+          </maturityDate>
+          <coupon>2.5</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>11000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>10891.45</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CPE5</CUSIPMember>
+          <maturityDate>
+            <date>2027-10-31</date>
+          </maturityDate>
+          <coupon>3.5</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>3770900.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>3780169.56</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CPA3</CUSIPMember>
+          <maturityDate>
+            <date>2030-09-30</date>
+          </maturityDate>
+          <coupon>3.625</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>74000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>74520.94</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912797NU7</CUSIPMember>
+          <maturityDate>
+            <date>2025-12-26</date>
+          </maturityDate>
+          <coupon>0</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>200.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>199.46</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+      </repurchaseAgreement>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-01</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-01</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0408</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>185000000.00</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>185000000.00</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.2331</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313385SD9</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US313385SD98</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-01-23</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-01-23</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-01-23</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0381</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>11832897.21</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>11832897.21</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0149</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Barclays Bank plc</nameOfIssuer>
+      <titleOfIssuer>Barclays Bank plc</titleOfIssuer>
+      <coupon>4.08000000</coupon>
+      <CUSIPMember>N/A</CUSIPMember>
+      <LEIID>G5GSEF7VJP5I7OUK5573</LEIID>
+      <otherUniqueId>ZS3HC9K</otherUniqueId>
+      <investmentCategory>U.S. Treasury Repurchase Agreement, if collateralized only by U.S. Treasuries (including Strips) and cash</investmentCategory>
+      <fundAcqstnUndrlyngSecurityFlag>Y</fundAcqstnUndrlyngSecurityFlag>
+      <repurchaseAgreement>
+        <repurchaseAgreementOpenFlag>N</repurchaseAgreementOpenFlag>
+        <repurchaseAgreementClearedFlag>N</repurchaseAgreementClearedFlag>
+        <repurchaseAgreementTripartyFlag>N</repurchaseAgreementTripartyFlag>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CNF4</CUSIPMember>
+          <maturityDate>
+            <date>2032-05-31</date>
+          </maturityDate>
+          <coupon>4.125</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>50000000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>52200629.51</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+      </repurchaseAgreement>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-01</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-01</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0408</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>51161236.77</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>51161236.77</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0645</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313385SJ6</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US313385SJ68</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-01-28</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-01-28</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-01-28</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0378</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>7950861.12</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>7950861.12</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0100</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Barclays Bank plc</nameOfIssuer>
+      <titleOfIssuer>Barclays Bank plc</titleOfIssuer>
+      <coupon>4.08000000</coupon>
+      <CUSIPMember>N/A</CUSIPMember>
+      <LEIID>G5GSEF7VJP5I7OUK5573</LEIID>
+      <otherUniqueId>ZS3HC9P</otherUniqueId>
+      <investmentCategory>U.S. Treasury Repurchase Agreement, if collateralized only by U.S. Treasuries (including Strips) and cash</investmentCategory>
+      <fundAcqstnUndrlyngSecurityFlag>Y</fundAcqstnUndrlyngSecurityFlag>
+      <repurchaseAgreement>
+        <repurchaseAgreementOpenFlag>N</repurchaseAgreementOpenFlag>
+        <repurchaseAgreementClearedFlag>N</repurchaseAgreementClearedFlag>
+        <repurchaseAgreementTripartyFlag>N</repurchaseAgreementTripartyFlag>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CNF4</CUSIPMember>
+          <maturityDate>
+            <date>2032-05-31</date>
+          </maturityDate>
+          <coupon>4.125</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>46596000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>48646810.65</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+      </repurchaseAgreement>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-01</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-01</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0408</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>47677526.46</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>47677526.46</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0601</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313385QV1</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US313385QV15</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-22</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-22</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-22</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0390</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>6480626.11</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>6480626.11</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0082</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Farm Credit Banks Funding Corp.</nameOfIssuer>
+      <titleOfIssuer>Federal Farm Credit Banks Funding Corp.</titleOfIssuer>
+      <coupon>4.16000160</coupon>
+      <CUSIPMember>3133ETJ81</CUSIPMember>
+      <LEIID>254900C5LP6DN9OP9V83</LEIID>
+      <ISINId>US3133ETJ814</ISINId>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as coupon-paying notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2027-04-22</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2027-04-22</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0422</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>6749729.26</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>6749729.26</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0085</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>U.S. Treasury Bills</nameOfIssuer>
+      <titleOfIssuer>U.S. Treasury Bills</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>912797RR0</CUSIPMember>
+      <LEIID>254900HROIFWPRGM1V77</LEIID>
+      <ISINId>US912797RR03</ISINId>
+      <investmentCategory>U.S. Treasury Debt</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-02</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-02</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-02</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0391</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>35159165.12</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>35159165.12</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0443</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>U.S. Treasury Bills</nameOfIssuer>
+      <titleOfIssuer>U.S. Treasury Bills</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>912797QY6</CUSIPMember>
+      <LEIID>254900HROIFWPRGM1V77</LEIID>
+      <ISINId>US912797QY62</ISINId>
+      <investmentCategory>U.S. Treasury Debt</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-11</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-11</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-11</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0386</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>19733516.44</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>19733516.44</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0249</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Mortgage Corp.</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Mortgage Corp.</titleOfIssuer>
+      <coupon>4.12999920</coupon>
+      <CUSIPMember>3134HBXW6</CUSIPMember>
+      <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+      <ISINId>US3134HBXW63</ISINId>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as coupon-paying notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2027-01-08</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2027-01-08</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0419</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>8300979.57</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>8300979.57</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0105</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>U.S. Treasury Bills</nameOfIssuer>
+      <titleOfIssuer>U.S. Treasury Bills</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>912797SJ7</CUSIPMember>
+      <LEIID>254900HROIFWPRGM1V77</LEIID>
+      <ISINId>US912797SJ77</ISINId>
+      <investmentCategory>U.S. Treasury Debt</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-02-03</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-02-03</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-02-03</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0381</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>6133970.58</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>6133970.58</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0077</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Mortgage Corp.</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Mortgage Corp.</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313397QV6</CUSIPMember>
+      <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+      <ISINId>US313397QV60</ISINId>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-22</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-22</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-22</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0390</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>7981066.64</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>7981066.64</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0101</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313385QG4</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US313385QG48</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-09</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-09</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-09</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0388</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>8740508.70</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>8740508.70</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0110</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>4.15000080</coupon>
+      <CUSIPMember>3130B7RC0</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US3130B7RC05</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as coupon-paying notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2027-03-16</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2027-03-16</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0421</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>6569530.57</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>6569530.57</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0083</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313385QA7</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US313385QA77</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-03</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-03</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-03</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0396</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>10444847.52</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>10444847.52</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0132</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Farm Credit Banks Funding Corp.</nameOfIssuer>
+      <titleOfIssuer>Federal Farm Credit Banks Funding Corp.</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313313QB7</CUSIPMember>
+      <LEIID>254900C5LP6DN9OP9V83</LEIID>
+      <ISINId>US313313QB73</ISINId>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-04</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-04</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-04</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0398</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>4997041.65</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>4997041.65</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0063</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313385QP4</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US313385QP47</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-16</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-16</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-16</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0392</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>4142633.75</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>4142633.75</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0052</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>U.S. Treasury Bills</nameOfIssuer>
+      <titleOfIssuer>U.S. Treasury Bills</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>912797PV3</CUSIPMember>
+      <LEIID>254900HROIFWPRGM1V77</LEIID>
+      <ISINId>US912797PV33</ISINId>
+      <investmentCategory>U.S. Treasury Debt</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-03-19</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-03-19</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-03-19</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0376</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>13349994.75</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>13349994.75</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0168</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>U.S. Treasury Bills</nameOfIssuer>
+      <titleOfIssuer>U.S. Treasury Bills</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>912797RZ2</CUSIPMember>
+      <LEIID>254900HROIFWPRGM1V77</LEIID>
+      <ISINId>US912797RZ29</ISINId>
+      <investmentCategory>U.S. Treasury Debt</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-30</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-30</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-30</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0383</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>5682201.58</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>5682201.58</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0072</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Farm Credit Banks Funding Corp.</nameOfIssuer>
+      <titleOfIssuer>Federal Farm Credit Banks Funding Corp.</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313313QJ0</CUSIPMember>
+      <LEIID>254900C5LP6DN9OP9V83</LEIID>
+      <ISINId>US313313QJ00</ISINId>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-11</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-11</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-11</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0397</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>3245833.70</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>3245833.70</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0041</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Farm Credit Banks Funding Corp.</nameOfIssuer>
+      <titleOfIssuer>Federal Farm Credit Banks Funding Corp.</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313313SC3</CUSIPMember>
+      <LEIID>254900C5LP6DN9OP9V83</LEIID>
+      <ISINId>US313313SC39</ISINId>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-01-22</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-01-22</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-01-22</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0376</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>7955694.48</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>7955694.48</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0100</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>U.S. Treasury Bills</nameOfIssuer>
+      <titleOfIssuer>U.S. Treasury Bills</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>912797SG3</CUSIPMember>
+      <LEIID>254900HROIFWPRGM1V77</LEIID>
+      <ISINId>US912797SG39</ISINId>
+      <investmentCategory>U.S. Treasury Debt</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-01-20</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-01-20</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-01-20</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0383</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>12981050.19</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>12981050.19</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0164</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313385QC3</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US313385QC34</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-05</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-05</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-05</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0396</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>3997238.88</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>3997238.88</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0050</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal National Mortgage Association</nameOfIssuer>
+      <titleOfIssuer>Federal National Mortgage Association</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313589RM7</CUSIPMember>
+      <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+      <ISINId>US313589RM76</ISINId>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-01-07</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-01-07</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-01-07</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0388</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>12340095.81</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>12340095.81</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0156</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313385RC2</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US313385RC25</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-29</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-29</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-29</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0388</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>3987772.24</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>3987772.24</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0050</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>4.05000000</coupon>
+      <CUSIPMember>3130B5UX4</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US3130B5UX49</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as coupon-paying notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-15</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-15</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0411</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>9199923.18</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>9199923.18</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0116</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Mortgage Corp.</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Mortgage Corp.</titleOfIssuer>
+      <coupon>4.14500040</coupon>
+      <CUSIPMember>3134HB3V1</CUSIPMember>
+      <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+      <ISINId>US3134HB3V11</ISINId>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as coupon-paying notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2027-05-05</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2027-05-05</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0420</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>4702366.59</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>4702366.59</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0059</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313385SL1</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US313385SL15</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-01-30</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-01-30</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-01-30</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0376</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>3974625.00</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>3974625.00</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0050</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Farm Credit Banks Funding Corp.</nameOfIssuer>
+      <titleOfIssuer>Federal Farm Credit Banks Funding Corp.</titleOfIssuer>
+      <coupon>4.11999840</coupon>
+      <CUSIPMember>3133ETSZ1</CUSIPMember>
+      <LEIID>254900C5LP6DN9OP9V83</LEIID>
+      <ISINId>US3133ETSZ12</ISINId>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as coupon-paying notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-10-13</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-10-13</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0418</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>5748805.17</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>5748805.17</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0072</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>U.S. Treasury Bills</nameOfIssuer>
+      <titleOfIssuer>U.S. Treasury Bills</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>912797SH1</CUSIPMember>
+      <LEIID>254900HROIFWPRGM1V77</LEIID>
+      <ISINId>US912797SH12</ISINId>
+      <investmentCategory>U.S. Treasury Debt</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-01-27</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-01-27</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-01-27</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0384</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>14909552.10</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>14909552.10</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0188</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Farm Credit Banks Funding Corp.</nameOfIssuer>
+      <titleOfIssuer>Federal Farm Credit Banks Funding Corp.</titleOfIssuer>
+      <coupon>4.14000000</coupon>
+      <CUSIPMember>3133EREL1</CUSIPMember>
+      <LEIID>254900C5LP6DN9OP9V83</LEIID>
+      <ISINId>US3133EREL16</ISINId>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as coupon-paying notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-05-14</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-05-14</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0418</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>6001190.40</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>6001190.40</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0076</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>U.S. Treasury Bills</nameOfIssuer>
+      <titleOfIssuer>U.S. Treasury Bills</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>912797QZ3</CUSIPMember>
+      <LEIID>254900HROIFWPRGM1V77</LEIID>
+      <ISINId>US912797QZ38</ISINId>
+      <investmentCategory>U.S. Treasury Debt</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-18</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-18</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-18</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0388</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>25902104.60</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>25902104.60</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0326</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Mortgage Corp.</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Mortgage Corp.</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313397RT0</CUSIPMember>
+      <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+      <ISINId>US313397RT06</ISINId>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-01-13</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-01-13</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-01-13</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0381</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>7962944.48</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>7962944.48</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0100</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313385RG3</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US313385RG39</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-01-02</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-01-02</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-01-02</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0379</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>7971805.52</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>7971805.52</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0101</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>U.S. Treasury Bills</nameOfIssuer>
+      <titleOfIssuer>U.S. Treasury Bills</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>912797RW9</CUSIPMember>
+      <LEIID>254900HROIFWPRGM1V77</LEIID>
+      <ISINId>US912797RW97</ISINId>
+      <investmentCategory>U.S. Treasury Debt</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-09</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-09</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-09</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0396</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>3751753.84</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>3751753.84</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0047</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Barclays Bank plc</nameOfIssuer>
+      <titleOfIssuer>Barclays Bank plc</titleOfIssuer>
+      <coupon>4.08000000</coupon>
+      <CUSIPMember>N/A</CUSIPMember>
+      <LEIID>G5GSEF7VJP5I7OUK5573</LEIID>
+      <otherUniqueId>ZS3HC9J</otherUniqueId>
+      <investmentCategory>U.S. Treasury Repurchase Agreement, if collateralized only by U.S. Treasuries (including Strips) and cash</investmentCategory>
+      <fundAcqstnUndrlyngSecurityFlag>Y</fundAcqstnUndrlyngSecurityFlag>
+      <repurchaseAgreement>
+        <repurchaseAgreementOpenFlag>N</repurchaseAgreementOpenFlag>
+        <repurchaseAgreementClearedFlag>N</repurchaseAgreementClearedFlag>
+        <repurchaseAgreementTripartyFlag>N</repurchaseAgreementTripartyFlag>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CNF4</CUSIPMember>
+          <maturityDate>
+            <date>2032-05-31</date>
+          </maturityDate>
+          <coupon>4.125</coupon>
+          <yield>N/A</yield>
+          <principalAmountToTheNearestCent>50000000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>52200629.51</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+      </repurchaseAgreement>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-01</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-01</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0408</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>51161236.77</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>51161236.77</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0645</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>U.S. Treasury Bills</nameOfIssuer>
+      <titleOfIssuer>U.S. Treasury Bills</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>912797QN0</CUSIPMember>
+      <LEIID>254900HROIFWPRGM1V77</LEIID>
+      <ISINId>US912797QN08</ISINId>
+      <investmentCategory>U.S. Treasury Debt</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-05-14</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-05-14</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-05-14</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0400</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>2950063.38</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>2950063.38</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0037</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>4.00000000</coupon>
+      <CUSIPMember>3130B7JF2</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US3130B7JF28</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as coupon-paying notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-09-18</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-09-18</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-09-18</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0399</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>5684520.36</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>5684520.36</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0072</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313385RD0</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US313385RD08</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-30</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-30</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-30</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0385</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>3189902.21</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>3189902.21</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0040</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313385PY6</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US313385PY62</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-01</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-01</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0403</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>3998816.68</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>3998816.68</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0050</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>4.07499840</coupon>
+      <CUSIPMember>3130B75T7</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US3130B75T78</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as coupon-paying notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-02-17</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-02-17</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0413</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>7000188.65</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>7000188.65</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0088</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>4.12499880</coupon>
+      <CUSIPMember>3130B7LG7</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US3130B7LG72</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as coupon-paying notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-11-27</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-11-27</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0418</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>6321621.96</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>6321621.96</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0080</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313385QH2</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US313385QH21</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-10</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-10</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-10</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0397</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>15481658.39</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>15481658.39</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0195</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Farm Credit Banks Funding Corp.</nameOfIssuer>
+      <titleOfIssuer>Federal Farm Credit Banks Funding Corp.</titleOfIssuer>
+      <coupon>4.14500040</coupon>
+      <CUSIPMember>3133ETM87</CUSIPMember>
+      <LEIID>254900C5LP6DN9OP9V83</LEIID>
+      <ISINId>US3133ETM875</ISINId>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as coupon-paying notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2027-04-29</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2027-04-29</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0420</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>6252737.50</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>6252737.50</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0079</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313385QQ2</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US313385QQ20</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-17</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-17</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-17</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0391</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>18465338.22</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>18465338.22</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0233</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Farm Credit Banks Funding Corp.</nameOfIssuer>
+      <titleOfIssuer>Federal Farm Credit Banks Funding Corp.</titleOfIssuer>
+      <coupon>4.14000000</coupon>
+      <CUSIPMember>3133ETDK0</CUSIPMember>
+      <LEIID>254900C5LP6DN9OP9V83</LEIID>
+      <ISINId>US3133ETDK08</ISINId>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as coupon-paying notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-08-17</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-08-17</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0420</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>1770377.31</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>1770377.31</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0022</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>4.05500040</coupon>
+      <CUSIPMember>3130B6YG5</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US3130B6YG52</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as coupon-paying notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-02-09</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-02-09</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0411</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>6799924.38</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>6799924.38</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0086</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Home Loan Banks</nameOfIssuer>
+      <titleOfIssuer>Federal Home Loan Banks</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313385QN9</CUSIPMember>
+      <LEIID>2549001DPIFGXC1TOL40</LEIID>
+      <ISINId>US313385QN98</ISINId>
+      <cik>0001331451</cik>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-15</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-15</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-15</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0388</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>2875172.00</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>2875172.00</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0036</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal National Mortgage Association</nameOfIssuer>
+      <titleOfIssuer>Federal National Mortgage Association</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313589QC0</CUSIPMember>
+      <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+      <ISINId>US313589QC04</ISINId>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-05</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-05</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-05</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0388</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>7975490.88</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>7975490.88</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0101</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>U.S. Treasury Bills</nameOfIssuer>
+      <titleOfIssuer>U.S. Treasury Bills</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>912797SQ1</CUSIPMember>
+      <LEIID>254900HROIFWPRGM1V77</LEIID>
+      <ISINId>US912797SQ11</ISINId>
+      <investmentCategory>U.S. Treasury Debt</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-02-10</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-02-10</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-02-10</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0385</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>26942040.30</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>26942040.30</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0339</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>Federal Farm Credit Banks Funding Corp.</nameOfIssuer>
+      <titleOfIssuer>Federal Farm Credit Banks Funding Corp.</titleOfIssuer>
+      <coupon>0.00000000</coupon>
+      <CUSIPMember>313313QZ4</CUSIPMember>
+      <LEIID>254900C5LP6DN9OP9V83</LEIID>
+      <ISINId>US313313QZ42</ISINId>
+      <investmentCategory>U.S. Government Agency Debt (if categorized as no-coupon discount notes)</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2025-12-26</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2025-12-26</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2025-12-26</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0388</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>3988955.56</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>3988955.56</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0050</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <dispositionOfPortfolioSecurities/>
+    <signature>
+      <registrant>Franklin Templeton Trust</registrant>
+      <signatureDate>2025-12-04</signatureDate>
+      <signature>/s/Vivek Pai</signature>
+      <nameOfSigningOfficer>Vivek Pai</nameOfSigningOfficer>
+      <titleOfSigningOfficer>Vice President</titleOfSigningOfficer>
+    </signature>
+  </formData>
+</edgarSubmission>

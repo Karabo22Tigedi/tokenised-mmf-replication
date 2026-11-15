@@ -1,0 +1,54 @@
+{
+ "tag": "freeze_2026-10-16",
+ "started_utc": "2026-10-16T18:22:34Z",
+ "approval": "CHECKPOINTS CP11 item 3 (raw freeze now, split runner)",
+ "steps": [
+  {
+   "step": "calendar",
+   "exit": 0,
+   "secs": 0
+  },
+  {
+   "step": "edgar_pull",
+   "exit": 0,
+   "secs": 0
+  },
+  {
+   "step": "edgar_parse",
+   "exit": 0,
+   "secs": 0
+  },
+  {
+   "step": "evm",
+   "exit": 0,
+   "secs": 4491
+  },
+  {
+   "step": "stellar",
+   "exit": 0,
+   "secs": 8256
+  },
+  {
+   "step": "solana",
+   "exit": 0,
+   "secs": 8256
+  }
+ ],
+ "skipped": [
+  "aptos (no APTOS_API_KEY)",
+  "hubble (no GCP_PROJECT)"
+ ],
+ "horizon_at_start": {
+  "history_elder_ledger": 58669921,
+  "elder_closed_at": "2025-08-28T12:28:52Z",
+  "history_latest_ledger": 64977834,
+  "checked_utc": "20261016T182235Z"
+ },
+ "stellar_start_et": "2025-09-01",
+ "stellar_reach": {
+  "first_issuer_slice": "2025-09",
+  "oldest_ledger_reached": 58724400,
+  "oldest_ledger_bound_utc": "2025-09-01T04:00:00Z"
+ },
+ "finished_utc": "2026-10-16T20:40:13Z"
+}

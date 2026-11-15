@@ -1,0 +1,13 @@
+.reproduction/
+__pycache__/
+*.pyc
+.env
+.venv/
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+.DS_Store
+Thumbs.db

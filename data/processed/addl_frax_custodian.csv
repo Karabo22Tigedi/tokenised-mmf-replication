@@ -1,0 +1,2 @@
+fund,chain,address,contract_name,window,n_transfers,n_in,value_in,n_out,value_out,n_distinct_counterparties,share_of_fund_transfer_value_pct
+WTGXX,ethereum,0x860cc723935fc9a15ff8b1a94237a711dfef7857,TransparentUpgradeableProxy->FrxUSDCustodianWithReceiver,2026-01-01:2026-09-30,22,10,2678021.0,12,7429407.053409,5,8.7111

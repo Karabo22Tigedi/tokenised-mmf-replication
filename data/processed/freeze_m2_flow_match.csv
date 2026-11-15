@@ -1,0 +1,5 @@
+fund,K_label,window,nmfp_business_days,days_same_day_match,match_share_pct,sum_nmfp_gross_subs,sum_issuance_mints_on_those_days,note
+FOBXX,K3,2026-01-01:2026-09-30,187,0,0.0,306358491.43,283232240.412739,"N-MFP3 gross subscriptions are not ex-dividend (IMPL-13); issuance mints exclude TR-6 dividends; chains without events not counted: ['aptos', 'avalanche', 'base']"
+WTGXX,K3,2026-01-01:2026-09-30,186,140,75.2688,851841325.82,843296536.238885,"N-MFP3 gross subscriptions are not ex-dividend (IMPL-13); issuance mints exclude TR-6 dividends; chains without events not counted: ['avalanche', 'base', 'optimism', 'plume']"
+JLTXX,K3,2026-01-01:2026-09-30,97,11,11.3402,996607333.08,988324898.02,N-MFP3 gross subscriptions are not ex-dividend (IMPL-13); issuance mints exclude TR-6 dividends; chains without events not counted: []
+FYOXX,K3,2026-01-01:2026-09-30,189,172,91.0053,106086376.25,109019465.7,N-MFP3 gross subscriptions are not ex-dividend (IMPL-13); issuance mints exclude TR-6 dividends; chains without events not counted: []

@@ -1,0 +1,2650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/nmfp3 eis_NMFP3_Filer.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:ns2="http://www.sec.gov/edgar/statecodes" xmlns:ns3="http://www.sec.gov/edgar/nmfp3common" xmlns="http://www.sec.gov/edgar/nmfp3">
+  <headerData>
+    <submissionType>N-MFP3</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001859001</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <generalInfo>
+      <reportDate>2026-09-30</reportDate>
+      <registrantFullName>WisdomTree Digital Trust</registrantFullName>
+      <cik>0001859001</cik>
+      <registrantLEIId>549300NY04UPBR9ODB18</registrantLEIId>
+      <nameOfSeries>WisdomTree Treasury Money Market Digital Fund</nameOfSeries>
+      <leiOfSeries>25490019MZ0C1RQLYE12</leiOfSeries>
+      <seriesId>S000082184</seriesId>
+      <totalShareClassesInSeries>1</totalShareClassesInSeries>
+      <finalFilingFlag>N</finalFilingFlag>
+      <fundAcqrdOrMrgdWthAnthrFlag>N</fundAcqrdOrMrgdWthAnthrFlag>
+    </generalInfo>
+    <seriesLevelInfo>
+      <securitiesActFileNumber>333-255575</securitiesActFileNumber>
+      <adviser>
+        <adviserName>WisdomTree Digital Management, Inc.</adviserName>
+        <adviserFileNumber>801-126387</adviserFileNumber>
+      </adviser>
+      <subAdviser>
+        <adviserName>Voya Investment Management Co. LLC</adviserName>
+        <adviserFileNumber>801-09046</adviserFileNumber>
+      </subAdviser>
+      <indpPubAccountant>
+        <name>Ernst &amp; Young, LLP</name>
+        <city>New York</city>
+        <stateCountry>NY</stateCountry>
+      </indpPubAccountant>
+      <administrator>
+        <administratorName>BNY Mellon Investment Servicing (US) Inc.</administratorName>
+      </administrator>
+      <transferAgent>
+        <name>WisdomTree Transfers, Inc.</name>
+        <cik>0001846640</cik>
+        <fileNumber>084-06766</fileNumber>
+      </transferAgent>
+      <feederFundFlag>N</feederFundFlag>
+      <masterFundFlag>N</masterFundFlag>
+      <seriesFundInsuCmpnySepAccntFlag>N</seriesFundInsuCmpnySepAccntFlag>
+      <moneyMarketFundCategory>Government</moneyMarketFundCategory>
+      <fundRetailMoneyMarketFlag>N</fundRetailMoneyMarketFlag>
+      <govMoneyMrktFundFlag>Y</govMoneyMrktFundFlag>
+      <averagePortfolioMaturity>14</averagePortfolioMaturity>
+      <averageLifeMaturity>24</averageLifeMaturity>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1219977610.93</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1219977610.93</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9990</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9990</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-01</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1567837134.21</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1567837134.21</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9992</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9992</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-02</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1219846332.05</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1219846332.05</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9989</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9989</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-03</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1219936150.47</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1219936150.47</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9989</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9989</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-04</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1220262570.50</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1220262570.50</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9988</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9988</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-08</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1667654051.97</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1667654051.97</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9991</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9991</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-09</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1220220147.27</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1220220147.27</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9987</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9987</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-10</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1267294380.20</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1267294380.20</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9986</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9986</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-11</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1230346209.35</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1230346209.35</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9984</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9984</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-14</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1229567757.22</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1229567757.22</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9984</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9984</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-15</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1264852071.22</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1264852071.22</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9984</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9984</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-16</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1230481133.11</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1230481133.11</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9983</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9983</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-17</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1230519618.53</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1230519618.53</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9982</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9982</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-18</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1230809209.82</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1230809209.82</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9981</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9981</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-21</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1230212155.17</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1230212155.17</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9981</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9981</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-22</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1231270613.88</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1231270613.88</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9981</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9981</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-23</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1375867766.92</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1375867766.92</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9982</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9982</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-24</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1575497586.62</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1575497586.62</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9984</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9984</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-25</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1575770652.57</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1575770652.57</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9983</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9983</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-28</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1247353395.74</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1247353395.74</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9978</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9978</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-29</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <liquidAssetsDetails>
+        <totalValueDailyLiquidAssets>1228724583.54</totalValueDailyLiquidAssets>
+        <totalValueWeeklyLiquidAssets>1228724583.54</totalValueWeeklyLiquidAssets>
+        <percentageDailyLiquidAssets>0.9977</percentageDailyLiquidAssets>
+        <percentageWeeklyLiquidAssets>0.9977</percentageWeeklyLiquidAssets>
+        <totalLiquidAssetsNearPercentDate>2026-09-30</totalLiquidAssetsNearPercentDate>
+      </liquidAssetsDetails>
+      <cash>39349.48</cash>
+      <totalValuePortfolioSecurities>1208143987.50</totalValuePortfolioSecurities>
+      <amortizedCostPortfolioSecurities>1208200290.40</amortizedCostPortfolioSecurities>
+      <totalValueOtherAssets>23318784.25</totalValueOtherAssets>
+      <totalValueLiabilities>3886789.22</totalValueLiabilities>
+      <netAssetOfSeries>1227671634.91</netAssetOfSeries>
+      <numberOfSharesOutstanding>1227434687.0340</numberOfSharesOutstanding>
+      <seekStablePricePerShare>Y</seekStablePricePerShare>
+      <stablePricePerShare>1.0000</stablePricePerShare>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0373</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-01</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0373</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-02</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0374</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-03</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0375</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-04</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0376</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-08</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0376</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-09</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0377</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-10</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0377</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-11</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0378</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-14</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0379</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-15</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0380</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-16</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0382</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-17</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0384</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-18</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0390</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-21</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0392</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-22</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0393</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-23</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0394</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-24</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0395</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-25</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0398</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-28</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0398</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-29</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <sevenDayGrossYield>
+        <sevenDayGrossYieldValue>0.0399</sevenDayGrossYieldValue>
+        <sevenDayGrossYieldDate>2026-09-30</sevenDayGrossYieldDate>
+      </sevenDayGrossYield>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0002</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-01</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0002</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-02</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0002</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-03</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0003</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-04</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0002</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-08</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0002</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-09</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0002</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-10</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0002</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-11</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0001</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-14</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0001</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-15</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0001</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-16</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0001</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-17</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0002</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-18</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0001</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-21</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0001</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-22</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0001</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-23</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0001</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-24</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0001</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-25</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0001</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-28</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0001</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-29</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareSeries>1.0001</dailyNetAssetValuePerShareSeries>
+        <dailyNetAssetValuePerShareDateSeries>2026-09-30</dailyNetAssetValuePerShareDateSeries>
+      </dailyNetAssetValuePerShareSeries>
+      <cashMgmtVehicleAffliatedFundFlag>N</cashMgmtVehicleAffliatedFundFlag>
+      <liquidityFeeFundApplyFlag>N</liquidityFeeFundApplyFlag>
+    </seriesLevelInfo>
+    <classLevelInfo>
+      <classFullName>A</classFullName>
+      <classesId>C000245468</classesId>
+      <minInitialInvestment>1.00</minInitialInvestment>
+      <netAssetsOfClass>1227671634.91</netAssetsOfClass>
+      <numberOfSharesOutstanding>1227434687.0340</numberOfSharesOutstanding>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0002</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-01</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0002</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-02</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0002</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-03</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0003</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-04</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0002</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-08</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0002</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-09</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0002</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-10</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0002</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-11</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0001</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-14</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0001</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-15</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0001</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-16</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0001</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-17</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0002</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-18</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0001</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-21</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0001</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-22</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0001</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-23</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0001</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-24</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0001</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-25</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0001</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-28</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0001</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-29</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareClass>1.0001</dailyNetAssetValuePerShareClass>
+        <dailyNetAssetValuePerShareDateClass>2026-09-30</dailyNetAssetValuePerShareDateClass>
+      </dailyNetAssetValuePerShareClass>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>200609235.58</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>208429.42</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-01</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>4.00</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>110000.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-02</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>14.00</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>6030.20</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-03</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>541.00</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>0.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-04</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>1202.93</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>31600.58</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-08</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>143.90</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>226060.87</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-09</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>4352.26</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>30956.95</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-10</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>632.00</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>15969.35</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-11</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>10070582.33</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>51772.82</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-14</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>138599.09</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>1002650.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-15</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>1000327.11</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>1616.93</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-16</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>514.00</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>230120.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-17</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>739.49</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>1.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-18</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>25867.00</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>746.43</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-21</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>110.99</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>680895.89</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-22</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>1000801.00</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>30030.82</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-23</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>8.00</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>5042618.94</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-24</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>225523.91</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>326.83</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-25</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>10402.49</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>664.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-28</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>69.00</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>80046.04</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-29</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <dialyShareholderFlowReported>
+        <dailyGrossSubscriptions>1832762.76</dailyGrossSubscriptions>
+        <dailyGrossRedemptions>0.00</dailyGrossRedemptions>
+        <dailyShareHolderFlowDate>2026-09-30</dailyShareHolderFlowDate>
+      </dialyShareholderFlowReported>
+      <monthlyShareholderFlowReported>
+        <totalGrossSubscriptions>214922432.84</totalGrossSubscriptions>
+        <totalGrossRedemptions>7750537.07</totalGrossRedemptions>
+      </monthlyShareholderFlowReported>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0348</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-01</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0348</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-02</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0349</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-03</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0350</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-04</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0351</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-08</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0351</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-09</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0352</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-10</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0352</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-11</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0353</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-14</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0354</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-15</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0355</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-16</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0357</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-17</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0359</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-18</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0365</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-21</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0367</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-22</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0368</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-23</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0369</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-24</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0370</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-25</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0373</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-28</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0374</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-29</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <sevenDayNetYield>
+        <sevenDayNetYieldValue>0.0374</sevenDayNetYieldValue>
+        <sevenDayNetYieldDate>2026-09-30</sevenDayNetYieldDate>
+      </sevenDayNetYield>
+      <personPayForFundFlag>N</personPayForFundFlag>
+      <nameOfPersonDescExpensePay>0.00</nameOfPersonDescExpensePay>
+      <beneficialRecordOwnerCategory>
+        <beneficialRecordOwnerCategoryType>Other</beneficialRecordOwnerCategoryType>
+        <otherInvestorCategory>Institutional Investor</otherInvestorCategory>
+        <percentOutstandingSharesRecord>0.0549</percentOutstandingSharesRecord>
+        <percentOutstandingSharesBeneficial>0.0549</percentOutstandingSharesBeneficial>
+      </beneficialRecordOwnerCategory>
+      <beneficialRecordOwnerCategory>
+        <beneficialRecordOwnerCategoryType>Other</beneficialRecordOwnerCategoryType>
+        <otherInvestorCategory>Ultimate Parent Company</otherInvestorCategory>
+        <percentOutstandingSharesRecord>0.0872</percentOutstandingSharesRecord>
+        <percentOutstandingSharesBeneficial>0.0872</percentOutstandingSharesBeneficial>
+      </beneficialRecordOwnerCategory>
+      <beneficialRecordOwnerCategory>
+        <beneficialRecordOwnerCategoryType>Other</beneficialRecordOwnerCategoryType>
+        <otherInvestorCategory>Institutional Investor</otherInvestorCategory>
+        <percentOutstandingSharesRecord>0.8147</percentOutstandingSharesRecord>
+        <percentOutstandingSharesBeneficial>0.8147</percentOutstandingSharesBeneficial>
+      </beneficialRecordOwnerCategory>
+      <shareCancellationReportingPeriod>N</shareCancellationReportingPeriod>
+    </classLevelInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>BLACKROCK SELECT TREASURY BASED LIQUIDITY FUND</nameOfIssuer>
+      <titleOfIssuer>BLACKROCK SELECT TREASURY BASED LIQUIDITY FUND 3.589000%</titleOfIssuer>
+      <coupon/>
+      <CUSIPMember>09250C721</CUSIPMember>
+      <LEIID>549300ZAULWRIGH03856</LEIID>
+      <ISINId>US09250C7213</ISINId>
+      <investmentCategory>Investment Company</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-10-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-10-01</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-10-01</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0359</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>25000.00</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>25000.00</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0000</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>BNY DREYFUS STABLECOIN RESERVES FUND</nameOfIssuer>
+      <titleOfIssuer>BNY DREYFUS STABLECOIN RESERVES FUND 3.583000%</titleOfIssuer>
+      <coupon/>
+      <CUSIPMember>26203B204</CUSIPMember>
+      <LEIID>98450011CA3D3DAPB732</LEIID>
+      <ISINId>US26203B2043</ISINId>
+      <otherUniqueId>26203B204</otherUniqueId>
+      <investmentCategory>Investment Company</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-10-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-10-01</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-10-01</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0358</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>25000.00</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>25000.00</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0000</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>UNITED STATES TREASURY BILL</nameOfIssuer>
+      <titleOfIssuer>UNITED STATES TREASURY BILL</titleOfIssuer>
+      <coupon/>
+      <CUSIPMember>912797UM7</CUSIPMember>
+      <LEIID>254900HROIFWPRGM1V77</LEIID>
+      <ISINId>US912797UM78</ISINId>
+      <investmentCategory>U.S. Treasury Debt</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-11-05</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-11-05</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-11-05</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0389</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>24905440.25</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>24905440.25</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0203</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>UNITED STATES TREASURY BILL</nameOfIssuer>
+      <titleOfIssuer>UNITED STATES TREASURY BILL</titleOfIssuer>
+      <coupon/>
+      <CUSIPMember>912797VA2</CUSIPMember>
+      <LEIID>254900HROIFWPRGM1V77</LEIID>
+      <ISINId>US912797VA22</ISINId>
+      <investmentCategory>U.S. Treasury Debt</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-12-03</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-12-03</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-12-03</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0398</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>99303945.00</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>99303945.00</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0809</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>UNITED STATES TREASURY BILL</nameOfIssuer>
+      <titleOfIssuer>UNITED STATES TREASURY BILL</titleOfIssuer>
+      <coupon/>
+      <CUSIPMember>912797VN4</CUSIPMember>
+      <LEIID>254900HROIFWPRGM1V77</LEIID>
+      <ISINId>US912797VN43</ISINId>
+      <investmentCategory>U.S. Treasury Debt</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-10-27</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-10-27</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-10-27</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0383</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>349031270.00</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>349031270.00</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.2843</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>UNITED STATES TREASURY FLOATING RATE NOTE</nameOfIssuer>
+      <titleOfIssuer>UNITED STATES TREASURY FLOATING RATE NOTE 4.358140%</titleOfIssuer>
+      <coupon/>
+      <CUSIPMember>91282CLT6</CUSIPMember>
+      <LEIID>254900HROIFWPRGM1V77</LEIID>
+      <ISINId>US91282CLT61</ISINId>
+      <investmentCategory>U.S. Treasury Debt</investmentCategory>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-10-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-10-31</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-10-31</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0431</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>400029332.25</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>400029332.25</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.3258</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>DAIWA CAPITAL MARKETS</nameOfIssuer>
+      <titleOfIssuer>TRI-PARTY DAIWA CAPITAL M 3.860000%</titleOfIssuer>
+      <coupon/>
+      <CUSIPMember>BIN2M5X25</CUSIPMember>
+      <LEIID>3358007NM22VVYUYD844</LEIID>
+      <cik>0000026617</cik>
+      <otherUniqueId>BIN2M5X25</otherUniqueId>
+      <investmentCategory>U.S. Government Agency Repurchase Agreement, collateralized only by U.S. Government Agency securities, U.S. Treasuries, and cash</investmentCategory>
+      <fundAcqstnUndrlyngSecurityFlag>Y</fundAcqstnUndrlyngSecurityFlag>
+      <repurchaseAgreement>
+        <repurchaseAgreementOpenFlag>N</repurchaseAgreementOpenFlag>
+        <repurchaseAgreementClearedFlag>N</repurchaseAgreementClearedFlag>
+        <nameOfCCP/>
+        <repurchaseAgreementTripartyFlag>Y</repurchaseAgreementTripartyFlag>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>3130G36N3</CUSIPMember>
+          <maturityDate>
+            <date>2056-09-01</date>
+          </maturityDate>
+          <coupon>5.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2491.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2401.10</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>3131XJRW4</CUSIPMember>
+          <maturityDate>
+            <date>2042-06-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>20378701.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2088681.70</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>3133AJN90</CUSIPMember>
+          <maturityDate>
+            <date>2051-04-01</date>
+          </maturityDate>
+          <coupon>2.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3796455.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2189998.94</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>3133CVPT5</CUSIPMember>
+          <maturityDate>
+            <date>2054-09-01</date>
+          </maturityDate>
+          <coupon>5.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>13303.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>8723.97</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>3133KNDV2</CUSIPMember>
+          <maturityDate>
+            <date>2052-05-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2220000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1404968.93</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>3133KY6P9</CUSIPMember>
+          <maturityDate>
+            <date>2045-12-01</date>
+          </maturityDate>
+          <coupon>5.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2604.91</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3138EJJH2</CUSIPMember>
+          <maturityDate>
+            <date>2042-01-01</date>
+          </maturityDate>
+          <coupon>4.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1043.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>51.80</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140Q94L4</CUSIPMember>
+          <maturityDate>
+            <date>2048-11-01</date>
+          </maturityDate>
+          <coupon>4.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>10000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2159.87</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140QETU6</CUSIPMember>
+          <maturityDate>
+            <date>2035-09-01</date>
+          </maturityDate>
+          <coupon>2.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>6000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1935.82</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140QNL83</CUSIPMember>
+          <maturityDate>
+            <date>2052-03-01</date>
+          </maturityDate>
+          <coupon>2.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>5964.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>3693.78</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140QP2Q9</CUSIPMember>
+          <maturityDate>
+            <date>2052-08-01</date>
+          </maturityDate>
+          <coupon>4.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>706.45</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140UVQ51</CUSIPMember>
+          <maturityDate>
+            <date>2056-08-01</date>
+          </maturityDate>
+          <coupon>5.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>4027684.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>3723824.04</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140W4AT4</CUSIPMember>
+          <maturityDate>
+            <date>2053-12-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>4000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>3174.37</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140W4HF7</CUSIPMember>
+          <maturityDate>
+            <date>2049-08-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>811.57</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140XBGV6</CUSIPMember>
+          <maturityDate>
+            <date>2051-05-01</date>
+          </maturityDate>
+          <coupon>2.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>4000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2227.32</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140XF6R7</CUSIPMember>
+          <maturityDate>
+            <date>2052-03-01</date>
+          </maturityDate>
+          <coupon>2.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1698.59</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140XH3T2</CUSIPMember>
+          <maturityDate>
+            <date>2052-08-01</date>
+          </maturityDate>
+          <coupon>4.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>592.18</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140XH5W3</CUSIPMember>
+          <maturityDate>
+            <date>2052-02-01</date>
+          </maturityDate>
+          <coupon>2.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1828.61</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140XL6Z6</CUSIPMember>
+          <maturityDate>
+            <date>2052-05-01</date>
+          </maturityDate>
+          <coupon>2.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1997.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1323.96</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140XLV39</CUSIPMember>
+          <maturityDate>
+            <date>2051-09-01</date>
+          </maturityDate>
+          <coupon>3.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>4000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2686.98</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140XM5S1</CUSIPMember>
+          <maturityDate>
+            <date>2052-08-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1380.69</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140XNUH5</CUSIPMember>
+          <maturityDate>
+            <date>2053-05-01</date>
+          </maturityDate>
+          <coupon>4.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>4000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2606.59</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140XNZ72</CUSIPMember>
+          <maturityDate>
+            <date>2053-03-01</date>
+          </maturityDate>
+          <coupon>3.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1339.54</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140XQ6H5</CUSIPMember>
+          <maturityDate>
+            <date>2039-09-01</date>
+          </maturityDate>
+          <coupon>6.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1319.07</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140XQZS9</CUSIPMember>
+          <maturityDate>
+            <date>2052-04-01</date>
+          </maturityDate>
+          <coupon>2.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>680.32</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140XRAP0</CUSIPMember>
+          <maturityDate>
+            <date>2052-06-01</date>
+          </maturityDate>
+          <coupon>3.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2175.62</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140XRLE3</CUSIPMember>
+          <maturityDate>
+            <date>2052-09-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1516.78</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140XRVC6</CUSIPMember>
+          <maturityDate>
+            <date>2052-10-01</date>
+          </maturityDate>
+          <coupon>2.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2773.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1868.85</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140XTBC4</CUSIPMember>
+          <maturityDate>
+            <date>2050-10-25</date>
+          </maturityDate>
+          <coupon>2.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1908.84</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>3140Y6TR1</CUSIPMember>
+          <maturityDate>
+            <date>2055-06-01</date>
+          </maturityDate>
+          <coupon>5.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2555.76</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418CR89</CUSIPMember>
+          <maturityDate>
+            <date>2047-12-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>6994.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>770.02</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418CV27</CUSIPMember>
+          <maturityDate>
+            <date>2048-04-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>109.40</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418D2L5</CUSIPMember>
+          <maturityDate>
+            <date>2051-07-01</date>
+          </maturityDate>
+          <coupon>2.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>9000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>4791.51</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418D3Y6</CUSIPMember>
+          <maturityDate>
+            <date>2051-09-01</date>
+          </maturityDate>
+          <coupon>2.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1568.65</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418D6C1</CUSIPMember>
+          <maturityDate>
+            <date>2051-11-01</date>
+          </maturityDate>
+          <coupon>2.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1999.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1088.81</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418D7F3</CUSIPMember>
+          <maturityDate>
+            <date>2051-12-01</date>
+          </maturityDate>
+          <coupon>2.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>552.64</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418DB92</CUSIPMember>
+          <maturityDate>
+            <date>2049-05-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1999.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>124.27</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418DBF8</CUSIPMember>
+          <maturityDate>
+            <date>2049-04-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>63.60</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418DC67</CUSIPMember>
+          <maturityDate>
+            <date>2049-07-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>152.25</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418DCX8</CUSIPMember>
+          <maturityDate>
+            <date>2049-06-01</date>
+          </maturityDate>
+          <coupon>3.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>168.90</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418DCY6</CUSIPMember>
+          <maturityDate>
+            <date>2049-06-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>10000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>727.45</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418DES7</CUSIPMember>
+          <maturityDate>
+            <date>2049-08-01</date>
+          </maturityDate>
+          <coupon>3.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>186.92</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418DHL9</CUSIPMember>
+          <maturityDate>
+            <date>2049-11-01</date>
+          </maturityDate>
+          <coupon>3.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>132.80</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418DKU5</CUSIPMember>
+          <maturityDate>
+            <date>2050-01-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>350.37</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418DNH1</CUSIPMember>
+          <maturityDate>
+            <date>2050-04-01</date>
+          </maturityDate>
+          <coupon>3.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>11000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1835.83</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418DPE6</CUSIPMember>
+          <maturityDate>
+            <date>2050-05-01</date>
+          </maturityDate>
+          <coupon>3.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>12000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2569.68</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418DQA3</CUSIPMember>
+          <maturityDate>
+            <date>2050-06-01</date>
+          </maturityDate>
+          <coupon>3.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>7056.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1612.29</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418DV82</CUSIPMember>
+          <maturityDate>
+            <date>2051-01-01</date>
+          </maturityDate>
+          <coupon>2.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1226.28</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418E2A7</CUSIPMember>
+          <maturityDate>
+            <date>2039-02-01</date>
+          </maturityDate>
+          <coupon>6.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1012.44</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418E3E8</CUSIPMember>
+          <maturityDate>
+            <date>2054-03-01</date>
+          </maturityDate>
+          <coupon>5.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3003.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1939.52</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418EB82</CUSIPMember>
+          <maturityDate>
+            <date>2052-03-01</date>
+          </maturityDate>
+          <coupon>2.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>577.74</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418EBR0</CUSIPMember>
+          <maturityDate>
+            <date>2052-02-01</date>
+          </maturityDate>
+          <coupon>2.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>8000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>4620.85</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418EBS8</CUSIPMember>
+          <maturityDate>
+            <date>2052-02-01</date>
+          </maturityDate>
+          <coupon>2.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>569.37</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418ECA6</CUSIPMember>
+          <maturityDate>
+            <date>2052-03-01</date>
+          </maturityDate>
+          <coupon>3.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>9000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>5178.09</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418ECB4</CUSIPMember>
+          <maturityDate>
+            <date>2052-03-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1068.71</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418ECQ1</CUSIPMember>
+          <maturityDate>
+            <date>2052-04-01</date>
+          </maturityDate>
+          <coupon>2.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1767.30</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418ECS7</CUSIPMember>
+          <maturityDate>
+            <date>2052-04-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3002.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1734.45</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418ED56</CUSIPMember>
+          <maturityDate>
+            <date>2052-06-01</date>
+          </maturityDate>
+          <coupon>2.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1217.42</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418EDC1</CUSIPMember>
+          <maturityDate>
+            <date>2052-05-01</date>
+          </maturityDate>
+          <coupon>2.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>8000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>4844.16</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418EDE7</CUSIPMember>
+          <maturityDate>
+            <date>2052-05-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>4000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2438.11</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418EE63</CUSIPMember>
+          <maturityDate>
+            <date>2052-07-01</date>
+          </maturityDate>
+          <coupon>4.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>649.61</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418EHG8</CUSIPMember>
+          <maturityDate>
+            <date>2052-09-01</date>
+          </maturityDate>
+          <coupon>3.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>8000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>5171.72</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418EHJ2</CUSIPMember>
+          <maturityDate>
+            <date>2052-09-01</date>
+          </maturityDate>
+          <coupon>4.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>11000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>7311.99</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418EJ43</CUSIPMember>
+          <maturityDate>
+            <date>2052-10-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>669.32</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418EJ50</CUSIPMember>
+          <maturityDate>
+            <date>2052-10-01</date>
+          </maturityDate>
+          <coupon>4.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1334.06</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418EJ68</CUSIPMember>
+          <maturityDate>
+            <date>2052-10-01</date>
+          </maturityDate>
+          <coupon>4.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1303.08</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418EPT1</CUSIPMember>
+          <maturityDate>
+            <date>2053-02-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>672.12</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418EQR4</CUSIPMember>
+          <maturityDate>
+            <date>2053-03-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>24983.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>17041.72</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418ERW2</CUSIPMember>
+          <maturityDate>
+            <date>2053-04-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>720.58</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418ESR2</CUSIPMember>
+          <maturityDate>
+            <date>2053-05-01</date>
+          </maturityDate>
+          <coupon>4.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>4000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2851.14</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418ET42</CUSIPMember>
+          <maturityDate>
+            <date>2053-07-01</date>
+          </maturityDate>
+          <coupon>4.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2158.93</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418ET59</CUSIPMember>
+          <maturityDate>
+            <date>2053-07-01</date>
+          </maturityDate>
+          <coupon>5.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3022.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2137.28</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418EU73</CUSIPMember>
+          <maturityDate>
+            <date>2053-08-01</date>
+          </maturityDate>
+          <coupon>4.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>728.08</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418EU99</CUSIPMember>
+          <maturityDate>
+            <date>2053-08-01</date>
+          </maturityDate>
+          <coupon>5.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>4000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2587.59</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418EUP3</CUSIPMember>
+          <maturityDate>
+            <date>2053-07-01</date>
+          </maturityDate>
+          <coupon>4.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1421.00</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418EVV9</CUSIPMember>
+          <maturityDate>
+            <date>2053-08-01</date>
+          </maturityDate>
+          <coupon>4.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1437.04</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418EX88</CUSIPMember>
+          <maturityDate>
+            <date>2038-11-01</date>
+          </maturityDate>
+          <coupon>6.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>6000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2195.24</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418EXS4</CUSIPMember>
+          <maturityDate>
+            <date>2053-11-01</date>
+          </maturityDate>
+          <coupon>4.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>4000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>3026.80</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418EYS3</CUSIPMember>
+          <maturityDate>
+            <date>2038-12-01</date>
+          </maturityDate>
+          <coupon>6.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>700.59</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418F2K2</CUSIPMember>
+          <maturityDate>
+            <date>2056-09-01</date>
+          </maturityDate>
+          <coupon>6.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1892.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1854.51</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418FEA1</CUSIPMember>
+          <maturityDate>
+            <date>2054-11-01</date>
+          </maturityDate>
+          <coupon>4.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>796.61</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418FEC7</CUSIPMember>
+          <maturityDate>
+            <date>2054-11-01</date>
+          </maturityDate>
+          <coupon>5.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1994.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1572.85</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418FED5</CUSIPMember>
+          <maturityDate>
+            <date>2054-11-01</date>
+          </maturityDate>
+          <coupon>5.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>719.68</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418FEY9</CUSIPMember>
+          <maturityDate>
+            <date>2054-12-01</date>
+          </maturityDate>
+          <coupon>4.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>5000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>4035.75</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418FF28</CUSIPMember>
+          <maturityDate>
+            <date>2055-01-01</date>
+          </maturityDate>
+          <coupon>4.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>811.92</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418FGX9</CUSIPMember>
+          <maturityDate>
+            <date>2055-02-01</date>
+          </maturityDate>
+          <coupon>5.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2999.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2383.42</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418FKM8</CUSIPMember>
+          <maturityDate>
+            <date>2055-05-01</date>
+          </maturityDate>
+          <coupon>5.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>4000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>3301.75</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418FLM7</CUSIPMember>
+          <maturityDate>
+            <date>2055-06-01</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1601.38</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418FMV6</CUSIPMember>
+          <maturityDate>
+            <date>2040-07-01</date>
+          </maturityDate>
+          <coupon>5.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>4399.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>3056.58</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418FMW4</CUSIPMember>
+          <maturityDate>
+            <date>2040-07-01</date>
+          </maturityDate>
+          <coupon>5.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>663.21</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418FNS2</CUSIPMember>
+          <maturityDate>
+            <date>2040-08-01</date>
+          </maturityDate>
+          <coupon>5.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>698.64</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418FSF5</CUSIPMember>
+          <maturityDate>
+            <date>2040-12-01</date>
+          </maturityDate>
+          <coupon>5.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1547.85</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418FTH0</CUSIPMember>
+          <maturityDate>
+            <date>2041-01-01</date>
+          </maturityDate>
+          <coupon>5.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>849.48</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418FU88</CUSIPMember>
+          <maturityDate>
+            <date>2041-03-01</date>
+          </maturityDate>
+          <coupon>6.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1847.16</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418FUA3</CUSIPMember>
+          <maturityDate>
+            <date>2041-02-01</date>
+          </maturityDate>
+          <coupon>4.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1728.35</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418FWN3</CUSIPMember>
+          <maturityDate>
+            <date>2056-05-01</date>
+          </maturityDate>
+          <coupon>4.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1300077.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1154078.62</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418FWY9</CUSIPMember>
+          <maturityDate>
+            <date>2041-05-01</date>
+          </maturityDate>
+          <coupon>5.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>2837.94</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal National Mortgage Association</nameOfCollateralIssuer>
+          <LEIID>B1V7KEBTPIMZEU4LTD58</LEIID>
+          <CUSIPMember>31418FZK6</CUSIPMember>
+          <maturityDate>
+            <date>2056-08-01</date>
+          </maturityDate>
+          <coupon>5.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>4000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>3779.49</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>31427AVC8</CUSIPMember>
+          <maturityDate>
+            <date>2055-09-01</date>
+          </maturityDate>
+          <coupon>5.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3627683.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>3213275.98</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>31427MTP6</CUSIPMember>
+          <maturityDate>
+            <date>2055-01-01</date>
+          </maturityDate>
+          <coupon>6.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1180.78</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>31427Q3N0</CUSIPMember>
+          <maturityDate>
+            <date>2055-10-01</date>
+          </maturityDate>
+          <coupon>6.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>4013.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>3355.99</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>31427QCG5</CUSIPMember>
+          <maturityDate>
+            <date>2055-05-01</date>
+          </maturityDate>
+          <coupon>6.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2291.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1900.43</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>31427QEK4</CUSIPMember>
+          <maturityDate>
+            <date>2055-03-01</date>
+          </maturityDate>
+          <coupon>5.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2085.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1751.25</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>31427RB41</CUSIPMember>
+          <maturityDate>
+            <date>2053-10-01</date>
+          </maturityDate>
+          <coupon>3.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1566.98</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>31427UJ38</CUSIPMember>
+          <maturityDate>
+            <date>2056-09-01</date>
+          </maturityDate>
+          <coupon>5.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>836320.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>805072.20</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>3142GTTB2</CUSIPMember>
+          <maturityDate>
+            <date>2055-01-01</date>
+          </maturityDate>
+          <coupon>5.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>6882878.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>5698203.23</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>3142GWPT0</CUSIPMember>
+          <maturityDate>
+            <date>2056-01-01</date>
+          </maturityDate>
+          <coupon>5.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>12924300.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>11654751.59</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>3142J6AN3</CUSIPMember>
+          <maturityDate>
+            <date>2055-06-01</date>
+          </maturityDate>
+          <coupon>5.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>7003.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>5916.38</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>3142J6CX9</CUSIPMember>
+          <maturityDate>
+            <date>2056-01-01</date>
+          </maturityDate>
+          <coupon>5.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>2000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1732.96</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>3142J6EB5</CUSIPMember>
+          <maturityDate>
+            <date>2056-06-01</date>
+          </maturityDate>
+          <coupon>6.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>4000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>3673.71</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>3142JCBJ8</CUSIPMember>
+          <maturityDate>
+            <date>2040-11-01</date>
+          </maturityDate>
+          <coupon>6.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>758.48</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>3142JCBX7</CUSIPMember>
+          <maturityDate>
+            <date>2041-01-01</date>
+          </maturityDate>
+          <coupon>4.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>5000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>4188.30</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>3142JCDN7</CUSIPMember>
+          <maturityDate>
+            <date>2041-08-01</date>
+          </maturityDate>
+          <coupon>5.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>929.20</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Federal Home Loan Mortgage Corporation</nameOfCollateralIssuer>
+          <LEIID>S6XOOCT0IEG5ABCC6L87</LEIID>
+          <CUSIPMember>3142JR3P0</CUSIPMember>
+          <maturityDate>
+            <date>2056-01-01</date>
+          </maturityDate>
+          <coupon>5.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1000000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>907931.87</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Government National Mortgage Association II</nameOfCollateralIssuer>
+          <LEIID>549300M8ZYFG0OCMTT87</LEIID>
+          <CUSIPMember>36179V7D6</CUSIPMember>
+          <maturityDate>
+            <date>2051-02-20</date>
+          </maturityDate>
+          <coupon>2.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>496000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>216075.14</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Government National Mortgage Association II</nameOfCollateralIssuer>
+          <LEIID>549300M8ZYFG0OCMTT87</LEIID>
+          <CUSIPMember>3618N6R66</CUSIPMember>
+          <maturityDate>
+            <date>2051-01-20</date>
+          </maturityDate>
+          <coupon>3.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>67006.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>55991.67</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Government National Mortgage Association II</nameOfCollateralIssuer>
+          <LEIID>549300M8ZYFG0OCMTT87</LEIID>
+          <CUSIPMember>3618N6R74</CUSIPMember>
+          <maturityDate>
+            <date>2046-08-20</date>
+          </maturityDate>
+          <coupon>3.500000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>289029.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>241563.05</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Government National Mortgage Association II</nameOfCollateralIssuer>
+          <LEIID>549300M8ZYFG0OCMTT87</LEIID>
+          <CUSIPMember>3618N6R82</CUSIPMember>
+          <maturityDate>
+            <date>2056-09-20</date>
+          </maturityDate>
+          <coupon>4.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>124467.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>107767.54</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>Government National Mortgage Association II</nameOfCollateralIssuer>
+          <LEIID>549300M8ZYFG0OCMTT87</LEIID>
+          <CUSIPMember>3618N6SA6</CUSIPMember>
+          <maturityDate>
+            <date>2056-08-20</date>
+          </maturityDate>
+          <coupon>5.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>652932.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>609092.04</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury Note</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912828YU8</CUSIPMember>
+          <maturityDate>
+            <date>2026-11-30</date>
+          </maturityDate>
+          <coupon>1.625000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>764900.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>765907.88</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury Note</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CBZ3</CUSIPMember>
+          <maturityDate>
+            <date>2028-04-30</date>
+          </maturityDate>
+          <coupon>1.250000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3847900.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>3660407.27</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury Note</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CCR0</CUSIPMember>
+          <maturityDate>
+            <date>2028-07-31</date>
+          </maturityDate>
+          <coupon>1.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>20906000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>19539993.78</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury Note</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CEC1</CUSIPMember>
+          <maturityDate>
+            <date>2027-02-28</date>
+          </maturityDate>
+          <coupon>1.875000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>24800.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>24596.12</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury Note</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CEP2</CUSIPMember>
+          <maturityDate>
+            <date>2032-05-15</date>
+          </maturityDate>
+          <coupon>2.875000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>1200.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>1082.08</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury Note</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CFY2</CUSIPMember>
+          <maturityDate>
+            <date>2029-11-30</date>
+          </maturityDate>
+          <coupon>3.875000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>7760900.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>7606346.85</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury Inflation Indexed Bonds</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CGW5</CUSIPMember>
+          <maturityDate>
+            <date>2028-04-15</date>
+          </maturityDate>
+          <coupon>1.250000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>250000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>273898.89</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury Note</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CJT9</CUSIPMember>
+          <maturityDate>
+            <date>2027-01-15</date>
+          </maturityDate>
+          <coupon>4.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>4900000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>4938345.27</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury Note</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CLZ2</CUSIPMember>
+          <maturityDate>
+            <date>2031-11-30</date>
+          </maturityDate>
+          <coupon>4.125000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>11192200.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>10857911.37</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury Note</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CMF5</CUSIPMember>
+          <maturityDate>
+            <date>2028-01-15</date>
+          </maturityDate>
+          <coupon>4.250000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>8587800.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>8609704.58</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury Note</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CQS3</CUSIPMember>
+          <maturityDate>
+            <date>2028-05-31</date>
+          </maturityDate>
+          <coupon>4.000000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>12401100.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>12402815.49</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury Note</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CQZ7</CUSIPMember>
+          <maturityDate>
+            <date>2029-07-15</date>
+          </maturityDate>
+          <coupon>4.125000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>20200.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>19933.56</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury Inflation Indexed Bonds</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>91282CRE3</CUSIPMember>
+          <maturityDate>
+            <date>2036-07-15</date>
+          </maturityDate>
+          <coupon>2.375000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>3561000.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>3414570.17</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+      </repurchaseAgreement>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-10-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-10-01</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-10-01</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0386</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>104000000.00</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>104000000.00</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0847</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>TRI-PARTY DEUTSCHE BANK A</nameOfIssuer>
+      <titleOfIssuer>TRI-PARTY DEUTSCHE BANK A 3.870000%</titleOfIssuer>
+      <coupon/>
+      <CUSIPMember>BIN2M6LY6</CUSIPMember>
+      <LEIID>7LTWFZYICNSX8D621K86</LEIID>
+      <cik>0001074042</cik>
+      <otherUniqueId>BIN2M6LY6</otherUniqueId>
+      <investmentCategory>U.S. Treasury Repurchase Agreement, if collateralized only by U.S. Treasuries (including Strips) and cash</investmentCategory>
+      <fundAcqstnUndrlyngSecurityFlag>Y</fundAcqstnUndrlyngSecurityFlag>
+      <repurchaseAgreement>
+        <repurchaseAgreementOpenFlag>N</repurchaseAgreementOpenFlag>
+        <repurchaseAgreementClearedFlag>N</repurchaseAgreementClearedFlag>
+        <nameOfCCP/>
+        <repurchaseAgreementTripartyFlag>Y</repurchaseAgreementTripartyFlag>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury Bond</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912810QB7</CUSIPMember>
+          <maturityDate>
+            <date>2039-05-15</date>
+          </maturityDate>
+          <coupon>4.250000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>146515400.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>134163638.98</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+        <collateralIssuers>
+          <nameOfCollateralIssuer>United States Treasury Bond</nameOfCollateralIssuer>
+          <LEIID>254900HROIFWPRGM1V77</LEIID>
+          <CUSIPMember>912810RY6</CUSIPMember>
+          <maturityDate>
+            <date>2047-08-15</date>
+          </maturityDate>
+          <coupon>2.750000</coupon>
+          <yield>0.00</yield>
+          <principalAmountToTheNearestCent>156641100.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>101276851.45</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>U.S. Treasuries (including strips)</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+      </repurchaseAgreement>
+      <securityEligibilityFlag>Y</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2026-10-01</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2026-10-01</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2026-10-01</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0387</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>230824000.00</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>230824000.00</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.1880</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>Y</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>Y</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <dispositionOfPortfolioSecurities/>
+    <signature>
+      <registrant>WisdomTree Digital Trust</registrant>
+      <signatureDate>2026-10-07</signatureDate>
+      <signature>Clint Martin</signature>
+      <nameOfSigningOfficer>Clint Martin</nameOfSigningOfficer>
+      <titleOfSigningOfficer>Assistant Treasurer</titleOfSigningOfficer>
+    </signature>
+  </formData>
+</edgarSubmission>

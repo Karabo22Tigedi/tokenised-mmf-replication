@@ -1,0 +1,4 @@
+fund,window,wallet_mode,hh_value_shares,nmfp_gross_reds_sum,n_nmfp_days,hh_value_share_of_gross_reds_pct,upper_nonta_value_shares,upper_value_share_of_gross_reds_pct
+WTGXX,2026-01-01:2026-09-30,with_wallet,32102192.351066,357685298.52,186,8.975,45029264.113628,12.5891
+WTGXX,2026-01-01:2026-09-30,excl_wallet_numerator,100198.415284,357685298.52,186,0.028,13027270.177846,3.6421
+FOBXX,2026-01-01:2026-09-30,with_wallet,8020222.18,404324313.62,187,1.9836,8020222.18,1.9836

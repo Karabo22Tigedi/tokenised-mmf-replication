@@ -1,0 +1,132 @@
+fund,test,value,note
+FOBXX,d_recomputed_same_day_match_days,0,05_measures.py value 0 of 187; recomputed of 187
+FOBXX,d_recomputed_same_day_match_pct,0.0,05_measures.py value 0.0
+FOBXX,d_recomputed_equals_measure,1,1 = identical
+FOBXX,nmfp_days_with_dividend_mints_same_day,187,of 187
+FOBXX,nmfp_days_with_issuance_mints_same_day,187,of 187
+FOBXX,nmfp_days_with_zero_subs,0,of 187
+FOBXX,residual_subs_minus_issuance_positive_days,166,of 187; residual > 1 share
+FOBXX,residual_subs_minus_issuance_negative_days,21,of 187
+FOBXX,residual_median,77634.0175,shares
+FOBXX,b_match_subs_eq_issuance_plus_div_same_day_pct,1.0695,2 of 187 days
+FOBXX,b_match_subs_eq_issuance_plus_div_prev_cal_day_pct,1.0695,2 of 187 days
+FOBXX,b_ratio_residual_to_same_day_div_median_on_no_issuance_days,,n=0 days
+FOBXX,b_same_day_match_pct_on_days_without_dividend_mints,,0 of 0 days
+FOBXX,b_same_day_match_pct_on_days_with_dividend_mints,0.0,0 of 187 days
+FOBXX,b2_match_subs_eq_issuance_plus_div_since_prev_nmfp_day_pct,1.0695,2 of 187 days
+FOBXX,b2_within_1pct_share,9.6257,18 of 187 days
+FOBXX,b2_within_5pct_share,16.5775,31 of 187 days
+FOBXX,b2_residual_after_div_sum,5450355.2,N-MFP3 subs - issuance - accrued dividend mints (event chains)
+FOBXX,b2_residual_after_div_positive_days,151,of 187
+FOBXX,b2_residual_after_div_median,11186.7298,shares
+FOBXX,c_match_subs_eq_next_cal_day_issuance_pct,0.0,0 of 187 days
+FOBXX,c_match_subs_eq_next_business_day_issuance_pct,0.0,0 of 187 days
+FOBXX,bc_match_subs_eq_next_bd_issuance_plus_div_pct,0.0,0 of 187 days
+FOBXX,a_sum_nmfp_subs,306358491.43,window business days
+FOBXX,a_sum_issuance_same_day,283232240.412739,event chains only
+FOBXX,a_sum_div_mints_same_day,12429709.719708,event chains only
+FOBXX,a_sum_div_mints_all_window_days,17675895.82004,incl. weekends/holidays; event chains only
+FOBXX,a_issuance_window_chain_solana,309369.825284,
+FOBXX,a_issuance_window_chain_stellar,282973549.28707,
+FOBXX,same_day_within_1pct_share,2.139,4 of 187 days
+FOBXX,same_day_within_5pct_share,8.5561,16 of 187 days
+WTGXX,d_recomputed_same_day_match_days,140,05_measures.py value 140 of 186; recomputed of 186
+WTGXX,d_recomputed_same_day_match_pct,75.2688,05_measures.py value 75.2688
+WTGXX,d_recomputed_equals_measure,1,1 = identical
+WTGXX,nmfp_days_with_dividend_mints_same_day,17,of 186
+WTGXX,nmfp_days_with_issuance_mints_same_day,184,of 186
+WTGXX,nmfp_days_with_zero_subs,3,of 186
+WTGXX,residual_subs_minus_issuance_positive_days,39,of 186; residual > 1 share
+WTGXX,residual_subs_minus_issuance_negative_days,19,of 186
+WTGXX,residual_median,0.0,shares
+WTGXX,b_match_subs_eq_issuance_plus_div_same_day_pct,82.2581,153 of 186 days
+WTGXX,b_match_subs_eq_issuance_plus_div_prev_cal_day_pct,69.8925,130 of 186 days
+WTGXX,b_ratio_residual_to_same_day_div_median_on_no_issuance_days,,n=0 days
+WTGXX,b_same_day_match_pct_on_days_without_dividend_mints,82.2485,139 of 169 days
+WTGXX,b_same_day_match_pct_on_days_with_dividend_mints,5.8824,1 of 17 days
+WTGXX,b2_match_subs_eq_issuance_plus_div_since_prev_nmfp_day_pct,82.2581,153 of 186 days
+WTGXX,b2_within_1pct_share,84.9462,158 of 186 days
+WTGXX,b2_within_5pct_share,90.8602,169 of 186 days
+WTGXX,b2_residual_after_div_sum,1565184.86,N-MFP3 subs - issuance - accrued dividend mints (event chains)
+WTGXX,b2_residual_after_div_positive_days,29,of 186
+WTGXX,b2_residual_after_div_median,0.0,shares
+WTGXX,c_match_subs_eq_next_cal_day_issuance_pct,0.5376,1 of 186 days
+WTGXX,c_match_subs_eq_next_business_day_issuance_pct,0.0,0 of 186 days
+WTGXX,bc_match_subs_eq_next_bd_issuance_plus_div_pct,0.0,0 of 186 days
+WTGXX,a_sum_nmfp_subs,851841325.82,window business days
+WTGXX,a_sum_issuance_same_day,843296536.238885,event chains only
+WTGXX,a_sum_div_mints_same_day,6979604.717573,event chains only
+WTGXX,a_sum_div_mints_all_window_days,6979604.717573,incl. weekends/holidays; event chains only
+WTGXX,a_issuance_window_chain_arbitrum,3938694.307609,
+WTGXX,a_issuance_window_chain_ethereum,834783036.737324,
+WTGXX,a_issuance_window_chain_solana,38.502675,
+WTGXX,a_issuance_window_chain_stellar,4603796.691276,
+WTGXX,same_day_within_1pct_share,79.5699,148 of 186 days
+WTGXX,same_day_within_5pct_share,85.4839,159 of 186 days
+JLTXX,d_recomputed_same_day_match_days,11,05_measures.py value 11 of 97; recomputed of 97
+JLTXX,d_recomputed_same_day_match_pct,11.3402,05_measures.py value 11.3402
+JLTXX,d_recomputed_equals_measure,1,1 = identical
+JLTXX,nmfp_days_with_dividend_mints_same_day,71,of 97
+JLTXX,nmfp_days_with_issuance_mints_same_day,43,of 97
+JLTXX,nmfp_days_with_zero_subs,0,of 97
+JLTXX,residual_subs_minus_issuance_positive_days,89,of 97; residual > 1 share
+JLTXX,residual_subs_minus_issuance_negative_days,1,of 97
+JLTXX,residual_median,76717.59,shares
+JLTXX,b_match_subs_eq_issuance_plus_div_same_day_pct,78.3505,76 of 97 days
+JLTXX,b_match_subs_eq_issuance_plus_div_prev_cal_day_pct,35.0515,34 of 97 days
+JLTXX,b_ratio_residual_to_same_day_div_median_on_no_issuance_days,1.0,n=43 days
+JLTXX,b_same_day_match_pct_on_days_without_dividend_mints,26.9231,7 of 26 days
+JLTXX,b_same_day_match_pct_on_days_with_dividend_mints,5.6338,4 of 71 days
+JLTXX,b2_match_subs_eq_issuance_plus_div_since_prev_nmfp_day_pct,93.8144,91 of 97 days
+JLTXX,b2_within_1pct_share,93.8144,91 of 97 days
+JLTXX,b2_within_5pct_share,93.8144,91 of 97 days
+JLTXX,b2_residual_after_div_sum,248165.06,N-MFP3 subs - issuance - accrued dividend mints (event chains)
+JLTXX,b2_residual_after_div_positive_days,6,of 97
+JLTXX,b2_residual_after_div_median,0.0,shares
+JLTXX,c_match_subs_eq_next_cal_day_issuance_pct,0.0,0 of 97 days
+JLTXX,c_match_subs_eq_next_business_day_issuance_pct,0.0,0 of 97 days
+JLTXX,bc_match_subs_eq_next_bd_issuance_plus_div_pct,6.1856,6 of 97 days
+JLTXX,a_sum_nmfp_subs,996607333.08,window business days
+JLTXX,a_sum_issuance_same_day,988324898.02,event chains only
+JLTXX,a_sum_div_mints_same_day,4905791.94,event chains only
+JLTXX,a_sum_div_mints_all_window_days,8034270.0,incl. weekends/holidays; event chains only
+JLTXX,a_issuance_window_chain_ethereum,988573061.08,
+JLTXX,same_day_within_1pct_share,27.8351,27 of 97 days
+JLTXX,same_day_within_5pct_share,36.0825,35 of 97 days
+FYOXX,d_recomputed_same_day_match_days,172,05_measures.py value 172 of 189; recomputed of 189
+FYOXX,d_recomputed_same_day_match_pct,91.0053,05_measures.py value 91.0053
+FYOXX,d_recomputed_equals_measure,1,1 = identical
+FYOXX,nmfp_days_with_dividend_mints_same_day,2,of 189
+FYOXX,nmfp_days_with_issuance_mints_same_day,26,of 189
+FYOXX,nmfp_days_with_zero_subs,161,of 189
+FYOXX,residual_subs_minus_issuance_positive_days,9,of 189; residual > 1 share
+FYOXX,residual_subs_minus_issuance_negative_days,8,of 189
+FYOXX,residual_median,0.0,shares
+FYOXX,b_match_subs_eq_issuance_plus_div_same_day_pct,92.0635,174 of 189 days
+FYOXX,b_match_subs_eq_issuance_plus_div_prev_cal_day_pct,89.9471,170 of 189 days
+FYOXX,b_ratio_residual_to_same_day_div_median_on_no_issuance_days,1.0,n=2 days
+FYOXX,b_same_day_match_pct_on_days_without_dividend_mints,91.9786,172 of 187 days
+FYOXX,b_same_day_match_pct_on_days_with_dividend_mints,0.0,0 of 2 days
+FYOXX,b2_match_subs_eq_issuance_plus_div_since_prev_nmfp_day_pct,92.0635,174 of 189 days
+FYOXX,b2_within_1pct_share,92.0635,174 of 189 days
+FYOXX,b2_within_5pct_share,92.0635,174 of 189 days
+FYOXX,b2_residual_after_div_sum,-3316333.45,N-MFP3 subs - issuance - accrued dividend mints (event chains)
+FYOXX,b2_residual_after_div_positive_days,7,of 189
+FYOXX,b2_residual_after_div_median,0.0,shares
+FYOXX,c_match_subs_eq_next_cal_day_issuance_pct,82.0106,155 of 189 days
+FYOXX,c_match_subs_eq_next_business_day_issuance_pct,78.836,149 of 189 days
+FYOXX,bc_match_subs_eq_next_bd_issuance_plus_div_pct,77.7778,147 of 189 days
+FYOXX,a_sum_nmfp_subs,106086376.25,window business days
+FYOXX,a_sum_issuance_same_day,109019465.7,event chains only
+FYOXX,a_sum_div_mints_same_day,383244.0,event chains only
+FYOXX,a_sum_div_mints_all_window_days,383244.0,incl. weekends/holidays; event chains only
+FYOXX,a_issuance_window_chain_ethereum,110290715.12,
+FYOXX,same_day_within_1pct_share,91.0053,172 of 189 days
+FYOXX,same_day_within_5pct_share,91.0053,172 of 189 days
+FOBXX,a_uncovered_evm_supply_avalanche_base_2026-03-31,95404116.331563,archive totalSupply; Aptos not observed (no key)
+FOBXX,a_uncovered_evm_supply_avalanche_base_2026-06-30,96239388.046303,archive totalSupply; Aptos not observed (no key)
+FOBXX,a_uncovered_evm_supply_avalanche_base_2026-09-30,94092755.211568,archive totalSupply; Aptos not observed (no key)
+FOBXX,a_uncovered_shares_2026-09-30_all_chains,108748104.26752,"key_numbers f3_uncovered_shares__FOBXX (Aptos, Avalanche, Base)"
+FOBXX,a_mean_7d_net_yield_window,0.035325,"N-MFP3 class 7-day net yield, decimal"
+FOBXX,a_implied_daily_dividend_on_uncovered_shares,10524.77,shares per calendar day; compare b2_residual_after_div_median
+FOBXX,a_implied_annual_rate_of_b2_median_on_uncovered_shares,0.037547,b2 median residual / uncovered shares x 365; compare mean 7-day yield

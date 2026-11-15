@@ -1,0 +1,17 @@
+fund,rank,chain,address,freeze_role,contract,public_label,label_source,n_nonta_transfers,sent,received,share_of_nonta_value_touching_pct,primary_market_flags
+WTGXX,1,ethereum,0x0c561ed86ef65dd681500d6266c99e03dec3c541,holder,,,Etherscan page title,4,32001000.0,993.935782,71.0693,burn_from;issuance_mint_recipient
+WTGXX,2,ethereum,0x7965cba59f07085f3d699304c5bf2bc28815570a,holder,,,Etherscan page title,1,0.0,30000000.0,66.6233,burn_from;issuance_mint_recipient
+WTGXX,3,ethereum,0xb1748c79709f4ba2dd82834b8c82d4a505003f27,contract,GnosisSafeProxy->GnosisSafe,Frax Finance: Comptroller,Etherscan page title,9,6929395.954009,739371.739621,17.0306,issuance_mint_recipient
+WTGXX,4,ethereum,0x4fa39d8bd268aa07a3c441f04e07c8825e2ab163,holder,,,Etherscan page title,9,739371.739621,6929395.954009,17.0306,
+WTGXX,5,ethereum,0x434558cb1ebe9950e8a66f1ef8a15a473dce7d8c,contract,ERC1967Proxy->Wrapper,,Etherscan page title,4,5058215.624426,0.0,11.2332,issuance_mint_recipient
+WTGXX,6,ethereum,0x97f478562cfc6e4c88b125bac83f2ad83a203d8e,contract,SafeProxy->Safe,,Etherscan page title,3,0.0,5028223.852376,11.1666,issuance_mint_recipient
+WTGXX,7,ethereum,0xe7c51951789f38b5de9759bfa3e99005c9d1af14,holder,,,Etherscan page title,3,993.935782,2001000.0,4.446,issuance_mint_recipient
+WTGXX,8,ethereum,0x13d923c6e01de19cf2e134da3300f09ac42221f2,contract,,,not looked up,6,10.040204,200000.0,0.4442,
+FOBXX,1,stellar,GDHK25FXUAEX4RXCHJXK2RDGRKFVWO25FX72MA2XHXX57BUW42ZSJ36I,holder,,,stellar.expert directory (404 = no entry),5,7765327.16,0.0,96.8218,burn_from;issuance_mint_recipient
+FOBXX,2,stellar,GASIGK4A2LPVDIKENTW2CEEPQ7FLUNNUWX5B62K6YPIPKSSS5FOIAO2W,holder,,,stellar.expert directory (404 = no entry),2,0.0,3532663.58,44.047,burn_from;issuance_mint_recipient
+FOBXX,3,stellar,GCLOQN2OJKWB6XX6NIN2GFZKAX5PFVY3QQQCUUE72Q7XRYIA3QP7UKGE,holder,,,stellar.expert directory (404 = no entry),2,0.0,3532663.58,44.047,burn_from
+FOBXX,4,stellar,GC7STUKMW24JAFGWLDCEKKGLJJFCLW3YA4POJ3ZVR7DIBYBKMCU4REZD,holder,,,stellar.expert directory (404 = no entry),1,0.0,700000.0,8.7279,burn_from
+FOBXX,5,stellar,GCO2ICSU2ZKOS4CP6B4O2W4EMDAJTPNOYUIQCFYCDDLWTRTGK36QVYUJ,holder,,,stellar.expert directory (404 = no entry),4,196613.0,0.0,2.4515,burn_from
+FOBXX,6,stellar,GATQFLSN7AXHNLNGK6XTTBF7X3LK7WRHV7SPF6376ENPFFNU4EXGTYXD,holder,,,stellar.expert directory (404 = no entry),2,0.0,150000.0,1.8703,burn_from;issuance_mint_recipient
+FOBXX,7,stellar,GA6FMMTDRG66FAS4J4GKQO74H27J7OIKKCALMJ3EVVR36EN46U5KDTL4,holder,,,stellar.expert directory (404 = no entry),2,0.0,46613.0,0.5812,
+FOBXX,8,stellar,GANW42MR5E7SFO5Y2FLYRYUGOBUEQVRAP6D3FI5M7QZU7XDKUWITRWAE,holder,,,stellar.expert directory (404 = no entry),4,46600.0,0.0,0.581,burn_from;issuance_mint_recipient

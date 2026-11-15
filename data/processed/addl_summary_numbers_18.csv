@@ -1,0 +1,341 @@
+name,value,unit,as_of,source_file
+addl_mls_n_transfers,28,count,2026-01-01:2026-09-30,data/processed/addl_mls_cashleg.csv
+addl_mls_wtgxx_value_shares,200124.001304,shares,2026-01-01:2026-09-30,data/processed/addl_mls_cashleg.csv
+addl_mls_n_with_receipt_or_other_token_log_held,0,count,freeze_2026-10-16,data/processed/addl_mls_cashleg.csv
+addl_mls_cash_leg_status,not decoded; receipts not held,text,freeze_2026-10-16,data/processed/addl_mls_cashleg.csv
+addl_mls_n_calldata_mentions_usdc,0,"count (tx; calldata word only, not a transfer)",freeze_2026-10-16,data/processed/addl_mls_cashleg.csv
+addl_f1minsize_n_denominator__WTGXX__all_sizes__frozen,171,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_n_lower__WTGXX__all_sizes__frozen,35,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_n_upper__WTGXX__all_sizes__frozen,68,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_lower_share_count_pct__WTGXX__all_sizes__frozen,20.4678,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_upper_share_count_pct__WTGXX__all_sizes__frozen,39.7661,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_lower_share_value_pct__WTGXX__all_sizes__frozen,27.6673,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_upper_share_value_pct__WTGXX__all_sizes__frozen,38.8084,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_n_denominator__WTGXX__all_sizes__excl_wallet_sample,167,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_n_lower__WTGXX__all_sizes__excl_wallet_sample,31,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_n_upper__WTGXX__all_sizes__excl_wallet_sample,64,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_lower_share_count_pct__WTGXX__all_sizes__excl_wallet_sample,18.5629,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_upper_share_count_pct__WTGXX__all_sizes__excl_wallet_sample,38.3234,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_lower_share_value_pct__WTGXX__all_sizes__excl_wallet_sample,0.1192,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_upper_share_value_pct__WTGXX__all_sizes__excl_wallet_sample,15.5036,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_n_denominator__WTGXX__all_sizes__excl_wallet_numerator,171,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_n_lower__WTGXX__all_sizes__excl_wallet_numerator,31,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_n_upper__WTGXX__all_sizes__excl_wallet_numerator,64,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_lower_share_count_pct__WTGXX__all_sizes__excl_wallet_numerator,18.1287,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_upper_share_count_pct__WTGXX__all_sizes__excl_wallet_numerator,37.4269,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_lower_share_value_pct__WTGXX__all_sizes__excl_wallet_numerator,0.0864,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_upper_share_value_pct__WTGXX__all_sizes__excl_wallet_numerator,11.2275,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_n_denominator__WTGXX__min_100_shares__with_wallet,68,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_n_lower__WTGXX__min_100_shares__with_wallet,6,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_n_upper__WTGXX__min_100_shares__with_wallet,22,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_lower_share_count_pct__WTGXX__min_100_shares__with_wallet,8.8235,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_upper_share_count_pct__WTGXX__min_100_shares__with_wallet,32.3529,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_lower_share_value_pct__WTGXX__min_100_shares__with_wallet,27.6674,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_upper_share_value_pct__WTGXX__min_100_shares__with_wallet,38.8086,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_n_denominator__WTGXX__min_100_shares__excl_wallet_sample,64,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_n_lower__WTGXX__min_100_shares__excl_wallet_sample,2,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_n_upper__WTGXX__min_100_shares__excl_wallet_sample,18,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_lower_share_count_pct__WTGXX__min_100_shares__excl_wallet_sample,3.125,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_upper_share_count_pct__WTGXX__min_100_shares__excl_wallet_sample,28.125,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_lower_share_value_pct__WTGXX__min_100_shares__excl_wallet_sample,0.1191,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_upper_share_value_pct__WTGXX__min_100_shares__excl_wallet_sample,15.5035,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_n_denominator__WTGXX__min_100_shares__excl_wallet_numerator,68,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_n_lower__WTGXX__min_100_shares__excl_wallet_numerator,2,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_n_upper__WTGXX__min_100_shares__excl_wallet_numerator,18,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_lower_share_count_pct__WTGXX__min_100_shares__excl_wallet_numerator,2.9412,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_upper_share_count_pct__WTGXX__min_100_shares__excl_wallet_numerator,26.4706,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_lower_share_value_pct__WTGXX__min_100_shares__excl_wallet_numerator,0.0863,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_upper_share_value_pct__WTGXX__min_100_shares__excl_wallet_numerator,11.2275,pct,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_hh_excl_wallet_n_lower__WTGXX,31,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_hh_excl_wallet_n_under_1__WTGXX,4,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_hh_excl_wallet_n_under_20__WTGXX,29,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_hh_excl_wallet_n_under_100__WTGXX,29,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_hh_excl_wallet_n_ge_100__WTGXX,2,count,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_hh_excl_wallet_total_shares__WTGXX,100198.415284,shares,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_hh_excl_wallet_median_shares__WTGXX,2.0,shares,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_f1minsize_hh_excl_wallet_max_shares__WTGXX,100000.0,shares,2026-01-01:2026-09-30,data/processed/addl_f1_minsize.csv
+addl_oos_verdict__FOBXX__F1__main,FAIL,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__FOBXX__F1__main,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_events__FOBXX__F1__main,45,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_lower_share_value_pct__FOBXX__F1__main,66.6254,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_lower_share_count_pct__FOBXX__F1__main,53.3333,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_upper_share_value_pct__FOBXX__F1__main,66.6254,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_upper_share_count_pct__FOBXX__F1__main,53.3333,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__FYOXX__F1__main,PASS-for-claim,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__FYOXX__F1__main,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_events__FYOXX__F1__main,63,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_lower_share_value_pct__FYOXX__F1__main,0.0,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_lower_share_count_pct__FYOXX__F1__main,0.0,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_upper_share_value_pct__FYOXX__F1__main,0.0,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_upper_share_count_pct__FYOXX__F1__main,0.0,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__JLTXX__F1__main,NOT TESTABLE,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__JLTXX__F1__main,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_events__JLTXX__F1__main,12,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_lower_share_value_pct__JLTXX__F1__main,0.0,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_lower_share_count_pct__JLTXX__F1__main,0.0,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_upper_share_value_pct__JLTXX__F1__main,0.001,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_upper_share_count_pct__JLTXX__F1__main,50.0,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__WTGXX__F1__main,FAIL,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__WTGXX__F1__main,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_events__WTGXX__F1__main,104,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_lower_share_value_pct__WTGXX__F1__main,31.004,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_lower_share_count_pct__WTGXX__F1__main,15.3846,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_upper_share_value_pct__WTGXX__F1__main,39.1361,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_upper_share_count_pct__WTGXX__F1__main,41.3462,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__FOBXX__F2__main,PASS-for-claim,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__FOBXX__F2__main,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_nonbusiness_share_pct__FOBXX__F2__main,0.0047,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__FYOXX__F2__main,PASS-for-claim,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__FYOXX__F2__main,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_nonbusiness_share_pct__FYOXX__F2__main,0.369,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__JLTXX__F2__main,PASS-for-claim,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__JLTXX__F2__main,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_nonbusiness_share_pct__JLTXX__F2__main,0.0364,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__WTGXX__F2__main,PASS-for-claim,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__WTGXX__F2__main,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_nonbusiness_share_pct__WTGXX__F2__main,0.0074,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__FOBXX__F3__main,PASS-for-claim,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__FOBXX__F3__main,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_outside_top10_pct__FOBXX__F3__main,16.4457,pct,2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_worst_case_outside_top10_pct__FOBXX__F3__main,32.3674,pct,2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__FYOXX__F3__main,NOT TESTABLE,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__FYOXX__F3__main,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__JLTXX__F3__main,NOT TESTABLE,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__JLTXX__F3__main,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__WTGXX__F3__main,PASS-for-claim,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__WTGXX__F3__main,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_outside_top10_pct__WTGXX__F3__main,1.5128,pct,2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_worst_case_outside_top10_pct__WTGXX__F3__main,1.513,pct,2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__FOBXX__F4__main,PASS-for-claim (partial: lag not identifiable),text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__FOBXX__F4__main,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_dividend_days__FOBXX__F4__main,177,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_nonbusiness_dividend_days__FOBXX__F4__main,53,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_share_dividend_days_ta_batch_pct__FOBXX__F4__main,100.0,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__FYOXX__F4__main,NOT TESTABLE,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__FYOXX__F4__main,no,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_dividend_days__FYOXX__F4__main,0,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_nonbusiness_dividend_days__FYOXX__F4__main,0,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__JLTXX__F4__main,PASS-for-claim (partial: lag not identifiable),text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__JLTXX__F4__main,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_dividend_days__JLTXX__F4__main,22,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_nonbusiness_dividend_days__JLTXX__F4__main,3,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_share_dividend_days_ta_batch_pct__JLTXX__F4__main,100.0,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__WTGXX__F4__main,FAIL (partial: lag not identifiable),text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__WTGXX__F4__main,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_dividend_days__WTGXX__F4__main,10,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_nonbusiness_dividend_days__WTGXX__F4__main,0,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_share_dividend_days_ta_batch_pct__WTGXX__F4__main,100.0,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__FOBXX__F1__horizon,FAIL,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__FOBXX__F1__horizon,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_events__FOBXX__F1__horizon,45,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_lower_share_value_pct__FOBXX__F1__horizon,67.3519,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_lower_share_count_pct__FOBXX__F1__horizon,73.3333,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_upper_share_value_pct__FOBXX__F1__horizon,67.3519,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_upper_share_count_pct__FOBXX__F1__horizon,73.3333,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__FYOXX__F1__horizon,PASS-for-claim,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__FYOXX__F1__horizon,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_events__FYOXX__F1__horizon,63,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_lower_share_value_pct__FYOXX__F1__horizon,0.0,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_lower_share_count_pct__FYOXX__F1__horizon,0.0,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_upper_share_value_pct__FYOXX__F1__horizon,0.0,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_upper_share_count_pct__FYOXX__F1__horizon,0.0,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__JLTXX__F1__horizon,NOT TESTABLE,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__JLTXX__F1__horizon,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_events__JLTXX__F1__horizon,12,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_lower_share_value_pct__JLTXX__F1__horizon,0.0,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_lower_share_count_pct__JLTXX__F1__horizon,0.0,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_upper_share_value_pct__JLTXX__F1__horizon,0.001,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_upper_share_count_pct__JLTXX__F1__horizon,50.0,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__WTGXX__F1__horizon,FAIL,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__WTGXX__F1__horizon,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_events__WTGXX__F1__horizon,104,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_lower_share_value_pct__WTGXX__F1__horizon,31.004,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_lower_share_count_pct__WTGXX__F1__horizon,15.3846,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_upper_share_value_pct__WTGXX__F1__horizon,39.1361,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_upper_share_count_pct__WTGXX__F1__horizon,41.3462,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__FOBXX__F2__horizon,PASS-for-claim,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__FOBXX__F2__horizon,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_nonbusiness_share_pct__FOBXX__F2__horizon,0.0047,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__FYOXX__F2__horizon,PASS-for-claim,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__FYOXX__F2__horizon,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_nonbusiness_share_pct__FYOXX__F2__horizon,0.369,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__JLTXX__F2__horizon,PASS-for-claim,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__JLTXX__F2__horizon,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_nonbusiness_share_pct__JLTXX__F2__horizon,0.0364,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__WTGXX__F2__horizon,PASS-for-claim,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__WTGXX__F2__horizon,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_nonbusiness_share_pct__WTGXX__F2__horizon,0.0074,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__FOBXX__F3__horizon,PASS-for-claim,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__FOBXX__F3__horizon,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_outside_top10_pct__FOBXX__F3__horizon,16.4638,pct,2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_worst_case_outside_top10_pct__FOBXX__F3__horizon,32.3792,pct,2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__FYOXX__F3__horizon,NOT TESTABLE,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__FYOXX__F3__horizon,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__JLTXX__F3__horizon,NOT TESTABLE,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__JLTXX__F3__horizon,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__WTGXX__F3__horizon,PASS-for-claim,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__WTGXX__F3__horizon,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_outside_top10_pct__WTGXX__F3__horizon,1.5128,pct,2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_worst_case_outside_top10_pct__WTGXX__F3__horizon,1.513,pct,2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__FOBXX__F4__horizon,PASS-for-claim (partial: lag not identifiable),text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__FOBXX__F4__horizon,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_dividend_days__FOBXX__F4__horizon,177,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_nonbusiness_dividend_days__FOBXX__F4__horizon,53,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_share_dividend_days_ta_batch_pct__FOBXX__F4__horizon,100.0,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__FYOXX__F4__horizon,NOT TESTABLE,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__FYOXX__F4__horizon,no,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_dividend_days__FYOXX__F4__horizon,0,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_nonbusiness_dividend_days__FYOXX__F4__horizon,0,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__JLTXX__F4__horizon,PASS-for-claim (partial: lag not identifiable),text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__JLTXX__F4__horizon,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_dividend_days__JLTXX__F4__horizon,22,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_nonbusiness_dividend_days__JLTXX__F4__horizon,3,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_share_dividend_days_ta_batch_pct__JLTXX__F4__horizon,100.0,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_verdict__WTGXX__F4__horizon,FAIL (partial: lag not identifiable),text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_matches_full__WTGXX__F4__horizon,yes,text,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_dividend_days__WTGXX__F4__horizon,10,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_n_nonbusiness_dividend_days__WTGXX__F4__horizon,0,count,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_share_dividend_days_ta_batch_pct__WTGXX__F4__horizon,100.0,pct,2026-01-01:2026-06-30,data/processed/addl_oos_verdicts.csv
+addl_oos_role_changes_horizon_vs_frozen,1,count (addresses),horizon 2026-07-02,data/processed/addl_oos_verdicts.csv
+addl_oos_rule_events_before_horizon_filter,296112,count,freeze_2026-10-16,data/processed/addl_oos_verdicts.csv
+addl_oos_rule_events_after_horizon_filter,187998,count,<= 2026-07-02 23:59:59 ET,data/processed/addl_oos_verdicts.csv
+addl_ordering_nmfp_days_flow_positive__FOBXX__subscription_vs_issuance_mint,187,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_same_date__FOBXX__subscription_vs_issuance_mint,0,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_same_date_pct__FOBXX__subscription_vs_issuance_mint,0.0,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_chain_later_only__FOBXX__subscription_vs_issuance_mint,0,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_chain_earlier_only__FOBXX__subscription_vs_issuance_mint,0,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_unmatched__FOBXX__subscription_vs_issuance_mint,187,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_n_events_on_same_date_matches__FOBXX__subscription_vs_issuance_mint,0,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_modal_hour_et__FOBXX__subscription_vs_issuance_mint,,hour ET,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_00-08_pct__FOBXX__subscription_vs_issuance_mint,,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_09-11_pct__FOBXX__subscription_vs_issuance_mint,,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_12-15_pct__FOBXX__subscription_vs_issuance_mint,,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_16-23_pct__FOBXX__subscription_vs_issuance_mint,,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_value_share_hours_16-23_pct__FOBXX__subscription_vs_issuance_mint,,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_hour_counts_et__FOBXX__subscription_vs_issuance_mint,,text (hour:count),2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_nmfp_days_flow_positive__FOBXX__redemption_vs_burn_raw_date,173,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_same_date__FOBXX__redemption_vs_burn_raw_date,61,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_same_date_pct__FOBXX__redemption_vs_burn_raw_date,35.2601,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_chain_later_only__FOBXX__redemption_vs_burn_raw_date,0,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_chain_earlier_only__FOBXX__redemption_vs_burn_raw_date,54,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_unmatched__FOBXX__redemption_vs_burn_raw_date,58,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_n_events_on_same_date_matches__FOBXX__redemption_vs_burn_raw_date,213,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_modal_hour_et__FOBXX__redemption_vs_burn_raw_date,7,hour ET,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_00-08_pct__FOBXX__redemption_vs_burn_raw_date,51.1737,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_09-11_pct__FOBXX__redemption_vs_burn_raw_date,20.6573,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_12-15_pct__FOBXX__redemption_vs_burn_raw_date,22.0657,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_16-23_pct__FOBXX__redemption_vs_burn_raw_date,6.1033,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_value_share_hours_16-23_pct__FOBXX__redemption_vs_burn_raw_date,3.8041,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_hour_counts_et__FOBXX__redemption_vs_burn_raw_date,0:30;1:3;2:3;3:2;4:2;5:4;6:4;7:51;8:10;9:14;10:14;11:16;12:11;13:15;14:11;15:10;16:13,text (hour:count),2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_nmfp_days_flow_positive__WTGXX__subscription_vs_issuance_mint,183,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_same_date__WTGXX__subscription_vs_issuance_mint,138,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_same_date_pct__WTGXX__subscription_vs_issuance_mint,75.4098,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_chain_later_only__WTGXX__subscription_vs_issuance_mint,0,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_chain_earlier_only__WTGXX__subscription_vs_issuance_mint,0,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_unmatched__WTGXX__subscription_vs_issuance_mint,45,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_n_events_on_same_date_matches__WTGXX__subscription_vs_issuance_mint,975,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_modal_hour_et__WTGXX__subscription_vs_issuance_mint,16,hour ET,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_00-08_pct__WTGXX__subscription_vs_issuance_mint,0.1026,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_09-11_pct__WTGXX__subscription_vs_issuance_mint,0.8205,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_12-15_pct__WTGXX__subscription_vs_issuance_mint,0.7179,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_16-23_pct__WTGXX__subscription_vs_issuance_mint,98.359,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_value_share_hours_16-23_pct__WTGXX__subscription_vs_issuance_mint,100.0,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_hour_counts_et__WTGXX__subscription_vs_issuance_mint,3:1;9:5;10:3;12:1;15:6;16:933;17:23;18:1;20:1;21:1,text (hour:count),2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_nmfp_days_flow_positive__WTGXX__redemption_vs_burn_raw_date,174,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_same_date__WTGXX__redemption_vs_burn_raw_date,151,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_same_date_pct__WTGXX__redemption_vs_burn_raw_date,86.7816,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_chain_later_only__WTGXX__redemption_vs_burn_raw_date,0,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_chain_earlier_only__WTGXX__redemption_vs_burn_raw_date,0,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_unmatched__WTGXX__redemption_vs_burn_raw_date,23,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_n_events_on_same_date_matches__WTGXX__redemption_vs_burn_raw_date,618,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_modal_hour_et__WTGXX__redemption_vs_burn_raw_date,15,hour ET,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_00-08_pct__WTGXX__redemption_vs_burn_raw_date,0.1618,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_09-11_pct__WTGXX__redemption_vs_burn_raw_date,0.9709,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_12-15_pct__WTGXX__redemption_vs_burn_raw_date,97.2492,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_16-23_pct__WTGXX__redemption_vs_burn_raw_date,1.6181,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_value_share_hours_16-23_pct__WTGXX__redemption_vs_burn_raw_date,0.0005,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_hour_counts_et__WTGXX__redemption_vs_burn_raw_date,5:1;9:3;10:1;11:2;12:5;13:2;15:594;16:3;17:2;19:1;20:4,text (hour:count),2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_nmfp_days_flow_positive__JLTXX__subscription_vs_issuance_mint,97,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_same_date__JLTXX__subscription_vs_issuance_mint,11,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_same_date_pct__JLTXX__subscription_vs_issuance_mint,11.3402,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_chain_later_only__JLTXX__subscription_vs_issuance_mint,0,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_chain_earlier_only__JLTXX__subscription_vs_issuance_mint,4,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_unmatched__JLTXX__subscription_vs_issuance_mint,82,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_n_events_on_same_date_matches__JLTXX__subscription_vs_issuance_mint,19,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_modal_hour_et__JLTXX__subscription_vs_issuance_mint,2,hour ET,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_00-08_pct__JLTXX__subscription_vs_issuance_mint,63.1579,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_09-11_pct__JLTXX__subscription_vs_issuance_mint,0.0,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_12-15_pct__JLTXX__subscription_vs_issuance_mint,0.0,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_16-23_pct__JLTXX__subscription_vs_issuance_mint,36.8421,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_value_share_hours_16-23_pct__JLTXX__subscription_vs_issuance_mint,99.9758,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_hour_counts_et__JLTXX__subscription_vs_issuance_mint,1:4;2:8;22:7,text (hour:count),2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_nmfp_days_flow_positive__JLTXX__redemption_vs_burn_raw_date,23,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_same_date__JLTXX__redemption_vs_burn_raw_date,21,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_same_date_pct__JLTXX__redemption_vs_burn_raw_date,91.3043,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_chain_later_only__JLTXX__redemption_vs_burn_raw_date,1,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_chain_earlier_only__JLTXX__redemption_vs_burn_raw_date,0,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_unmatched__JLTXX__redemption_vs_burn_raw_date,1,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_n_events_on_same_date_matches__JLTXX__redemption_vs_burn_raw_date,23,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_modal_hour_et__JLTXX__redemption_vs_burn_raw_date,22,hour ET,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_00-08_pct__JLTXX__redemption_vs_burn_raw_date,0.0,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_09-11_pct__JLTXX__redemption_vs_burn_raw_date,0.0,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_12-15_pct__JLTXX__redemption_vs_burn_raw_date,0.0,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_16-23_pct__JLTXX__redemption_vs_burn_raw_date,100.0,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_value_share_hours_16-23_pct__JLTXX__redemption_vs_burn_raw_date,100.0,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_hour_counts_et__JLTXX__redemption_vs_burn_raw_date,22:22;23:1,text (hour:count),2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_nmfp_days_flow_positive__JLTXX__redemption_vs_burn_TR2_arrival_date,23,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_same_date__JLTXX__redemption_vs_burn_TR2_arrival_date,20,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_same_date_pct__JLTXX__redemption_vs_burn_TR2_arrival_date,86.9565,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_chain_later_only__JLTXX__redemption_vs_burn_TR2_arrival_date,0,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_chain_earlier_only__JLTXX__redemption_vs_burn_TR2_arrival_date,1,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_unmatched__JLTXX__redemption_vs_burn_TR2_arrival_date,2,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_n_events_on_same_date_matches__JLTXX__redemption_vs_burn_TR2_arrival_date,27,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_modal_hour_et__JLTXX__redemption_vs_burn_TR2_arrival_date,4,hour ET,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_00-08_pct__JLTXX__redemption_vs_burn_TR2_arrival_date,40.7407,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_09-11_pct__JLTXX__redemption_vs_burn_TR2_arrival_date,29.6296,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_12-15_pct__JLTXX__redemption_vs_burn_TR2_arrival_date,25.9259,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_16-23_pct__JLTXX__redemption_vs_burn_TR2_arrival_date,3.7037,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_value_share_hours_16-23_pct__JLTXX__redemption_vs_burn_TR2_arrival_date,0.0,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_hour_counts_et__JLTXX__redemption_vs_burn_TR2_arrival_date,4:6;6:1;7:1;8:3;9:4;10:1;11:3;12:2;13:3;14:2;16:1,text (hour:count),2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_nmfp_days_flow_positive__FYOXX__subscription_vs_issuance_mint,28,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_same_date__FYOXX__subscription_vs_issuance_mint,17,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_same_date_pct__FYOXX__subscription_vs_issuance_mint,60.7143,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_chain_later_only__FYOXX__subscription_vs_issuance_mint,6,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_chain_earlier_only__FYOXX__subscription_vs_issuance_mint,0,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_unmatched__FYOXX__subscription_vs_issuance_mint,5,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_n_events_on_same_date_matches__FYOXX__subscription_vs_issuance_mint,17,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_modal_hour_et__FYOXX__subscription_vs_issuance_mint,12,hour ET,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_00-08_pct__FYOXX__subscription_vs_issuance_mint,0.0,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_09-11_pct__FYOXX__subscription_vs_issuance_mint,35.2941,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_12-15_pct__FYOXX__subscription_vs_issuance_mint,64.7059,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_16-23_pct__FYOXX__subscription_vs_issuance_mint,0.0,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_value_share_hours_16-23_pct__FYOXX__subscription_vs_issuance_mint,0.0,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_hour_counts_et__FYOXX__subscription_vs_issuance_mint,9:1;10:1;11:4;12:7;13:4,text (hour:count),2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_nmfp_days_flow_positive__FYOXX__redemption_vs_burn_raw_date,44,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_same_date__FYOXX__redemption_vs_burn_raw_date,7,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_same_date_pct__FYOXX__redemption_vs_burn_raw_date,15.9091,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_chain_later_only__FYOXX__redemption_vs_burn_raw_date,36,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_chain_earlier_only__FYOXX__redemption_vs_burn_raw_date,0,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_unmatched__FYOXX__redemption_vs_burn_raw_date,1,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_n_events_on_same_date_matches__FYOXX__redemption_vs_burn_raw_date,8,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_modal_hour_et__FYOXX__redemption_vs_burn_raw_date,23,hour ET,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_00-08_pct__FYOXX__redemption_vs_burn_raw_date,12.5,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_09-11_pct__FYOXX__redemption_vs_burn_raw_date,25.0,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_12-15_pct__FYOXX__redemption_vs_burn_raw_date,0.0,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_16-23_pct__FYOXX__redemption_vs_burn_raw_date,62.5,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_value_share_hours_16-23_pct__FYOXX__redemption_vs_burn_raw_date,67.1967,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_hour_counts_et__FYOXX__redemption_vs_burn_raw_date,8:1;9:2;23:5,text (hour:count),2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_nmfp_days_flow_positive__FYOXX__redemption_vs_burn_TR2_arrival_date,44,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_same_date__FYOXX__redemption_vs_burn_TR2_arrival_date,42,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_same_date_pct__FYOXX__redemption_vs_burn_TR2_arrival_date,95.4545,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_chain_later_only__FYOXX__redemption_vs_burn_TR2_arrival_date,1,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_matched_chain_earlier_only__FYOXX__redemption_vs_burn_TR2_arrival_date,0,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_unmatched__FYOXX__redemption_vs_burn_TR2_arrival_date,1,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_n_events_on_same_date_matches__FYOXX__redemption_vs_burn_TR2_arrival_date,48,count,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_modal_hour_et__FYOXX__redemption_vs_burn_TR2_arrival_date,10,hour ET,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_00-08_pct__FYOXX__redemption_vs_burn_TR2_arrival_date,4.1667,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_09-11_pct__FYOXX__redemption_vs_burn_TR2_arrival_date,68.75,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_12-15_pct__FYOXX__redemption_vs_burn_TR2_arrival_date,27.0833,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_count_share_hours_16-23_pct__FYOXX__redemption_vs_burn_TR2_arrival_date,0.0,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_value_share_hours_16-23_pct__FYOXX__redemption_vs_burn_TR2_arrival_date,0.0,pct,2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv
+addl_ordering_hour_counts_et__FYOXX__redemption_vs_burn_TR2_arrival_date,8:2;9:9;10:14;11:10;12:9;13:4,text (hour:count),2026-01-01:2026-09-30,data/processed/addl_ordering_summary.csv

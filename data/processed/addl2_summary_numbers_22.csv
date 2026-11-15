@@ -1,0 +1,97 @@
+name,value,unit,as_of,source_file
+addl2_swap_n_tx,28,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_n_tx_direct_pair,28,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_n_tx_any_other_token,28,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_n_tx_no_other_token,0,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_n_tx_third_party_only,0,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_n_tx_atomic_direct,28,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_wtgxx_amount_all,200124.001304,WTGXX shares,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_TSY_n_tx_direct_pair,5,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_TSY_n_tx_sender_receives,4,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_TSY_n_tx_recipient_pays,1,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_TSY_n_tx_third_party_only,0,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_TSY_token_amount_direct,200005.0,TSY token units,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_TSY_wtgxx_amount_direct,200005.040704,WTGXX shares,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_TSY_token_amount_third_party,0,TSY token units,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_TSY_price_min,0.991925,TSY per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_TSY_price_median,1.0,TSY per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_TSY_price_max,1.0,TSY per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_TSY_n_tx_atomic,5,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_TSY_n_tx_gross_price,1,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_TSY_gross_price_min,0.991925,TSY per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_TSY_gross_price_median,0.991925,TSY per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_TSY_gross_price_max,0.991925,TSY per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_USDC_n_tx_direct_pair,23,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_USDC_n_tx_sender_receives,23,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_USDC_n_tx_recipient_pays,0,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_USDC_n_tx_third_party_only,0,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_USDC_token_amount_direct,118.881597,USDC token units,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_USDC_wtgxx_amount_direct,118.9606,WTGXX shares,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_USDC_token_amount_third_party,0,USDC token units,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_USDC_price_min,0.998,USDC per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_USDC_price_median,0.999,USDC per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_USDC_price_max,1.0,USDC per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_USDC_n_tx_atomic,23,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_USDC_n_tx_gross_price,23,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_USDC_gross_price_min,0.9981,USDC per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_USDC_gross_price_median,1.0,USDC per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_USDC_gross_price_max,1.001001,USDC per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_n_tx,22,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_n_tx_direct_pair,13,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_n_tx_any_other_token,17,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_n_tx_no_other_token,5,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_n_tx_third_party_only,4,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_n_tx_atomic_direct,13,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_wtgxx_amount_all,10107428.053409,WTGXX shares,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USTB_n_tx_direct_pair,1,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USTB_n_tx_sender_receives,0,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USTB_n_tx_recipient_pays,1,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USTB_n_tx_third_party_only,0,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USTB_token_amount_direct,44410.752696,USTB token units,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USTB_wtgxx_amount_direct,490000.0,WTGXX shares,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USTB_token_amount_third_party,0,USTB token units,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USTB_price_min,0.090634,USTB per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USTB_price_median,0.090634,USTB per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USTB_price_max,0.090634,USTB per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USTB_n_tx_atomic,1,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USTB_n_tx_gross_price,1,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USTB_gross_price_min,0.090634,USTB per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USTB_gross_price_median,0.090634,USTB per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USTB_gross_price_max,0.090634,USTB per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USDC_n_tx_direct_pair,5,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USDC_n_tx_sender_receives,0,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USDC_n_tx_recipient_pays,5,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USDC_n_tx_third_party_only,0,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USDC_token_amount_direct,6439395.954009,USDC token units,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USDC_wtgxx_amount_direct,6439395.954009,WTGXX shares,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USDC_token_amount_third_party,0,USDC token units,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USDC_price_min,1.0,USDC per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USDC_price_median,1.0,USDC per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USDC_price_max,1.0,USDC per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USDC_n_tx_atomic,5,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USDC_n_tx_gross_price,5,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USDC_gross_price_min,1.0,USDC per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USDC_gross_price_median,1.0,USDC per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_USDC_gross_price_max,1.0,USDC per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_frxUSD_n_tx_direct_pair,7,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_frxUSD_n_tx_sender_receives,5,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_frxUSD_n_tx_recipient_pays,2,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_frxUSD_n_tx_third_party_only,10,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_frxUSD_token_amount_direct,2000020.0,frxUSD token units,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_frxUSD_wtgxx_amount_direct,2000019.9994,WTGXX shares,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_frxUSD_token_amount_third_party,6929402.954009,frxUSD token units,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_frxUSD_price_min,1.0,frxUSD per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_frxUSD_price_median,1.0,frxUSD per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_frxUSD_price_max,1.0001,frxUSD per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_frxUSD_n_tx_atomic,7,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_frxUSD_n_tx_gross_price,2,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_frxUSD_gross_price_min,1.0001,frxUSD per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_frxUSD_gross_price_median,1.0001,frxUSD per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_custodian_frxUSD_gross_price_max,1.0001,frxUSD per WTGXX share,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_summary.csv
+addl2_swap_USDC_top_wallet_n_sells,17,count (wallet 0xbe4c7aef0389058363e1ba8fc3e189037d5ae07f),2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_tx.csv
+addl2_swap_USDC_top_wallet_n_buys,6,count (wallet 0xbe4c7aef0389058363e1ba8fc3e189037d5ae07f),2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_tx.csv
+addl2_swap_USDC_median_wtgxx_amount,5.0,WTGXX shares,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_tx.csv
+addl2_swap_TSY_share_of_route_wtgxx_pct,99.9406,pct,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_tx.csv
+addl2_custodian_frxUSD_deposits_n_tx,5,count,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_tx.csv
+addl2_custodian_frxUSD_deposits_wtgxx_amount,2000014.0,WTGXX shares,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_tx.csv
+addl2_custodian_no_token_leg_wtgxx_amount,1178005.1,WTGXX shares,2026-01-01:2026-09-30 (receipts accessed 2026-10-18),data/processed/addl2_tx.csv

@@ -1,0 +1,5 @@
+fund,window,n_days,n_days_both_legs_reported,sum_subs,sum_reds,sum_daily_min,min_share_of_reds_pct,min_share_of_subs_plus_reds_pct,note
+FOBXX,2026-01-01:2026-09-30,187,187,306358491.43,404324313.62,29504821.24,7.2973,4.1516,N-MFP3 gross subscriptions include reinvested dividends (IMPL-13)
+WTGXX,2026-01-01:2026-09-30,186,186,851841325.82,357685298.52,14126152.84,3.9493,1.1679,
+JLTXX,2026-01-01:2026-09-30,97,97,996607333.08,368122485.86,28574360.9,7.7622,2.0938,N-MFP3 gross subscriptions include reinvested dividends (IMPL-13)
+FYOXX,2026-01-01:2026-09-30,189,189,106086376.25,334037538.28,12581596.24,3.7665,2.8586,

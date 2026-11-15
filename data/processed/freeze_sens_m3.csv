@@ -1,0 +1,766 @@
+variant,audit_item,fund,snapshot,chain,row,balances_sum,supply,negative_balances,K_label,chains_without_events,balances_total,ta_share_pct,n_nonta_wallets,nonta_outside_top10_share_pct,nmfp_owner_categories
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FOBXX,2026-03-31,arbitrum,chain_check,49113370.838007,49113370.838007,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FOBXX,2026-03-31,ethereum,chain_check,47391540.291633,47391540.291633,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FOBXX,2026-03-31,polygon,chain_check,31660144.032825,31660144.032825,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FOBXX,2026-03-31,solana,chain_check,5158.021436,5158.021436,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FOBXX,2026-03-31,stellar,chain_check,576468537.013799,565482190.204534,52,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FOBXX,2026-03-31,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,704638750.197701,24.4529,913,3.2851,Non-financial corporation|rec=0.639|ben=0.0;Other:OtherRetail Investor|rec=0.1749|ben=0.0
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FOBXX,2026-06-30,arbitrum,chain_check,49543362.86617,49543362.86617,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FOBXX,2026-06-30,ethereum,chain_check,47806457.536776,47806457.536776,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FOBXX,2026-06-30,polygon,chain_check,31937331.473075,31937331.473075,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FOBXX,2026-06-30,solana,chain_check,0,-0.0,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FOBXX,2026-06-30,stellar,chain_check,487470507.112465,487310123.446039,28,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FOBXX,2026-06-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,616757658.988487,25.8339,963,5.2886,Non-financial corporation|rec=0.6545|ben=0.0;Other:OtherRetail Investor|rec=0.0945|ben=0.0
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FOBXX,2026-09-30,arbitrum,chain_check,47980254.137611,47980254.137611,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FOBXX,2026-09-30,ethereum,chain_check,48238907.896735,48238907.896735,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FOBXX,2026-09-30,polygon,chain_check,32226231.994119,32226231.994119,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FOBXX,2026-09-30,solana,chain_check,309581.350813,309581.350813,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FOBXX,2026-09-30,stellar,chain_check,430464267.023201,430464265.956833,2,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FOBXX,2026-09-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,559219242.40248,22.2436,997,5.299,Non-financial corporation|rec=0.7446|ben=0.0;Other:OtherRetail Investor|rec=0.0618|ben=0.0
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",WTGXX,2026-03-31,arbitrum,chain_check,11057370.637217,11057370.637217,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",WTGXX,2026-03-31,ethereum,chain_check,814796716.233736,814796716.233736,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",WTGXX,2026-03-31,solana,chain_check,13.510887,13.510887,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",WTGXX,2026-03-31,stellar,chain_check,1722197.839333,1722197.839333,1,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",WTGXX,2026-03-31,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,827576298.221173,91.7017,616,1.0813,Other:Institutional Investor|rec=0.4833|ben=0.4833;Other:Ultimate Parent Company|rec=0.2412|ben=0.2412;Other:Institutional Investor|rec=0.1464|ben=0.1464;Other:Institutional Investor|rec=0.0717|ben=0.0717
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",WTGXX,2026-06-30,arbitrum,chain_check,11151893.939622,11151893.939622,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",WTGXX,2026-06-30,ethereum,chain_check,704747987.176155,704747987.176155,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",WTGXX,2026-06-30,solana,chain_check,37.743767,37.743767,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",WTGXX,2026-06-30,stellar,chain_check,1409340.223493,1409340.223493,1,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",WTGXX,2026-06-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,717309259.083037,89.7663,638,1.5181,Other:Institutional Investor|rec=0.0834|ben=0.0834;Other:Ultimate Parent Company|rec=0.1368|ben=0.1368;Other:Institutional Investor|rec=0.697|ben=0.697
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",WTGXX,2026-09-30,arbitrum,chain_check,15154435.434657,15154435.434657,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",WTGXX,2026-09-30,ethereum,chain_check,1208884583.410127,1208884583.410127,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",WTGXX,2026-09-30,solana,chain_check,38.073909,38.073909,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",WTGXX,2026-09-30,stellar,chain_check,2221098.815141,2221140.415141,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",WTGXX,2026-09-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,1226260155.733834,93.9178,671,2.411,Other:Institutional Investor|rec=0.0549|ben=0.0549;Other:Ultimate Parent Company|rec=0.0872|ben=0.0872;Other:Institutional Investor|rec=0.8147|ben=0.8147
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",JLTXX,2026-03-31,ethereum,chain_check,0,0,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",JLTXX,2026-03-31,ethereum,M3,,,,K4,,0.0,,0,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",JLTXX,2026-06-30,ethereum,chain_check,682153280.3,682153280.3,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",JLTXX,2026-06-30,ethereum,M3,,,,K4,,682153280.3,0.0,5,,Non-financial corporation|rec=0.1472|ben=0.0000;Depository institution or other banking institution|rec=0.8525|ben=0.0000
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",JLTXX,2026-09-30,ethereum,chain_check,628484843.22,628484843.22,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",JLTXX,2026-09-30,ethereum,M3,,,,K4,,628484843.22,0.0,4,,Non-financial corporation|rec=0.1612|ben=0.0000;Depository institution or other banking institution|rec=0.8356|ben=0.0000
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FYOXX,2026-03-31,ethereum,chain_check,166677016.99,166677016.99,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FYOXX,2026-03-31,ethereum,M3,,,,K4,,166677016.99,2.8498,3,,Other:PARTNERSHIP|rec=0.9842|ben=0.0000
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FYOXX,2026-06-30,ethereum,chain_check,100428489.29,100428489.29,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FYOXX,2026-06-30,ethereum,M3,,,,K4,,100428489.29,27.8805,3,,Other:PARTNERSHIP|rec=0.9663|ben=0.0000
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FYOXX,2026-09-30,ethereum,chain_check,23062850.92,23062850.92,0,,,,,,,
+burn_origin_transfer_from,"IMPL-5 (M1, M3a, M3c)",FYOXX,2026-09-30,ethereum,M3,,,,K4,,23062850.92,0.0,2,,Other:PARTNERSHIP|rec=0.9514|ben=0.0000
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FOBXX,2026-03-31,arbitrum,chain_check,49113370.838007,49113370.838007,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FOBXX,2026-03-31,ethereum,chain_check,47391540.291633,47391540.291633,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FOBXX,2026-03-31,polygon,chain_check,31660144.032825,31660144.032825,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FOBXX,2026-03-31,solana,chain_check,5158.021436,5158.021436,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FOBXX,2026-03-31,stellar,chain_check,576468537.013799,565482190.204534,52,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FOBXX,2026-03-31,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,704638750.197701,38.5523,780,6.3986,Non-financial corporation|rec=0.639|ben=0.0;Other:OtherRetail Investor|rec=0.1749|ben=0.0
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FOBXX,2026-06-30,arbitrum,chain_check,49543362.86617,49543362.86617,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FOBXX,2026-06-30,ethereum,chain_check,47806457.536776,47806457.536776,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FOBXX,2026-06-30,polygon,chain_check,31937331.473075,31937331.473075,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FOBXX,2026-06-30,solana,chain_check,0,-0.0,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FOBXX,2026-06-30,stellar,chain_check,487470507.112465,487310123.446039,28,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FOBXX,2026-06-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,616757658.988487,29.1285,821,6.4693,Non-financial corporation|rec=0.6545|ben=0.0;Other:OtherRetail Investor|rec=0.0945|ben=0.0
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FOBXX,2026-09-30,arbitrum,chain_check,47980254.137611,47980254.137611,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FOBXX,2026-09-30,ethereum,chain_check,48238907.896735,48238907.896735,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FOBXX,2026-09-30,polygon,chain_check,32226231.994119,32226231.994119,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FOBXX,2026-09-30,solana,chain_check,309581.350813,309581.350813,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FOBXX,2026-09-30,stellar,chain_check,430464267.023201,430464265.956833,2,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FOBXX,2026-09-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,559219242.40248,20.3305,853,7.4072,Non-financial corporation|rec=0.7446|ben=0.0;Other:OtherRetail Investor|rec=0.0618|ben=0.0
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),WTGXX,2026-03-31,arbitrum,chain_check,11057370.637217,11057370.637217,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),WTGXX,2026-03-31,ethereum,chain_check,814796716.233736,814796716.233736,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),WTGXX,2026-03-31,solana,chain_check,13.510887,13.510887,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),WTGXX,2026-03-31,stellar,chain_check,1722197.839333,1722197.839333,1,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),WTGXX,2026-03-31,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,827576298.221173,2.4016,441,0.1268,Other:Institutional Investor|rec=0.4833|ben=0.4833;Other:Ultimate Parent Company|rec=0.2412|ben=0.2412;Other:Institutional Investor|rec=0.1464|ben=0.1464;Other:Institutional Investor|rec=0.0717|ben=0.0717
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),WTGXX,2026-06-30,arbitrum,chain_check,11151893.939622,11151893.939622,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),WTGXX,2026-06-30,ethereum,chain_check,704747987.176155,704747987.176155,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),WTGXX,2026-06-30,solana,chain_check,37.743767,37.743767,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),WTGXX,2026-06-30,stellar,chain_check,1409340.223493,1409340.223493,1,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),WTGXX,2026-06-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,717309259.083037,2.5759,496,1.3718,Other:Institutional Investor|rec=0.0834|ben=0.0834;Other:Ultimate Parent Company|rec=0.1368|ben=0.1368;Other:Institutional Investor|rec=0.697|ben=0.697
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),WTGXX,2026-09-30,arbitrum,chain_check,15154435.434657,15154435.434657,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),WTGXX,2026-09-30,ethereum,chain_check,1208884583.410127,1208884583.410127,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),WTGXX,2026-09-30,solana,chain_check,38.073909,38.073909,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),WTGXX,2026-09-30,stellar,chain_check,2221098.815141,2221140.415141,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),WTGXX,2026-09-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,1226260155.733834,2.1447,549,0.6659,Other:Institutional Investor|rec=0.0549|ben=0.0549;Other:Ultimate Parent Company|rec=0.0872|ben=0.0872;Other:Institutional Investor|rec=0.8147|ben=0.8147
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),JLTXX,2026-03-31,ethereum,chain_check,0,0,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),JLTXX,2026-03-31,ethereum,M3,,,,K4,,0.0,,0,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),JLTXX,2026-06-30,ethereum,chain_check,682153280.3,682153280.3,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),JLTXX,2026-06-30,ethereum,M3,,,,K4,,682153280.3,0.0,5,,Non-financial corporation|rec=0.1472|ben=0.0000;Depository institution or other banking institution|rec=0.8525|ben=0.0000
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),JLTXX,2026-09-30,ethereum,chain_check,628484843.22,628484843.22,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),JLTXX,2026-09-30,ethereum,M3,,,,K4,,628484843.22,0.0,4,,Non-financial corporation|rec=0.1612|ben=0.0000;Depository institution or other banking institution|rec=0.8356|ben=0.0000
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FYOXX,2026-03-31,ethereum,chain_check,166677016.99,166677016.99,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FYOXX,2026-03-31,ethereum,M3,,,,K4,,166677016.99,2.8498,3,,Other:PARTNERSHIP|rec=0.9842|ben=0.0000
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FYOXX,2026-06-30,ethereum,chain_check,100428489.29,100428489.29,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FYOXX,2026-06-30,ethereum,M3,,,,K4,,100428489.29,27.8805,3,,Other:PARTNERSHIP|rec=0.9663|ben=0.0000
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FYOXX,2026-09-30,ethereum,chain_check,23062850.92,23062850.92,0,,,,,,,
+stellar_burner_leg_on,IMPL-5 Stellar literal (diagnostic),FYOXX,2026-09-30,ethereum,M3,,,,K4,,23062850.92,0.0,2,,Other:PARTNERSHIP|rec=0.9514|ben=0.0000
+hop_incl_redemptions,IMPL-7b,FOBXX,2026-03-31,arbitrum,chain_check,49113370.838007,49113370.838007,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,FOBXX,2026-03-31,ethereum,chain_check,47391540.291633,47391540.291633,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,FOBXX,2026-03-31,polygon,chain_check,31660144.032825,31660144.032825,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,FOBXX,2026-03-31,solana,chain_check,5158.021436,5158.021436,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,FOBXX,2026-03-31,stellar,chain_check,576468537.013799,565482190.204534,52,,,,,,,
+hop_incl_redemptions,IMPL-7b,FOBXX,2026-03-31,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,704638750.197701,7.2391,925,14.7521,Non-financial corporation|rec=0.639|ben=0.0;Other:OtherRetail Investor|rec=0.1749|ben=0.0
+hop_incl_redemptions,IMPL-7b,FOBXX,2026-06-30,arbitrum,chain_check,49543362.86617,49543362.86617,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,FOBXX,2026-06-30,ethereum,chain_check,47806457.536776,47806457.536776,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,FOBXX,2026-06-30,polygon,chain_check,31937331.473075,31937331.473075,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,FOBXX,2026-06-30,solana,chain_check,0,-0.0,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,FOBXX,2026-06-30,stellar,chain_check,487470507.112465,487310123.446039,28,,,,,,,
+hop_incl_redemptions,IMPL-7b,FOBXX,2026-06-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,616757658.988487,5.9952,975,16.4457,Non-financial corporation|rec=0.6545|ben=0.0;Other:OtherRetail Investor|rec=0.0945|ben=0.0
+hop_incl_redemptions,IMPL-7b,FOBXX,2026-09-30,arbitrum,chain_check,47980254.137611,47980254.137611,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,FOBXX,2026-09-30,ethereum,chain_check,48238907.896735,48238907.896735,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,FOBXX,2026-09-30,polygon,chain_check,32226231.994119,32226231.994119,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,FOBXX,2026-09-30,solana,chain_check,309581.350813,309581.350813,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,FOBXX,2026-09-30,stellar,chain_check,430464267.023201,430464265.956833,2,,,,,,,
+hop_incl_redemptions,IMPL-7b,FOBXX,2026-09-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,559219242.40248,0.5254,1009,17.6196,Non-financial corporation|rec=0.7446|ben=0.0;Other:OtherRetail Investor|rec=0.0618|ben=0.0
+hop_incl_redemptions,IMPL-7b,WTGXX,2026-03-31,arbitrum,chain_check,11057370.637217,11057370.637217,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,WTGXX,2026-03-31,ethereum,chain_check,814796716.233736,814796716.233736,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,WTGXX,2026-03-31,solana,chain_check,13.510887,13.510887,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,WTGXX,2026-03-31,stellar,chain_check,1722197.839333,1722197.839333,1,,,,,,,
+hop_incl_redemptions,IMPL-7b,WTGXX,2026-03-31,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,827576298.221173,2.2337,624,0.2983,Other:Institutional Investor|rec=0.4833|ben=0.4833;Other:Ultimate Parent Company|rec=0.2412|ben=0.2412;Other:Institutional Investor|rec=0.1464|ben=0.1464;Other:Institutional Investor|rec=0.0717|ben=0.0717
+hop_incl_redemptions,IMPL-7b,WTGXX,2026-06-30,arbitrum,chain_check,11151893.939622,11151893.939622,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,WTGXX,2026-06-30,ethereum,chain_check,704747987.176155,704747987.176155,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,WTGXX,2026-06-30,solana,chain_check,37.743767,37.743767,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,WTGXX,2026-06-30,stellar,chain_check,1409340.223493,1409340.223493,1,,,,,,,
+hop_incl_redemptions,IMPL-7b,WTGXX,2026-06-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,717309259.083037,2.4365,646,1.5128,Other:Institutional Investor|rec=0.0834|ben=0.0834;Other:Ultimate Parent Company|rec=0.1368|ben=0.1368;Other:Institutional Investor|rec=0.697|ben=0.697
+hop_incl_redemptions,IMPL-7b,WTGXX,2026-09-30,arbitrum,chain_check,15154435.434657,15154435.434657,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,WTGXX,2026-09-30,ethereum,chain_check,1208884583.410127,1208884583.410127,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,WTGXX,2026-09-30,solana,chain_check,38.073909,38.073909,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,WTGXX,2026-09-30,stellar,chain_check,2221098.815141,2221140.415141,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,WTGXX,2026-09-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,1226260155.733834,2.1567,675,0.6536,Other:Institutional Investor|rec=0.0549|ben=0.0549;Other:Ultimate Parent Company|rec=0.0872|ben=0.0872;Other:Institutional Investor|rec=0.8147|ben=0.8147
+hop_incl_redemptions,IMPL-7b,JLTXX,2026-03-31,ethereum,chain_check,0,0,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,JLTXX,2026-03-31,ethereum,M3,,,,K4,,0.0,,0,,
+hop_incl_redemptions,IMPL-7b,JLTXX,2026-06-30,ethereum,chain_check,682153280.3,682153280.3,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,JLTXX,2026-06-30,ethereum,M3,,,,K4,,682153280.3,0.0,5,,Non-financial corporation|rec=0.1472|ben=0.0000;Depository institution or other banking institution|rec=0.8525|ben=0.0000
+hop_incl_redemptions,IMPL-7b,JLTXX,2026-09-30,ethereum,chain_check,628484843.22,628484843.22,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,JLTXX,2026-09-30,ethereum,M3,,,,K4,,628484843.22,0.0,4,,Non-financial corporation|rec=0.1612|ben=0.0000;Depository institution or other banking institution|rec=0.8356|ben=0.0000
+hop_incl_redemptions,IMPL-7b,FYOXX,2026-03-31,ethereum,chain_check,166677016.99,166677016.99,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,FYOXX,2026-03-31,ethereum,M3,,,,K4,,166677016.99,2.8498,3,,Other:PARTNERSHIP|rec=0.9842|ben=0.0000
+hop_incl_redemptions,IMPL-7b,FYOXX,2026-06-30,ethereum,chain_check,100428489.29,100428489.29,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,FYOXX,2026-06-30,ethereum,M3,,,,K4,,100428489.29,27.8805,3,,Other:PARTNERSHIP|rec=0.9663|ben=0.0000
+hop_incl_redemptions,IMPL-7b,FYOXX,2026-09-30,ethereum,chain_check,23062850.92,23062850.92,0,,,,,,,
+hop_incl_redemptions,IMPL-7b,FYOXX,2026-09-30,ethereum,M3,,,,K4,,23062850.92,0.0,2,,Other:PARTNERSHIP|rec=0.9514|ben=0.0000
+hop_trigger_all_mints,C1 pre-audit reading,FOBXX,2026-03-31,arbitrum,chain_check,49113370.838007,49113370.838007,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,FOBXX,2026-03-31,ethereum,chain_check,47391540.291633,47391540.291633,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,FOBXX,2026-03-31,polygon,chain_check,31660144.032825,31660144.032825,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,FOBXX,2026-03-31,solana,chain_check,5158.021436,5158.021436,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,FOBXX,2026-03-31,stellar,chain_check,576468537.013799,565482190.204534,52,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,FOBXX,2026-03-31,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,704638750.197701,10.5805,919,11.5666,Non-financial corporation|rec=0.639|ben=0.0;Other:OtherRetail Investor|rec=0.1749|ben=0.0
+hop_trigger_all_mints,C1 pre-audit reading,FOBXX,2026-06-30,arbitrum,chain_check,49543362.86617,49543362.86617,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,FOBXX,2026-06-30,ethereum,chain_check,47806457.536776,47806457.536776,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,FOBXX,2026-06-30,polygon,chain_check,31937331.473075,31937331.473075,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,FOBXX,2026-06-30,solana,chain_check,0,-0.0,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,FOBXX,2026-06-30,stellar,chain_check,487470507.112465,487310123.446039,28,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,FOBXX,2026-06-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,616757658.988487,9.053,969,13.6365,Non-financial corporation|rec=0.6545|ben=0.0;Other:OtherRetail Investor|rec=0.0945|ben=0.0
+hop_trigger_all_mints,C1 pre-audit reading,FOBXX,2026-09-30,arbitrum,chain_check,47980254.137611,47980254.137611,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,FOBXX,2026-09-30,ethereum,chain_check,48238907.896735,48238907.896735,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,FOBXX,2026-09-30,polygon,chain_check,32226231.994119,32226231.994119,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,FOBXX,2026-09-30,solana,chain_check,309581.350813,309581.350813,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,FOBXX,2026-09-30,stellar,chain_check,430464267.023201,430464265.956833,2,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,FOBXX,2026-09-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,559219242.40248,4.2012,1003,14.4587,Non-financial corporation|rec=0.7446|ben=0.0;Other:OtherRetail Investor|rec=0.0618|ben=0.0
+hop_trigger_all_mints,C1 pre-audit reading,WTGXX,2026-03-31,arbitrum,chain_check,11057370.637217,11057370.637217,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,WTGXX,2026-03-31,ethereum,chain_check,814796716.233736,814796716.233736,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,WTGXX,2026-03-31,solana,chain_check,13.510887,13.510887,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,WTGXX,2026-03-31,stellar,chain_check,1722197.839333,1722197.839333,1,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,WTGXX,2026-03-31,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,827576298.221173,2.2415,624,0.2903,Other:Institutional Investor|rec=0.4833|ben=0.4833;Other:Ultimate Parent Company|rec=0.2412|ben=0.2412;Other:Institutional Investor|rec=0.1464|ben=0.1464;Other:Institutional Investor|rec=0.0717|ben=0.0717
+hop_trigger_all_mints,C1 pre-audit reading,WTGXX,2026-06-30,arbitrum,chain_check,11151893.939622,11151893.939622,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,WTGXX,2026-06-30,ethereum,chain_check,704747987.176155,704747987.176155,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,WTGXX,2026-06-30,solana,chain_check,37.743767,37.743767,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,WTGXX,2026-06-30,stellar,chain_check,1409340.223493,1409340.223493,1,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,WTGXX,2026-06-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,717309259.083037,2.4456,647,1.5036,Other:Institutional Investor|rec=0.0834|ben=0.0834;Other:Ultimate Parent Company|rec=0.1368|ben=0.1368;Other:Institutional Investor|rec=0.697|ben=0.697
+hop_trigger_all_mints,C1 pre-audit reading,WTGXX,2026-09-30,arbitrum,chain_check,15154435.434657,15154435.434657,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,WTGXX,2026-09-30,ethereum,chain_check,1208884583.410127,1208884583.410127,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,WTGXX,2026-09-30,solana,chain_check,38.073909,38.073909,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,WTGXX,2026-09-30,stellar,chain_check,2221098.815141,2221140.415141,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,WTGXX,2026-09-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,1226260155.733834,2.0149,678,0.7974,Other:Institutional Investor|rec=0.0549|ben=0.0549;Other:Ultimate Parent Company|rec=0.0872|ben=0.0872;Other:Institutional Investor|rec=0.8147|ben=0.8147
+hop_trigger_all_mints,C1 pre-audit reading,JLTXX,2026-03-31,ethereum,chain_check,0,0,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,JLTXX,2026-03-31,ethereum,M3,,,,K4,,0.0,,0,,
+hop_trigger_all_mints,C1 pre-audit reading,JLTXX,2026-06-30,ethereum,chain_check,682153280.3,682153280.3,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,JLTXX,2026-06-30,ethereum,M3,,,,K4,,682153280.3,0.0,5,,Non-financial corporation|rec=0.1472|ben=0.0000;Depository institution or other banking institution|rec=0.8525|ben=0.0000
+hop_trigger_all_mints,C1 pre-audit reading,JLTXX,2026-09-30,ethereum,chain_check,628484843.22,628484843.22,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,JLTXX,2026-09-30,ethereum,M3,,,,K4,,628484843.22,0.0,4,,Non-financial corporation|rec=0.1612|ben=0.0000;Depository institution or other banking institution|rec=0.8356|ben=0.0000
+hop_trigger_all_mints,C1 pre-audit reading,FYOXX,2026-03-31,ethereum,chain_check,166677016.99,166677016.99,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,FYOXX,2026-03-31,ethereum,M3,,,,K4,,166677016.99,2.8498,3,,Other:PARTNERSHIP|rec=0.9842|ben=0.0000
+hop_trigger_all_mints,C1 pre-audit reading,FYOXX,2026-06-30,ethereum,chain_check,100428489.29,100428489.29,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,FYOXX,2026-06-30,ethereum,M3,,,,K4,,100428489.29,27.8805,3,,Other:PARTNERSHIP|rec=0.9663|ben=0.0000
+hop_trigger_all_mints,C1 pre-audit reading,FYOXX,2026-09-30,ethereum,chain_check,23062850.92,23062850.92,0,,,,,,,
+hop_trigger_all_mints,C1 pre-audit reading,FYOXX,2026-09-30,ethereum,M3,,,,K4,,23062850.92,0.0,2,,Other:PARTNERSHIP|rec=0.9514|ben=0.0000
+hop_leg_off,C1 hop leg off,FOBXX,2026-03-31,arbitrum,chain_check,49113370.838007,49113370.838007,0,,,,,,,
+hop_leg_off,C1 hop leg off,FOBXX,2026-03-31,ethereum,chain_check,47391540.291633,47391540.291633,0,,,,,,,
+hop_leg_off,C1 hop leg off,FOBXX,2026-03-31,polygon,chain_check,31660144.032825,31660144.032825,0,,,,,,,
+hop_leg_off,C1 hop leg off,FOBXX,2026-03-31,solana,chain_check,5158.021436,5158.021436,0,,,,,,,
+hop_leg_off,C1 hop leg off,FOBXX,2026-03-31,stellar,chain_check,576468537.013799,565482190.204534,52,,,,,,,
+hop_leg_off,C1 hop leg off,FOBXX,2026-03-31,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,704638750.197701,0.0036,927,16.0089,Non-financial corporation|rec=0.639|ben=0.0;Other:OtherRetail Investor|rec=0.1749|ben=0.0
+hop_leg_off,C1 hop leg off,FOBXX,2026-06-30,arbitrum,chain_check,49543362.86617,49543362.86617,0,,,,,,,
+hop_leg_off,C1 hop leg off,FOBXX,2026-06-30,ethereum,chain_check,47806457.536776,47806457.536776,0,,,,,,,
+hop_leg_off,C1 hop leg off,FOBXX,2026-06-30,polygon,chain_check,31937331.473075,31937331.473075,0,,,,,,,
+hop_leg_off,C1 hop leg off,FOBXX,2026-06-30,solana,chain_check,0,-0.0,0,,,,,,,
+hop_leg_off,C1 hop leg off,FOBXX,2026-06-30,stellar,chain_check,487470507.112465,487310123.446039,28,,,,,,,
+hop_leg_off,C1 hop leg off,FOBXX,2026-06-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,616757658.988487,0.0043,977,18.0698,Non-financial corporation|rec=0.6545|ben=0.0;Other:OtherRetail Investor|rec=0.0945|ben=0.0
+hop_leg_off,C1 hop leg off,FOBXX,2026-09-30,arbitrum,chain_check,47980254.137611,47980254.137611,0,,,,,,,
+hop_leg_off,C1 hop leg off,FOBXX,2026-09-30,ethereum,chain_check,48238907.896735,48238907.896735,0,,,,,,,
+hop_leg_off,C1 hop leg off,FOBXX,2026-09-30,polygon,chain_check,32226231.994119,32226231.994119,0,,,,,,,
+hop_leg_off,C1 hop leg off,FOBXX,2026-09-30,solana,chain_check,309581.350813,309581.350813,0,,,,,,,
+hop_leg_off,C1 hop leg off,FOBXX,2026-09-30,stellar,chain_check,430464267.023201,430464265.956833,2,,,,,,,
+hop_leg_off,C1 hop leg off,FOBXX,2026-09-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,559219242.40248,0.0121,1012,18.0426,Non-financial corporation|rec=0.7446|ben=0.0;Other:OtherRetail Investor|rec=0.0618|ben=0.0
+hop_leg_off,C1 hop leg off,WTGXX,2026-03-31,arbitrum,chain_check,11057370.637217,11057370.637217,0,,,,,,,
+hop_leg_off,C1 hop leg off,WTGXX,2026-03-31,ethereum,chain_check,814796716.233736,814796716.233736,0,,,,,,,
+hop_leg_off,C1 hop leg off,WTGXX,2026-03-31,solana,chain_check,13.510887,13.510887,0,,,,,,,
+hop_leg_off,C1 hop leg off,WTGXX,2026-03-31,stellar,chain_check,1722197.839333,1722197.839333,1,,,,,,,
+hop_leg_off,C1 hop leg off,WTGXX,2026-03-31,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,827576298.221173,0.0,629,1.0336,Other:Institutional Investor|rec=0.4833|ben=0.4833;Other:Ultimate Parent Company|rec=0.2412|ben=0.2412;Other:Institutional Investor|rec=0.1464|ben=0.1464;Other:Institutional Investor|rec=0.0717|ben=0.0717
+hop_leg_off,C1 hop leg off,WTGXX,2026-06-30,arbitrum,chain_check,11151893.939622,11151893.939622,0,,,,,,,
+hop_leg_off,C1 hop leg off,WTGXX,2026-06-30,ethereum,chain_check,704747987.176155,704747987.176155,0,,,,,,,
+hop_leg_off,C1 hop leg off,WTGXX,2026-06-30,solana,chain_check,37.743767,37.743767,0,,,,,,,
+hop_leg_off,C1 hop leg off,WTGXX,2026-06-30,stellar,chain_check,1409340.223493,1409340.223493,1,,,,,,,
+hop_leg_off,C1 hop leg off,WTGXX,2026-06-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,717309259.083037,0.0,652,2.4189,Other:Institutional Investor|rec=0.0834|ben=0.0834;Other:Ultimate Parent Company|rec=0.1368|ben=0.1368;Other:Institutional Investor|rec=0.697|ben=0.697
+hop_leg_off,C1 hop leg off,WTGXX,2026-09-30,arbitrum,chain_check,15154435.434657,15154435.434657,0,,,,,,,
+hop_leg_off,C1 hop leg off,WTGXX,2026-09-30,ethereum,chain_check,1208884583.410127,1208884583.410127,0,,,,,,,
+hop_leg_off,C1 hop leg off,WTGXX,2026-09-30,solana,chain_check,38.073909,38.073909,0,,,,,,,
+hop_leg_off,C1 hop leg off,WTGXX,2026-09-30,stellar,chain_check,2221098.815141,2221140.415141,0,,,,,,,
+hop_leg_off,C1 hop leg off,WTGXX,2026-09-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,1226260155.733834,0.0,684,1.1414,Other:Institutional Investor|rec=0.0549|ben=0.0549;Other:Ultimate Parent Company|rec=0.0872|ben=0.0872;Other:Institutional Investor|rec=0.8147|ben=0.8147
+hop_leg_off,C1 hop leg off,JLTXX,2026-03-31,ethereum,chain_check,0,0,0,,,,,,,
+hop_leg_off,C1 hop leg off,JLTXX,2026-03-31,ethereum,M3,,,,K4,,0.0,,0,,
+hop_leg_off,C1 hop leg off,JLTXX,2026-06-30,ethereum,chain_check,682153280.3,682153280.3,0,,,,,,,
+hop_leg_off,C1 hop leg off,JLTXX,2026-06-30,ethereum,M3,,,,K4,,682153280.3,0.0,5,,Non-financial corporation|rec=0.1472|ben=0.0000;Depository institution or other banking institution|rec=0.8525|ben=0.0000
+hop_leg_off,C1 hop leg off,JLTXX,2026-09-30,ethereum,chain_check,628484843.22,628484843.22,0,,,,,,,
+hop_leg_off,C1 hop leg off,JLTXX,2026-09-30,ethereum,M3,,,,K4,,628484843.22,0.0,4,,Non-financial corporation|rec=0.1612|ben=0.0000;Depository institution or other banking institution|rec=0.8356|ben=0.0000
+hop_leg_off,C1 hop leg off,FYOXX,2026-03-31,ethereum,chain_check,166677016.99,166677016.99,0,,,,,,,
+hop_leg_off,C1 hop leg off,FYOXX,2026-03-31,ethereum,M3,,,,K4,,166677016.99,2.8498,3,,Other:PARTNERSHIP|rec=0.9842|ben=0.0000
+hop_leg_off,C1 hop leg off,FYOXX,2026-06-30,ethereum,chain_check,100428489.29,100428489.29,0,,,,,,,
+hop_leg_off,C1 hop leg off,FYOXX,2026-06-30,ethereum,M3,,,,K4,,100428489.29,27.8805,3,,Other:PARTNERSHIP|rec=0.9663|ben=0.0000
+hop_leg_off,C1 hop leg off,FYOXX,2026-09-30,ethereum,chain_check,23062850.92,23062850.92,0,,,,,,,
+hop_leg_off,C1 hop leg off,FYOXX,2026-09-30,ethereum,M3,,,,K4,,23062850.92,0.0,2,,Other:PARTNERSHIP|rec=0.9514|ben=0.0000
+outlier_k3,IMPL-8b robustness,FOBXX,2026-03-31,arbitrum,chain_check,49113370.838007,49113370.838007,0,,,,,,,
+outlier_k3,IMPL-8b robustness,FOBXX,2026-03-31,ethereum,chain_check,47391540.291633,47391540.291633,0,,,,,,,
+outlier_k3,IMPL-8b robustness,FOBXX,2026-03-31,polygon,chain_check,31660144.032825,31660144.032825,0,,,,,,,
+outlier_k3,IMPL-8b robustness,FOBXX,2026-03-31,solana,chain_check,5158.021436,5158.021436,0,,,,,,,
+outlier_k3,IMPL-8b robustness,FOBXX,2026-03-31,stellar,chain_check,576468537.013799,565482190.204534,52,,,,,,,
+outlier_k3,IMPL-8b robustness,FOBXX,2026-03-31,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,704638750.197701,7.2391,925,14.7521,Non-financial corporation|rec=0.639|ben=0.0;Other:OtherRetail Investor|rec=0.1749|ben=0.0
+outlier_k3,IMPL-8b robustness,FOBXX,2026-06-30,arbitrum,chain_check,49543362.86617,49543362.86617,0,,,,,,,
+outlier_k3,IMPL-8b robustness,FOBXX,2026-06-30,ethereum,chain_check,47806457.536776,47806457.536776,0,,,,,,,
+outlier_k3,IMPL-8b robustness,FOBXX,2026-06-30,polygon,chain_check,31937331.473075,31937331.473075,0,,,,,,,
+outlier_k3,IMPL-8b robustness,FOBXX,2026-06-30,solana,chain_check,0,-0.0,0,,,,,,,
+outlier_k3,IMPL-8b robustness,FOBXX,2026-06-30,stellar,chain_check,487470507.112465,487310123.446039,28,,,,,,,
+outlier_k3,IMPL-8b robustness,FOBXX,2026-06-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,616757658.988487,5.9952,975,16.4457,Non-financial corporation|rec=0.6545|ben=0.0;Other:OtherRetail Investor|rec=0.0945|ben=0.0
+outlier_k3,IMPL-8b robustness,FOBXX,2026-09-30,arbitrum,chain_check,47980254.137611,47980254.137611,0,,,,,,,
+outlier_k3,IMPL-8b robustness,FOBXX,2026-09-30,ethereum,chain_check,48238907.896735,48238907.896735,0,,,,,,,
+outlier_k3,IMPL-8b robustness,FOBXX,2026-09-30,polygon,chain_check,32226231.994119,32226231.994119,0,,,,,,,
+outlier_k3,IMPL-8b robustness,FOBXX,2026-09-30,solana,chain_check,309581.350813,309581.350813,0,,,,,,,
+outlier_k3,IMPL-8b robustness,FOBXX,2026-09-30,stellar,chain_check,430464267.023201,430464265.956833,2,,,,,,,
+outlier_k3,IMPL-8b robustness,FOBXX,2026-09-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,559219242.40248,0.5254,1009,17.6196,Non-financial corporation|rec=0.7446|ben=0.0;Other:OtherRetail Investor|rec=0.0618|ben=0.0
+outlier_k3,IMPL-8b robustness,WTGXX,2026-03-31,arbitrum,chain_check,11057370.637217,11057370.637217,0,,,,,,,
+outlier_k3,IMPL-8b robustness,WTGXX,2026-03-31,ethereum,chain_check,814796716.233736,814796716.233736,0,,,,,,,
+outlier_k3,IMPL-8b robustness,WTGXX,2026-03-31,solana,chain_check,13.510887,13.510887,0,,,,,,,
+outlier_k3,IMPL-8b robustness,WTGXX,2026-03-31,stellar,chain_check,1722197.839333,1722197.839333,1,,,,,,,
+outlier_k3,IMPL-8b robustness,WTGXX,2026-03-31,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,827576298.221173,2.2337,627,0.2983,Other:Institutional Investor|rec=0.4833|ben=0.4833;Other:Ultimate Parent Company|rec=0.2412|ben=0.2412;Other:Institutional Investor|rec=0.1464|ben=0.1464;Other:Institutional Investor|rec=0.0717|ben=0.0717
+outlier_k3,IMPL-8b robustness,WTGXX,2026-06-30,arbitrum,chain_check,11151893.939622,11151893.939622,0,,,,,,,
+outlier_k3,IMPL-8b robustness,WTGXX,2026-06-30,ethereum,chain_check,704747987.176155,704747987.176155,0,,,,,,,
+outlier_k3,IMPL-8b robustness,WTGXX,2026-06-30,solana,chain_check,37.743767,37.743767,0,,,,,,,
+outlier_k3,IMPL-8b robustness,WTGXX,2026-06-30,stellar,chain_check,1409340.223493,1409340.223493,1,,,,,,,
+outlier_k3,IMPL-8b robustness,WTGXX,2026-06-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,717309259.083037,2.4365,650,1.5128,Other:Institutional Investor|rec=0.0834|ben=0.0834;Other:Ultimate Parent Company|rec=0.1368|ben=0.1368;Other:Institutional Investor|rec=0.697|ben=0.697
+outlier_k3,IMPL-8b robustness,WTGXX,2026-09-30,arbitrum,chain_check,15154435.434657,15154435.434657,0,,,,,,,
+outlier_k3,IMPL-8b robustness,WTGXX,2026-09-30,ethereum,chain_check,1208884583.410127,1208884583.410127,0,,,,,,,
+outlier_k3,IMPL-8b robustness,WTGXX,2026-09-30,solana,chain_check,38.073909,38.073909,0,,,,,,,
+outlier_k3,IMPL-8b robustness,WTGXX,2026-09-30,stellar,chain_check,2221098.815141,2221140.415141,0,,,,,,,
+outlier_k3,IMPL-8b robustness,WTGXX,2026-09-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,1226260155.733834,2.0095,681,0.8029,Other:Institutional Investor|rec=0.0549|ben=0.0549;Other:Ultimate Parent Company|rec=0.0872|ben=0.0872;Other:Institutional Investor|rec=0.8147|ben=0.8147
+outlier_k3,IMPL-8b robustness,JLTXX,2026-03-31,ethereum,chain_check,0,0,0,,,,,,,
+outlier_k3,IMPL-8b robustness,JLTXX,2026-03-31,ethereum,M3,,,,K4,,0.0,,0,,
+outlier_k3,IMPL-8b robustness,JLTXX,2026-06-30,ethereum,chain_check,682153280.3,682153280.3,0,,,,,,,
+outlier_k3,IMPL-8b robustness,JLTXX,2026-06-30,ethereum,M3,,,,K4,,682153280.3,0.0,5,,Non-financial corporation|rec=0.1472|ben=0.0000;Depository institution or other banking institution|rec=0.8525|ben=0.0000
+outlier_k3,IMPL-8b robustness,JLTXX,2026-09-30,ethereum,chain_check,628484843.22,628484843.22,0,,,,,,,
+outlier_k3,IMPL-8b robustness,JLTXX,2026-09-30,ethereum,M3,,,,K4,,628484843.22,0.0,4,,Non-financial corporation|rec=0.1612|ben=0.0000;Depository institution or other banking institution|rec=0.8356|ben=0.0000
+outlier_k3,IMPL-8b robustness,FYOXX,2026-03-31,ethereum,chain_check,166677016.99,166677016.99,0,,,,,,,
+outlier_k3,IMPL-8b robustness,FYOXX,2026-03-31,ethereum,M3,,,,K4,,166677016.99,2.8498,3,,Other:PARTNERSHIP|rec=0.9842|ben=0.0000
+outlier_k3,IMPL-8b robustness,FYOXX,2026-06-30,ethereum,chain_check,100428489.29,100428489.29,0,,,,,,,
+outlier_k3,IMPL-8b robustness,FYOXX,2026-06-30,ethereum,M3,,,,K4,,100428489.29,27.8805,3,,Other:PARTNERSHIP|rec=0.9663|ben=0.0000
+outlier_k3,IMPL-8b robustness,FYOXX,2026-09-30,ethereum,chain_check,23062850.92,23062850.92,0,,,,,,,
+outlier_k3,IMPL-8b robustness,FYOXX,2026-09-30,ethereum,M3,,,,K4,,23062850.92,0.0,2,,Other:PARTNERSHIP|rec=0.9514|ben=0.0000
+rate_cap_k3,IMPL-8c k=3,FOBXX,2026-03-31,arbitrum,chain_check,49113370.838007,49113370.838007,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,FOBXX,2026-03-31,ethereum,chain_check,47391540.291633,47391540.291633,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,FOBXX,2026-03-31,polygon,chain_check,31660144.032825,31660144.032825,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,FOBXX,2026-03-31,solana,chain_check,5158.021436,5158.021436,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,FOBXX,2026-03-31,stellar,chain_check,576468537.013799,565482190.204534,52,,,,,,,
+rate_cap_k3,IMPL-8c k=3,FOBXX,2026-03-31,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,704638750.197701,7.2391,925,14.7521,Non-financial corporation|rec=0.639|ben=0.0;Other:OtherRetail Investor|rec=0.1749|ben=0.0
+rate_cap_k3,IMPL-8c k=3,FOBXX,2026-06-30,arbitrum,chain_check,49543362.86617,49543362.86617,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,FOBXX,2026-06-30,ethereum,chain_check,47806457.536776,47806457.536776,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,FOBXX,2026-06-30,polygon,chain_check,31937331.473075,31937331.473075,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,FOBXX,2026-06-30,solana,chain_check,0,-0.0,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,FOBXX,2026-06-30,stellar,chain_check,487470507.112465,487310123.446039,28,,,,,,,
+rate_cap_k3,IMPL-8c k=3,FOBXX,2026-06-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,616757658.988487,5.9952,975,16.4457,Non-financial corporation|rec=0.6545|ben=0.0;Other:OtherRetail Investor|rec=0.0945|ben=0.0
+rate_cap_k3,IMPL-8c k=3,FOBXX,2026-09-30,arbitrum,chain_check,47980254.137611,47980254.137611,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,FOBXX,2026-09-30,ethereum,chain_check,48238907.896735,48238907.896735,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,FOBXX,2026-09-30,polygon,chain_check,32226231.994119,32226231.994119,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,FOBXX,2026-09-30,solana,chain_check,309581.350813,309581.350813,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,FOBXX,2026-09-30,stellar,chain_check,430464267.023201,430464265.956833,2,,,,,,,
+rate_cap_k3,IMPL-8c k=3,FOBXX,2026-09-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,559219242.40248,0.5254,1009,17.6196,Non-financial corporation|rec=0.7446|ben=0.0;Other:OtherRetail Investor|rec=0.0618|ben=0.0
+rate_cap_k3,IMPL-8c k=3,WTGXX,2026-03-31,arbitrum,chain_check,11057370.637217,11057370.637217,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,WTGXX,2026-03-31,ethereum,chain_check,814796716.233736,814796716.233736,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,WTGXX,2026-03-31,solana,chain_check,13.510887,13.510887,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,WTGXX,2026-03-31,stellar,chain_check,1722197.839333,1722197.839333,1,,,,,,,
+rate_cap_k3,IMPL-8c k=3,WTGXX,2026-03-31,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,827576298.221173,2.2337,627,0.2983,Other:Institutional Investor|rec=0.4833|ben=0.4833;Other:Ultimate Parent Company|rec=0.2412|ben=0.2412;Other:Institutional Investor|rec=0.1464|ben=0.1464;Other:Institutional Investor|rec=0.0717|ben=0.0717
+rate_cap_k3,IMPL-8c k=3,WTGXX,2026-06-30,arbitrum,chain_check,11151893.939622,11151893.939622,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,WTGXX,2026-06-30,ethereum,chain_check,704747987.176155,704747987.176155,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,WTGXX,2026-06-30,solana,chain_check,37.743767,37.743767,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,WTGXX,2026-06-30,stellar,chain_check,1409340.223493,1409340.223493,1,,,,,,,
+rate_cap_k3,IMPL-8c k=3,WTGXX,2026-06-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,717309259.083037,2.4365,650,1.5128,Other:Institutional Investor|rec=0.0834|ben=0.0834;Other:Ultimate Parent Company|rec=0.1368|ben=0.1368;Other:Institutional Investor|rec=0.697|ben=0.697
+rate_cap_k3,IMPL-8c k=3,WTGXX,2026-09-30,arbitrum,chain_check,15154435.434657,15154435.434657,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,WTGXX,2026-09-30,ethereum,chain_check,1208884583.410127,1208884583.410127,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,WTGXX,2026-09-30,solana,chain_check,38.073909,38.073909,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,WTGXX,2026-09-30,stellar,chain_check,2221098.815141,2221140.415141,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,WTGXX,2026-09-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,1226260155.733834,2.0095,681,0.8029,Other:Institutional Investor|rec=0.0549|ben=0.0549;Other:Ultimate Parent Company|rec=0.0872|ben=0.0872;Other:Institutional Investor|rec=0.8147|ben=0.8147
+rate_cap_k3,IMPL-8c k=3,JLTXX,2026-03-31,ethereum,chain_check,0,0,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,JLTXX,2026-03-31,ethereum,M3,,,,K4,,0.0,,0,,
+rate_cap_k3,IMPL-8c k=3,JLTXX,2026-06-30,ethereum,chain_check,682153280.3,682153280.3,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,JLTXX,2026-06-30,ethereum,M3,,,,K4,,682153280.3,0.0,5,,Non-financial corporation|rec=0.1472|ben=0.0000;Depository institution or other banking institution|rec=0.8525|ben=0.0000
+rate_cap_k3,IMPL-8c k=3,JLTXX,2026-09-30,ethereum,chain_check,628484843.22,628484843.22,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,JLTXX,2026-09-30,ethereum,M3,,,,K4,,628484843.22,0.0,4,,Non-financial corporation|rec=0.1612|ben=0.0000;Depository institution or other banking institution|rec=0.8356|ben=0.0000
+rate_cap_k3,IMPL-8c k=3,FYOXX,2026-03-31,ethereum,chain_check,166677016.99,166677016.99,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,FYOXX,2026-03-31,ethereum,M3,,,,K4,,166677016.99,2.8498,3,,Other:PARTNERSHIP|rec=0.9842|ben=0.0000
+rate_cap_k3,IMPL-8c k=3,FYOXX,2026-06-30,ethereum,chain_check,100428489.29,100428489.29,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,FYOXX,2026-06-30,ethereum,M3,,,,K4,,100428489.29,27.8805,3,,Other:PARTNERSHIP|rec=0.9663|ben=0.0000
+rate_cap_k3,IMPL-8c k=3,FYOXX,2026-09-30,ethereum,chain_check,23062850.92,23062850.92,0,,,,,,,
+rate_cap_k3,IMPL-8c k=3,FYOXX,2026-09-30,ethereum,M3,,,,K4,,23062850.92,0.0,2,,Other:PARTNERSHIP|rec=0.9514|ben=0.0000
+rate_cap_k10,IMPL-8c k=10,FOBXX,2026-03-31,arbitrum,chain_check,49113370.838007,49113370.838007,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,FOBXX,2026-03-31,ethereum,chain_check,47391540.291633,47391540.291633,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,FOBXX,2026-03-31,polygon,chain_check,31660144.032825,31660144.032825,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,FOBXX,2026-03-31,solana,chain_check,5158.021436,5158.021436,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,FOBXX,2026-03-31,stellar,chain_check,576468537.013799,565482190.204534,52,,,,,,,
+rate_cap_k10,IMPL-8c k=10,FOBXX,2026-03-31,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,704638750.197701,7.2391,925,14.7521,Non-financial corporation|rec=0.639|ben=0.0;Other:OtherRetail Investor|rec=0.1749|ben=0.0
+rate_cap_k10,IMPL-8c k=10,FOBXX,2026-06-30,arbitrum,chain_check,49543362.86617,49543362.86617,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,FOBXX,2026-06-30,ethereum,chain_check,47806457.536776,47806457.536776,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,FOBXX,2026-06-30,polygon,chain_check,31937331.473075,31937331.473075,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,FOBXX,2026-06-30,solana,chain_check,0,-0.0,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,FOBXX,2026-06-30,stellar,chain_check,487470507.112465,487310123.446039,28,,,,,,,
+rate_cap_k10,IMPL-8c k=10,FOBXX,2026-06-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,616757658.988487,5.9952,975,16.4457,Non-financial corporation|rec=0.6545|ben=0.0;Other:OtherRetail Investor|rec=0.0945|ben=0.0
+rate_cap_k10,IMPL-8c k=10,FOBXX,2026-09-30,arbitrum,chain_check,47980254.137611,47980254.137611,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,FOBXX,2026-09-30,ethereum,chain_check,48238907.896735,48238907.896735,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,FOBXX,2026-09-30,polygon,chain_check,32226231.994119,32226231.994119,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,FOBXX,2026-09-30,solana,chain_check,309581.350813,309581.350813,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,FOBXX,2026-09-30,stellar,chain_check,430464267.023201,430464265.956833,2,,,,,,,
+rate_cap_k10,IMPL-8c k=10,FOBXX,2026-09-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,559219242.40248,0.5254,1009,17.6196,Non-financial corporation|rec=0.7446|ben=0.0;Other:OtherRetail Investor|rec=0.0618|ben=0.0
+rate_cap_k10,IMPL-8c k=10,WTGXX,2026-03-31,arbitrum,chain_check,11057370.637217,11057370.637217,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,WTGXX,2026-03-31,ethereum,chain_check,814796716.233736,814796716.233736,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,WTGXX,2026-03-31,solana,chain_check,13.510887,13.510887,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,WTGXX,2026-03-31,stellar,chain_check,1722197.839333,1722197.839333,1,,,,,,,
+rate_cap_k10,IMPL-8c k=10,WTGXX,2026-03-31,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,827576298.221173,2.2337,627,0.2983,Other:Institutional Investor|rec=0.4833|ben=0.4833;Other:Ultimate Parent Company|rec=0.2412|ben=0.2412;Other:Institutional Investor|rec=0.1464|ben=0.1464;Other:Institutional Investor|rec=0.0717|ben=0.0717
+rate_cap_k10,IMPL-8c k=10,WTGXX,2026-06-30,arbitrum,chain_check,11151893.939622,11151893.939622,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,WTGXX,2026-06-30,ethereum,chain_check,704747987.176155,704747987.176155,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,WTGXX,2026-06-30,solana,chain_check,37.743767,37.743767,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,WTGXX,2026-06-30,stellar,chain_check,1409340.223493,1409340.223493,1,,,,,,,
+rate_cap_k10,IMPL-8c k=10,WTGXX,2026-06-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,717309259.083037,2.4365,650,1.5128,Other:Institutional Investor|rec=0.0834|ben=0.0834;Other:Ultimate Parent Company|rec=0.1368|ben=0.1368;Other:Institutional Investor|rec=0.697|ben=0.697
+rate_cap_k10,IMPL-8c k=10,WTGXX,2026-09-30,arbitrum,chain_check,15154435.434657,15154435.434657,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,WTGXX,2026-09-30,ethereum,chain_check,1208884583.410127,1208884583.410127,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,WTGXX,2026-09-30,solana,chain_check,38.073909,38.073909,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,WTGXX,2026-09-30,stellar,chain_check,2221098.815141,2221140.415141,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,WTGXX,2026-09-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,1226260155.733834,2.0095,681,0.8029,Other:Institutional Investor|rec=0.0549|ben=0.0549;Other:Ultimate Parent Company|rec=0.0872|ben=0.0872;Other:Institutional Investor|rec=0.8147|ben=0.8147
+rate_cap_k10,IMPL-8c k=10,JLTXX,2026-03-31,ethereum,chain_check,0,0,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,JLTXX,2026-03-31,ethereum,M3,,,,K4,,0.0,,0,,
+rate_cap_k10,IMPL-8c k=10,JLTXX,2026-06-30,ethereum,chain_check,682153280.3,682153280.3,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,JLTXX,2026-06-30,ethereum,M3,,,,K4,,682153280.3,0.0,5,,Non-financial corporation|rec=0.1472|ben=0.0000;Depository institution or other banking institution|rec=0.8525|ben=0.0000
+rate_cap_k10,IMPL-8c k=10,JLTXX,2026-09-30,ethereum,chain_check,628484843.22,628484843.22,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,JLTXX,2026-09-30,ethereum,M3,,,,K4,,628484843.22,0.0,4,,Non-financial corporation|rec=0.1612|ben=0.0000;Depository institution or other banking institution|rec=0.8356|ben=0.0000
+rate_cap_k10,IMPL-8c k=10,FYOXX,2026-03-31,ethereum,chain_check,166677016.99,166677016.99,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,FYOXX,2026-03-31,ethereum,M3,,,,K4,,166677016.99,2.8498,3,,Other:PARTNERSHIP|rec=0.9842|ben=0.0000
+rate_cap_k10,IMPL-8c k=10,FYOXX,2026-06-30,ethereum,chain_check,100428489.29,100428489.29,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,FYOXX,2026-06-30,ethereum,M3,,,,K4,,100428489.29,27.8805,3,,Other:PARTNERSHIP|rec=0.9663|ben=0.0000
+rate_cap_k10,IMPL-8c k=10,FYOXX,2026-09-30,ethereum,chain_check,23062850.92,23062850.92,0,,,,,,,
+rate_cap_k10,IMPL-8c k=10,FYOXX,2026-09-30,ethereum,M3,,,,K4,,23062850.92,0.0,2,,Other:PARTNERSHIP|rec=0.9514|ben=0.0000
+rate_cap_off,IMPL-8c no cap,FOBXX,2026-03-31,arbitrum,chain_check,49113370.838007,49113370.838007,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,FOBXX,2026-03-31,ethereum,chain_check,47391540.291633,47391540.291633,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,FOBXX,2026-03-31,polygon,chain_check,31660144.032825,31660144.032825,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,FOBXX,2026-03-31,solana,chain_check,5158.021436,5158.021436,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,FOBXX,2026-03-31,stellar,chain_check,576468537.013799,565482190.204534,52,,,,,,,
+rate_cap_off,IMPL-8c no cap,FOBXX,2026-03-31,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,704638750.197701,7.2391,925,14.7521,Non-financial corporation|rec=0.639|ben=0.0;Other:OtherRetail Investor|rec=0.1749|ben=0.0
+rate_cap_off,IMPL-8c no cap,FOBXX,2026-06-30,arbitrum,chain_check,49543362.86617,49543362.86617,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,FOBXX,2026-06-30,ethereum,chain_check,47806457.536776,47806457.536776,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,FOBXX,2026-06-30,polygon,chain_check,31937331.473075,31937331.473075,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,FOBXX,2026-06-30,solana,chain_check,0,-0.0,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,FOBXX,2026-06-30,stellar,chain_check,487470507.112465,487310123.446039,28,,,,,,,
+rate_cap_off,IMPL-8c no cap,FOBXX,2026-06-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,616757658.988487,5.9952,975,16.4457,Non-financial corporation|rec=0.6545|ben=0.0;Other:OtherRetail Investor|rec=0.0945|ben=0.0
+rate_cap_off,IMPL-8c no cap,FOBXX,2026-09-30,arbitrum,chain_check,47980254.137611,47980254.137611,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,FOBXX,2026-09-30,ethereum,chain_check,48238907.896735,48238907.896735,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,FOBXX,2026-09-30,polygon,chain_check,32226231.994119,32226231.994119,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,FOBXX,2026-09-30,solana,chain_check,309581.350813,309581.350813,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,FOBXX,2026-09-30,stellar,chain_check,430464267.023201,430464265.956833,2,,,,,,,
+rate_cap_off,IMPL-8c no cap,FOBXX,2026-09-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,559219242.40248,0.5254,1009,17.6196,Non-financial corporation|rec=0.7446|ben=0.0;Other:OtherRetail Investor|rec=0.0618|ben=0.0
+rate_cap_off,IMPL-8c no cap,WTGXX,2026-03-31,arbitrum,chain_check,11057370.637217,11057370.637217,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,WTGXX,2026-03-31,ethereum,chain_check,814796716.233736,814796716.233736,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,WTGXX,2026-03-31,solana,chain_check,13.510887,13.510887,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,WTGXX,2026-03-31,stellar,chain_check,1722197.839333,1722197.839333,1,,,,,,,
+rate_cap_off,IMPL-8c no cap,WTGXX,2026-03-31,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,827576298.221173,2.2337,627,0.2983,Other:Institutional Investor|rec=0.4833|ben=0.4833;Other:Ultimate Parent Company|rec=0.2412|ben=0.2412;Other:Institutional Investor|rec=0.1464|ben=0.1464;Other:Institutional Investor|rec=0.0717|ben=0.0717
+rate_cap_off,IMPL-8c no cap,WTGXX,2026-06-30,arbitrum,chain_check,11151893.939622,11151893.939622,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,WTGXX,2026-06-30,ethereum,chain_check,704747987.176155,704747987.176155,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,WTGXX,2026-06-30,solana,chain_check,37.743767,37.743767,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,WTGXX,2026-06-30,stellar,chain_check,1409340.223493,1409340.223493,1,,,,,,,
+rate_cap_off,IMPL-8c no cap,WTGXX,2026-06-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,717309259.083037,2.4365,650,1.5128,Other:Institutional Investor|rec=0.0834|ben=0.0834;Other:Ultimate Parent Company|rec=0.1368|ben=0.1368;Other:Institutional Investor|rec=0.697|ben=0.697
+rate_cap_off,IMPL-8c no cap,WTGXX,2026-09-30,arbitrum,chain_check,15154435.434657,15154435.434657,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,WTGXX,2026-09-30,ethereum,chain_check,1208884583.410127,1208884583.410127,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,WTGXX,2026-09-30,solana,chain_check,38.073909,38.073909,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,WTGXX,2026-09-30,stellar,chain_check,2221098.815141,2221140.415141,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,WTGXX,2026-09-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,1226260155.733834,2.0095,681,0.8029,Other:Institutional Investor|rec=0.0549|ben=0.0549;Other:Ultimate Parent Company|rec=0.0872|ben=0.0872;Other:Institutional Investor|rec=0.8147|ben=0.8147
+rate_cap_off,IMPL-8c no cap,JLTXX,2026-03-31,ethereum,chain_check,0,0,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,JLTXX,2026-03-31,ethereum,M3,,,,K4,,0.0,,0,,
+rate_cap_off,IMPL-8c no cap,JLTXX,2026-06-30,ethereum,chain_check,682153280.3,682153280.3,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,JLTXX,2026-06-30,ethereum,M3,,,,K4,,682153280.3,0.0,5,,Non-financial corporation|rec=0.1472|ben=0.0000;Depository institution or other banking institution|rec=0.8525|ben=0.0000
+rate_cap_off,IMPL-8c no cap,JLTXX,2026-09-30,ethereum,chain_check,628484843.22,628484843.22,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,JLTXX,2026-09-30,ethereum,M3,,,,K4,,628484843.22,0.0,4,,Non-financial corporation|rec=0.1612|ben=0.0000;Depository institution or other banking institution|rec=0.8356|ben=0.0000
+rate_cap_off,IMPL-8c no cap,FYOXX,2026-03-31,ethereum,chain_check,166677016.99,166677016.99,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,FYOXX,2026-03-31,ethereum,M3,,,,K4,,166677016.99,2.8498,3,,Other:PARTNERSHIP|rec=0.9842|ben=0.0000
+rate_cap_off,IMPL-8c no cap,FYOXX,2026-06-30,ethereum,chain_check,100428489.29,100428489.29,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,FYOXX,2026-06-30,ethereum,M3,,,,K4,,100428489.29,27.8805,3,,Other:PARTNERSHIP|rec=0.9663|ben=0.0000
+rate_cap_off,IMPL-8c no cap,FYOXX,2026-09-30,ethereum,chain_check,23062850.92,23062850.92,0,,,,,,,
+rate_cap_off,IMPL-8c no cap,FYOXX,2026-09-30,ethereum,M3,,,,K4,,23062850.92,0.0,2,,Other:PARTNERSHIP|rec=0.9514|ben=0.0000
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FOBXX,2026-03-31,arbitrum,chain_check,49113370.838007,49113370.838007,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FOBXX,2026-03-31,ethereum,chain_check,47391540.291633,47391540.291633,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FOBXX,2026-03-31,polygon,chain_check,31660144.032825,31660144.032825,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FOBXX,2026-03-31,solana,chain_check,5158.021436,5158.021436,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FOBXX,2026-03-31,stellar,chain_check,576468537.013799,565482190.204534,52,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FOBXX,2026-03-31,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,704638750.197701,7.2391,925,14.7521,Non-financial corporation|rec=0.639|ben=0.0;Other:OtherRetail Investor|rec=0.1749|ben=0.0
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FOBXX,2026-06-30,arbitrum,chain_check,49543362.86617,49543362.86617,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FOBXX,2026-06-30,ethereum,chain_check,47806457.536776,47806457.536776,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FOBXX,2026-06-30,polygon,chain_check,31937331.473075,31937331.473075,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FOBXX,2026-06-30,solana,chain_check,0,-0.0,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FOBXX,2026-06-30,stellar,chain_check,487470507.112465,487310123.446039,28,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FOBXX,2026-06-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,616757658.988487,5.9952,975,16.4457,Non-financial corporation|rec=0.6545|ben=0.0;Other:OtherRetail Investor|rec=0.0945|ben=0.0
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FOBXX,2026-09-30,arbitrum,chain_check,47980254.137611,47980254.137611,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FOBXX,2026-09-30,ethereum,chain_check,48238907.896735,48238907.896735,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FOBXX,2026-09-30,polygon,chain_check,32226231.994119,32226231.994119,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FOBXX,2026-09-30,solana,chain_check,309581.350813,309581.350813,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FOBXX,2026-09-30,stellar,chain_check,430464267.023201,430464265.956833,2,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FOBXX,2026-09-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,559219242.40248,0.5254,1009,17.6196,Non-financial corporation|rec=0.7446|ben=0.0;Other:OtherRetail Investor|rec=0.0618|ben=0.0
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),WTGXX,2026-03-31,arbitrum,chain_check,11057370.637217,11057370.637217,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),WTGXX,2026-03-31,ethereum,chain_check,814796716.233736,814796716.233736,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),WTGXX,2026-03-31,solana,chain_check,13.510887,13.510887,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),WTGXX,2026-03-31,stellar,chain_check,1722197.839333,1722197.839333,1,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),WTGXX,2026-03-31,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,827576298.221173,2.2337,627,0.2983,Other:Institutional Investor|rec=0.4833|ben=0.4833;Other:Ultimate Parent Company|rec=0.2412|ben=0.2412;Other:Institutional Investor|rec=0.1464|ben=0.1464;Other:Institutional Investor|rec=0.0717|ben=0.0717
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),WTGXX,2026-06-30,arbitrum,chain_check,11151893.939622,11151893.939622,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),WTGXX,2026-06-30,ethereum,chain_check,704747987.176155,704747987.176155,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),WTGXX,2026-06-30,solana,chain_check,37.743767,37.743767,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),WTGXX,2026-06-30,stellar,chain_check,1409340.223493,1409340.223493,1,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),WTGXX,2026-06-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,717309259.083037,2.4365,650,1.5128,Other:Institutional Investor|rec=0.0834|ben=0.0834;Other:Ultimate Parent Company|rec=0.1368|ben=0.1368;Other:Institutional Investor|rec=0.697|ben=0.697
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),WTGXX,2026-09-30,arbitrum,chain_check,15154435.434657,15154435.434657,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),WTGXX,2026-09-30,ethereum,chain_check,1208884583.410127,1208884583.410127,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),WTGXX,2026-09-30,solana,chain_check,38.073909,38.073909,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),WTGXX,2026-09-30,stellar,chain_check,2221098.815141,2221140.415141,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),WTGXX,2026-09-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,1226260155.733834,2.0095,681,0.8029,Other:Institutional Investor|rec=0.0549|ben=0.0549;Other:Ultimate Parent Company|rec=0.0872|ben=0.0872;Other:Institutional Investor|rec=0.8147|ben=0.8147
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),JLTXX,2026-03-31,ethereum,chain_check,0,0,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),JLTXX,2026-03-31,ethereum,M3,,,,K4,,0.0,,0,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),JLTXX,2026-06-30,ethereum,chain_check,682153280.3,682153280.3,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),JLTXX,2026-06-30,ethereum,M3,,,,K4,,682153280.3,0.0,5,,Non-financial corporation|rec=0.1472|ben=0.0000;Depository institution or other banking institution|rec=0.8525|ben=0.0000
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),JLTXX,2026-09-30,ethereum,chain_check,628484843.22,628484843.22,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),JLTXX,2026-09-30,ethereum,M3,,,,K4,,628484843.22,0.0,4,,Non-financial corporation|rec=0.1612|ben=0.0000;Depository institution or other banking institution|rec=0.8356|ben=0.0000
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FYOXX,2026-03-31,ethereum,chain_check,166677016.99,166677016.99,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FYOXX,2026-03-31,ethereum,M3,,,,K4,,166677016.99,2.8498,3,,Other:PARTNERSHIP|rec=0.9842|ben=0.0000
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FYOXX,2026-06-30,ethereum,chain_check,100428489.29,100428489.29,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FYOXX,2026-06-30,ethereum,M3,,,,K4,,100428489.29,27.8805,3,,Other:PARTNERSHIP|rec=0.9663|ben=0.0000
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FYOXX,2026-09-30,ethereum,chain_check,23062850.92,23062850.92,0,,,,,,,
+rate_cap_day_aware,IMPL-8c day-aware cap (1.25),FYOXX,2026-09-30,ethereum,M3,,,,K4,,23062850.92,0.0,2,,Other:PARTNERSHIP|rec=0.9514|ben=0.0000
+iii_off,IMPL-10 rule (iii) off (FDIT),FOBXX,2026-03-31,arbitrum,chain_check,49113370.838007,49113370.838007,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),FOBXX,2026-03-31,ethereum,chain_check,47391540.291633,47391540.291633,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),FOBXX,2026-03-31,polygon,chain_check,31660144.032825,31660144.032825,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),FOBXX,2026-03-31,solana,chain_check,5158.021436,5158.021436,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),FOBXX,2026-03-31,stellar,chain_check,576468537.013799,565482190.204534,52,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),FOBXX,2026-03-31,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,704638750.197701,7.2391,925,14.7521,Non-financial corporation|rec=0.639|ben=0.0;Other:OtherRetail Investor|rec=0.1749|ben=0.0
+iii_off,IMPL-10 rule (iii) off (FDIT),FOBXX,2026-06-30,arbitrum,chain_check,49543362.86617,49543362.86617,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),FOBXX,2026-06-30,ethereum,chain_check,47806457.536776,47806457.536776,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),FOBXX,2026-06-30,polygon,chain_check,31937331.473075,31937331.473075,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),FOBXX,2026-06-30,solana,chain_check,0,-0.0,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),FOBXX,2026-06-30,stellar,chain_check,487470507.112465,487310123.446039,28,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),FOBXX,2026-06-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,616757658.988487,5.9952,975,16.4457,Non-financial corporation|rec=0.6545|ben=0.0;Other:OtherRetail Investor|rec=0.0945|ben=0.0
+iii_off,IMPL-10 rule (iii) off (FDIT),FOBXX,2026-09-30,arbitrum,chain_check,47980254.137611,47980254.137611,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),FOBXX,2026-09-30,ethereum,chain_check,48238907.896735,48238907.896735,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),FOBXX,2026-09-30,polygon,chain_check,32226231.994119,32226231.994119,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),FOBXX,2026-09-30,solana,chain_check,309581.350813,309581.350813,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),FOBXX,2026-09-30,stellar,chain_check,430464267.023201,430464265.956833,2,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),FOBXX,2026-09-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,559219242.40248,0.5254,1009,17.6196,Non-financial corporation|rec=0.7446|ben=0.0;Other:OtherRetail Investor|rec=0.0618|ben=0.0
+iii_off,IMPL-10 rule (iii) off (FDIT),WTGXX,2026-03-31,arbitrum,chain_check,11057370.637217,11057370.637217,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),WTGXX,2026-03-31,ethereum,chain_check,814796716.233736,814796716.233736,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),WTGXX,2026-03-31,solana,chain_check,13.510887,13.510887,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),WTGXX,2026-03-31,stellar,chain_check,1722197.839333,1722197.839333,1,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),WTGXX,2026-03-31,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,827576298.221173,2.2337,627,0.2983,Other:Institutional Investor|rec=0.4833|ben=0.4833;Other:Ultimate Parent Company|rec=0.2412|ben=0.2412;Other:Institutional Investor|rec=0.1464|ben=0.1464;Other:Institutional Investor|rec=0.0717|ben=0.0717
+iii_off,IMPL-10 rule (iii) off (FDIT),WTGXX,2026-06-30,arbitrum,chain_check,11151893.939622,11151893.939622,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),WTGXX,2026-06-30,ethereum,chain_check,704747987.176155,704747987.176155,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),WTGXX,2026-06-30,solana,chain_check,37.743767,37.743767,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),WTGXX,2026-06-30,stellar,chain_check,1409340.223493,1409340.223493,1,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),WTGXX,2026-06-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,717309259.083037,2.4365,650,1.5128,Other:Institutional Investor|rec=0.0834|ben=0.0834;Other:Ultimate Parent Company|rec=0.1368|ben=0.1368;Other:Institutional Investor|rec=0.697|ben=0.697
+iii_off,IMPL-10 rule (iii) off (FDIT),WTGXX,2026-09-30,arbitrum,chain_check,15154435.434657,15154435.434657,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),WTGXX,2026-09-30,ethereum,chain_check,1208884583.410127,1208884583.410127,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),WTGXX,2026-09-30,solana,chain_check,38.073909,38.073909,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),WTGXX,2026-09-30,stellar,chain_check,2221098.815141,2221140.415141,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),WTGXX,2026-09-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,1226260155.733834,2.0095,681,0.8029,Other:Institutional Investor|rec=0.0549|ben=0.0549;Other:Ultimate Parent Company|rec=0.0872|ben=0.0872;Other:Institutional Investor|rec=0.8147|ben=0.8147
+iii_off,IMPL-10 rule (iii) off (FDIT),JLTXX,2026-03-31,ethereum,chain_check,0,0,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),JLTXX,2026-03-31,ethereum,M3,,,,K4,,0.0,,0,,
+iii_off,IMPL-10 rule (iii) off (FDIT),JLTXX,2026-06-30,ethereum,chain_check,682153280.3,682153280.3,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),JLTXX,2026-06-30,ethereum,M3,,,,K4,,682153280.3,0.0,5,,Non-financial corporation|rec=0.1472|ben=0.0000;Depository institution or other banking institution|rec=0.8525|ben=0.0000
+iii_off,IMPL-10 rule (iii) off (FDIT),JLTXX,2026-09-30,ethereum,chain_check,628484843.22,628484843.22,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),JLTXX,2026-09-30,ethereum,M3,,,,K4,,628484843.22,0.0,4,,Non-financial corporation|rec=0.1612|ben=0.0000;Depository institution or other banking institution|rec=0.8356|ben=0.0000
+iii_off,IMPL-10 rule (iii) off (FDIT),FYOXX,2026-03-31,ethereum,chain_check,166677016.99,166677016.99,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),FYOXX,2026-03-31,ethereum,M3,,,,K4,,166677016.99,2.8498,3,,Other:PARTNERSHIP|rec=0.9842|ben=0.0000
+iii_off,IMPL-10 rule (iii) off (FDIT),FYOXX,2026-06-30,ethereum,chain_check,100428489.29,100428489.29,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),FYOXX,2026-06-30,ethereum,M3,,,,K4,,100428489.29,27.8805,3,,Other:PARTNERSHIP|rec=0.9663|ben=0.0000
+iii_off,IMPL-10 rule (iii) off (FDIT),FYOXX,2026-09-30,ethereum,chain_check,23062850.92,23062850.92,0,,,,,,,
+iii_off,IMPL-10 rule (iii) off (FDIT),FYOXX,2026-09-30,ethereum,M3,,,,K4,,23062850.92,0.0,2,,Other:PARTNERSHIP|rec=0.9514|ben=0.0000
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FOBXX,2026-03-31,arbitrum,chain_check,49113370.838007,49113370.838007,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FOBXX,2026-03-31,ethereum,chain_check,47391540.291633,47391540.291633,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FOBXX,2026-03-31,polygon,chain_check,31660144.032825,31660144.032825,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FOBXX,2026-03-31,solana,chain_check,5158.021436,5158.021436,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FOBXX,2026-03-31,stellar,chain_check,576468537.013799,565482190.204534,52,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FOBXX,2026-03-31,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,704638750.197701,7.2391,925,14.7521,Non-financial corporation|rec=0.639|ben=0.0;Other:OtherRetail Investor|rec=0.1749|ben=0.0
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FOBXX,2026-06-30,arbitrum,chain_check,49543362.86617,49543362.86617,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FOBXX,2026-06-30,ethereum,chain_check,47806457.536776,47806457.536776,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FOBXX,2026-06-30,polygon,chain_check,31937331.473075,31937331.473075,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FOBXX,2026-06-30,solana,chain_check,0,-0.0,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FOBXX,2026-06-30,stellar,chain_check,487470507.112465,487310123.446039,28,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FOBXX,2026-06-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,616757658.988487,5.9952,975,16.4457,Non-financial corporation|rec=0.6545|ben=0.0;Other:OtherRetail Investor|rec=0.0945|ben=0.0
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FOBXX,2026-09-30,arbitrum,chain_check,47980254.137611,47980254.137611,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FOBXX,2026-09-30,ethereum,chain_check,48238907.896735,48238907.896735,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FOBXX,2026-09-30,polygon,chain_check,32226231.994119,32226231.994119,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FOBXX,2026-09-30,solana,chain_check,309581.350813,309581.350813,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FOBXX,2026-09-30,stellar,chain_check,430464267.023201,430464265.956833,2,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FOBXX,2026-09-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,559219242.40248,0.5254,1009,17.6196,Non-financial corporation|rec=0.7446|ben=0.0;Other:OtherRetail Investor|rec=0.0618|ben=0.0
+iii_sub_tol_1,IMPL-10 tolerance 1 share,WTGXX,2026-03-31,arbitrum,chain_check,11057370.637217,11057370.637217,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,WTGXX,2026-03-31,ethereum,chain_check,814796716.233736,814796716.233736,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,WTGXX,2026-03-31,solana,chain_check,13.510887,13.510887,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,WTGXX,2026-03-31,stellar,chain_check,1722197.839333,1722197.839333,1,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,WTGXX,2026-03-31,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,827576298.221173,2.2337,627,0.2983,Other:Institutional Investor|rec=0.4833|ben=0.4833;Other:Ultimate Parent Company|rec=0.2412|ben=0.2412;Other:Institutional Investor|rec=0.1464|ben=0.1464;Other:Institutional Investor|rec=0.0717|ben=0.0717
+iii_sub_tol_1,IMPL-10 tolerance 1 share,WTGXX,2026-06-30,arbitrum,chain_check,11151893.939622,11151893.939622,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,WTGXX,2026-06-30,ethereum,chain_check,704747987.176155,704747987.176155,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,WTGXX,2026-06-30,solana,chain_check,37.743767,37.743767,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,WTGXX,2026-06-30,stellar,chain_check,1409340.223493,1409340.223493,1,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,WTGXX,2026-06-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,717309259.083037,2.4365,650,1.5128,Other:Institutional Investor|rec=0.0834|ben=0.0834;Other:Ultimate Parent Company|rec=0.1368|ben=0.1368;Other:Institutional Investor|rec=0.697|ben=0.697
+iii_sub_tol_1,IMPL-10 tolerance 1 share,WTGXX,2026-09-30,arbitrum,chain_check,15154435.434657,15154435.434657,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,WTGXX,2026-09-30,ethereum,chain_check,1208884583.410127,1208884583.410127,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,WTGXX,2026-09-30,solana,chain_check,38.073909,38.073909,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,WTGXX,2026-09-30,stellar,chain_check,2221098.815141,2221140.415141,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,WTGXX,2026-09-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,1226260155.733834,2.0095,681,0.8029,Other:Institutional Investor|rec=0.0549|ben=0.0549;Other:Ultimate Parent Company|rec=0.0872|ben=0.0872;Other:Institutional Investor|rec=0.8147|ben=0.8147
+iii_sub_tol_1,IMPL-10 tolerance 1 share,JLTXX,2026-03-31,ethereum,chain_check,0,0,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,JLTXX,2026-03-31,ethereum,M3,,,,K4,,0.0,,0,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,JLTXX,2026-06-30,ethereum,chain_check,682153280.3,682153280.3,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,JLTXX,2026-06-30,ethereum,M3,,,,K4,,682153280.3,0.0,5,,Non-financial corporation|rec=0.1472|ben=0.0000;Depository institution or other banking institution|rec=0.8525|ben=0.0000
+iii_sub_tol_1,IMPL-10 tolerance 1 share,JLTXX,2026-09-30,ethereum,chain_check,628484843.22,628484843.22,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,JLTXX,2026-09-30,ethereum,M3,,,,K4,,628484843.22,0.0,4,,Non-financial corporation|rec=0.1612|ben=0.0000;Depository institution or other banking institution|rec=0.8356|ben=0.0000
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FYOXX,2026-03-31,ethereum,chain_check,166677016.99,166677016.99,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FYOXX,2026-03-31,ethereum,M3,,,,K4,,166677016.99,2.8498,3,,Other:PARTNERSHIP|rec=0.9842|ben=0.0000
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FYOXX,2026-06-30,ethereum,chain_check,100428489.29,100428489.29,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FYOXX,2026-06-30,ethereum,M3,,,,K4,,100428489.29,27.8805,3,,Other:PARTNERSHIP|rec=0.9663|ben=0.0000
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FYOXX,2026-09-30,ethereum,chain_check,23062850.92,23062850.92,0,,,,,,,
+iii_sub_tol_1,IMPL-10 tolerance 1 share,FYOXX,2026-09-30,ethereum,M3,,,,K4,,23062850.92,0.0,2,,Other:PARTNERSHIP|rec=0.9514|ben=0.0000
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FOBXX,2026-03-31,arbitrum,chain_check,49113370.838007,49113370.838007,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FOBXX,2026-03-31,ethereum,chain_check,47391540.291633,47391540.291633,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FOBXX,2026-03-31,polygon,chain_check,31660144.032825,31660144.032825,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FOBXX,2026-03-31,solana,chain_check,5158.021436,5158.021436,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FOBXX,2026-03-31,stellar,chain_check,576468537.013799,565482190.204534,52,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FOBXX,2026-03-31,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,704638750.197701,7.2391,925,14.7521,Non-financial corporation|rec=0.639|ben=0.0;Other:OtherRetail Investor|rec=0.1749|ben=0.0
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FOBXX,2026-06-30,arbitrum,chain_check,49543362.86617,49543362.86617,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FOBXX,2026-06-30,ethereum,chain_check,47806457.536776,47806457.536776,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FOBXX,2026-06-30,polygon,chain_check,31937331.473075,31937331.473075,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FOBXX,2026-06-30,solana,chain_check,0,-0.0,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FOBXX,2026-06-30,stellar,chain_check,487470507.112465,487310123.446039,28,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FOBXX,2026-06-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,616757658.988487,5.9952,975,16.4457,Non-financial corporation|rec=0.6545|ben=0.0;Other:OtherRetail Investor|rec=0.0945|ben=0.0
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FOBXX,2026-09-30,arbitrum,chain_check,47980254.137611,47980254.137611,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FOBXX,2026-09-30,ethereum,chain_check,48238907.896735,48238907.896735,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FOBXX,2026-09-30,polygon,chain_check,32226231.994119,32226231.994119,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FOBXX,2026-09-30,solana,chain_check,309581.350813,309581.350813,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FOBXX,2026-09-30,stellar,chain_check,430464267.023201,430464265.956833,2,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FOBXX,2026-09-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,559219242.40248,0.5254,1009,17.6196,Non-financial corporation|rec=0.7446|ben=0.0;Other:OtherRetail Investor|rec=0.0618|ben=0.0
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,WTGXX,2026-03-31,arbitrum,chain_check,11057370.637217,11057370.637217,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,WTGXX,2026-03-31,ethereum,chain_check,814796716.233736,814796716.233736,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,WTGXX,2026-03-31,solana,chain_check,13.510887,13.510887,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,WTGXX,2026-03-31,stellar,chain_check,1722197.839333,1722197.839333,1,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,WTGXX,2026-03-31,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,827576298.221173,2.2337,627,0.2983,Other:Institutional Investor|rec=0.4833|ben=0.4833;Other:Ultimate Parent Company|rec=0.2412|ben=0.2412;Other:Institutional Investor|rec=0.1464|ben=0.1464;Other:Institutional Investor|rec=0.0717|ben=0.0717
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,WTGXX,2026-06-30,arbitrum,chain_check,11151893.939622,11151893.939622,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,WTGXX,2026-06-30,ethereum,chain_check,704747987.176155,704747987.176155,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,WTGXX,2026-06-30,solana,chain_check,37.743767,37.743767,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,WTGXX,2026-06-30,stellar,chain_check,1409340.223493,1409340.223493,1,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,WTGXX,2026-06-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,717309259.083037,2.4365,650,1.5128,Other:Institutional Investor|rec=0.0834|ben=0.0834;Other:Ultimate Parent Company|rec=0.1368|ben=0.1368;Other:Institutional Investor|rec=0.697|ben=0.697
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,WTGXX,2026-09-30,arbitrum,chain_check,15154435.434657,15154435.434657,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,WTGXX,2026-09-30,ethereum,chain_check,1208884583.410127,1208884583.410127,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,WTGXX,2026-09-30,solana,chain_check,38.073909,38.073909,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,WTGXX,2026-09-30,stellar,chain_check,2221098.815141,2221140.415141,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,WTGXX,2026-09-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,1226260155.733834,2.0095,681,0.8029,Other:Institutional Investor|rec=0.0549|ben=0.0549;Other:Ultimate Parent Company|rec=0.0872|ben=0.0872;Other:Institutional Investor|rec=0.8147|ben=0.8147
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,JLTXX,2026-03-31,ethereum,chain_check,0,0,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,JLTXX,2026-03-31,ethereum,M3,,,,K4,,0.0,,0,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,JLTXX,2026-06-30,ethereum,chain_check,682153280.3,682153280.3,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,JLTXX,2026-06-30,ethereum,M3,,,,K4,,682153280.3,0.0,5,,Non-financial corporation|rec=0.1472|ben=0.0000;Depository institution or other banking institution|rec=0.8525|ben=0.0000
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,JLTXX,2026-09-30,ethereum,chain_check,628484843.22,628484843.22,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,JLTXX,2026-09-30,ethereum,M3,,,,K4,,628484843.22,0.0,4,,Non-financial corporation|rec=0.1612|ben=0.0000;Depository institution or other banking institution|rec=0.8356|ben=0.0000
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FYOXX,2026-03-31,ethereum,chain_check,166677016.99,166677016.99,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FYOXX,2026-03-31,ethereum,M3,,,,K4,,166677016.99,2.8498,3,,Other:PARTNERSHIP|rec=0.9842|ben=0.0000
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FYOXX,2026-06-30,ethereum,chain_check,100428489.29,100428489.29,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FYOXX,2026-06-30,ethereum,M3,,,,K4,,100428489.29,27.8805,3,,Other:PARTNERSHIP|rec=0.9663|ben=0.0000
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FYOXX,2026-09-30,ethereum,chain_check,23062850.92,23062850.92,0,,,,,,,
+iii_sub_tol_100,IMPL-10 tolerance 100 shares,FYOXX,2026-09-30,ethereum,M3,,,,K4,,23062850.92,0.0,2,,Other:PARTNERSHIP|rec=0.9514|ben=0.0000
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FOBXX,2026-03-31,arbitrum,chain_check,49113370.838007,49113370.838007,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FOBXX,2026-03-31,ethereum,chain_check,47391540.291633,47391540.291633,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FOBXX,2026-03-31,polygon,chain_check,31660144.032825,31660144.032825,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FOBXX,2026-03-31,solana,chain_check,5158.021436,5158.021436,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FOBXX,2026-03-31,stellar,chain_check,576468537.013799,565482190.204534,52,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FOBXX,2026-03-31,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,704638750.197701,7.2391,925,14.7521,Non-financial corporation|rec=0.639|ben=0.0;Other:OtherRetail Investor|rec=0.1749|ben=0.0
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FOBXX,2026-06-30,arbitrum,chain_check,49543362.86617,49543362.86617,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FOBXX,2026-06-30,ethereum,chain_check,47806457.536776,47806457.536776,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FOBXX,2026-06-30,polygon,chain_check,31937331.473075,31937331.473075,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FOBXX,2026-06-30,solana,chain_check,0,-0.0,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FOBXX,2026-06-30,stellar,chain_check,487470507.112465,487310123.446039,28,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FOBXX,2026-06-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,616757658.988487,5.9952,975,16.4457,Non-financial corporation|rec=0.6545|ben=0.0;Other:OtherRetail Investor|rec=0.0945|ben=0.0
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FOBXX,2026-09-30,arbitrum,chain_check,47980254.137611,47980254.137611,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FOBXX,2026-09-30,ethereum,chain_check,48238907.896735,48238907.896735,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FOBXX,2026-09-30,polygon,chain_check,32226231.994119,32226231.994119,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FOBXX,2026-09-30,solana,chain_check,309581.350813,309581.350813,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FOBXX,2026-09-30,stellar,chain_check,430464267.023201,430464265.956833,2,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FOBXX,2026-09-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,559219242.40248,0.5254,1009,17.6196,Non-financial corporation|rec=0.7446|ben=0.0;Other:OtherRetail Investor|rec=0.0618|ben=0.0
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,WTGXX,2026-03-31,arbitrum,chain_check,11057370.637217,11057370.637217,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,WTGXX,2026-03-31,ethereum,chain_check,814796716.233736,814796716.233736,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,WTGXX,2026-03-31,solana,chain_check,13.510887,13.510887,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,WTGXX,2026-03-31,stellar,chain_check,1722197.839333,1722197.839333,1,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,WTGXX,2026-03-31,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,827576298.221173,2.2337,627,0.2983,Other:Institutional Investor|rec=0.4833|ben=0.4833;Other:Ultimate Parent Company|rec=0.2412|ben=0.2412;Other:Institutional Investor|rec=0.1464|ben=0.1464;Other:Institutional Investor|rec=0.0717|ben=0.0717
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,WTGXX,2026-06-30,arbitrum,chain_check,11151893.939622,11151893.939622,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,WTGXX,2026-06-30,ethereum,chain_check,704747987.176155,704747987.176155,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,WTGXX,2026-06-30,solana,chain_check,37.743767,37.743767,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,WTGXX,2026-06-30,stellar,chain_check,1409340.223493,1409340.223493,1,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,WTGXX,2026-06-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,717309259.083037,2.4365,650,1.5128,Other:Institutional Investor|rec=0.0834|ben=0.0834;Other:Ultimate Parent Company|rec=0.1368|ben=0.1368;Other:Institutional Investor|rec=0.697|ben=0.697
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,WTGXX,2026-09-30,arbitrum,chain_check,15154435.434657,15154435.434657,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,WTGXX,2026-09-30,ethereum,chain_check,1208884583.410127,1208884583.410127,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,WTGXX,2026-09-30,solana,chain_check,38.073909,38.073909,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,WTGXX,2026-09-30,stellar,chain_check,2221098.815141,2221140.415141,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,WTGXX,2026-09-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,1226260155.733834,2.0095,681,0.8029,Other:Institutional Investor|rec=0.0549|ben=0.0549;Other:Ultimate Parent Company|rec=0.0872|ben=0.0872;Other:Institutional Investor|rec=0.8147|ben=0.8147
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,JLTXX,2026-03-31,ethereum,chain_check,0,0,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,JLTXX,2026-03-31,ethereum,M3,,,,K4,,0.0,,0,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,JLTXX,2026-06-30,ethereum,chain_check,682153280.3,682153280.3,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,JLTXX,2026-06-30,ethereum,M3,,,,K4,,682153280.3,0.0,5,,Non-financial corporation|rec=0.1472|ben=0.0000;Depository institution or other banking institution|rec=0.8525|ben=0.0000
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,JLTXX,2026-09-30,ethereum,chain_check,628484843.22,628484843.22,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,JLTXX,2026-09-30,ethereum,M3,,,,K4,,628484843.22,0.0,4,,Non-financial corporation|rec=0.1612|ben=0.0000;Depository institution or other banking institution|rec=0.8356|ben=0.0000
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FYOXX,2026-03-31,ethereum,chain_check,166677016.99,166677016.99,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FYOXX,2026-03-31,ethereum,M3,,,,K4,,166677016.99,2.8498,3,,Other:PARTNERSHIP|rec=0.9842|ben=0.0000
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FYOXX,2026-06-30,ethereum,chain_check,100428489.29,100428489.29,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FYOXX,2026-06-30,ethereum,M3,,,,K4,,100428489.29,27.8805,3,,Other:PARTNERSHIP|rec=0.9663|ben=0.0000
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FYOXX,2026-09-30,ethereum,chain_check,23062850.92,23062850.92,0,,,,,,,
+iii_monthly_accrual,IMPL-10 monthly-accrual variant,FYOXX,2026-09-30,ethereum,M3,,,,K4,,23062850.92,0.0,2,,Other:PARTNERSHIP|rec=0.9514|ben=0.0000
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FOBXX,2026-03-31,arbitrum,chain_check,49113370.838007,49113370.838007,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FOBXX,2026-03-31,ethereum,chain_check,47391540.291633,47391540.291633,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FOBXX,2026-03-31,polygon,chain_check,31660144.032825,31660144.032825,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FOBXX,2026-03-31,solana,chain_check,5158.021436,5158.021436,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FOBXX,2026-03-31,stellar,chain_check,576468537.013799,565482190.204534,52,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FOBXX,2026-03-31,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,704638750.197701,8.3354,920,13.7325,Non-financial corporation|rec=0.639|ben=0.0;Other:OtherRetail Investor|rec=0.1749|ben=0.0
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FOBXX,2026-06-30,arbitrum,chain_check,49543362.86617,49543362.86617,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FOBXX,2026-06-30,ethereum,chain_check,47806457.536776,47806457.536776,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FOBXX,2026-06-30,polygon,chain_check,31937331.473075,31937331.473075,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FOBXX,2026-06-30,solana,chain_check,0,-0.0,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FOBXX,2026-06-30,stellar,chain_check,487470507.112465,487310123.446039,28,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FOBXX,2026-06-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,616757658.988487,6.4655,970,16.0255,Non-financial corporation|rec=0.6545|ben=0.0;Other:OtherRetail Investor|rec=0.0945|ben=0.0
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FOBXX,2026-09-30,arbitrum,chain_check,47980254.137611,47980254.137611,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FOBXX,2026-09-30,ethereum,chain_check,48238907.896735,48238907.896735,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FOBXX,2026-09-30,polygon,chain_check,32226231.994119,32226231.994119,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FOBXX,2026-09-30,solana,chain_check,309581.350813,309581.350813,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FOBXX,2026-09-30,stellar,chain_check,430464267.023201,430464265.956833,2,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FOBXX,2026-09-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,559219242.40248,1.3217,1004,16.9548,Non-financial corporation|rec=0.7446|ben=0.0;Other:OtherRetail Investor|rec=0.0618|ben=0.0
+stellar_unseeded,IMPL-1b unseeded (diagnostic),WTGXX,2026-03-31,arbitrum,chain_check,11057370.637217,11057370.637217,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),WTGXX,2026-03-31,ethereum,chain_check,814796716.233736,814796716.233736,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),WTGXX,2026-03-31,solana,chain_check,13.510887,13.510887,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),WTGXX,2026-03-31,stellar,chain_check,1722197.839333,1722197.839333,1,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),WTGXX,2026-03-31,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,827576298.221173,2.2337,627,0.2983,Other:Institutional Investor|rec=0.4833|ben=0.4833;Other:Ultimate Parent Company|rec=0.2412|ben=0.2412;Other:Institutional Investor|rec=0.1464|ben=0.1464;Other:Institutional Investor|rec=0.0717|ben=0.0717
+stellar_unseeded,IMPL-1b unseeded (diagnostic),WTGXX,2026-06-30,arbitrum,chain_check,11151893.939622,11151893.939622,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),WTGXX,2026-06-30,ethereum,chain_check,704747987.176155,704747987.176155,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),WTGXX,2026-06-30,solana,chain_check,37.743767,37.743767,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),WTGXX,2026-06-30,stellar,chain_check,1409340.223493,1409340.223493,1,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),WTGXX,2026-06-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,717309259.083037,2.4365,650,1.5128,Other:Institutional Investor|rec=0.0834|ben=0.0834;Other:Ultimate Parent Company|rec=0.1368|ben=0.1368;Other:Institutional Investor|rec=0.697|ben=0.697
+stellar_unseeded,IMPL-1b unseeded (diagnostic),WTGXX,2026-09-30,arbitrum,chain_check,15154435.434657,15154435.434657,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),WTGXX,2026-09-30,ethereum,chain_check,1208884583.410127,1208884583.410127,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),WTGXX,2026-09-30,solana,chain_check,38.073909,38.073909,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),WTGXX,2026-09-30,stellar,chain_check,2221098.815141,2221140.415141,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),WTGXX,2026-09-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,1226260155.733834,2.0095,681,0.8029,Other:Institutional Investor|rec=0.0549|ben=0.0549;Other:Ultimate Parent Company|rec=0.0872|ben=0.0872;Other:Institutional Investor|rec=0.8147|ben=0.8147
+stellar_unseeded,IMPL-1b unseeded (diagnostic),JLTXX,2026-03-31,ethereum,chain_check,0,0,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),JLTXX,2026-03-31,ethereum,M3,,,,K4,,0.0,,0,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),JLTXX,2026-06-30,ethereum,chain_check,682153280.3,682153280.3,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),JLTXX,2026-06-30,ethereum,M3,,,,K4,,682153280.3,0.0,5,,Non-financial corporation|rec=0.1472|ben=0.0000;Depository institution or other banking institution|rec=0.8525|ben=0.0000
+stellar_unseeded,IMPL-1b unseeded (diagnostic),JLTXX,2026-09-30,ethereum,chain_check,628484843.22,628484843.22,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),JLTXX,2026-09-30,ethereum,M3,,,,K4,,628484843.22,0.0,4,,Non-financial corporation|rec=0.1612|ben=0.0000;Depository institution or other banking institution|rec=0.8356|ben=0.0000
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FYOXX,2026-03-31,ethereum,chain_check,166677016.99,166677016.99,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FYOXX,2026-03-31,ethereum,M3,,,,K4,,166677016.99,2.8498,3,,Other:PARTNERSHIP|rec=0.9842|ben=0.0000
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FYOXX,2026-06-30,ethereum,chain_check,100428489.29,100428489.29,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FYOXX,2026-06-30,ethereum,M3,,,,K4,,100428489.29,27.8805,3,,Other:PARTNERSHIP|rec=0.9663|ben=0.0000
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FYOXX,2026-09-30,ethereum,chain_check,23062850.92,23062850.92,0,,,,,,,
+stellar_unseeded,IMPL-1b unseeded (diagnostic),FYOXX,2026-09-30,ethereum,M3,,,,K4,,23062850.92,0.0,2,,Other:PARTNERSHIP|rec=0.9514|ben=0.0000
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FOBXX,2026-03-31,arbitrum,chain_check,49113370.838007,49113370.838007,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FOBXX,2026-03-31,ethereum,chain_check,47391540.291633,47391540.291633,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FOBXX,2026-03-31,polygon,chain_check,31660144.032825,31660144.032825,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FOBXX,2026-03-31,solana,chain_check,5158.021436,5158.021436,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FOBXX,2026-03-31,stellar,chain_check,576468537.013799,565482190.204534,52,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FOBXX,2026-03-31,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,704638750.197701,7.2391,925,14.7521,Non-financial corporation|rec=0.639|ben=0.0;Other:OtherRetail Investor|rec=0.1749|ben=0.0
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FOBXX,2026-06-30,arbitrum,chain_check,49543362.86617,49543362.86617,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FOBXX,2026-06-30,ethereum,chain_check,47806457.536776,47806457.536776,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FOBXX,2026-06-30,polygon,chain_check,31937331.473075,31937331.473075,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FOBXX,2026-06-30,solana,chain_check,0,-0.0,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FOBXX,2026-06-30,stellar,chain_check,487470507.112465,487310123.446039,28,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FOBXX,2026-06-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,616757658.988487,5.9952,975,16.4457,Non-financial corporation|rec=0.6545|ben=0.0;Other:OtherRetail Investor|rec=0.0945|ben=0.0
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FOBXX,2026-09-30,arbitrum,chain_check,47980254.137611,47980254.137611,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FOBXX,2026-09-30,ethereum,chain_check,48238907.896735,48238907.896735,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FOBXX,2026-09-30,polygon,chain_check,32226231.994119,32226231.994119,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FOBXX,2026-09-30,solana,chain_check,309581.350813,309581.350813,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FOBXX,2026-09-30,stellar,chain_check,430464267.023201,430464265.956833,2,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FOBXX,2026-09-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,559219242.40248,0.5254,1009,17.6196,Non-financial corporation|rec=0.7446|ben=0.0;Other:OtherRetail Investor|rec=0.0618|ben=0.0
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),WTGXX,2026-03-31,arbitrum,chain_check,11057370.637217,11057370.637217,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),WTGXX,2026-03-31,ethereum,chain_check,814796716.233736,814796716.233736,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),WTGXX,2026-03-31,solana,chain_check,13.510887,13.510887,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),WTGXX,2026-03-31,stellar,chain_check,1722197.839333,1722197.839333,1,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),WTGXX,2026-03-31,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,827576298.221173,2.2337,627,0.2983,Other:Institutional Investor|rec=0.4833|ben=0.4833;Other:Ultimate Parent Company|rec=0.2412|ben=0.2412;Other:Institutional Investor|rec=0.1464|ben=0.1464;Other:Institutional Investor|rec=0.0717|ben=0.0717
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),WTGXX,2026-06-30,arbitrum,chain_check,11151893.939622,11151893.939622,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),WTGXX,2026-06-30,ethereum,chain_check,704747987.176155,704747987.176155,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),WTGXX,2026-06-30,solana,chain_check,37.743767,37.743767,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),WTGXX,2026-06-30,stellar,chain_check,1409340.223493,1409340.223493,1,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),WTGXX,2026-06-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,717309259.083037,2.4365,650,1.5128,Other:Institutional Investor|rec=0.0834|ben=0.0834;Other:Ultimate Parent Company|rec=0.1368|ben=0.1368;Other:Institutional Investor|rec=0.697|ben=0.697
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),WTGXX,2026-09-30,arbitrum,chain_check,15154435.434657,15154435.434657,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),WTGXX,2026-09-30,ethereum,chain_check,1208884583.410127,1208884583.410127,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),WTGXX,2026-09-30,solana,chain_check,38.073909,38.073909,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),WTGXX,2026-09-30,stellar,chain_check,2221098.815141,2221140.415141,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),WTGXX,2026-09-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,1226260155.733834,2.0095,681,0.8029,Other:Institutional Investor|rec=0.0549|ben=0.0549;Other:Ultimate Parent Company|rec=0.0872|ben=0.0872;Other:Institutional Investor|rec=0.8147|ben=0.8147
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),JLTXX,2026-03-31,ethereum,chain_check,0,0,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),JLTXX,2026-03-31,ethereum,M3,,,,K4,,0.0,,0,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),JLTXX,2026-06-30,ethereum,chain_check,682153280.3,682153280.3,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),JLTXX,2026-06-30,ethereum,M3,,,,K4,,682153280.3,0.0,5,,Non-financial corporation|rec=0.1472|ben=0.0000;Depository institution or other banking institution|rec=0.8525|ben=0.0000
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),JLTXX,2026-09-30,ethereum,chain_check,628484843.22,628484843.22,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),JLTXX,2026-09-30,ethereum,M3,,,,K4,,628484843.22,0.0,4,,Non-financial corporation|rec=0.1612|ben=0.0000;Depository institution or other banking institution|rec=0.8356|ben=0.0000
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FYOXX,2026-03-31,ethereum,chain_check,166677016.99,166677016.99,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FYOXX,2026-03-31,ethereum,M3,,,,K4,,166677016.99,2.8498,3,,Other:PARTNERSHIP|rec=0.9842|ben=0.0000
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FYOXX,2026-06-30,ethereum,chain_check,100428489.29,100428489.29,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FYOXX,2026-06-30,ethereum,M3,,,,K4,,100428489.29,27.8805,3,,Other:PARTNERSHIP|rec=0.9663|ben=0.0000
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FYOXX,2026-09-30,ethereum,chain_check,23062850.92,23062850.92,0,,,,,,,
+ta_batch_span_1h,IMPL-14 TA batch: TA source and 1-hour span (pre-CP15 rule),FYOXX,2026-09-30,ethereum,M3,,,,K4,,23062850.92,0.0,2,,Other:PARTNERSHIP|rec=0.9514|ben=0.0000
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FOBXX,2026-03-31,arbitrum,chain_check,49113370.838007,49113370.838007,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FOBXX,2026-03-31,ethereum,chain_check,47391540.291633,47391540.291633,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FOBXX,2026-03-31,polygon,chain_check,31660144.032825,31660144.032825,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FOBXX,2026-03-31,solana,chain_check,5158.021436,5158.021436,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FOBXX,2026-03-31,stellar,chain_check,576468537.013799,565482190.204534,52,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FOBXX,2026-03-31,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,704638750.197701,7.2391,925,14.7521,Non-financial corporation|rec=0.639|ben=0.0;Other:OtherRetail Investor|rec=0.1749|ben=0.0
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FOBXX,2026-06-30,arbitrum,chain_check,49543362.86617,49543362.86617,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FOBXX,2026-06-30,ethereum,chain_check,47806457.536776,47806457.536776,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FOBXX,2026-06-30,polygon,chain_check,31937331.473075,31937331.473075,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FOBXX,2026-06-30,solana,chain_check,0,-0.0,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FOBXX,2026-06-30,stellar,chain_check,487470507.112465,487310123.446039,28,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FOBXX,2026-06-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,616757658.988487,5.9952,975,16.4457,Non-financial corporation|rec=0.6545|ben=0.0;Other:OtherRetail Investor|rec=0.0945|ben=0.0
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FOBXX,2026-09-30,arbitrum,chain_check,47980254.137611,47980254.137611,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FOBXX,2026-09-30,ethereum,chain_check,48238907.896735,48238907.896735,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FOBXX,2026-09-30,polygon,chain_check,32226231.994119,32226231.994119,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FOBXX,2026-09-30,solana,chain_check,309581.350813,309581.350813,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FOBXX,2026-09-30,stellar,chain_check,430464267.023201,430464265.956833,2,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FOBXX,2026-09-30,arbitrum;ethereum;polygon;solana;stellar,M3,,,,K4,aptos;avalanche;base,559219242.40248,0.5254,1009,17.6196,Non-financial corporation|rec=0.7446|ben=0.0;Other:OtherRetail Investor|rec=0.0618|ben=0.0
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,WTGXX,2026-03-31,arbitrum,chain_check,11057370.637217,11057370.637217,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,WTGXX,2026-03-31,ethereum,chain_check,814796716.233736,814796716.233736,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,WTGXX,2026-03-31,solana,chain_check,13.510887,13.510887,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,WTGXX,2026-03-31,stellar,chain_check,1722197.839333,1722197.839333,1,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,WTGXX,2026-03-31,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,827576298.221173,2.2337,627,0.2983,Other:Institutional Investor|rec=0.4833|ben=0.4833;Other:Ultimate Parent Company|rec=0.2412|ben=0.2412;Other:Institutional Investor|rec=0.1464|ben=0.1464;Other:Institutional Investor|rec=0.0717|ben=0.0717
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,WTGXX,2026-06-30,arbitrum,chain_check,11151893.939622,11151893.939622,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,WTGXX,2026-06-30,ethereum,chain_check,704747987.176155,704747987.176155,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,WTGXX,2026-06-30,solana,chain_check,37.743767,37.743767,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,WTGXX,2026-06-30,stellar,chain_check,1409340.223493,1409340.223493,1,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,WTGXX,2026-06-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,717309259.083037,2.4365,650,1.5128,Other:Institutional Investor|rec=0.0834|ben=0.0834;Other:Ultimate Parent Company|rec=0.1368|ben=0.1368;Other:Institutional Investor|rec=0.697|ben=0.697
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,WTGXX,2026-09-30,arbitrum,chain_check,15154435.434657,15154435.434657,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,WTGXX,2026-09-30,ethereum,chain_check,1208884583.410127,1208884583.410127,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,WTGXX,2026-09-30,solana,chain_check,38.073909,38.073909,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,WTGXX,2026-09-30,stellar,chain_check,2221098.815141,2221140.415141,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,WTGXX,2026-09-30,arbitrum;ethereum;solana;stellar,M3,,,,K4,avalanche;base;optimism;plume,1226260155.733834,2.0095,681,0.8029,Other:Institutional Investor|rec=0.0549|ben=0.0549;Other:Ultimate Parent Company|rec=0.0872|ben=0.0872;Other:Institutional Investor|rec=0.8147|ben=0.8147
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,JLTXX,2026-03-31,ethereum,chain_check,0,0,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,JLTXX,2026-03-31,ethereum,M3,,,,K4,,0.0,,0,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,JLTXX,2026-06-30,ethereum,chain_check,682153280.3,682153280.3,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,JLTXX,2026-06-30,ethereum,M3,,,,K4,,682153280.3,0.0,5,,Non-financial corporation|rec=0.1472|ben=0.0000;Depository institution or other banking institution|rec=0.8525|ben=0.0000
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,JLTXX,2026-09-30,ethereum,chain_check,628484843.22,628484843.22,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,JLTXX,2026-09-30,ethereum,M3,,,,K4,,628484843.22,0.0,4,,Non-financial corporation|rec=0.1612|ben=0.0000;Depository institution or other banking institution|rec=0.8356|ben=0.0000
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FYOXX,2026-03-31,ethereum,chain_check,166677016.99,166677016.99,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FYOXX,2026-03-31,ethereum,M3,,,,K4,,166677016.99,2.8498,3,,Other:PARTNERSHIP|rec=0.9842|ben=0.0000
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FYOXX,2026-06-30,ethereum,chain_check,100428489.29,100428489.29,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FYOXX,2026-06-30,ethereum,M3,,,,K4,,100428489.29,27.8805,3,,Other:PARTNERSHIP|rec=0.9663|ben=0.0000
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FYOXX,2026-09-30,ethereum,chain_check,23062850.92,23062850.92,0,,,,,,,
+ta_batch_span_3h,IMPL-14 TA batch: TA source and 3-hour span,FYOXX,2026-09-30,ethereum,M3,,,,K4,,23062850.92,0.0,2,,Other:PARTNERSHIP|rec=0.9514|ben=0.0000

@@ -1,0 +1,5 @@
+fund,K_label,window,chains_with_events,chains_without_events,n_dividend_mints,dividend_value,est_accrual_on_event_chains,share_delivered_on_chain_pct,n_dividend_days,n_nonbusiness_dividend_days,n_dividend_days_ta_batch,share_dividend_days_ta_batch_pct,ta_batch_definition,lag_status,n_lag_mints_B,median_lag_bd_B,lags_bd_B,median_lag_bd_variantA,rules_used
+FOBXX,K5,2026-01-01:2026-09-30,arbitrum;ethereum;polygon;solana;stellar,aptos;avalanche;base,256344,17675895.82004,17235379.866941,102.5559,267,78,267,100.0,ta_mint_source,not identifiable,0,,,1.0,i:256142;ii:202
+WTGXX,K5,2026-01-01:2026-09-30,arbitrum;ethereum;solana;stellar,avalanche;base;optimism;plume,4377,6979604.717573,21908862.13628,31.8574,17,0,17,100.0,ta_mint_source,not identifiable,0,,,1,i:3827;ii:550
+JLTXX,K5,2026-01-01:2026-09-30,ethereum,,260,8034270.0,8379353.959038,95.8817,86,14,86,100.0,ta_mint_source,not identifiable,0,,,1.0,i:244;ii:16
+FYOXX,K5,2026-01-01:2026-09-30,ethereum,,5,383244.0,3395767.276684,11.2859,2,0,2,100.0,ta_mint_source,identified (N-MFP3 report date to rule-iii mint),5,1,1:5,1,iii:5

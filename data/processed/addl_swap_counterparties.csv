@@ -1,0 +1,8 @@
+address,chain,is_swap_proxy_tx_to,freeze_role,freeze_role_reasons,has_code,n_swap_transfers,swap_sent_shares,swap_received_shares,n_wtgxx_events_any_side_full_history,mints_received_n,issuance_mints_n,issuance_mints_value,dividend_mints_n,burns_from_n,burns_tx_sender_n,burns_value,balance_at_2026_09_30_et,primary_market_flags
+0xbe4c7aef0389058363e1ba8fc3e189037d5ae07f,ethereum,0,holder,,0,23,74.0011,44.9595,44,14,2,100.244102,12,0,0,0,54.69239,issuance_mint_recipient;dividend_mint_recipient
+0x9acd8edc88d697613838f67a4a80508e99eb0f40,ethereum,0,contract,bytecode,1,12,24.975,29.0011,31,13,2,0.075087,11,0,0,0,0.014166,issuance_mint_recipient;dividend_mint_recipient
+0xa05c84c4daa64bf29b35e1ff06446fb0766e0a69,ethereum,0,holder,,0,9,14.985,40.0,20,6,0,0,6,0,0,0,50.035833,dividend_mint_recipient
+0x13d923c6e01de19cf2e134da3300f09ac42221f2,ethereum,0,contract,bytecode,1,6,10.040204,200000.0,13,5,0,0,5,0,0,0,100022.765251,dividend_mint_recipient
+0x80d0e1d819c0239ff728f919fc1ab07d2e0c086c,ethereum,0,holder,,0,5,200000.0,5.040704,13,8,4,200016.880545,4,0,0,0,22.073671,issuance_mint_recipient;dividend_mint_recipient
+0x7a3e13dd1ac13345e37108d09f8b06c1bc2ff069,ethereum,0,holder,,0,1,0,5.0,3,2,0,0,2,0,0,0,5.005728,dividend_mint_recipient
+0xd66211cf522ba23b59789fff6524c1f03e13e20c,ethereum,1,(not in role table),,(not in freeze_evm_codes.csv),0,0,0,0,0,0,0,0,0,0,0,0.0,none

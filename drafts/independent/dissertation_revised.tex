@@ -1,0 +1,558 @@
+\documentclass[12pt,a4paper]{article}
+
+% === Encoding and fonts ===
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{mathpazo}
+\usepackage{amsmath}
+
+% === Page layout ===
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+
+% === Typography and spacing ===
+\usepackage{microtype}
+\usepackage{parskip}
+\usepackage{needspace}
+\setlength{\emergencystretch}{2em}
+\clubpenalty=10000
+\widowpenalty=10000
+\displaywidowpenalty=10000
+\brokenpenalty=10000
+\interfootnotelinepenalty=10000
+\raggedbottom
+\usepackage{setspace}
+\onehalfspacing
+
+% === Tables and figures ===
+\usepackage{booktabs}
+\usepackage{graphicx}
+\graphicspath{{figures/}}
+\usepackage{float}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{caption}
+\captionsetup{font={small,stretch=1.0},labelfont=bf,skip=6pt}
+
+% Floats may use b and p as well as h and t; placeins stops floats crossing sections.
+\usepackage[section]{placeins}
+\renewcommand{\topfraction}{0.9}
+\renewcommand{\bottomfraction}{0.7}
+\renewcommand{\textfraction}{0.1}
+\renewcommand{\floatpagefraction}{0.7}
+\setcounter{topnumber}{3}
+\setcounter{bottomnumber}{2}
+\setcounter{totalnumber}{5}
+
+% === Citations: Harvard style (natbib + agsm) ===
+\usepackage{natbib}
+\bibliographystyle{agsm}
+\setcitestyle{authoryear,open={(},close={)}}
+
+% === Hyperlinks and URL-safe bibliography links ===
+% agsm.bst emits \harvardurl{...}; without this, underscores in URLs break compilation.
+\usepackage{xurl}
+\usepackage[colorlinks=true,linkcolor=blue!60!black,citecolor=blue!60!black,urlcolor=blue!60!black]{hyperref}
+% \url must read the URL itself (no #1 argument), or a % in a URL (e.g. %20) starts a comment and breaks the bibliography.
+\renewcommand{\harvardurl}{\textbf{URL:} \url}
+\usepackage{pdfpages}
+\usepackage[dvipsnames]{xcolor}
+\urlstyle{same}
+\setlength{\bibsep}{6pt plus 1pt minus 1pt}
+\makeatletter
+\setlength{\@fptop}{0pt}
+\makeatother
+
+% ============================================================================
+
+\begin{document}
+% The unnumbered title must not duplicate the abstract's page.1 destination.
+\hypersetup{pageanchor=false}
+
+\begin{titlepage}
+\centering
+\vspace*{1cm}
+\includegraphics[width=4cm]{uct_logo.jpg}\\[1cm]
+{\Large University of Cape Town\\[0.3cm]}
+{\large School of Economics\\[0.3cm]}
+{\large ECO5016W FinTech Mini-Dissertation\\[2cm]}
+
+{\LARGE\bfseries Who Writes the Token Ledger?\\[0.4cm]
+\large Holders, Transfer Agents and\\[0.15cm] Four Tokenised U.S. Money Market Funds\\[2cm]}
+
+{\large Karabo Tigedi\\[0.3cm]}
+{\large TGDMOE001\\[0.3cm]}
+{\large Supervisor: Dr Allan Davids\\[2cm]}
+
+\vfill
+{\small Word count: 5838} % set from: python scripts/submission_wordcount.py (confirmed exclusions; figure caption included)
+\end{titlepage}
+\hypersetup{pageanchor=true}
+
+% Signed AI/plagiarism declarations and Turnitin report are uploaded separately
+% on Amathuba, as confirmed by the student on 15 November 2026.
+
+\newpage
+\begin{abstract}
+\noindent Tokenisation can change who authorises token movements without transferring authority over fund ownership. This study compares four tokenised United States government money market funds and asks which conditions behind their arrangements South African law supplies. It combines prospectuses, monthly Form \mbox{N-MFP3} filings and public-chain data frozen in October 2026. WisdomTree permits holder-authorised transfers and observed atomic exchanges through swap and custodian contracts, but its prospectus makes transfer-agent registration decisive for ownership. Franklin incorporates blockchain into its official record, while all 44 observed transfers outside the inferred transfer-agent set use issuer-associated signer keys. These are different distributions of operational control and legal authority.
+
+WisdomTree's aggregate token supply matches filed class shares to reported precision in ten complete earlier months under a post-calibration dividend adjustment. Fidelity fails all eleven complete months, with an unconfirmed token address; Franklin and JPMorgan cannot receive a full consistency verdict. Agreement does not identify which record was produced first. Primary token processing largely follows business calendars on observed event chains. Franklin posts dividend tokens on non-business days, but mint-source fields identify neither the initiator nor automation. Low minimums coexist with concentrated visible holdings; beneficial-investor access and liquidity effects were not measured.
+
+South African statutory register rules and collective-investment managers' record duties govern different arrangements. Proposed crypto-asset restrictions depend on transactions, counterparties and exceptions; they establish no universal offshore dividend-mint bar. The cases identify legal and operational constraints, rather than universal necessary or sufficient conditions for tokenisation's benefits.
+
+\end{abstract}
+
+\newpage
+\tableofcontents
+\newpage
+
+\section{Introduction}\label{sec:intro}
+Tokenised fund shares make ownership claims transferable as blockchain tokens. Whether that changes an intermediary's function depends on what the token movement accomplishes. A holder may authorise a transaction while a transfer agent (TA) retains authority over the ownership record. This distinction organises the evidence from four United States government money market funds (MMFs), offered by Franklin Templeton, WisdomTree, JPMorgan and Fidelity.
+
+The research question is: \textit{When U.S. government money market funds record their shares on public blockchains, does the token ledger take over any function of the transfer agent and the intermediaries around it (keeping the record, settling issuance and redemption, servicing distributions, holding for investors), or does it follow records those intermediaries have already made? Which of the conditions behind that split does South African law supply?}
+
+The answer differs by function and fund. WisdomTree holders authorise transfers and exchange tokens through contracts, but a transfer becomes valid when its TA registers it. Franklin incorporates blockchain into its official record, yet issuer-associated keys authorise the observed holder-party transfers. Record authority and authorisation therefore require separate examination: three prospectuses make an off-chain register governing, while aggregate agreement with filed shares cannot reveal which record came first. Calendars add another distinction: primary token processing largely retains business days on observed chains, whereas Franklin's non-business-day dividend posting identifies neither its initiators nor automation.
+% src: four prospectuses, prep_permissions_matrix.csv items i--iv; addl_signer_summary.csv; freeze_m2_calendar.csv; freeze_m4_servicing.csv. Chronology is considered separately in Section 4.
+
+These distinctions qualify the original tests. The follower hypothesis and numerical falsifiers, fixed after a pilot but before the raw freeze, remain useful benchmarks. Yet party counts cannot establish signer control, concentration cannot estimate access effects, and WisdomTree's unavailable dividend lag prevents a complete servicing verdict. The original coded results are retained with these limits.
+
+The study combines month-by-month filing reconciliation, inferred wallet roles and actual signers with a fund-by-function comparison of permission and use. IOSCO documents different legal roles for blockchain records through literature review, regulatory surveys and stakeholder engagement \citep[pp.~10, 46, 64]{IOSCO2025}, but does not quantify these combined measures. South African primary texts extend the comparison to central securities depository (CSD) register transfers, managers' unit records and proposed crypto-asset transaction rules. Their differences explain why similar-looking transfers need not replace the same intermediary function, without equating changes in control with economic benefit.
+
+\section{Literature and analytical frame}\label{sec:lit}
+Tokenisation here concerns the fund share, rather than its underlying portfolio \citep[p.~10]{FSB2024}. Four activities must be distinguished: appearing as a transfer party, authorising a transaction, validating or maintaining a ledger, and making a legally effective ownership entry. The first two can move to holders without the last doing so.
+
+Separating recording from enforcement helps explain why these activities can remain distinct. \citet[pp.~4, 10, 44--46]{AbadiBrunnermeier2018} analyse conditional advantages of combining obligation recording with enforcement of possession; a ledger controlled by one entity resembles a readable private database. Their enforcement role offers an institutional analogy for a fund's TA, without equating holder signatures with the model's recordkeepers. The model informs the comparison but does not establish the study's hypothesis that TAs retain control and move distribution servicing first.
+
+Settlement gains depend on the existing arrangement. In \citet[pp.~31, 42]{ChiuKoeppl2019}, gains diminish as legacy settlement approaches immediacy, and delivery versus payment links assets with payments. \citet[pp.~130--131]{BenosGarrattGurrolaPerez2019} explain that back-office processes, law and liquidity management affect settlement cycles; representing off-ledger assets may require a trusted guarantor of token--asset correspondence. Their payment interface can use external cash accounts. The FSB also allows settlement assets on the same or fully interoperable platforms and stresses links to infrastructure with limited operating hours \citep[p.~13]{FSB2024}. Extended processing therefore depends on available payment and operating arrangements, rather than exclusively on cash sharing one ledger.
+
+All four prospectuses specify bank channels for dollars (\citealp[pp.~32--33, 37]{FranklinOnChain2026}; \citealp[p.~145]{WisdomTreeTMMDF2025}; \citealp[pp.~21, 26]{JPMorganOnChainLTMMF2026}; \citealp[Ways to Invest]{FidelityTDF2026}). Alternatives address different risks: stablecoins can depart from par \citep[p.~2]{GarrattShin2023}, whereas Garratt and Shin's non-bearer deposit design settles payments at par through central-bank money without equalising bank-liability value or credit risk \citep[pp.~5--6]{GarrattShin2023}. Likewise, the BIS proposal uses tokenised reserves to anchor commercial-bank-money settlement, not stablecoin value \citep[pp.~79--81]{BIS2025}.
+
+Direct holding similarly depends on the arrangements behind the ledger. Custody chains' reduction of rights motivates Micheler's proposal for direct holding, with common-ledger technology a possible means \citep[pp.~10, 37]{Micheler2015}. Yet technology need not remove intermediation: \citet[pp.~530, 545--546]{MichelerZaccaria2024} find omnibus holding prevalent and interpret the UK sandbox as apparently replicating the intermediated market structure. These arguments and qualified interpretations do not demonstrate custody-replacement gains; even Yermack's prospective transparent register retains gatekeepers and requires identifying pseudonymous holders \citep[pp.~3, 5, 15--16]{Yermack2017}.
+
+Empirical work connects permission with use through different measures. The BIS discusses allow-lists, indirect access and concentration, but its undated four-wallet snapshot lacks address-specific roles despite surrounding discussion of Ethereum and aggregate investor roles \citep[pp.~2--3, 5--6]{Aquilina2025BIS115}. Transaction decoding examines operations more closely: \citet[pp.~3--5]{Luo2025} studies primary activity and BENJI, while \citet[pp.~13, 44]{LinPrasadRabettiZhang2026} reports 3,097 user-to-user BUIDL transfers, reconciles balances to on-chain totalSupply and records BENJI signer metadata. This study instead reconciles to fund filings and combines behavioural roles with transfer signatures, without testing Cong et al.'s venue reallocation \citep[p.~15]{CongMayerRabetti2026} or Chen and Duffie's price-impact mechanism \citep{ChenDuffie2021}.
+
+The comparison uses five headings: K1 record authority, K2 operational control, K3 payment and processing calendars, K4 access and holdings, and K5 distribution servicing. These organise the evidence rather than constitute identified necessary or sufficient conditions. Together the literature suggests three distinct questions: whether a ledger can execute an operation, whether that operation changes an investor's rights, and whether the resulting arrangement improves an economic outcome. The cases directly investigate the first two; observed use and gross scale only partly address the third.
+
+\section{Design, data and method}\label{sec:method}
+
+\subsection{Design and cases}
+The study compares four Securities and Exchange Commission (SEC)-registered tokenised government MMFs: Franklin OnChain U.S. Government Money Fund (FOBXX, token BENJI), WisdomTree Treasury Money Market Digital Fund (WTGXX), JPMorgan OnChain Liquidity-Token Money Market Fund (JLTXX), and Fidelity Treasury Digital Fund's OnChain class (FYOXX, token FDIT). These comprise every tokenised fund identified as filing \mbox{N-MFP3}. Selection is therefore access-based rather than a representative census of tokenised securities, and requires a justification beyond access itself \citep[p.~295]{SeawrightGerring2008}.
+
+Contrasts between functions justify the comparison. Peer-to-peer permission in Franklin, WisdomTree and JPMorgan allows comparison with restricted Fidelity, while low minimums in Franklin and WisdomTree permit the concentration benchmark. Measurement limits qualify these contrasts: missing chains prevent full reconciliation of Franklin's legally informative integrated record, and JPMorgan's short history and few holders restrict its tests. Same-day conventional processing also limits measurable calendar gains. Crucial-case force therefore depends on precise predictions and measurement, rather than tokenisation alone (\citealp[pp.~12--13]{Levy2008}; \citealp[pp.~232, 237]{Gerring2007}).
+
+Prospectuses establish record authority here, without a separate U.S. statutory property-law determination. Franklin incorporates blockchain into its official record \citep[p.~6]{FranklinOnChain2026}, whereas the other three make their TA's off-chain book-entry record governing (\citealp[p.~115]{WisdomTreeTMMDF2025}; \citealp[p.~2]{JPMorganOnChainLTMMF2026}; \citealp[Use of Blockchain]{FidelityTDF2026}). Comparators have distinct roles: private-fund BUIDL lies outside the filing sample \citep[pp.~27--29]{IOSCO2025}, while Fidelity's untokenised Liquidity class shares its portfolio and \textdollar 1 million minimum, without isolating tokenisation's effect.
+% src: original fund prospectuses; prep_permissions_matrix.csv; freeze_twin_descriptives.csv; N-MFP3 class identifiers C000255665/C000261149.
+
+\subsection{Sources, conflicts and vintage}
+Form \mbox{N-MFP3} reports, for each class, shares outstanding, daily gross subscriptions and redemptions, record-owner categories and the seven-day net yield. Where chain and \mbox{N-MFP3} disagree, \mbox{N-MFP3} governs and the gap is reported. Token addresses are drawn from issuer pages where available; Section~\ref{sec:m0} treats the one no issuer confirms.
+
+Chain data cover Ethereum Virtual Machine (EVM) chains from contract creation, Solana in full, and Stellar from 1 September 2025, the earliest full month the public Horizon server still held. % src: data/README.md, FREEZE VINTAGE (Stellar START 2025-09-01)
+The main empirical vintage was frozen and hashed on 16 October 2026, early, because Horizon keeps only a rolling window of Stellar history; later exploratory additions are logged separately. The \mbox{N-MFP3} sample ends with the September 2026 report. % src: data/README.md, FREEZE VINTAGE (manifest 2026-10-16; --max-period 2026-09-30); data/README.md (Horizon retention quirk, about 13.5 months); notes/freeze_readiness.md ("Horizon retention moves about one day per day"); notes/preregistration.md header (23 Oct data pull)
+
+\subsection{Timing rules and measures}
+Six deterministic rules, given in full in Appendix~\ref{app:rules}, fix the data: dating in \mbox{America/New\_York} time (ET) with a month-end cutoff (TR-1), parked redemptions (TR-2), next-day dividend mints (TR-3), non-business days (TR-4), wallet roles inferred from behaviour, as a TA set, contracts and holders (TR-5), and the dividend split (TR-6). The TA set, a behavioural proxy since only Franklin lists TA contracts, holds the addresses that mint, burn, park redemptions or pass on new issuance; moving out the one third-party contract found in it leaves WisdomTree's verdict unchanged (Table~\ref{tab:wtgxx}). % src: key_numbers.csv addl_reclass_m1_upper_share_value_pct__WTGXX__reclass__with_wallet = 47.5195 (frozen 38.8084), __reclass__excl_wallet_numerator = 19.9386 (frozen 11.2275); notes/addl_analysis.md C3; TR-5 leg (b) (module contracts listed only by Franklin); key_numbers.csv addl_nonta_transfers_using_admin_like_function_n = 0 and addl_signer_value_share_pct__WTGXX__all__* (no TA-wallet signer)
+
+The original follower hypothesis predicts TA-only writing, chronological following of the register, business-calendar processing and mostly intermediated holding, with distribution servicing as an exception. These predictions require different evidence: F0 tests aggregate consistency rather than chronology, M1 classifies parties, and no falsifier directly tests intermediated holding. Table~\ref{tab:measures} preserves the six original measures and thresholds, recorded before the raw freeze. % src: git commit 76e76d2 (2026-10-16 17:24 +0200; adds notes/preregistration.md); raw freeze commit 07afeb3 (2026-10-16 22:42 +0200)
+The month-end consistency test (M0) checks aggregate agreement with filings; failure limits interpretation of a fund's chain (Section~\ref{sec:m0}). The operational party measure (M1) counts non-dividend transfers with neither party in the TA set, and its pre-specified sensitivity counts all non-dividend events. Who signed is read separately, and neither shows who instructed a transfer. M1's original thresholds provide a descriptive benchmark; they do not measure liquidity or the TA's validation and legal-registration functions. % src: Aquilina2025BIS115 printed p.2 (PDF p.4): peer-to-peer trading of TMMFs could reduce "the need for investors to redeem shares to access liquidity"; thresholds from notes/preregistration.md F1 row (thresholds only)
+F-SA, a legal falsifier, is decided from South African primary texts (Section~\ref{sec:sa}). The transfer, calendar and dividend measures are pooled over 1 January to 30 September 2026, the window common to all chains.
+
+The evidence is consequently used in stages. Reconciliation first checks whether the measured token aggregate corresponds to reported fund shares, before roles and signatures distinguish participants from authorisers and prospectuses establish the stated legal effect. Calendars and balances describe use within those arrangements. A failed or incomplete reconciliation narrows later chain-based claims while leaving independently documented permissions and filing comparisons available; none of these stages supplies a counterfactual measure of costs, liquidity or investor participation.
+
+\begin{table}[htbp]
+\centering
+\small
+\caption{Measures and pre-specified falsifiers}\label{tab:measures}
+\begin{tabular}{>{\raggedright\arraybackslash}p{0.9cm}>{\raggedright\arraybackslash}p{5.9cm}>{\raggedright\arraybackslash}p{7.2cm}}
+\hline
+ & Measure (unit) & The claim is refuted for a fund if \\
+\hline
+M0 & Consistency test: on-chain supply on all chains against \mbox{N-MFP3} class shares, after TR-1 to TR-3 (fund-month) & F0: more than two out-of-sample months show a gap above 0.10\% of class shares; a month missing a chain counts only if covered supply already exceeds \mbox{N-MFP3} by more than 0.10\% \\
+M1 & Party measure: share of non-dividend transfer value and count with neither side in the TA set; the upper bound adds unlabelled contracts (event) & F1: the upper bound is at least 5\% of value or at least 10\% of count \\
+M2 & Share of issuance and redemption value on non-business days; modal burn hour; same-day match to \mbox{N-MFP3} subscriptions, reported as dated order in Section~\ref{sec:m0} (event, fund-day) & F2: at least 10\% of value falls on non-business days \\
+M3 & Supply in TA wallets; \mbox{N-MFP3} record-owner categories; for FOBXX and WTGXX, the share of non-TA supply outside the ten largest wallets (quarter-end) & F3: wallets outside the top ten hold at least 25\% at 30 September 2026 \\
+M4 & Dividends delivered as on-chain mints: share of estimated accrual, dividend days including non-business days, lag (event) & F4: dividend mints occur only on business days, in TA batches, with a median lag of at least one business day \\
+M5 & Prospectus permission against measured use (fund by function) & Descriptive; no falsifier \\
+F-SA & South African primary texts held at 16 October 2026 (legal) & F-SA: a primary text excludes a token that only mirrors a South African register from the crypto-asset definition, or the register-location test treats such a token as domestic \\ % src: notes/preregistration.md F-SA row
+\hline
+\end{tabular}
+
+\smallskip
+\parbox{\linewidth}{\footnotesize\raggedright Notes: the original follower hypothesis is stated in Section~\ref{sec:method}. F0 measures aggregate consistency, F1 transfer-party roles and F3 wallet concentration; none directly identifies chronology, authorisation or participation effects. F4 uses the three conditions jointly. Historical coded results are retained in Appendix~\ref{app:verdicts}. Thresholds followed the pilot but preceded the raw freeze; Appendix~\ref{app:reproduction} records the chronology.} % src: notes/preregistration.md §4.5 "Claim at risk" column (F0 to F4, F-SA); git log 76e76d2 2026-10-16 17:24:30 +0200; git log 07afeb3 2026-10-16 22:42:27 +0200
+% src: notes/preregistration.md §4.4 and §4.5 (thresholds); notes/preregistration_implementation_notes.md Fix 6 (one-sided rule), IMPL-15, IMPL-21
+\end{table}
+
+\subsection{Calibration, deviations and power}\label{sec:calib}
+A feasibility pilot on July to September 2026 data informed the timing rules and thresholds. F0 is therefore tested only on earlier \mbox{N-MFP3} months. Because the calibration months fall inside the window of F1 to F4, those tests were re-run on January to June 2026, and every verdict that can still be tested is unchanged, even with wallet roles reassigned on events to 2 July (Table~\ref{tab:verdicts}). % src: data/processed/addl_oos_verdicts.csv; key_numbers.csv addl_oos_matches_full__*__main and __horizon (all yes; FYOXX F4 no, NOT TESTABLE); addl_oos_role_changes_horizon_vs_frozen = 1
+ Eleven implementation choices were made with the calibration data in view (Appendix~\ref{app:rules}), and four historical coded verdicts depend on one of them (Table~\ref{tab:verdicts}). % src: data/processed/freeze_falsifier_verdicts.csv (robustness rows); key_numbers.csv f0_robust__WTGXX, f1_robust__FOBXX, f4_robust__WTGXX, f4_robust__FYOXX; notes/preregistration_implementation_notes.md IMPL-5 (Stellar holders redeem by paying the issuer)
+Exploratory analyses on logged additions to the vintage changed no frozen measure, rule or verdict. % src: data/raw/ADDITION_MANIFEST_2026-10-17.csv (sha256 of each added raw file); data/raw/ADDITION_MANIFEST_2026-10-18.csv and data/README.md ADDITION 2 (scripts/21_addl2_fetch_receipts.py, scripts/22_addl2_cashlegs.py; notes/addl_analysis.md D1, "No frozen verdict changes"); data/README.md ADDITION CP42 (scripts/16_addl_netting_days.py) and ADDITION cycle 2 D9 (scripts/17_addl_turnover.py; no raw fetch); notes/addl_analysis.md header ("No frozen file, measure, rule or verdict was changed"), A1, A4, A6, A7
+
+F4 requires three conditions jointly: business-day-only mints, TA batches and median lag of at least one business day. Where lag is unavailable, the historical code scores only calendar/batch components. Appendix~\ref{app:verdicts} retains those partial labels; the servicing discussion evaluates the full criterion. Neither result identifies automation, since mint sources reveal new issuance rather than its initiator. Similarly, F2 records token-event dates without cash-settlement timestamps, with its calendar prediction informed by documented bank channels.
+
+\FloatBarrier
+Earlier-month checks have fund-specific limits. Fidelity's F4 becomes untestable in January--June without month-start dividend mints; Franklin's missing-chain concentration upper bound exceeds F3's threshold at both dates, at 32.4\% in June and 31.1\% in September. % src: moved from the Table 2 note (G4b R3); prep_permissions_matrix.csv item iv (distribution frequency) and item iii (bank channels, all four); notes/preregistration.md §4.5 F4 (three conditions)
+
+
+\section{Records and the processing calendar}\label{sec:copy}
+Table~\ref{tab:configurations} summarises the institutional contrast. Sections~\ref{sec:m0}--\ref{sec:m5} establish the underlying results; Appendix~\ref{app:verdicts} retains every original coded verdict, power restriction and reversing sensitivity.
+
+\begin{table}[htbp]
+\centering
+\small
+\caption{Record authority and observed transfer authorisation}\label{tab:configurations}
+\begin{tabular}{>{\raggedright\arraybackslash}p{1.5cm}>{\raggedright\arraybackslash}p{3.7cm}>{\raggedright\arraybackslash}p{4.3cm}>{\raggedright\arraybackslash}p{3.6cm}}
+\hline
+Fund & Governing record & Operational evidence & Scope \\
+\hline
+FOBXX & TA-controlled, blockchain-integrated record & Issuer-associated keys sign all 44 observed transfers outside the inferred TA set & Stellar transfers; incomplete cross-chain supply \\
+WTGXX & Off-chain TA record; registration determines validity & Holder-side signatures and atomic token exchanges through contracts & Supply reconciles under a sensitive dividend adjustment; registration authority remains \\
+JLTXX & Off-chain Investor Register; registration then deemed ownership from Receipt Time & Peer transfer permitted; 8 transfers outside the TA set & Four holders exclude F1; short history excludes F0 \\
+FYOXX & Off-chain TA record; peer transfer prohibited & No observed transfer outside the TA set & Unconfirmed token address and failed reconciliation \\
+\hline
+\end{tabular}
+
+\smallskip
+\parbox{\linewidth}{\footnotesize\raggedright Records and permissions follow the held prospectuses; transaction evidence is January--September 2026. Authority is established by fund documents, without a separate U.S. statutory property-law determination. Full permission, code and use evidence appears in Appendix~\ref{app:permissions}.}
+\end{table}
+
+\subsection{Reconciliation with the filed share total}\label{sec:m0}
+In all ten complete out-of-sample months, September 2025 to June 2026, WisdomTree's adjusted supply summed over every chain matches the class shares filed in \mbox{N-MFP3} to reported precision, a gap of 0.0000\%. % src: notes/freeze_results.md §2b WTGXX (gap % main and raw, ET and UTC); key_numbers.csv f0_n_complete__WTGXX = 10, f0_n_complete_exceeds__WTGXX = 0, f0_max_abs_gap_complete__WTGXX = 0.0
+The main TR-3 adjustment admits only otherwise unlabelled mints on a month's first business day, in single-chain funds, whose total matches a filed gross subscription. This supplies a filing link absent from balance-and-yield dividend labels; it adds no dividends for multichain WisdomTree. The verdict depends on this post-calibration scope choice (Appendix~\ref{app:rules}): adding every next-day dividend mint instead produces gaps of $+0.10\%$ to $+0.19\%$ in six of ten months, refuting the claim. % src: notes/freeze_results.md §2b WTGXX gap % (TR-3 all) 0.1005 to 0.1886 in exceeding months; §3a F0 tr3_scope_all FAIL (6, 10); key_numbers.csv f0_robust__WTGXX; notes/preregistration_implementation_notes.md IMPL-4b (TR-3 covers shares "recorded in N-MFP3"; only rule (iii) dividends have a matching subscription)
+
+This agreement concerns an aggregate unchanged by holder-to-holder transfers. It establishes consistency under the adjustment rather than a common producing system; the prospectus specifies the governing record (Section~\ref{sec:method}).
+
+Date matching offers only a limited further check because \mbox{N-MFP3} records flows ``as of the trade date'' without timestamps \citep[p.~6]{SECFormNMFP}, rather than providing complete TA-registration histories. No selected matched WisdomTree or Fidelity mint or burn precedes its filed date, although within-day order is unknown. Fidelity's selected mints follow on 6 of 28 subscription days and burns on 36 of 44 redemption days, whereas JPMorgan mints precede on 4 of 97 days and Franklin's previous-day burns match on 54 of 173 redemption days. These comparisons still cannot establish which ownership record was written first.
+% src: data/processed/addl_ordering_summary.csv; original SEC Form N-MFP instructions p.6. Selected date matching is exploratory, not observed registration chronology.
+
+Fidelity fails F0. All 11 out-of-sample months exceed the threshold, the largest gap is 0.54\% in June 2026, and no sensitivity changes the verdict. % src: key_numbers.csv f0_n_complete_exceeds__FYOXX = 11, f0_max_abs_gap_complete__FYOXX = 0.5353, f0_robust__FYOXX = yes
+After TR-2 the chain holds fewer shares than the register in every month.\footnote{Unadjusted, it holds more at three quarter-ends, by up to 37.9\%, because on each of those report dates a lot equal to that day's \mbox{N-MFP3} gross redemption sat in a TA wallet and was burned shortly after midnight ET.} % src: key_numbers.csv addl_fyoxx_gap_raw_pct_recomputed__2025-12-31 = 4.8569, __2026-03-31 = 2.6073, __2026-06-30 = 37.9165; addl_fyoxx_gap_after_tr2_pct_recomputed__* all negative; addl_fyoxx_tr2_parked_shares__*; notes/addl_analysis.md A5 (each lot = that day's gross redemption to the cent; burns 2026-01-01 06:06:47Z, 2026-04-01 04:15:47Z, 2026-07-01 04:03:59Z); data/processed/addl_fyoxx_parked_lots.csv
+In nine of the eleven months the shortfall after TR-2 equals, to within about 78 shares, the \mbox{N-MFP3} subscription of the next business day: the trace a monthly dividend minted after midnight ET would leave. % src: notes/freeze_results.md §2c (residual within 78.26 shares in 9 of 11 months); data/processed/freeze_fdit_oos_residual_diagnostic.csv
+These post hoc readings fit a one-day lag and change no verdict.
+
+This failure narrows Fidelity's remaining measures: M1 to M4 describe a divergent record, retaining calendars and \mbox{N-MFP3} owner categories while setting aside the wallet snapshot and dividend measure. On-chain interpretation also assumes an FDIT address Fidelity has not confirmed. % src: notes/token_contracts.md (FDIT, unverified); notes/preregistration.md §4.3
+
+Franklin faces a different reconciliation obstacle: its official record spans eight chains, but every month lacks Aptos, and issuance matches same-day \mbox{N-MFP3} subscriptions on 0 of 187 business days. % src: key_numbers.csv addl_frag_chains_listed_n__FOBXX = 8; coverage_oos_months_incomplete__FOBXX = 25, coverage_oos_missing_chain_sets__FOBXX, f0_n_complete__FOBXX = 0; m2_flowmatch_days_same_day_match__FOBXX = 0, m2_flowmatch_nmfp_business_days__FOBXX = 187, diag_m2_flowmatch_div_added_match_days__FOBXX = 2; prep_permissions_matrix.csv item ii (FOBXX p.6)
+
+\subsection{Primary processing and atomic token exchange}\label{sec:calendar}
+Classified issuance and redemption events largely follow business calendars in all four funds, although F2 observes token processing rather than cash settlement. Coverage is limited to chains with event histories (Table~\ref{tab:verdicts}), and Fidelity retains its address qualification. Within this scope, values are measured in shares, close to dollars at a net asset value near \textdollar 1. % src: key_numbers.csv m2_* unit = shares; unit note "USD (= shares at $1 NAV)"; WTGXX 497 (2026-08-14) "$1.00 per share"
+From January to September 2026, non-business days carry between 0.0049\% (WisdomTree) and 0.28\% (Fidelity) of issuance and redemption value in each fund (Figure~\ref{fig:calendar}), against a threshold of 10\%. % src: key_numbers.csv m2_nonbusiness_share_pct__WTGXX = 0.0049, __FOBXX = 0.0075, __JLTXX = 0.0178, __FYOXX = 0.2832; f2_robust__* = yes
+
+Redemptions also burn at set hours in WisdomTree (15:00 ET) and JPMorgan (22:00 ET), and at more dispersed hours in Franklin (Figure~\ref{fig:calendar}). % src: key_numbers.csv m2_burn_modal_hour_count__WTGXX = 681, m2_burn_total__WTGXX = 788, m2_modal_burn_hour_et__WTGXX = 15, m2_burn_modal_hour_count__JLTXX = 28, m2_burn_total__JLTXX = 31, m2_modal_burn_hour_et__JLTXX = 22, m2_burn_top2_consecutive_hours_count__FOBXX = 295, m2_burn_top2_consecutive_hours_start__FOBXX = 17, m2_burn_total__FOBXX = 640, m2_modal_burn_hour_et__FYOXX = 0, m2_burn_modal_hour_count__FYOXX = 26, m2_burn_total__FYOXX = 50
+
+
+\begin{figure}[tbp]
+\centering
+\includegraphics[width=\linewidth]{fig_calendar_revised}
+\caption{Share of burn transactions by hour (\mbox{America/New\_York}), 1 January to 30 September 2026, with each fund's non-business share of issuance and redemption value. The darker bar marks the modal hour; the shaded band is 09:00 to 17:00 ET. Event chains only. Source: frozen calendar measures, 16 October 2026; artifact details in Appendix~\ref{app:reproduction}.}\label{fig:calendar}
+\end{figure}
+
+The prospectuses describe sequential cash and token processing rather than a single atomic primary exchange: Franklin subscribers wire dollars before the cut-off, and JPMorgan redeemers send tokens to a burn address before being paid (\citealp[p.~33]{FranklinOnChain2026}; \citealp[p.~23]{JPMorganOnChainLTMMF2026}). % src: data/processed/prep_permissions_matrix.csv item iii (FOBXX 485BPOS p.33: Fed wires before 3 p.m. Pacific for same-day trade date; p.37 redemption proceeds by ACH or Fed wire; JLTXX 497 p.23: redemption by transfer to a burn address, proceeds by wire; WTGXX 497 p.145: reject or cancel for nonpayment; FYOXX 485BPOS: wire and ACH, no printed page); notes/readings/FranklinOnChain2026.md, JPMorganOnChainLTMMF2026.md
+
+WisdomTree's secondary exchanges differ from this sequential primary process. Of its 68 transfers outside the TA set, 28 pass through a swap contract and exchange atomically against another token, including 7 on non-business days. Their composition matters for scale: five into and out of Treasury (TSY), a token minted one for one against deposited shares, carry 99.9\% of the route's 200,000 shares. The remaining 23 exchange small amounts for the USD Coin (USDC) stablecoin at 0.998 to 1.001 USDC a share. % src: data/processed/addl2_summary.csv (swap ALL n_tx 28, n_tx_atomic 28; TSY 5 tx; USDC 23 tx, price_min 0.998, gross_price_max 1.001001); key_numbers.csv addl2_swap_n_tx_atomic_direct = 28, addl2_swap_TSY_share_of_route_wtgxx_pct = 99.9406, addl2_swap_USDC_median_wtgxx_amount = 5.0; notes/addl_analysis.md D1 (TSY name() "Treasury", no Etherscan tag; in the 4 wraps TSY is minted one for one to the depositor; 1 reverse; contract not read); src: key_numbers.csv addl_swap_n_nonbusiness_day_tr4__WTGXX = 7, addl_swap_n_off_ta_schedule__WTGXX = 24, addl_swap_total_shares__WTGXX = 200124.0, addl_swap_total_share_of_redemption_value_pct__WTGXX = 0.0576 (of frozen burn value 347288651.56), addl_swap_largest4_share_of_total_pct__WTGXX = 99.938; notes/addl_analysis.md C1
+A further route lies outside those 68 transfers: 22, carrying about 10 million shares, pass through a custodian contract (\nolinkurl{FrxUSDCustodianWithReceiver}) classified in the TA set (Table~\ref{tab:wtgxx}). Thirteen exchange atomically, including 12 against USDC or Frax USD (frxUSD) at one token a share to within 0.0001. Together, these routes show secondary token execution distinct from bank-funded primary processing. Atomic balance changes do not themselves establish legal finality: WisdomTree makes transfers valid at TA registration and permits clawback to align tokens with its book-entry record \citep[pp.~109, 143]{WisdomTreeTMMDF2025}. Historical stablecoin terms and their legal finality were not examined. Thus, where a stablecoin supplies the other leg, the seller bears its par risk (Section~\ref{sec:lit}), while the buyer bears registration and clawback risk (Section~\ref{sec:m5}). % src: prep_permissions_matrix.csv WTGXX item vii-b (p.109: "claw back tokens to the extent that the digital representation of Fund share ownership does not align with the book-entry records"); item i (p.143, valid once the TA registers) % src: data/processed/addl2_summary.csv (custodian ALL n_tx 22, n_tx_atomic 13; USDC 5 at 1.0; frxUSD 7 at 1.0 to 1.0001; USTB 1); key_numbers.csv addl2_custodian_n_tx_atomic_direct = 13, addl2_custodian_wtgxx_amount_all = 10107428.05; notes/addl_analysis.md D1 (USD equivalence of USDC and frxUSD not assumed) % src: key_numbers.csv addl_frax_n_transfers__WTGXX = 22, addl_frax_value_in__WTGXX = 2678021.0, addl_frax_value_out__WTGXX = 7429407.05, addl_reclass_n_moved__WTGXX = 1; data/processed/addl_frax_custodian.csv (TransparentUpgradeableProxy->FrxUSDCustodianWithReceiver; hop-leg TA); notes/addl_analysis.md B3, C3 % src: key_numbers.csv addl_mls_n_transfers = 28 (MultiliquidSwap), addl_nonta_transfers_n__WTGXX__all = 68, addl_mls_n_with_receipt_or_other_token_log_held = 0 and addl_mls_cash_leg_status = not decoded (frozen; superseded by ADDITION 2, notes/addl_analysis.md D1); notes/addl_analysis.md A1 (Safe multiSend, not decoded), B3
+
+
+
+
+\section{Control, holdings and distributions}\label{sec:writes}
+
+\subsection{Parties and transaction authorisation}\label{sec:m1}
+WisdomTree exceeds F1's original thresholds when transfers are classified by their parties. Across 171 non-dividend transfers, those with neither side in the TA set carry 38.8\% of value and 39.8\% of count (Table~\ref{tab:wtgxx}). % src: key_numbers.csv m1_upper_share_value_pct__WTGXX__pooled__transfers_only = 38.8084, m1_upper_share_count_pct__WTGXX__pooled__transfers_only = 39.7661, m1_n_events__WTGXX__pooled__transfers_only = 171
+This upper bound includes unlabelled contracts such as Safe wallets, which hold tokens and act on their owners' signatures; the lower bound retains only holder-to-holder transfers. % src: key_numbers.csv m1_lower_share_value_pct__WTGXX__pooled__transfers_only = 27.6673, m1_lower_share_count_pct__WTGXX__pooled__transfers_only = 20.4678; addl_top_counterparties.csv (0xb1748c79 GnosisSafe, 0x97f47856 Safe)
+Every rule variant preserves the refutation, but the denominator sensitivity reverses it: including issuance and redemption among all events reduces the shares to 3.4\% of value and 2.1\% of count. % src: freeze_falsifier_verdicts.csv F1 WTGXX burn_origin_transfer_from (11.2275), hop_leg_off (77.7847), all FAIL; key_numbers.csv m1_upper_share_value_pct__WTGXX__pooled__all_events = 3.4462, m1_upper_share_count_pct__WTGXX__pooled__all_events = 2.1092
+
+Franklin also exceeds the party-transfer thresholds: all 69 measured transfers are on Stellar, and those outside the TA set carry 67.0\% of value and 63.8\% of count. % src: key_numbers.csv m1_upper_share_value_pct__FOBXX__pooled__transfers_only = 66.9896 (= lower), m1_upper_share_count_pct__FOBXX__pooled__transfers_only = 63.7681, m1_n_events__FOBXX__stellar__transfers_only = 69
+Here classification is decisive: including Stellar accounts redeeming by payment to the issuer in the TA set reduces the shares to 0.0009\% of value and 8.7\% of count. The claim then survives, making the main verdict dependent on this post-calibration choice. % src: freeze_falsifier_verdicts.csv F1 FOBXX stellar_burner_leg_on upper_count_pct = 8.6957 % src: freeze_falsifier_verdicts.csv F1 FOBXX stellar_burner_leg_on upper_value_pct = 0.0009 PASS-for-claim; key_numbers.csv f1_robust__FOBXX
+JPMorgan's F1 is not applied under the pre-specified small-holder restriction (Table~\ref{tab:verdicts}), and Fidelity shows no transfer outside the TA set in 92. % src: key_numbers.csv m1_upper_share_count_pct__JLTXX__pooled__transfers_only = 20.5128, m1_n_events__JLTXX__pooled__transfers_only = 39, m3_n_nonta_wallets__JLTXX__2026-09-30 = 4, m1_n_events__FYOXX__pooled__transfers_only = 92
+
+Signatures clarify what these party counts mean without changing a coded verdict or tracing who holds the keys. In WisdomTree, sender or Safe-owner signatures account for 88.8\% of the value of its 68 transfers outside the TA set; receivers pull the rest, almost all through a wrapper contract. None uses a TA-wallet signature or calls an administrative function. % src: key_numbers.csv addl_nonta_transfers_n__WTGXX__all = 68, addl_signer_value_share_pct__WTGXX__all__sender_holder = 88.7667, addl_signer_value_share_pct__WTGXX__all__receiver_pull = 11.2333, addl_nonta_transfers_using_admin_like_function_n = 0
+Franklin's refutation, by contrast, concerns parties rather than holder authorisation. The 16 October holder-account snapshot gives zero-weight master keys to the senders in all 44 transfers, while all 1{,}380 authorised accounts share a signer key with the issuer in the compared 16--17 October snapshots. The historical transfers themselves use current or former issuer-account signer keys. Holders thus appear as parties, but issuer-associated keys authorise the transactions; the ultimate human instructions remain unknown. These signatures identify neither blockchain validators nor a different prospectus record arrangement. Read together, the cases distinguish permission and party thresholds from delegated authorisation: WisdomTree supplies signer evidence for the latter, whereas Franklin's observed holder-party movements remain authorised with issuer-associated keys. % src: key_numbers.csv addl_nonta_transfers_n__FOBXX__stellar = 44, addl_fobxx_stellar_sender_master_weight0_n = 44, addl_signer_n__FOBXX__stellar__issuer_account_signer_keys_current_or_former_sign = 44, addl_stellar_asset_accounts_authorized__FOBXX = 1380, addl_stellar_authorized_accounts_sharing_a_signer_key_with_issuer__FOBXX = 1380
+
+WisdomTree's holder activity depends heavily on one wallet (\texttt{0x0c561ed8}) that subscribes and redeems directly. From launch to 16 October 2026 it received 12 issuance mints, and a TA wallet burned 388 million shares from it. Its 30 September 2026 balance matches, within 0.002 percentage points, the 8.72\% attributed in \mbox{N-MFP3} to the ``Ultimate Parent Company''. That category held 90.3\% in June 2024, the first month filed, consistent with sponsor seed capital (Section~\ref{sec:m3}), though the match cannot prove wallet identity. % src: data/processed/addl_pm_wallet_profile.csv (full history to 2026-10-16; 12 issuance mints); key_numbers.csv addl_pmwallet_burns_from_wallet_value = 388000000.0, addl_pmwallet_f1_lower_transfers_touching_n = 4, addl_pmwallet_f1_lower_value_touching_share_of_lower_pct = 99.6879, addl_pmwallet_f1_lower_share_without_wallet_pct_of_all_transfer_value = 0.0864 % src: data/processed/addl_nmfp_rec_ben.csv WTGXX 2024-06-30 Other:Ultimate Parent Company rec = ben = 0.903 (first of addl_nmfp_months__WTGXX = 28) % src: freeze_m3_holding.csv WTGXX 2026-09-30 Other:Ultimate Parent Company rec = ben = 0.0872; key_numbers.csv addl_ownermatch_nearest_wallet_per_owner_entry__WTGXX (0x0c561ed8 8.7215%, diff 0.0015 pp)
+
+Removing this wallet separates contract activity from the holder-to-holder result. Through Safe, wrapper and swap contracts, the upper bound is 11.2\% of value and 37.4\% of count; both thresholds remain exceeded in every reported variant (Table~\ref{tab:wtgxx}). Holder-to-holder value, however, falls to 0.0864\% of transfer value, with 29 of the remaining 31 transfers under 20 shares. % src: key_numbers.csv addl_reclass_m1_upper_share_value_pct__WTGXX__reclass__excl_wallet_numerator = 19.9386, addl_reclass_m1_upper_share_count_pct__WTGXX__reclass__excl_wallet_numerator = 50.2924, addl_reclass_m1_lower_share_value_pct__WTGXX__reclass__excl_wallet_numerator = 0.0864 (unchanged); notes/addl_analysis.md C3 % src: key_numbers.csv addl_f1minsize_lower_share_value_pct__WTGXX__all_sizes__excl_wallet_numerator = 0.0864, addl_f1minsize_upper_share_value_pct__WTGXX__all_sizes__excl_wallet_numerator = 11.2275 (= freeze_falsifier_verdicts.csv F1 WTGXX burn_origin_transfer_from, upper and lower), addl_f1minsize_upper_share_count_pct__WTGXX__min_100_shares__excl_wallet_numerator = 26.4706 (lowest upper count of the variants), addl_f1minsize_hh_excl_wallet_n_lower__WTGXX = 31, addl_f1minsize_hh_excl_wallet_n_under_20__WTGXX = 29, addl_f1minsize_lower_share_count_pct__WTGXX__min_100_shares__excl_wallet_numerator = 2.9412; notes/addl_analysis.md B4; wallet window: addl_pm_wallet_profile.csv full history to 2026-10-16 (audit C6) % src: addl_pm_wallet_profile.csv (12 issuance mints; burns sent by TA wallet 0x726d3b3e via burn(address,uint256)); key_numbers.csv addl_pmwallet_burns_from_wallet_value = 388000000.0, addl_pmwallet_f1_lower_transfers_touching_n = 4, addl_pmwallet_f1_lower_value_touching_share_of_lower_pct = 99.6879, addl_pmwallet_f1_lower_share_without_wallet_pct_of_all_transfer_value = 0.0864, addl_m1x_lower_share_count_pct__WTGXX__excl_wallet_0x0c561ed8__drop_from_numerator_only = 18.1287; freeze_falsifier_verdicts.csv F1 WTGXX burn_origin_transfer_from lower_value_pct = 0.0864 % src: key_numbers.csv addl_m1x_upper_share_value_pct__WTGXX__excl_wallet_0x0c561ed8__drop_from_numerator_only = 11.2275, addl_m1x_upper_share_count_pct__WTGXX__excl_wallet_0x0c561ed8__drop_from_numerator_only = 37.4269
+Scaling holder-to-holder value to \mbox{N-MFP3} gross redemptions gives 9.0\% for WisdomTree, 0.028\% without that wallet, and 2.0\% for Franklin, whose observed non-TA transfers all use issuer-associated keys. These ratios describe gross scale rather than liquidity improvement, redemption substitution or aggregate venue reallocation: a transfer may move one owner's tokens without a trade, so the data measure neither market depth nor beneficial demand. % src: data/processed/addl_turnover_vs_reds.csv; key_numbers.csv addl_turnred_hh_value_share_of_gross_reds_pct__WTGXX__with_wallet = 8.975, addl_turnred_hh_value_share_of_gross_reds_pct__WTGXX__excl_wallet_numerator = 0.028, addl_turnred_hh_value_share_of_gross_reds_pct__FOBXX__with_wallet = 1.9836 (window 2026-01-01:2026-09-30; replaces the supply denominator of addl_turnover.csv); addl_signer_value_share_pct__FOBXX__stellar__issuer_account_signer_keys_current_or_former_sign = 100.0; notes/readings/CongMayerRabetti2026.md core claim 2 (p.15); m1_upper_share_value_pct__WTGXX__pooled__transfers_only = 38.8084 (so transfers touching the TA set carry 61.2% of value)
+
+\begin{table}[htbp]
+\centering
+\footnotesize
+\caption{WisdomTree: share of non-dividend transfers with neither side in the TA set, with and without the wallet matched to the parent company}\label{tab:wtgxx}
+\begin{tabular}{>{\raggedright\arraybackslash}p{8.4cm}>{\raggedright\arraybackslash}p{2.6cm}>{\raggedright\arraybackslash}p{3.4cm}}
+\hline
+1 January to 30 September 2026 unless stated & All wallets & Without \texttt{0x0c561ed8} \\
+\hline
+Upper bound, the pre-specified measure: value; count & 38.8\%; 39.8\% & 11.2\%; 37.4\% \\ % src: key_numbers.csv m1_upper_share_value_pct__WTGXX__pooled__transfers_only = 38.8084, m1_upper_share_count_pct__WTGXX__pooled__transfers_only = 39.7661; addl_m1x_upper_share_value_pct__WTGXX__excl_wallet_0x0c561ed8__drop_from_numerator_only = 11.2275, addl_m1x_upper_share_count_pct__WTGXX__excl_wallet_0x0c561ed8__drop_from_numerator_only = 37.4269
+Lower bound, holder to holder: value; count & 27.7\%; 20.5\% & 0.0864\%; 18.1\% \\ % src: key_numbers.csv m1_lower_share_value_pct__WTGXX__pooled__transfers_only = 27.6673, m1_lower_share_count_pct__WTGXX__pooled__transfers_only = 20.4678; addl_m1x_lower_share_value_pct__WTGXX__excl_wallet_0x0c561ed8__drop_from_numerator_only = 0.0864, addl_m1x_lower_share_count_pct__WTGXX__excl_wallet_0x0c561ed8__drop_from_numerator_only = 18.1287
+Upper bound with the custodian contract moved out of the TA set: value; count & 47.5\%; 52.6\% & 19.9\%; 50.3\% \\ % src: key_numbers.csv addl_reclass_m1_upper_share_value_pct__WTGXX__reclass__with_wallet = 47.5195, addl_reclass_m1_upper_share_count_pct__WTGXX__reclass__with_wallet = 52.6316, addl_reclass_m1_upper_share_value_pct__WTGXX__reclass__excl_wallet_numerator = 19.9386, addl_reclass_m1_upper_share_count_pct__WTGXX__reclass__excl_wallet_numerator = 50.2924
+Upper bound, lowest and highest rule variant: value & 11.2\% to 77.8\% & Not reported \\ % src: freeze_falsifier_verdicts.csv F1 WTGXX burn_origin_transfer_from upper_value_pct = 11.2275, hop_leg_off upper_value_pct = 77.7847 (all variants FAIL)
+Upper bound counted against all events, issuance and redemption included (pre-specified sensitivity): value; count & 3.4\%; 2.1\% & Not reported \\ % src: key_numbers.csv m1_upper_share_value_pct__WTGXX__pooled__all_events = 3.4462, m1_upper_share_count_pct__WTGXX__pooled__all_events = 2.1092
+Upper bound, 1 January to 30 June 2026 (out of sample): value; count & 39.1\%; 41.3\% & Not reported \\ % src: key_numbers.csv addl_oos_upper_share_value_pct__WTGXX__F1__main = 39.1361, addl_oos_upper_share_count_pct__WTGXX__F1__main = 41.3462
+Holder-to-holder value as a share of \mbox{N-MFP3} gross redemptions & 9.0\% & 0.028\% \\ % src: key_numbers.csv addl_turnred_hh_value_share_of_gross_reds_pct__WTGXX__with_wallet = 8.975, addl_turnred_hh_value_share_of_gross_reds_pct__WTGXX__excl_wallet_numerator = 0.028
+\hline
+\end{tabular}
+
+\smallskip
+\parbox{\linewidth}{\footnotesize\raggedright F1 is refuted if the upper bound reaches 5\% of value or 10\% of count (Table~\ref{tab:measures}). The wallet is removed from the numerator only. Counting the debited wallet as a burn's origin puts this wallet, which the TA's burns debit, in the TA set, and gives the same bounds as removing it. Counting only transfers of 100 shares or more, the upper bound without the wallet is 11.2\% of value and 26.5\% of count. In the All wallets column the first, second, fourth and fifth rows are frozen measures; all other entries are exploratory.} % src: freeze_falsifier_verdicts.csv F1 WTGXX burn_origin_transfer_from (upper 11.2275, 37.4269; lower 0.0864, 18.1287); data/processed/addl_pm_wallet_profile.csv (burns from 0x0c561ed8 sent by TA wallet 0x726d3b3e via burn(address,uint256)); Table 7 row 3 (burn origin: debited wallet on EVM); key_numbers.csv addl_f1minsize_upper_share_value_pct__WTGXX__min_100_shares__excl_wallet_numerator = 11.2275, addl_f1minsize_upper_share_count_pct__WTGXX__min_100_shares__excl_wallet_numerator = 26.4706
+\end{table}
+
+Within this activity, WisdomTree's swap and custodian routes illustrate contract use and potential composability \citep[p.~11]{CongMayerRabetti2026}, together totalling 2.9\% of \mbox{N-MFP3} gross redemptions (Section~\ref{sec:calendar}). % src: data/processed/addl_contract_venue_ratio.csv venue_share_of_gross_reds_pct = 2.8817 (swap 0.0559, custodian 2.8258; scripts/23_addl_contract_venue_ratio.py); key_numbers.csv addl2_custodian_frxUSD_deposits_n_tx = 5, addl2_custodian_frxUSD_deposits_wtgxx_amount = 2000014.0; notes/addl_analysis.md D1 ("deposits" is a reading of transfer patterns); notes/readings/CongMayerRabetti2026.md (p.11); notes/readings/Aquilina2025BIS115.md (printed p.1, key takeaways)
+
+Such use coexists with retained issuer powers to admit, revoke and reverse (Table~\ref{tab:permuse}). Both Stellar assets require issuer authorisation of each account and permit revocation and clawback, which WisdomTree's issuer used six times since September 2025. Every readable EVM contract except JPMorgan's lets the issuer move or burn holders' shares; JPMorgan instead supplies clawback and reversal powers in its prospectus \citep[pp.~3, 28]{JPMorganOnChainLTMMF2026}. % src: key_numbers.csv addl_stellar_auth_required__*, addl_stellar_auth_revocable__*, addl_stellar_auth_clawback_enabled__* = True; addl_stellar_issuer_ops_clawback_since_crawl_start__WTGXX = 6 (crawl start 2025-09-01); addl_evm_admin_functions.csv; addl_evm_forced_transfer_like_functions__WTGXX__ethereum, __FOBXX__ethereum (transferShares, instantTransfer); prep_permissions_matrix.csv JLTXX item vii-b
+
+
+\subsection{Who holds the token}\label{sec:m3}
+At 30 September 2026 WisdomTree, with a \textdollar 1 minimum, had 681 non-TA wallets and Franklin had 1{,}009. These counts omit holders behind wrapper contracts or TSY (Section~\ref{sec:calendar}); Franklin's authorised accounts also share issuer-associated signer keys (Section~\ref{sec:m1}). Concentration can reflect sponsor seed capital in young funds, and also occurs in Fidelity's untokenised class (Section~\ref{sec:m5}). % src: key_numbers.csv m3_n_nonta_wallets__WTGXX__2026-09-30 = 681, m3_n_nonta_wallets__FOBXX__2026-09-30 = 1009; prep_permissions_matrix.csv item v (WTGXX p.114); addl_stellar_authorized_accounts_sharing_a_signer_key_with_issuer__FOBXX = 1380 of 1380 authorised; notes/addl_analysis.md A1 (WTGXX Wrapper withdrawTo)
+Within the observed non-TA supply, wallets outside the ten largest hold 0.8\% for WisdomTree and 17.6\% for Franklin, below F3's original 25\% benchmark. This concentration describes balances, without estimating beneficial-investor participation or establishing that low minimums had no access effect. % src: key_numbers.csv m3_nonta_outside_top10_share_pct__WTGXX__2026-09-30 = 0.8029, m3_nonta_outside_top10_share_pct__FOBXX__2026-09-30 = 17.6196
+Coverage leaves Franklin's verdict unsettled: allocating all 108.7 million missing shares on Aptos, Avalanche and Base outside the top ten raises the share to 31.1\%. Moreover, the original falsifiers do not test intermediated holding itself. % src: freeze_falsifier_verdicts.csv F3 WTGXX robustness robust; key_numbers.csv f3_worst_case_outside_top10_pct__WTGXX = 0.8998, f3_uncovered_shares__FOBXX = 108748104.27, f3_worst_case_outside_top10_pct__FOBXX = 31.0908
+
+Form N-MFP lists ``each person who owns of record or is known by the fund to own beneficially 5\% or more'' of a class \citep[Item B.10, p.~7]{SECFormNMFP}. In September 2026 one record owner holds 74.5\% of Franklin's token class, 81.5\% of WisdomTree's, 83.6\% of JPMorgan's and 95.1\% of Fidelity's. % src: freeze_m3_holding.csv 2026-09-30 (FOBXX non-financial corporation rec=0.7446; WTGXX Other:Institutional Investor rec=0.8147; JLTXX depository institution rec=0.8356; FYOXX Other:PARTNERSHIP rec=0.9514)
+The largest WisdomTree and JPMorgan wallets match those shares within 0.002 percentage points, consistent with the owner holding or controlling the wallet but insufficient to establish identity. % src: key_numbers.csv addl_ownermatch_top1_minus_dominant_pp__WTGXX = 0.0007, __JLTXX = 0.0018 (FYOXX -0.0036 not used: wallet snapshot set aside, Section 4.1); addl_ownermatch_aggregates_within_1pp__FOBXX = none; addl_ownermatch_onchain_balances_share_of_class_shares_pct__FOBXX = 83.7195; notes/addl_analysis.md C2 (no identity data)
+
+Only WisdomTree reports a beneficial percentage above zero, in all 28 months filed; the other three report explicit zeros for every listed owner in every month. % src: key_numbers.csv addl_nmfp_months_with_ben_positive__WTGXX = 28, addl_nmfp_months__WTGXX = 28, addl_nmfp_months_with_ben_positive__FOBXX = 0, __JLTXX = 0, __FYOXX = 0
+\footnote{The specification of the SEC's Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system makes both percentages conditionally mandatory and suspends a filing that leaves a decimal empty \citep[PDF pp.~14, 23]{SECNMFP3TechSpec}.} The form defines neither ``of record'' nor ``beneficially'', so reading the three funds' dominant owners as nominees or omnibus accounts is an inference. WisdomTree's two largest record owners are reported as beneficial owners of their whole shares, against a nominee reading.
+ % src: data/processed/addl_nmfp_rec_ben.csv WTGXX 2026-09-30 Other:Institutional Investor rec = ben = 0.8147; freeze_m3_holding.csv WTGXX 2026-09-30 Other:Ultimate Parent Company rec = ben = 0.0872; key_numbers.csv addl_ownermatch_nearest_wallet_per_owner_entry__WTGXX (0x0c561ed8 8.7215%, diff 0.0015 pp); addl_ownermatch_wallet_0x0c561ed8_rank__WTGXX = 2
+In JPMorgan the balance match is consistent with the dominant record owner's wallet, but neither chain nor filing identifies its underlying investors. Pseudonymous balances cannot by themselves supply the investor transparency anticipated by \citet[p.~3]{Yermack2017}. The filing comparison adds evidence about record ownership, but cannot reconstruct custody chains behind unidentified wallets. Wallet access, beneficial participation and direct legal holding are therefore different outcomes, even when each is described as broader access. % src: data/raw/edgar/2026-10-16_{FOBXX,JLTXX,FYOXX}_N-MFP3_2026-09-30_*.xml percentOutstandingSharesBeneficial = 0.0 / 0.0000
+
+\subsection{Servicing}\label{sec:m4}
+Franklin's dividend posting extends to non-business days: of 267 classified dividend days in January--September 2026, 78 fall on such days. JPMorgan has 86 and 14 respectively, with delivered shares at approximately 103\% of estimated accrual for Franklin and 96\% for JPMorgan (Table~\ref{tab:permuse}). The two results require different qualifications. Franklin's estimate falls to 28\% without Stellar balance seeding, indicating classification sensitivity. JPMorgan's non-business mints all occur before 04:00 ET after a business day, consistent with preceding-business-day posting and its prospectus's inclusion of weekend and holiday income \citep[p.~28]{JPMorganOnChainLTMMF2026}. This timing does not independently allocate each mint to accrual entitlements.
+% src: freeze_m4_servicing.csv; freeze_falsifier_verdicts.csv stellar_unseeded; addl_divtiming_summary.csv (JLTXX 14 of 14; FOBXX 0 of 78).
+
+Franklin's statement of additional information (SAI) and JPMorgan's prospectus provide daily share distributions (\citealp[SAI p.~30]{FranklinOnChain2026}; \citealp[p.~30]{JPMorganOnChainLTMMF2026}). Mint fields establish a narrower fact: every classified dividend day in the three retained cases meets the original batch definition, using zero-address mints on EVM chains and Solana or issuer-account mints on Stellar. These sources identify new shares without revealing the triggering caller or signer, or whether software scheduled them. Likewise, posting before the next redemption business day does not establish earlier cash availability.
+% src: freeze_m4_servicing.csv share_dividend_days_ta_batch_pct; TR-5(a); rules.py and 05_measures.py mint-source classification. FYOXX servicing set aside after F0 failure.
+
+WisdomTree's 17 classified dividend days are all business days, but delivered shares cover only 32\% of estimated nine-month accrual. Monthly reinvestment explains clustered timing \citep[p.~144]{WisdomTreeTMMDF2025}, not the shortfall. Cash elections, classification and measurement boundaries remain possible, unquantified explanations for the unresolved missing amount.
+% src: freeze_m4_servicing.csv 31.8574%; exact August 2026 WisdomTree filing p.144 (monthly reinvestment and cash option).
+
+These distinctions matter for F4's joint requirement of business-day-only dividends, TA batches and median lag of at least one business day. Franklin and JPMorgan fail the calendar condition, so the full refuting conjunction is not met despite unknown lag. WisdomTree meets the calendar and batch conditions, leaving full refutation unresolved because lag is unknown; even its historical partial result reverses under a one- or three-hour batch span. Fidelity's coded refutation is uninformative after failed reconciliation and unreliable dividend identification (Appendix~\ref{app:verdicts}).
+
+The positive result is therefore a posting capability: Franklin credits classified dividend tokens on non-business days. Establishing unattended scheduling, correct allocation to every entitlement or earlier spendable cash would require evidence beyond those postings. WisdomTree's unexplained shortfall likewise prevents its mints from supplying a complete servicing account.
+
+\subsection{Permission and use}\label{sec:m5}
+Permission and use vary together. Franklin and WisdomTree permit peer-to-peer transfer, set low minimums and have hundreds of wallets (Table~\ref{tab:permuse}); JPMorgan permits it at a high minimum and has four. Fidelity forbids it, with its two-wallet diagnostic set aside after F0 failure. % src: key_numbers.csv m1_n_events__FOBXX__{ethereum,arbitrum,polygon,solana}__transfers_only = 0; prep_permissions_matrix.csv item v (FOBXX p.31); E28a: prep_permissions_matrix.csv items v and i (minimums; peer-to-peer permitted FOBXX, WTGXX, JLTXX, not FYOXX); key_numbers.csv m3_n_nonta_wallets__JLTXX__2026-09-30 = 4, m3_n_nonta_wallets__FYOXX__2026-09-30 = 2
+Because permission, minimum, wallet count and chain move together, no single factor's effect is identified.
+
+Permission to initiate token movement does not confer registration authority. WisdomTree transfers are valid once the TA registers them \citep[p.~143]{WisdomTreeTMMDF2025}, and JPMorgan requires completed registration, after which ownership is deemed effective as of the defined Receipt Time \citep[pp.~27--28]{JPMorganOnChainLTMMF2026}. Holders can authorise token movement without independent registration authority, the outcome \citet[p.~545]{MichelerZaccaria2024} expect when technology leaves investors' legal position unchanged. % src: prep_permissions_matrix.csv item i (WTGXX p.143; JLTXX p.27)
+
+Fidelity's class comparison is independent of its failed chain reconciliation: the untokenised Liquidity and OnChain classes share a portfolio and \textdollar 1 million minimum, with concentrated record ownership. Over fourteen common months, unweighted means of reported business-day seven-day net yields are 3.6774\% for Liquidity (295 observations) and 3.5833\% for OnChain (294). In January--September 2026, with 189 observations per class, the means are 3.5233\% and 3.5033\%, a gap of 0.0200 percentage points or two basis points. Fees provide context: the June 2026 prospectus lists 0.25\% management fees for both, waived by 0.07\% for Liquidity and 0.05\% for OnChain to produce net expense caps of 0.18\% and 0.20\% through 31 August 2027 \citep[Fees and Expenses; Fund Management]{FidelityTDF2026}. The cap difference is consistent with the 2026 gap, but neither explains earlier narrowing nor identifies a causal tokenisation cost. Appendix~\ref{app:permissions} supplies further filing-based descriptives.
+% src: original 2026-06-24 Fidelity prospectus class fee tables/cap paragraphs; freeze_twin_descriptives.csv (14 common months; January--September 2026).
+
+\section{South Africa: which conditions are supplied}\label{sec:sa}
+South Africa separates securities registration, collective-investment administration and crypto-asset transactions. The closest domestic analogue of these funds is a money market portfolio under the Collective Investment Schemes Control Act 45 of 2002 (CISCA). Its manager administers issues and cancellations under a deed overseen by a trustee or custodian, and may delegate with the registrar's approval \citep[s~1, pp.~1--3; s~4(5)(a), p.~5; s~70(1)(a), p.~26]{CISCA2002}. Government bonds held in the central securities depository (CSD) provide a separate statutory-register comparator. Table~\ref{tab:sa} distinguishes domestic registers from residents' foreign investments.
+
+This comparison concerns the primary texts held at 16 October 2026. Scheme deeds, conduct standards, depository rules, disclosure, data-protection and anti-money-laundering record duties were not examined. The Financial Advisory and Intermediary Services Act (FAIS) is cited in its 2002 text and the National Payment System Act in its 2014 consolidation; later amendments were not verified. Absence of an express statutory ledger prohibition is therefore not operational authorisation of a scheme.
+
+\subsection{The copy and the register (K1)}\label{sec:sa_record}
+Statutory ownership mechanisms show why a token-ledger name cannot alone resolve legal holding. Government bonds, collective-investment participatory interests and foreign-scheme units fall within the Financial Markets Act 19 of 2012 (FMA) securities definition \citep[s~1, paras~(a)(ii), (a)(v), (b), p.~10]{FMA2012}. For deposited securities, the Act recognises co-ownership of securities of the same kind and a participant's statement as proof of title or interest \citep[ss~37(1), 37(4), pp.~47--48]{FMA2012}, while intermediary-name registration does not itself confer ownership \citep[s~36(2), p.~47]{FMA2012}. Securities held by a CSD, participant or nominee for another must remain segregated, identifiable as that person's and trust property \citep[s~37(5), p.~48]{FMA2012}.
+
+Khokha~2 distinguishes securities constituted as tokens from securities represented by token wrappers \citep[p.~43]{SARB2022Khokha2}. A wrapper over a bond in Strate could reconcile aggregate supply without itself transferring the underlying statutory interest. A securities account is kept by a participant, authorised user or nominee \citep[s~1, p.~11]{FMA2012}; a self-held wallet alone establishes neither such an account nor the underlying transfer. Wrapper holders' contractual, trust, custody or proprietary rights depend on the actual arrangements, which were not identified here. Those rights may themselves constitute securities \citep[s~1, para~(e), p.~10]{FMA2012}.
+
+A manager's unit record raises a distinct question. CISCA requires proper records and allows the registrar to specify them by notice \citep[ss~4(4)(b), 114(3)(a), pp.~5, 43]{CISCA2002}, whereas FMA transfers concern CSD/participant registers \citep[s~38(1)(a), p.~48]{FMA2012} and Companies Act 71 of 2008 rules concern company securities \citep[s~53(1), p.~69]{CompaniesAct2008}. The examined statutes do not expressly bar a ledger-based unit register, though unexamined instruments may constrain its design.
+
+\subsection{Classification of the token (K2, K4)}\label{sec:sa_class}
+Classification must also account for the applicable transfer mechanism. Where the CSD/participant mechanism applies, transferring securities requires debit and credit entries in the relevant accounts \citep[s~38(1)(a), p.~48]{FMA2012}; for a company's uncertificated securities, only a participant or CSD may effect transfer on authenticated instructions or a court order \citep[s~53(1), p.~69]{CompaniesAct2008}. These entries have third-party effects and protection despite fraud or illegality, unless the transferee participated in or knew of it (\citealp[ss~38(3), 41(1), (3), pp.~48--49]{FMA2012}; \citealp[s~53(4), p.~69]{CompaniesAct2008}). Their statutory role explains why moving a separate token cannot substitute for the entries, and why token clawback does not itself reverse the underlying transfer.
+
+The FSCA's 2022 declaration makes crypto assets FAIS financial products, covering cryptographic distributed-ledger representations of value that can be traded, transferred or stored electronically and are not central-bank issued \citep[cl.~1, p.~3]{FSCA2022}. The draft Crypto Asset Manual and Capital Flow Management (CFM) Regulations use corresponding definitions without an express securities exclusion (\citealp[A.1, p.~7]{SARB2026CryptoManual}; \citealp[reg~1(1), p.~2]{NT2026CFMDraft}). A token with the examined funds' characteristics fits this wording. The Manual preserves FMA and FAIS obligations alongside its own \citep[A.4(A)(xiii), p.~23]{SARB2026CryptoManual}.
+
+The draft Manual makes the transaction route consequential. Transfers between a domestic Authorised crypto asset service provider (CASP) and an offshore CASP, or from a domestic Authorised CASP to a non-custodial wallet, are deemed imports or exports where they result in cross-border flows \citep[B.1(A)(ii), p.~24]{SARB2026CryptoManual}. This bars resident entities from transactions so deemed \citep[B.1(C)(iii)(b)(dd), p.~31]{SARB2026CryptoManual}, while individuals have specified allowance routes \citep[B.1(C)(iii)(a)(hh), (ii), pp.~28--30]{SARB2026CryptoManual}. By contrast, locally hosted custodial holdings and transactions between Authorised CASPs are expressly domestic \citep[B.1(C)(iii)(b)(aa)--(cc), p.~31]{SARB2026CryptoManual}.
+
+An offshore CASP must be authorised by its home regulator to provide crypto-asset services \citep[A.1, p.~9]{SARB2026CryptoManual}. The reading adopted here distinguishes fund appointment from that authorisation: a U.S. TA is not necessarily an offshore CASP. On the counter-reading, its regulated token activities satisfy the definition, potentially bringing transfers with domestic CASPs within the entity bar. Neither reading establishes that every direct foreign mint is a prohibited transaction; its parties and route must first satisfy the proposed rule.
+
+Transaction type matters separately under draft CFM regulation~3, which restricts purchases, sales, borrowing and lending above a ministerially determined threshold between persons other than Authorised CASPs, subject to permission, exemption or compliance with conditions \citep[regs~1(1), 3(1)--(4), 23(6), pp.~2, 6--7, 24]{NT2026CFMDraft}. Regulation~3(4) separately requires intending non-CASP buyers, sellers, borrowers and lenders to apply to an Authorised CASP and supply the information and documents it requires. A covered subscription would need the relevant CASP or exception route, whereas a dividend-share mint is not automatically a purchase or sale. A further possible restriction arises in draft regulation~12(4)(d), whose reference to non-residents and rights to crypto assets redeemable abroad has an unclear grammatical object \citep[pp.~15--16]{NT2026CFMDraft}. If it reaches acquiring such rights, a U.S. token redeemable abroad would require permission irrespective of wallet location. These remain proposed rules: the Manual depends on promulgation of the Regulations \citep[p.~2]{SARB2026Circular19}.
+
+Existing controls must also be considered. The Exchange Control Regulations, 1961, require permission for specified non-resident register changes and dealing in controlled securities, including securities acquired abroad, with submission to an authorised dealer within thirty days \citep[reg~14(1)--(3), pp.~16--17]{ExConRegs1961}; their application to a self-held token was not examined. Conventional investment routes include a R5 billion annual corporate portfolio allowance, with unresolved fund-unit coverage, and institutional investors' 45\% foreign-exposure allowance \citep[B.2(C)(iii), pp.~60--61; B.2(H)(iv), p.~73]{ADManual2026}. These sit alongside permission to export capital and restrictions on soliciting unapproved foreign schemes (\citealp[reg~10(1)(c)]{ExConRegs1961}; \citealp[s~65]{CISCA2002}).
+
+Even South African permission would leave issuer eligibility to resolve: JPMorgan is not intended for foreign shareholders \citep[p.~30]{JPMorganOnChainLTMMF2026}, and WisdomTree generally limits sales to U.S. residents with very limited exceptions \citep[Your Account]{WisdomTreeTMMDF2025}. The cases thus supply design analogies without establishing that each actual fund is available to South African residents.
+
+\subsection{Drafts and counter-readings}\label{sec:sa_drafts}
+The original F-SA searches for an exclusion of mirror tokens or domestic treatment based on register location. Neither appears expressly in the examined crypto texts, so F-SA is not refuted within this textual scope. Three qualifications matter. First, FSCA policy invokes the FATF definition, which excludes securities, and a security token may arguably fall outside FAIS's category of other similar products (\citealp[p.~4 n.~2; paras~4.10--4.12, p.~10]{FSCA2022Policy}; \citealp[s~1, PDF p.~5]{FAIS2002}). That argument does not supply an exclusion in the draft exchange-control definitions.
+
+Second, the cross-border-flow qualifier may narrow the entity bar, although treating individuals' transfers to non-South-African custodial wallets as exports supports the adopted broader reading \citep[B.1(C)(iii)(a)(dd), p.~28]{SARB2026CryptoManual}. Restrictions on the token do not resolve its classification: disabling peer transfers need not escape a definition including storage, while clawback need not change who holds private keys. The Manual's requirement of complete control of keys and associated value \citep[A.1, p.~8]{SARB2026CryptoManual} leaves its application to issuer-controlled token value unresolved.
+
+Third, overlapping definitions need not conflict. FMA section~3 gives qualified priority for actual inconsistencies, with exceptions for the Financial Intelligence Centre and Financial Sector Regulation Acts and distinct priority rules for insolvency and settlement entries \citep[ss~3(3)--(5), p.~15]{FMA2012}; it does not automatically exclude securities or displace compatible duties. Rwanda instead expressly excludes capital-market-regulated securities from its virtual-asset definition \citep[arts~4(2)(a), 4(3)(c), pp.~20--21]{Rwanda2026VirtualAssets}, though its unexamined capital-market law determines that boundary.
+
+\subsection{The cash leg (K3)}\label{sec:sa_cash}
+For the cash leg, finality, settlement assets and processing hours remain distinct. The held National Payment System Act provides finality through the Reserve Bank or designated systems between relevant participants \citep[ss~1, 4A(1), 5, pp.~3, 6, 8]{NPSAct1998}, but designation does not itself issue central-bank money. Khokha~2 tested several assets \citep[pp.~7, 25]{SARB2022Khokha2}: its SARB-issued wholesale currency differs from privately issued tokens under the crypto definitions, while draft CFM rules exclude crypto assets from currency \citep[reg~1(1), p.~2]{NT2026CFMDraft}. CISCA deeds additionally specify repurchase cutoffs and distributions \citep[Sched.~1 items~1(f), 2(b)--(c), p.~45]{CISCA2002}. These requirements neither establish round-the-clock cash processing nor universally forbid a suitably linked ledger. Offshore servicing remains transaction-specific under K2, without an established general dividend-mint bar.
+
+The functional comparison consequently has three distinct applications. A domestic CISCA ledger must satisfy the manager's record and deed obligations. A token wrapper over deposited securities must be analysed alongside the statutory account entries and the actual rights it conveys. A resident's foreign-fund token additionally raises exchange-control routes and issuer eligibility. Changing who signs a token transaction resolves none of these questions by itself; the relevant arrangement must connect operational movement with the applicable ownership and payment rules.
+% src: held FMA consolidation ss1,3,36--41; CISCA ss1,4,65,70,114/Schedule1; Manual A1/B1; draft CFM regs1,3,12,23. Source versions and unexamined instruments are qualified above.
+
+\begin{table}[htbp]
+\centering
+\small
+\caption{South African mechanisms relevant to the observed configurations}\label{tab:sa}
+\begin{tabular}{>{\raggedright\arraybackslash}p{2.7cm}>{\raggedright\arraybackslash}p{6.5cm}>{\raggedright\arraybackslash}p{4.1cm}}
+\hline
+Function & Mechanism in the examined texts & Consequence for comparison \\
+\hline
+K1 record authority & FMA account entries govern covered CSD/participant transfers; CISCA requires managers' proper records & A wrapper and a manager's unit register require different analysis (Section~\ref{sec:sa_record}) \\
+K2 operational control & Statutory register writers are specified; draft crypto rules separately cover conditional transactions and routes & Holder signing alone neither changes registration authority nor establishes a prohibited offshore mint (Section~\ref{sec:sa_class}) \\
+K3 payment/calendar & Payment-system finality and scheme-deed repurchase cutoffs & Extended processing needs an available operating arrangement; designation alone supplies no central-bank money (Section~\ref{sec:sa_cash}) \\
+K4 access/holding & Existing foreign-investment controls and issuer eligibility; proposed entity/transaction restrictions & Wallet permission is only one layer of access; conventional-route interaction remains unresolved (Section~\ref{sec:sa_class}) \\
+K5 servicing & Scheme deed must provide for distributions; offshore treatment depends on the transaction & No general dividend-mint bar established; domestic operational approval not determined (Section~\ref{sec:sa_cash}) \\
+\hline
+\end{tabular}
+
+\smallskip
+\parbox{\linewidth}{\footnotesize\raggedright Primary texts held at 16 October 2026. Crypto Asset Manual and Capital Flow Management Regulations are proposals. The analysis distinguishes enacted requirements, proposed restrictions and unexamined scheme instruments; it does not certify a complete implementation.}
+\end{table}
+
+\section{Discussion and conclusion}\label{sec:conclusion}
+The answer is functional rather than a single verdict on whether the ledger replaces the TA. WisdomTree holders authorise token transfers and use contracts, while registration governs their legal effect. Franklin incorporates blockchain into its official record, yet issuer-associated keys authorise the observed holder-party transfers. Incorporation into an ownership record and delegation of transaction authorisation are therefore separable features. The party, signature and prospectus evidence must be combined to distinguish them; none identifies every human instruction, validator or recordkeeper.
+
+The filing reconciliation supplies a different check: whether the measured token aggregate corresponds to reported fund shares. WisdomTree matches ten complete earlier months under a sensitive adjustment; Fidelity fails eleven with an unconfirmed address. Franklin's missing chains and JPMorgan's short history prevent full verdicts. Consistency supports interpretation of token units under the stated rules, without identifying a common producing architecture or proving that a register was written first. Multi-chain publication also creates a verification burden: missing Aptos prevents a complete Franklin reconciliation despite its integrated record.
+
+The clearest economic possibility is an additional execution route: WisdomTree's atomic secondary exchanges, including non-business-day transactions, coexist with bank-funded primary processing that largely retains business calendars. This capability does not measure reductions in settlement costs, redemptions or liquidity risk; registration, clawback and the payment asset remain relevant after execution. Scale measures leave these questions open: gross transfer ratios measure neither market depth nor venue substitution, and near-par prices do not resolve Chen and Duffie's price-impact mechanism \citep{ChenDuffie2021}. Likewise, low minimums and numerous wallets cannot establish more beneficial investors or fewer custody layers, while Fidelity's fee/yield comparison remains descriptive rather than a causal tokenisation-cost estimate.
+
+Servicing also separates capability from effect. Franklin posts classified dividends on non-business days; the mint fields do not identify automation or earlier cash availability. WisdomTree's unknown lag leaves its full F4 refutation unresolved, and its unexplained amount shortfall prevents a complete servicing account. These uncertainties limit which intermediary tasks can be said to have moved, rather than negating every observed transaction.
+
+South Africa's comparison follows the same separation. CSD/participant entries have statutory effects that a separate token movement cannot replace. CISCA managers' record duties do not expressly exclude a ledger, but unexamined instruments prevent operational approval. Foreign-token routes add existing controls, conditional proposed restrictions and issuer eligibility. Payment finality does not by itself supply extended processing. The cases therefore identify concrete changes in authorisation and execution alongside retained legal and operating dependencies; they do not establish universal necessary or sufficient conditions for economic benefits.
+
+\clearpage
+\phantomsection
+\addcontentsline{toc}{section}{References}
+{\interlinepenalty=10000
+\bibliography{drafts/independent/references_revised}}
+
+\newpage
+\appendix
+
+\section{Wallet-role and dividend classification rules}\label{app:rules}
+
+\paragraph{TR-1 to TR-4, timing.} Events are dated in \mbox{America/New\_York} time (ET), and a month ends at 23:59:59 ET on the \mbox{N-MFP3} report date (TR-1); a cutoff at 23:59:59 in Coordinated Universal Time is a sensitivity. In the two funds whose burn wallet holds no lasting balance, JPMorgan's and Fidelity's, a balance parked in a TA burn wallet and burned by the end of the next ET business day counts as redeemed on the day it arrived (TR-2). Dividend shares that \mbox{N-MFP3} records on business day $d$, the report date, and that the chain mints by the end of the next ET business day count as on chain at $d$ (TR-3). In the main specification TR-3 adds only TR-6 rule (iii) dividends, the only mints matched to an \mbox{N-MFP3} subscription, and it cannot be applied on chains without an event history. Non-business days are Saturdays, Sundays and Fedwire holidays from 2024 to 2026 (TR-4).
+% src: notes/preregistration.md §4.4 TR-1 to TR-4; notes/preregistration_implementation_notes.md IMPL-2, IMPL-3, IMPL-4 (d+1 = next ET business day), IMPL-4b (TR-3 scope; chains without event history), IMPL-11; TR-1 UTC sensitivity (implementation notes, sensitivity table "clock=UTC")
+
+\paragraph{TR-5, wallet roles.} Roles are assigned separately on each chain, with the legs applied in order. The TA set contains: (a) the mint source, which is the zero address on EVM chains and Solana and the issuer account on Stellar; (b) module contracts listed by the issuer, which only Franklin publishes; (c) any account that sends a burn transaction on an EVM chain; (d) any address that burns more than half of its non-mint inflow value within two ET business days of arrival (parking); and (e) any address that receives an issuance mint and forwards at least 95\% of it on the same ET day to wallets other than burn or parking wallets (distribution hop). The legs can sweep in a third-party contract, as the distribution-hop leg does with one custodian contract in WisdomTree (Section~\ref{sec:calendar}). A contract is an address with code that is outside the TA set, or a Soroban contract address on Stellar. Every other address is a holder. The rule is deterministic, unlike the role classifier of \citet[p.~5]{Luo2025}, which learns from noisy name-based labels. Solana program accounts cannot be told apart from wallets, so they count as holders unless a TA leg applies. M1 takes holder-to-holder flows as its lower bound, adds holder-to-contract flows for the main value, and adds contract-to-contract flows for the upper bound. F4's TA-batch condition is met by dividend mints from leg (a)'s mint source (Table~\ref{tab:calibchoices}, row 10), so it shows the source of a mint and leaves open who triggered it.
+% src: notes/preregistration.md §4.4 TR-5; notes/preregistration_implementation_notes.md IMPL-1, IMPL-5, IMPL-6, IMPL-7, IMPL-7b, IMPL-15, IMPL-16, IMPL-19, Fix 1
+
+\paragraph{TR-6, dividend mints.} A mint is a dividend under any of three rules. (i) It belongs to a same-ET-day batch paid to two or more existing holders whose amounts correlate with prior balances at $\rho \geq 0.95$, and it is no larger than five times prior balance $\times$ seven-day net yield$/365 \times$ days since that address's last mint. (ii) Any other mint lies within 2\% of that accrual. (iii) In a single-chain fund, the day's unlabelled mints equal the \mbox{N-MFP3} gross subscription for that date to within 0.01 shares, on the first ET business day of a month. All other mints are issuance. On Stellar, prior balances are seeded at 1 January 2026 by backing out from current balances, and TR-5 and TR-6 use Stellar events from that date. Events between 1 September and 31 December 2025 enter only month-end supply.
+% src: notes/preregistration.md §4.4 TR-6; notes/preregistration_implementation_notes.md IMPL-1b, IMPL-8, IMPL-8c (Fix 2, k = 5), IMPL-9, IMPL-10, Fix 3; data/README.md FREEZE VINTAGE (Stellar)
+
+\paragraph{Choices made with the calibration window in view.} Table~\ref{tab:calibchoices} lists the eleven choices. For choices 1--10 the reported sensitivities vary the stated implementation against the main specification on the frozen data. Choice 11 instead records the one-sided rule for incomplete months; no parameter sensitivity is reported for it.
+
+\begin{table}[htbp]
+\centering
+\small
+\caption{Implementation choices made after the July to September 2026 pilot}\label{tab:calibchoices}
+\begin{tabular}{>{\raggedright\arraybackslash}p{0.4cm}>{\raggedright\arraybackslash}p{3.6cm}>{\raggedright\arraybackslash}p{5.4cm}>{\raggedright\arraybackslash}p{4.6cm}}
+\hline
+ & Rule & Main specification & Sensitivity reported \\
+\hline
+1 & TR-6 Stellar balances & Seeded at 1 January 2026 & Unseeded \\
+2 & TR-3 scope & Only rule (iii) dividends added & All next-day dividend mints added \\
+3 & TR-5 burn origin & EVM transaction sender; leg off on Stellar and Solana & Debited wallet on EVM; Stellar leg on \\
+4 & TR-5 hop & Forwards to burn or parking wallets excluded & Included \\
+5 & TR-6 (i) outlier guard & Dropped & Guard at three times the batch median \\
+6 & TR-6 (i) accrual cap & Five times one period's accrual & Three, ten, no cap, day-aware cap \\
+7 & TR-6 (iii) & First business day of a month; 0.01 shares & Rule off; 1 and 100 shares; monthly accrual size test \\
+8 & TR-5 hop trigger & Issuance mints only & All mints; hop leg off \\
+9 & M4 lag & Only where \mbox{N-MFP3} dates the accrual (FYOXX), counted from the report date & Accrual on the calendar day before the mint \\
+10 & M4 TA batch & Every dividend mint that day comes from the token's mint source (TR-5 leg (a)) & Source plus a one-hour or three-hour span \\
+11 & F0 incomplete months & Count as exceeding if covered supply is more than 0.10\% above \mbox{N-MFP3} & Not applicable \\
+\hline
+\end{tabular}
+% src: notes/preregistration_implementation_notes.md, "Draft §3 deviation facts", items (b) and (e), and the sensitivity table
+\end{table}
+
+\paragraph{Data-quality notes.} At the Stellar seed date, 63 FOBXX accounts have negative backed-out balances, summing to $-13.15$ million shares. % src: key_numbers.csv diag_stellar_negative_backout_balances_at_rules_start__FOBXX__stellar = 63; diag_stellar_negative_backout_balance_sum__FOBXX__stellar = -13149740.03
+They receive no seed, so their dividends fall out of the rule (i) batches. Mints dated before a fund's first \mbox{N-MFP3} yield have no accrual benchmark, so rule (ii) and the cap are off for them. This affects mainly FOBXX on Polygon, where 336 of 338 such mints from October 2023 to May 2024 are labelled dividends. % src: key_numbers.csv diag_mints_labelled_with_no_yield_available__FOBXX__polygon = 338 (note: dividend_i=336)
+More dividend labels mean fewer hop triggers and a smaller TA set, which raises the measured holder share. The Stellar conversion skips the 134 claimable balances that FOBXX holders created. % src: key_numbers.csv diag_stellar_ops:create_claimable_balance_by_holder__FOBXX__stellar = 134
+Under fixed frozen wallet roles and the main transfers-only denominator, the diagnostic's additional holder-to-holder transfers would raise the measured holder share; issuer claims instead map to burns outside that denominator. This is a conditional omission bound. Full conversion and role reassignment could also change parking and distribution-hop classifications, so no one-sided bound for that recomputation is established. % src: data/processed/freeze_diag_stellar_claimable.csv; data/README.md Phase 2 post-freeze diagnostics
+
+
+
+\section{Original tests, power and sensitivity record}\label{app:verdicts}
+The original follower claims and thresholds remain the historical test record. Table~\ref{tab:verdicts} distinguishes their coded results from what the measures identify. ``Claim survives'' means its stated falsifier was not met, not that the claim is proved. F4's historical partial labels omit unavailable lag; the main text separately evaluates the full conjunction. K1--K5 denote record authority, operational control, payment/calendar, access/holding and servicing respectively.
+
+{\footnotesize
+\setlength{\parskip}{0pt}
+\begin{longtable}{>{\raggedright\arraybackslash}p{1.1cm}>{\raggedright\arraybackslash}p{1.4cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.8cm}>{\raggedright\arraybackslash}p{2.9cm}>{\raggedright\arraybackslash}p{2.1cm}}
+\caption{Original falsifier results, test power and reversing sensitivities}\label{tab:verdicts}\\
+\hline
+Test (K) & Fund & Verdict on the claim & Power & Reversed by & Post-calibration choice \\
+\hline
+\endfirsthead
+\multicolumn{6}{l}{\textit{Table~\thetable\ (continued)}}\\[3pt]
+\hline
+Test (K) & Fund & Verdict on the claim & Power & Reversed by & Post-calibration choice \\
+\hline
+\endhead
+\multicolumn{6}{p{13.5cm}}{\textit{F0, consistency (K1). Original claim: the chain copies the register in aggregate. Refuted if more than two test months miss by over 0.10\%.}} \\*
+F0 (K1) & FOBXX & Not testable & None: 0 of 25 months complete (Aptos missing in each) & None & No \\ % src: key_numbers.csv coverage_oos_months_incomplete__FOBXX = 25, coverage_oos_missing_chain_sets__FOBXX (Aptos in every month), f0_n_complete__FOBXX = 0
+F0 (K1) & WTGXX & Claim survives (0 of 10 months) & 10 complete months of 25 & Counting every next-day dividend mint (refuted, 6 of 10) & Yes: which dividend mints count \\
+F0 (K1) & JLTXX & Not testable & None: 2 months (both 0.0000\%) & None & No \\ % src: notes/freeze_results.md §2b JLTXX; key_numbers.csv f0_n_oos_months__JLTXX = 2
+F0 (K1) & FYOXX & Claim refuted (11 of 11 months) & 11 complete months; address unconfirmed & None & No \\
+\hline
+\multicolumn{6}{p{13.5cm}}{\textit{F1, transfer parties (K2). Original claim: only the TA writes; this measure counts parties. Refuted if others' transfers reach 5\% of value or 10\% of count.}} \\*
+F1 (K2) & FOBXX & Threshold exceeded by party; issuer-associated signers & Stellar only; other chains precluded; issuer-associated keys sign all 44 observed transfers outside the TA set (Section~\ref{sec:m1}) & Counting issuance and redemption; Stellar redeemers put in the TA set & Yes: role of Stellar redeemers \\
+F1 (K2) & WTGXX & Claim refuted & Four chains with events; value rests on one wallet and on contracts (Table~\ref{tab:wtgxx}) & Counting issuance and redemption (pre-specified) & No \\
+F1 (K2) & JLTXX & Not testable & Not applied: four holders under the pre-specified restriction; 8 of 39 transfers outside the TA set & None & No \\ % src: key_numbers.csv m1_upper_share_count_pct__JLTXX__pooled__transfers_only = 20.5128, m1_n_events__JLTXX__pooled__transfers_only = 39, m3_n_nonta_wallets__JLTXX__2026-09-30 = 4
+F1 (K2) & FYOXX & Claim survives (divergent record) & Weak: few wallets; peer-to-peer not permitted & None & No \\
+\hline
+\multicolumn{6}{p{13.5cm}}{\textit{F2, calendar (K3). Claim: issuance and redemption keep the business calendar. Refuted if 10\% of value falls on other days.}} \\*
+F2 (K3) & FOBXX & Claim survives & Chains with event histories; none on Aptos, Avalanche, Base; issuance never matches the same-day \mbox{N-MFP3} subscription (Section~\ref{sec:m0}) & None & No \\ % src: key_numbers.csv m2_flowmatch_days_same_day_match__FOBXX = 0, m2_flowmatch_nmfp_business_days__FOBXX = 187, diag_m2_flowmatch_div_added_match_days__FOBXX = 2; notes/freeze_results.md section 4 FOBXX diagnostic
+F2 (K3) & WTGXX & Claim survives & Chains with event histories; none on Avalanche, Base, Optimism, Plume & None & No \\
+F2 (K3) & JLTXX & Claim survives & Full (Ethereum; Solana added 1 October 2026, after the window) & None & No \\ % src: notes/token_contracts.md JLTXX (497 supplement 1 Oct 2026 adds Solana)
+F2 (K3) & FYOXX & Claim survives (divergent record) & Full (Ethereum only) & None & No \\
+\hline
+\multicolumn{6}{p{13.5cm}}{\textit{F3, concentration benchmark (K4). Original claim: low minimums bring no breadth. Refuted if wallets outside the ten largest hold at least 25\%.}} \\*
+F3 (K4) & FOBXX & Claim survives (worst case unsettled) & Covered chains only & All shares on unmeasured chains outside the top ten & No \\
+F3 (K4) & WTGXX & Claim survives & Covered chains & None & No \\
+F3 (K4) & JLTXX & Not tested & Defined for low-minimum funds & Not applicable & Not applicable \\
+F3 (K4) & FYOXX & Not tested & Defined for low-minimum funds & Not applicable & Not applicable \\
+\hline
+\multicolumn{6}{p{13.5cm}}{\textit{F4, servicing (K5). Original claim: servicing is automated on chain, the hypothesis's exception. Refuted if dividend mints fall only on business days, in TA batches, at least a business day late.}} \\*
+F4 (K5) & FOBXX & Historical partial survival; full conjunction not met (calendar) & Lag not identified & None & No \\
+F4 (K5) & WTGXX & Refuted as historically coded (partial); full conjunction unresolved & Lag not identified & Widening a TA batch to a one- or three-hour span & Yes: TA batch definition \\
+F4 (K5) & JLTXX & Historical partial survival; full conjunction not met (calendar) & Lag not identified & Mint-date convention (exploratory) & No \\ % src: data/processed/addl_divtiming_summary.csv JLTXX 14 of 14 non-business days early after a business day
+F4 (K5) & FYOXX & Refuted as coded, but uninformative & Divergent record & Dropping the month-start dividend rule (not testable) & Yes: month-start dividend rule \\
+\hline
+\multicolumn{6}{p{13.5cm}}{\footnotesize\raggedright Notes: coded outcomes refer to the original benchmarks, not demonstrated economic effects. F4 partial coding omits unavailable lag; the full conjunction is interpreted in Section~\ref{sec:m4}. Earlier-month checks and post-calibration choices are discussed in Section~\ref{sec:calib}.}\\
+\end{longtable} % src: data/raw/ADDITION_MANIFEST_2026-10-17.csv; data/raw/ADDITION_MANIFEST_2026-10-18.csv; data/README.md ADDITION CP42, cycle 2 D9, cycle 4 (scripts/19_addl_swap_and_owner.py), ADDITION 2 (scripts/22_addl2_cashlegs.py); notes/addl_analysis.md header, A1, A4, A6, A7, C1 to C6, D1
+% src: data/processed/addl_oos_verdicts.csv; key_numbers.csv addl_oos_upper_share_value_pct__WTGXX__F1__main = 39.1361, addl_oos_upper_share_count_pct__WTGXX__F1__main = 41.3462, addl_oos_worst_case_outside_top10_pct__FOBXX__F3__main = 32.3674 (snapshot 2026-06-30), f3_worst_case_outside_top10_pct__FOBXX = 31.0908 (2026-09-30), addl_oos_n_dividend_days__FYOXX__F4__main = 0
+% src: data/processed/freeze_falsifier_verdicts.csv (main, sensitivity, per-chain, bound and robustness rows); key_numbers.csv f0_*, f2_verdict__*, f0_robust__*, f2_robust__*, f1_robust__*, f3_robust__*, f4_robust__*; notes/claim_home.md Correction (2026-10-17); freeze_m2_calendar.csv chains_without_events
+}
+
+\section{Detailed permission and use evidence}\label{app:permissions}
+Table~\ref{tab:permuse} retains the prospectus, code and descriptive evidence underlying the main functional comparison. Permission, technical powers and observed use are separate rows; code availability is not a claim that every permitted power was exercised. The Fidelity untokenised-class comparison uses fund filings and remains informative independently of the unconfirmed on-chain address.
+
+{\footnotesize
+\setlength{\parskip}{0pt}
+\begin{longtable}{>{\raggedright\arraybackslash}p{2.3cm}>{\raggedright\arraybackslash}p{1.3cm}>{\raggedright\arraybackslash}p{2.3cm}>{\raggedright\arraybackslash}p{2.3cm}>{\raggedright\arraybackslash}p{2.3cm}>{\raggedright\arraybackslash}p{2.2cm}}
+\caption{Prospectus permission against measured use, by fund and function}\label{tab:permuse}\\
+\hline
+Function (K) & Basis & FOBXX & WTGXX & JLTXX & FYOXX \\
+\hline
+\endfirsthead
+\multicolumn{6}{l}{\textit{Table~\thetable\ (continued)}}\\[3pt]
+\hline
+Function (K) & Basis & FOBXX & WTGXX & JLTXX & FYOXX \\
+\hline
+\endhead
+Peer-to-peer transfer (K2) & Permits & Yes & Yes & Yes & No \\
+ & Use & 67.0\% of transfer value by party, all on Stellar (conditional on the Stellar rule); all 44 observed non-TA transfers use issuer-associated keys & 38.8\% of transfer value, 11.2\% without one wallet; 88.8\% of non-TA value signed by the sender & 8 transfers, 10 shares (F1 not applied under small-holder restriction) & 0.0\% (no power) \\ % src: key_numbers.csv addl_m1x_upper_share_value_pct__WTGXX__excl_wallet_0x0c561ed8__drop_from_numerator_only = 11.2275
+Issuer powers (K2) & Permits & TA may correct errors, limit transferability, move records across chains & Claw back to match the register; transfer restrictions & Claw back; reject and reverse peer-to-peer transfers & TA corrects errors; TA creates and holds wallets \\
+ & Code & Stellar authorisation, revocation, clawback; \nolinkurl{transferShares}, \texttt{instant\allowbreak Transfer}; Solana permanent delegate & Stellar authorisation, revocation, clawback (used 6 times); EVM clawback, burn from any address, freeze, pause; Solana permanent delegate & Readable contract facet shows transfer functions only & Burn from any address; pause \\
+Legal effect of a holder transfer & Permits & Completed on chain confirmation \citep[p.~38]{FranklinOnChain2026}; TA may correct the record & Valid once the TA registers it \citep[p.~143]{WisdomTreeTMMDF2025} & Completed registration required; then deemed ownership as of Receipt Time \citep[pp.~27--28]{JPMorganOnChainLTMMF2026} & Not applicable \\
+Minimum initial investment (K4) & Permits & \textdollar 20 (Stellar) to \textdollar 5 million (Ethereum) & \textdollar 1 & \textdollar 1 million & \textdollar 1 million \\
+ & Use & 1,009 non-TA wallets; 17.6\% outside top ten & 681 non-TA wallets; 0.8\% outside top ten & 4 non-TA wallets & 2 observed non-TA wallets (snapshot set aside after F0) \\
+Dividends in shares (K5) & Permits & Declared and reinvested daily & Declared daily; generally reinvested monthly; cash allowed & Declared and paid daily & Declared daily; reinvested monthly \\
+ & Use & 78 non-business dividend days; 103\% of accrual (28\% with Stellar balances unseeded) & 0 non-business dividend days; 32\% of accrual & 14 non-business dividend days (timing consistent with preceding-business-day posting); 96\% of accrual & Set aside (divergent record) \\ % src: freeze_falsifier_verdicts.csv F4 FOBXX stellar_unseeded delivered_pct = 27.6546 (calibration choice 1)
+\hline
+\multicolumn{6}{p{13.1cm}}{\footnotesize Permission from the prospectus and statement-of-additional-information documents held at 16 October 2026 \citep{FranklinOnChain2026,WisdomTreeTMMDF2025,JPMorganOnChainLTMMF2026,FidelityTDF2026}; use from 1 January to 30 September 2026 (transfers, dividends) and 30 September 2026 (wallets). Transfer value shares are upper bounds on the main basis. Signer and code entries come from the additional analysis on the logged addition to the vintage: Stellar asset flags and issuer operations since September 2025, verified EVM contract code, Solana mint accounts. Descriptive only; no falsifier.}\\
+\end{longtable}
+% src: data/processed/prep_permissions_matrix.csv items i, iv, v, vii-b (FOBXX p.16, p.31, p.38, SAI, p.16 TA 'unilateral control' and 'ability to correct errors' (FranklinOnChain2026 note; 'full and complete control' is JLTXX p.2); raw FOBXX 485BPOS 'completed upon transaction confirmation'; WTGXX p.109, p.114, p.143, p.144; JLTXX p.2, p.20, p.27, p.30; FYOXX 485BPOS, no printed page); notes/freeze_results.md §5; key_numbers.csv m1_upper_share_value_pct__*__pooled__transfers_only, m3_n_nonta_wallets__*__2026-09-30, m3_nonta_outside_top10_share_pct__*__2026-09-30, m4_n_nonbusiness_dividend_days__*, m4_share_delivered_on_chain_pct__*; addl_signer_value_share_pct__WTGXX__all__sender_holder = 88.7667; addl_signer_value_share_pct__FOBXX__stellar__issuer_account_signer_keys_current_or_former_sign = 100.0, addl_signer_n__FOBXX__stellar__issuer_account_signer_keys_current_or_former_sign = 44; addl_conc_value__JLTXX__upper = 10.0; addl_nonta_transfers_n__JLTXX__all = 8; addl_stellar_issuer_ops_clawback_since_crawl_start__WTGXX = 6; addl_stellar_issuer_controls.csv; addl_evm_admin_functions.csv (JLTXX facet: approve, transfer, transferFrom); addl_solana_mint_controls.csv
+}
+
+\paragraph{Untokenised-class comparison.} No untokenised class is filed for Franklin, WisdomTree or JPMorgan. Fidelity's Liquidity class shares the OnChain class's portfolio and minimum; its largest reported partnership holds 87.9\%. Unweighted means of reported business-day seven-day net yields over fourteen common months are 3.6774\% for Liquidity (295 observations) and 3.5833\% for OnChain (294); January--September 2026 means are 3.5233\% and 3.5033\%, with 189 observations per class. Liquidity has redemptions on 14 of 189 business days in that 2026 window, against 44 for OnChain. These are class-level descriptives, not an estimate of tokenisation's effect.
+% src: freeze_twin_descriptives.csv; key_numbers.csv twin_owner_categories_latest__Liquidity__common_months (PARTNERSHIP rec=0.8787). Rounded duplicate yields in the previous matrix are replaced by their existing full precision.
+
+
+\section{Reproducibility and source map}\label{app:reproduction}
+The accompanying replication package is identified by its fixed version link:
+\begin{center}
+\url{https://github.com/Karabo22Tigedi/tokenised-mmf-replication/tree/v1.0}
+\end{center}
+Its opening page links to a table-and-figure evidence map, the numerical results, analysis code, source catalogue and offline reproduction instructions. The package includes the frozen numerical records and separately dated exploratory additions. Whole third-party documents are identified through source links and held-version hashes; factual extracts used by the code are documented explicitly.
+
+Thresholds and falsifiers followed the July--September 2026 pilot and were recorded before the October raw-data freeze. This chronology does not make them independent of the pilot. The package records the scientific rules, later implementation choices, coverage gaps and publication-specific input adaptations. The exploratory additions do not alter the frozen measures, rules or verdicts. Reproduction establishes computational consistency of the included evidence; it does not resolve missing chain history or determine legal record authority.
+
+\end{document}

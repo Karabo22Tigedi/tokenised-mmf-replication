@@ -1,0 +1,42 @@
+item,fund,chain,value,note
+stellar_events_dropped_before_crawl_start,FOBXX,stellar,3574,crawl START 2025-09-01; rules start 2026-01-01
+stellar_events_supply_only_before_rules_start,FOBXX,stellar,109312,crawl START 2025-09-01; rules start 2026-01-01
+stellar_negative_backout_balances_at_rules_start,FOBXX,stellar,63,crawl START 2025-09-01; rules start 2026-01-01
+stellar_negative_backout_balance_sum,FOBXX,stellar,-13149740.0332851,crawl START 2025-09-01; rules start 2026-01-01
+stellar_ops:converted:burn,FOBXX,stellar,951,crawl START 2025-09-01; rules start 2026-01-01
+stellar_ops:converted:mint,FOBXX,stellar,388355,crawl START 2025-09-01; rules start 2026-01-01
+stellar_ops:converted:transfer,FOBXX,stellar,140,crawl START 2025-09-01; rules start 2026-01-01
+stellar_ops:create_claimable_balance_by_holder,FOBXX,stellar,134,crawl START 2025-09-01; rules start 2026-01-01
+stellar_ops:not_converted:allow_trust,FOBXX,stellar,2155,crawl START 2025-09-01; rules start 2026-01-01
+stellar_ops:not_converted:change_trust,FOBXX,stellar,260,crawl START 2025-09-01; rules start 2026-01-01
+stellar_ops:not_converted:claim_claimable_balance (asset not identifiable in op),FOBXX,stellar,3283,crawl START 2025-09-01; rules start 2026-01-01
+stellar_ops:not_converted:invoke_host_function (asset not identifiable in op),FOBXX,stellar,78,crawl START 2025-09-01; rules start 2026-01-01
+stellar_events_dropped_before_crawl_start,WTGXX,stellar,14,crawl START 2025-09-01; rules start 2026-01-01
+stellar_events_supply_only_before_rules_start,WTGXX,stellar,2973,crawl START 2025-09-01; rules start 2026-01-01
+stellar_negative_backout_balances_at_rules_start,WTGXX,stellar,1,crawl START 2025-09-01; rules start 2026-01-01
+stellar_negative_backout_balance_sum,WTGXX,stellar,-41.6,crawl START 2025-09-01; rules start 2026-01-01
+stellar_ops:converted:burn,WTGXX,stellar,1081,crawl START 2025-09-01; rules start 2026-01-01
+stellar_ops:converted:mint,WTGXX,stellar,9335,crawl START 2025-09-01; rules start 2026-01-01
+stellar_ops:converted:transfer,WTGXX,stellar,3,crawl START 2025-09-01; rules start 2026-01-01
+stellar_ops:not_converted:change_trust,WTGXX,stellar,606,crawl START 2025-09-01; rules start 2026-01-01
+stellar_ops:not_converted:claim_claimable_balance (asset not identifiable in op),WTGXX,stellar,3283,crawl START 2025-09-01; rules start 2026-01-01
+stellar_ops:not_converted:invoke_host_function (asset not identifiable in op),WTGXX,stellar,78,crawl START 2025-09-01; rules start 2026-01-01
+stellar_ops:not_converted:set_trust_line_flags,WTGXX,stellar,588,crawl START 2025-09-01; rules start 2026-01-01
+evm_burns,FOBXX,arbitrum,56,
+evm_burns_without_recorded_tx_sender,FOBXX,arbitrum,0,IMPL-5: no burner added for these under tx_sender
+evm_burns,FOBXX,ethereum,10,
+evm_burns_without_recorded_tx_sender,FOBXX,ethereum,0,IMPL-5: no burner added for these under tx_sender
+evm_burns,FOBXX,polygon,7,
+evm_burns_without_recorded_tx_sender,FOBXX,polygon,1,IMPL-5: no burner added for these under tx_sender
+evm_burns,FYOXX,ethereum,68,
+evm_burns_without_recorded_tx_sender,FYOXX,ethereum,0,IMPL-5: no burner added for these under tx_sender
+evm_burns,JLTXX,ethereum,35,
+evm_burns_without_recorded_tx_sender,JLTXX,ethereum,0,IMPL-5: no burner added for these under tx_sender
+evm_burns,WTGXX,arbitrum,16,
+evm_burns_without_recorded_tx_sender,WTGXX,arbitrum,0,IMPL-5: no burner added for these under tx_sender
+evm_burns,WTGXX,ethereum,153,
+evm_burns_without_recorded_tx_sender,WTGXX,ethereum,0,IMPL-5: no burner added for these under tx_sender
+mints_labelled_with_no_yield_available,FOBXX,arbitrum,146,"2023-11-06..2024-05-31 (first N-MFP3 yield date 2024-06-03); labels issuance_none=146; 8c and rule (ii) off, rule (i) uncapped"
+mints_labelled_with_no_yield_available,FOBXX,polygon,338,"2023-10-03..2024-05-31 (first N-MFP3 yield date 2024-06-03); labels dividend_i=336;issuance_none=2; 8c and rule (ii) off, rule (i) uncapped"
+mints_labelled_with_no_yield_available,FYOXX,ethereum,1,"2025-05-29..2025-05-29 (first N-MFP3 yield date 2025-08-04); labels issuance_none=1; 8c and rule (ii) off, rule (i) uncapped"
+mints_labelled_with_no_yield_available,JLTXX,ethereum,1,"2026-05-07..2026-05-07 (first N-MFP3 yield date 2026-05-13); labels issuance_none=1; 8c and rule (ii) off, rule (i) uncapped"

@@ -1,0 +1,25 @@
+measure,fund,computes,note
+M0,FYOXX,yes,coverage ['complete']; missing ['']
+M0-OOS code path,FYOXX,"no,yes","OOS fund-months with a register row: 11 complete, 0 coverage-incomplete; missing chains ['ethereum'] (values hidden unless --reveal-oos); F0 counts ET rows only (rules.f0_count; UTC = sensitivity)"
+M0,JLTXX,yes,coverage ['complete']; missing ['']
+M0-OOS code path,JLTXX,"no,yes","OOS fund-months with a register row: 2 complete, 0 coverage-incomplete; missing chains ['ethereum'] (values hidden unless --reveal-oos); F0 counts ET rows only (rules.f0_count; UTC = sensitivity)"
+M0,WTGXX,yes,coverage ['complete']; missing ['']
+M0-OOS code path,WTGXX,"no,yes","OOS fund-months with a register row: 10 complete, 15 coverage-incomplete; missing chains ['arbitrum;avalanche;base;ethereum;optimism;plume', 'stellar'] (values hidden unless --reveal-oos); F0 counts ET rows only (rules.f0_count; UTC = sensitivity)"
+M0,FOBXX,yes,coverage ['coverage-incomplete']; missing ['aptos']
+M0-OOS code path,FOBXX,"no,yes","OOS fund-months with a register row: 0 complete, 25 coverage-incomplete; missing chains ['aptos', 'aptos;arbitrum;avalanche;base;ethereum;polygon', 'aptos;stellar'] (values hidden unless --reveal-oos); F0 counts ET rows only (rules.f0_count; UTC = sensitivity)"
+M1,FOBXX,yes,"event chains ['arbitrum', 'ethereum', 'polygon', 'solana', 'stellar']; no events on ['aptos', 'avalanche', 'base']"
+M2,FOBXX,yes,issuance+redemption events found=True
+M3,FOBXX,yes,"snapshots [datetime.date(2026, 3, 31), datetime.date(2026, 6, 30), datetime.date(2026, 9, 30)]; chains without balances ['aptos', 'avalanche', 'base']"
+M4,FOBXX,yes,256344 dividend mints in window; lag not identifiable
+M1,WTGXX,yes,"event chains ['arbitrum', 'ethereum', 'solana', 'stellar']; no events on ['avalanche', 'base', 'optimism', 'plume']"
+M2,WTGXX,yes,issuance+redemption events found=True
+M3,WTGXX,yes,"snapshots [datetime.date(2026, 3, 31), datetime.date(2026, 6, 30), datetime.date(2026, 9, 30)]; chains without balances ['avalanche', 'base', 'optimism', 'plume']"
+M4,WTGXX,yes,4377 dividend mints in window; lag not identifiable
+M1,JLTXX,yes,event chains ['ethereum']; no events on []
+M2,JLTXX,yes,issuance+redemption events found=True
+M3,JLTXX,yes,"snapshots [datetime.date(2026, 3, 31), datetime.date(2026, 6, 30), datetime.date(2026, 9, 30)]; chains without balances []"
+M4,JLTXX,yes,260 dividend mints in window; lag not identifiable
+M1,FYOXX,yes,event chains ['ethereum']; no events on []
+M2,FYOXX,yes,issuance+redemption events found=True
+M3,FYOXX,yes,"snapshots [datetime.date(2026, 3, 31), datetime.date(2026, 6, 30), datetime.date(2026, 9, 30)]; chains without balances []"
+M4,FYOXX,yes,5 dividend mints in window; lag identified

@@ -1,0 +1,19 @@
+fund,token,chain,address,status,source_file
+FOBXX,BENJI,stellar,GBHNGLLIE3KWGKCHIKMHJ5HVZHYIK7WTBE4QF5PLAKL4CJGSEU7HZIW5,verified (issuer contracts page) + stellar.toml,2026-10-16_franklin_benji_contracts.html
+FOBXX,BENJI,polygon,0x408A634B8a8f0dE729B48574a3a7Ec3fE820B00A,verified (issuer contracts page),2026-10-16_franklin_benji_contracts.html
+FOBXX,BENJI,arbitrum,0xB9e4765BCE2609bC1949592059B17Ea72fEe6C6A,verified (issuer contracts page),2026-10-16_franklin_benji_contracts.html
+FOBXX,BENJI,avalanche,0xE08b4c1005603427420e64252a8b120cacE4D122,verified (issuer contracts page),2026-10-16_franklin_benji_contracts.html
+FOBXX,BENJI,aptos,0x7b5e9cac3433e9202f28527f707c89e1e47b19de2c33e4db9521a63ad219b739,verified (issuer contracts page),2026-10-16_franklin_benji_contracts.html
+FOBXX,BENJI,ethereum,0x3DDc84940Ab509C11B20B76B466933f40b750dc9,verified (issuer contracts page),2026-10-16_franklin_benji_contracts.html
+FOBXX,BENJI,base,0x60CfC2b186a4CF647486e42c42B11cC6D571d1E4,verified (issuer contracts page),2026-10-16_franklin_benji_contracts.html
+FOBXX,BENJI,solana,5Tu84fKBpe9vfXeotjvfvWdWbAjy3hqsExvuHgFqFxA1,verified (issuer contracts page),2026-10-16_franklin_benji_contracts.html
+WTGXX,WTGXX,arbitrum,0xfeb26f0943c3885b2cb85a9f933975356c81c33d,"verified (issuer fund-details PDF, data as of 09/30/2026)",2026-10-16_wisdomtree_wtgxx_fund_details.pdf
+WTGXX,WTGXX,avalanche,0x870FD36B3bf7f5abeEEa2C8D4abdF1dc4E33109d,"verified (issuer fund-details PDF, data as of 09/30/2026)",2026-10-16_wisdomtree_wtgxx_fund_details.pdf
+WTGXX,WTGXX,base,0x5096b85Ed11798fDdCB8b5CB27C399c04689c435,"verified (issuer fund-details PDF, data as of 09/30/2026)",2026-10-16_wisdomtree_wtgxx_fund_details.pdf
+WTGXX,WTGXX,ethereum,0x1feCF3d9d4Fee7f2c02917A66028a48C6706c179,"verified (issuer fund-details PDF, data as of 09/30/2026)",2026-10-16_wisdomtree_wtgxx_fund_details.pdf
+WTGXX,WTGXX,optimism,0x870FD36B3bf7f5abeEEa2C8D4abdF1dc4E33109d,"verified (issuer fund-details PDF, data as of 09/30/2026)",2026-10-16_wisdomtree_wtgxx_fund_details.pdf
+WTGXX,WTGXX,plume,0xCF7a8813bD3bdAF70A9f46d310Ce1EE8D80a4F5a,"verified (issuer fund-details PDF, data as of 09/30/2026)",2026-10-16_wisdomtree_wtgxx_fund_details.pdf
+WTGXX,WTGXX,solana,Em46fxxwgY2RRoUbBMSbEjJwY62x3ESMNdhnsGpEKewm,"verified (issuer fund-details PDF, data as of 09/30/2026)",2026-10-16_wisdomtree_wtgxx_fund_details.pdf
+WTGXX,WTGX,stellar,GDMBNMFJ3TRFLASJ6UGETFME3PJPNKPU24C7KFDBEBPQFG2CI6UC3JG6,"verified (issuer fund-details PDF, data as of 09/30/2026)",2026-10-16_wisdomtree_wtgxx_fund_details.pdf
+JLTXX,JLTXX,ethereum,0x09864f52B035AE22eE739dFa5c748fA080D07bD8,verified (issuer press release 13 May 2026),2026-10-16_jpm_jltxx_press_release.html
+FYOXX,FDIT,ethereum,0x48aB4e39AC59F4E88974804B04A991b3a402717f,UNVERIFIED (Etherscan label only; no issuer source found),

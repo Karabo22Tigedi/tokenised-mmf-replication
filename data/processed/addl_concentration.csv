@@ -1,0 +1,7 @@
+fund,bound,n,value,share_of_all_transfer_value_pct,top1_share_of_set_pct,top1_share_of_all_transfer_value_pct,top3_share_of_set_pct,top3_share_of_all_transfer_value_pct,top5_share_of_set_pct,top5_share_of_all_transfer_value_pct
+WTGXX,lower (hh),35,32102192.351066,27.6673,93.4516,25.8555,99.9932,27.6654,99.9994,27.6671
+WTGXX,upper (non-TA),68,45029264.113628,38.8084,66.6233,25.8555,84.0812,32.6306,93.9092,36.4447
+FOBXX,lower (hh),44,8020222.18,66.9896,44.047,29.5069,96.8218,64.8606,99.2727,66.5024
+FOBXX,upper (non-TA),44,8020222.18,66.9896,44.047,29.5069,96.8218,64.8606,99.2727,66.5024
+JLTXX,lower (hh),0,0,0.0,,0.0,,0.0,,0.0
+JLTXX,upper (non-TA),8,10.0,0.0,20.0,0.0,50.0,0.0,70.0,0.0

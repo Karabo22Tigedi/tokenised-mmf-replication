@@ -1,0 +1,54 @@
+dimension,fund,chain,cls,n,value,share_count_pct,share_value_pct
+signer_group,FOBXX,stellar,issuer/TA/operator,44,8020222.18,100.0,100.0
+signer_group,JLTXX,ethereum,other,4,6.0,50.0,60.0
+signer_group,JLTXX,ethereum,sender holder,4,4.0,50.0,40.0
+signer_group,WTGXX,all,receiver (pull),18,5058274.109915,26.4706,11.2333
+signer_group,WTGXX,all,sender holder,50,39970990.003713,73.5294,88.7667
+signer_group,WTGXX,ethereum,receiver (pull),11,5058265.62463,22.0,11.2583
+signer_group,WTGXX,ethereum,sender holder,39,39870976.053713,78.0,88.7417
+signer_group,WTGXX,solana,receiver (pull),7,8.485284,43.75,39.6411
+signer_group,WTGXX,solana,sender holder,9,12.92,56.25,60.3589
+signer_group,WTGXX,stellar,sender holder,2,100001.03,100.0,100.0
+signer_class,FOBXX,stellar,issuer-account signer keys (current or former) sign,44,8020222.18,100.0,100.0
+signer_class,JLTXX,ethereum,sender smart account (ERC-4337 UserOp),4,4.0,50.0,40.0
+signer_class,JLTXX,ethereum,third-party smart account (ERC-4337 UserOp sender is neither party),4,6.0,50.0,60.0
+signer_class,WTGXX,all,owner of receiver's Safe executes (pull via contract),3,5028223.852376,4.4118,11.1666
+signer_class,WTGXX,all,owner of sender's Safe calls other contract,1,1.0,1.4706,0.0
+signer_class,WTGXX,all,owner of sender's Safe executes,7,6929419.38221,10.2941,15.3887
+signer_class,WTGXX,all,receiver EOA signs (pull via contract),8,30041.772254,11.7647,0.0667
+signer_class,WTGXX,all,receiver signs (source owner not among tx signers),7,8.485284,10.2941,0.0
+signer_class,WTGXX,all,sender EOA signs,31,32941555.671503,45.5882,73.1559
+signer_class,WTGXX,all,sender account master key signs,2,100001.03,2.9412,0.2221
+signer_class,WTGXX,all,sender signs,9,12.92,13.2353,0.0
+signer_class,WTGXX,ethereum,owner of receiver's Safe executes (pull via contract),3,5028223.852376,6.0,11.1914
+signer_class,WTGXX,ethereum,owner of sender's Safe calls other contract,1,1.0,2.0,0.0
+signer_class,WTGXX,ethereum,owner of sender's Safe executes,7,6929419.38221,14.0,15.423
+signer_class,WTGXX,ethereum,receiver EOA signs (pull via contract),8,30041.772254,16.0,0.0669
+signer_class,WTGXX,ethereum,sender EOA signs,31,32941555.671503,62.0,73.3187
+signer_class,WTGXX,solana,receiver signs (source owner not among tx signers),7,8.485284,43.75,39.6411
+signer_class,WTGXX,solana,sender signs,9,12.92,56.25,60.3589
+signer_class,WTGXX,stellar,sender account master key signs,2,100001.03,100.0,100.0
+function_class,FOBXX,stellar,payment (op source = sender),44,8020222.18,100.0,100.0
+function_class,JLTXX,ethereum,EntryPoint.handleOps (ERC-4337 bundle),8,10.0,100.0,100.0
+function_class,WTGXX,all,ERC1967Proxy->MultiliquidSwap.unknown(0x410e7bd9),5,39.96,7.3529,0.0001
+function_class,WTGXX,all,ERC1967Proxy->MultiliquidSwap.unknown(0xa7c0b7ad),20,200069.0011,29.4118,0.4443
+function_class,WTGXX,all,ERC1967Proxy->MultiliquidSwap.unknown(0xf6143e49),3,15.040204,4.4118,0.0
+function_class,WTGXX,all,ERC1967Proxy->Wrapper.withdrawTo,1,29991.77205,1.4706,0.0666
+function_class,WTGXX,all,MultiSendCallOnly.multiSend,1,1.0,1.4706,0.0
+function_class,WTGXX,all,Safe.execTransaction -> ERC1967Proxy->Wrapper.withdrawTo,3,5028223.852376,4.4118,11.1666
+function_class,WTGXX,all,Safe.execTransaction -> MultiSendCallOnly.multiSend,5,6929394.954009,7.3529,15.3886
+function_class,WTGXX,all,Safe.execTransaction -> Proxy->ERC20RevocableComplianceStandard.transfer,2,24.428201,2.9412,0.0001
+function_class,WTGXX,all,payment (op source = sender),2,100001.03,2.9412,0.2221
+function_class,WTGXX,all,spl-token transferChecked,16,21.405284,23.5294,0.0
+function_class,WTGXX,all,token.transfer (direct),10,32741481.670403,14.7059,72.7116
+function_class,WTGXX,ethereum,ERC1967Proxy->MultiliquidSwap.unknown(0x410e7bd9),5,39.96,10.0,0.0001
+function_class,WTGXX,ethereum,ERC1967Proxy->MultiliquidSwap.unknown(0xa7c0b7ad),20,200069.0011,40.0,0.4453
+function_class,WTGXX,ethereum,ERC1967Proxy->MultiliquidSwap.unknown(0xf6143e49),3,15.040204,6.0,0.0
+function_class,WTGXX,ethereum,ERC1967Proxy->Wrapper.withdrawTo,1,29991.77205,2.0,0.0668
+function_class,WTGXX,ethereum,MultiSendCallOnly.multiSend,1,1.0,2.0,0.0
+function_class,WTGXX,ethereum,Safe.execTransaction -> ERC1967Proxy->Wrapper.withdrawTo,3,5028223.852376,6.0,11.1914
+function_class,WTGXX,ethereum,Safe.execTransaction -> MultiSendCallOnly.multiSend,5,6929394.954009,10.0,15.4229
+function_class,WTGXX,ethereum,Safe.execTransaction -> Proxy->ERC20RevocableComplianceStandard.transfer,2,24.428201,4.0,0.0001
+function_class,WTGXX,ethereum,token.transfer (direct),10,32741481.670403,20.0,72.8734
+function_class,WTGXX,solana,spl-token transferChecked,16,21.405284,100.0,100.0
+function_class,WTGXX,stellar,payment (op source = sender),2,100001.03,100.0,100.0

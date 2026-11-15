@@ -1,0 +1,33 @@
+spec,window,falsifier,fund,verdict,full_window_verdict,matches_full_window,note,n_events,lower_share_value_pct,lower_share_count_pct,main_share_value_pct,main_share_count_pct,upper_share_value_pct,upper_share_count_pct,issuance_value,redemption_value,nonbusiness_share_pct,snapshot,outside_top10_pct,n_nonta_wallets,worst_case_outside_top10_pct,worst_case_verdict,full_window_snapshot,n_dividend_days,n_nonbusiness_dividend_days,share_dividend_days_ta_batch_pct,lag_status,median_lag_bd_B,share_delivered_on_chain_pct
+main_frozen_classification,2026-01-01:2026-06-30,F1,FOBXX,FAIL,FAIL,yes,upper value 66.6254% / count 53.3333%,45,66.6254,53.3333,66.6254,53.3333,66.6254,53.3333,,,,,,,,,,,,,,,
+main_frozen_classification,2026-01-01:2026-06-30,F1,FYOXX,PASS-for-claim,PASS-for-claim,yes,upper value 0.0% / count 0.0%,63,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,,
+main_frozen_classification,2026-01-01:2026-06-30,F1,JLTXX,NOT TESTABLE,NOT TESTABLE,yes,"structurally precluded (prereg §4.5: no power for JLTXX, 3-4 holders)",12,0.0,0.0,0.0006,25.0,0.001,50.0,,,,,,,,,,,,,,,
+main_frozen_classification,2026-01-01:2026-06-30,F1,WTGXX,FAIL,FAIL,yes,upper value 39.1361% / count 41.3462%,104,31.004,15.3846,39.1361,41.3462,39.1361,41.3462,,,,,,,,,,,,,,,
+main_frozen_classification,2026-01-01:2026-06-30,F2,FOBXX,PASS-for-claim,PASS-for-claim,yes,non-business share 0.0047%,,,,,,,,233561075.182473,246846489.248318,0.0047,,,,,,,,,,,,
+main_frozen_classification,2026-01-01:2026-06-30,F2,FYOXX,PASS-for-claim,PASS-for-claim,yes,non-business share 0.369%,,,,,,,,82994276.02,261579799.68,0.369,,,,,,,,,,,,
+main_frozen_classification,2026-01-01:2026-06-30,F2,JLTXX,PASS-for-claim,PASS-for-claim,yes,non-business share 0.0364%,,,,,,,,681781537.41,700006.0,0.0364,,,,,,,,,,,,
+main_frozen_classification,2026-01-01:2026-06-30,F2,WTGXX,PASS-for-claim,PASS-for-claim,yes,non-business share 0.0074%,,,,,,,,318852691.206069,329830977.433679,0.0074,,,,,,,,,,,,
+main_frozen_classification,2026-01-01:2026-06-30,F3,FOBXX,PASS-for-claim,PASS-for-claim,yes,outside top-10 share 16.4457%,,,,,,,,,,,2026-06-30,16.4457,975,32.3674,FAIL,2026-09-30,,,,,,
+main_frozen_classification,2026-01-01:2026-06-30,F3,FYOXX,NOT TESTABLE,NOT TESTABLE,yes,prereg §4.5: F3 defined for FOBXX and WTGXX only,,,,,,,,,,,,,,,,,,,,,,
+main_frozen_classification,2026-01-01:2026-06-30,F3,JLTXX,NOT TESTABLE,NOT TESTABLE,yes,prereg §4.5: F3 defined for FOBXX and WTGXX only,,,,,,,,,,,,,,,,,,,,,,
+main_frozen_classification,2026-01-01:2026-06-30,F3,WTGXX,PASS-for-claim,PASS-for-claim,yes,outside top-10 share 1.5128%,,,,,,,,,,,2026-06-30,1.5128,650,1.513,PASS-for-claim,2026-09-30,,,,,,
+main_frozen_classification,2026-01-01:2026-06-30,F4,FOBXX,PASS-for-claim (partial: lag not identifiable),PASS-for-claim (partial: lag not identifiable),yes,"(a) False, (b) True; lag not identifiable",,,,,,,,,,,,,,,,,177,53,100.0,not identifiable,,103.5814
+main_frozen_classification,2026-01-01:2026-06-30,F4,FYOXX,NOT TESTABLE,FAIL,no,no dividend mints in the window,,,,,,,,,,,,,,,,,0,0,,not identifiable,,0.0
+main_frozen_classification,2026-01-01:2026-06-30,F4,JLTXX,PASS-for-claim (partial: lag not identifiable),PASS-for-claim (partial: lag not identifiable),yes,"(a) False, (b) True; lag not identifiable",,,,,,,,,,,,,,,,,22,3,100.0,not identifiable,,74.6893
+main_frozen_classification,2026-01-01:2026-06-30,F4,WTGXX,FAIL (partial: lag not identifiable),FAIL (partial: lag not identifiable),yes,"(a) True, (b) True; lag not identifiable",,,,,,,,,,,,,,,,,10,0,100.0,not identifiable,,36.8035
+info_horizon_2026-07-02,2026-01-01:2026-06-30,F1,FOBXX,FAIL,FAIL,yes,upper value 67.3519% / count 73.3333%,45,67.3519,73.3333,67.3519,73.3333,67.3519,73.3333,,,,,,,,,,,,,,,
+info_horizon_2026-07-02,2026-01-01:2026-06-30,F1,FYOXX,PASS-for-claim,PASS-for-claim,yes,upper value 0.0% / count 0.0%,63,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,,
+info_horizon_2026-07-02,2026-01-01:2026-06-30,F1,JLTXX,NOT TESTABLE,NOT TESTABLE,yes,"structurally precluded (prereg §4.5: no power for JLTXX, 3-4 holders)",12,0.0,0.0,0.0006,25.0,0.001,50.0,,,,,,,,,,,,,,,
+info_horizon_2026-07-02,2026-01-01:2026-06-30,F1,WTGXX,FAIL,FAIL,yes,upper value 39.1361% / count 41.3462%,104,31.004,15.3846,39.1361,41.3462,39.1361,41.3462,,,,,,,,,,,,,,,
+info_horizon_2026-07-02,2026-01-01:2026-06-30,F2,FOBXX,PASS-for-claim,PASS-for-claim,yes,non-business share 0.0047%,,,,,,,,233561075.182473,246846489.248318,0.0047,,,,,,,,,,,,
+info_horizon_2026-07-02,2026-01-01:2026-06-30,F2,FYOXX,PASS-for-claim,PASS-for-claim,yes,non-business share 0.369%,,,,,,,,82994276.02,261579799.68,0.369,,,,,,,,,,,,
+info_horizon_2026-07-02,2026-01-01:2026-06-30,F2,JLTXX,PASS-for-claim,PASS-for-claim,yes,non-business share 0.0364%,,,,,,,,681781537.41,700006.0,0.0364,,,,,,,,,,,,
+info_horizon_2026-07-02,2026-01-01:2026-06-30,F2,WTGXX,PASS-for-claim,PASS-for-claim,yes,non-business share 0.0074%,,,,,,,,318852691.206069,329830977.433679,0.0074,,,,,,,,,,,,
+info_horizon_2026-07-02,2026-01-01:2026-06-30,F3,FOBXX,PASS-for-claim,PASS-for-claim,yes,outside top-10 share 16.4638%,,,,,,,,,,,2026-06-30,16.4638,976,32.3792,FAIL,2026-09-30,,,,,,
+info_horizon_2026-07-02,2026-01-01:2026-06-30,F3,FYOXX,NOT TESTABLE,NOT TESTABLE,yes,prereg §4.5: F3 defined for FOBXX and WTGXX only,,,,,,,,,,,,,,,,,,,,,,
+info_horizon_2026-07-02,2026-01-01:2026-06-30,F3,JLTXX,NOT TESTABLE,NOT TESTABLE,yes,prereg §4.5: F3 defined for FOBXX and WTGXX only,,,,,,,,,,,,,,,,,,,,,,
+info_horizon_2026-07-02,2026-01-01:2026-06-30,F3,WTGXX,PASS-for-claim,PASS-for-claim,yes,outside top-10 share 1.5128%,,,,,,,,,,,2026-06-30,1.5128,650,1.513,PASS-for-claim,2026-09-30,,,,,,
+info_horizon_2026-07-02,2026-01-01:2026-06-30,F4,FOBXX,PASS-for-claim (partial: lag not identifiable),PASS-for-claim (partial: lag not identifiable),yes,"(a) False, (b) True; lag not identifiable",,,,,,,,,,,,,,,,,177,53,100.0,not identifiable,,103.5814
+info_horizon_2026-07-02,2026-01-01:2026-06-30,F4,FYOXX,NOT TESTABLE,FAIL,no,no dividend mints in the window,,,,,,,,,,,,,,,,,0,0,,not identifiable,,0.0
+info_horizon_2026-07-02,2026-01-01:2026-06-30,F4,JLTXX,PASS-for-claim (partial: lag not identifiable),PASS-for-claim (partial: lag not identifiable),yes,"(a) False, (b) True; lag not identifiable",,,,,,,,,,,,,,,,,22,3,100.0,not identifiable,,74.6893
+info_horizon_2026-07-02,2026-01-01:2026-06-30,F4,WTGXX,FAIL (partial: lag not identifiable),FAIL (partial: lag not identifiable),yes,"(a) True, (b) True; lag not identifiable",,,,,,,,,,,,,,,,,10,0,100.0,not identifiable,,36.8035
