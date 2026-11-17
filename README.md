@@ -2,6 +2,8 @@
 
 Researcher: Karabo Tigedi. This repository accompanies the dissertation on operational transfer authorisation, legal record authority and tokenised government money-market funds. The empirical window is 1 January–30 September 2026; documentary and exploratory vintages are identified separately.
 
+**Version 1.1** (prepared 17–18 November 2026) supersedes v1.0 for the final dissertation. It adds the dated exploratory Fidelity class comparison (`data/processed/exploratory/2026-11-17/`, script 24), the matching final dissertation PDF and source, and a reproduction stage for script 24. Version 1.0 remains available unchanged at its tag.
+
 ## Read the dissertation and inspect its evidence
 
 - [Dissertation PDF](drafts/independent/dissertation_revised.pdf)
@@ -23,7 +25,7 @@ python -m pip install -r requirements.txt
 python -I -B reproduce.py --quick
 ```
 
-`verify.py` needs no third-party Python packages and checks the selected release files against their SHA-256 inventory. The quick route reruns the rules tests, builds the numerical index/verdicts and renders the figure. It is not a recomputation of every measurement from raw records. See [REPRODUCTION.md](REPRODUCTION.md) for the main and extended routes, exact coverage and output comparisons.
+`verify.py` needs no third-party Python packages and checks the selected release files against their SHA-256 inventory. The quick route reruns the rules tests, re-derives the exploratory Fidelity class comparison from the packaged filings (v1.1), builds the numerical index/verdicts and renders the figure. It is not a recomputation of every measurement from raw records. See [REPRODUCTION.md](REPRODUCTION.md) for the main and extended routes, exact coverage and output comparisons.
 
 The replication runner blocks network calls and uses a disposable copy. It never refreshes the study or overwrites the distributed reference outputs. Its logs and comparison results are saved under `.reproduction/`.
 

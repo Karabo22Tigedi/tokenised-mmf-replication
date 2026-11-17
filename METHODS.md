@@ -14,3 +14,22 @@ Stellar supply uses events from 1 September 2025; role/dividend rules use events
 
 Original methodological record SHA-256 values (records themselves remain outside this snapshot): `preregistration.md` = `2ac816b82d147e9098f76850d23e3555ece7957da6bcb20fd693d2470096d471`; `preregistration_implementation_notes.md` = `5520a3f4ad895050b4095cdfedd3074edd0a846b9d069cb2b233e3ae82397fc9`. These identify records inspected here, not evidence that a fresh checkout contains them.
 
+
+## Version 1.1: exploratory Fidelity class comparison (17 November 2026)
+
+After supervisor feedback, a dated exploratory analysis of the existing held data was added: `scripts/24_explore_fidelity_class_gap_2026_11_17.py`. It is not a pre-specified measure, and it changes no frozen rule, threshold or output.
+
+What it does:
+- It re-parses the 22 original Fidelity N-MFP3 filings for series S000089156, with no amendments.
+- It compares the Liquidity (C000255665) and OnChain (C000261149) seven-day net yields on the same dates.
+- It decomposes the full-period gap arithmetically by month and by the five launch-week OnChain reports.
+- It treats overlapping seven-day yields with a non-overlapping weekly sample.
+- It reports gross-minus-net yields and filed waivers. The balance reconstruction behind the waiver rates is approximate.
+- It lists same-day cross-class flows, labelled only as consistent with conversion.
+
+How to read it:
+- The decomposition is arithmetic, not causal.
+- The launch-week values are reported as filed. They are consistent with an incomplete seven-day calculation window, but no held source documents that convention.
+- No causal cost of tokenisation is identified.
+
+An independent agent audit in the private working record recomputed every quantity from the raw XML. The release reproduces the CSV outputs exactly on the quick route. See `data/processed/exploratory/2026-11-17/README.md`.

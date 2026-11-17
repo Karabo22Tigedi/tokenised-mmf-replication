@@ -306,6 +306,11 @@ def main() -> int:
             shutil.copytree(ROOT / name, runner.work / name, symlinks=False)
         (runner.work / ".runtime").mkdir()
         runner.tests()
+        # v1.1: exploratory Fidelity class comparison (17 Nov 2026), re-derived from the packaged
+        # N-MFP3 XML. The fee-term file is a documented source fact (third-party HTML not redistributed).
+        runner.stage("24_explore_fidelity_class_gap_2026_11_17.py", tuple(
+            "exploratory/2026-11-17/" + n for n in (
+                "fidelity_class_daily.csv", "fidelity_class_monthly.csv", "fidelity_class_gap_summary.csv")))
         if args.mode in {"main", "extended"}:
             oos = sorted({r["report_date"] for r in csv_dicts(ROOT / "data/processed/freeze_nmfp_summary.csv")
                           if r["governing"] == "1" and r["report_date"] < "2026-07-31"})
