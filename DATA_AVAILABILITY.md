@@ -12,6 +12,8 @@ Whole third-party reading PDFs, issuer PDFs, captured web pages, private notes a
 
 4. **Version 1.1 exploratory addition (17 November 2026).** `data/processed/exploratory/2026-11-17/` holds a dated exploratory analysis of the existing held Fidelity N-MFP3 filings. It covers the same-date class gap, its decomposition, the overlap of seven-day yields, gross-minus-net yields, filed waivers and cross-class flows. It acquired no new data and changed no frozen file or measure. Its fee-term file uses the held 485BPOS prospectus. That HTML is not redistributed. `data/source_facts/fidelity_fee_terms.csv` is the verbatim extract: fee-table values, audited Financial Highlights ratios, and quoted sentences with headings and offsets. Those quotations were checked word for word against the held HTML in an independent audit in the private working record.
 
+5. **Version 1.2 exploratory addition (18 November 2026).** `data/processed/exploratory/2026-11-18/` holds a check, derived from the packaged frozen Stellar operation crawl and `addl_signer_function.csv`, of whether each key that signed Franklin's 44 holder-to-holder transfers was a signer on the issuer account when it signed. It acquired no new data and changed no frozen file or measure.
+
 ## Manifests
 
 `data/raw/FREEZE_MANIFEST_2026-10-16.csv` and the two `ADDITION_MANIFEST` files are unmodified historical inventories. Some paths in them are deliberately absent from this curated snapshot. `docs/input_provenance.csv` gives each original path, size, hash and release disposition. `docs/code_adaptations.csv` records publication-specific script changes and their original/release hashes.

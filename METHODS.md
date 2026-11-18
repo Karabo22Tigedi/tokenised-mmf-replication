@@ -15,6 +15,16 @@ Stellar supply uses events from 1 September 2025; role/dividend rules use events
 Original methodological record SHA-256 values (records themselves remain outside this snapshot): `preregistration.md` = `2ac816b82d147e9098f76850d23e3555ece7957da6bcb20fd693d2470096d471`; `preregistration_implementation_notes.md` = `5520a3f4ad895050b4095cdfedd3074edd0a846b9d069cb2b233e3ae82397fc9`. These identify records inspected here, not evidence that a fresh checkout contains them.
 
 
+## Version 1.2: exploratory Franklin signer-timing check (18 November 2026)
+
+`scripts/25_check_franklin_signer_timing_2026_11_18.py` was added after the readability review of the final dissertation. It is not a pre-specified measure, and it changes no frozen rule, threshold or output.
+
+What it does:
+- It reads every `set_options` operation sourced by the BENJI issuer account in the frozen Stellar operation crawl. The earliest record in the crawl is 28 August 2025.
+- For each of the 44 FOBXX holder-to-holder transfers in `addl_signer_function.csv`, it reports each signature key's weight on the issuer account at the transaction time.
+
+Result: none of the 88 key uses came from a key that was not then an issuer-account signer. The frozen account records give the issuer and sending holder accounts the same thresholds (2/2/6), and the keys used carry weight 1, so authority over both is joint. It does not identify who held the keys.
+
 ## Version 1.1: exploratory Fidelity class comparison (17 November 2026)
 
 After supervisor feedback, a dated exploratory analysis of the existing held data was added: `scripts/24_explore_fidelity_class_gap_2026_11_17.py`. It is not a pre-specified measure, and it changes no frozen rule, threshold or output.

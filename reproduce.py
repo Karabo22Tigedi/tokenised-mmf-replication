@@ -311,6 +311,11 @@ def main() -> int:
         runner.stage("24_explore_fidelity_class_gap_2026_11_17.py", tuple(
             "exploratory/2026-11-17/" + n for n in (
                 "fidelity_class_daily.csv", "fidelity_class_monthly.csv", "fidelity_class_gap_summary.csv")))
+        # v1.2: exploratory Franklin signer-timing check (18 Nov 2026), re-derived from the packaged
+        # frozen Stellar operations and addl_signer_function.csv.
+        runner.stage("25_check_franklin_signer_timing_2026_11_18.py", tuple(
+            "exploratory/2026-11-18/" + n for n in (
+                "franklin_signer_timing.csv", "franklin_signer_timing_summary.csv")))
         if args.mode in {"main", "extended"}:
             oos = sorted({r["report_date"] for r in csv_dicts(ROOT / "data/processed/freeze_nmfp_summary.csv")
                           if r["governing"] == "1" and r["report_date"] < "2026-07-31"})

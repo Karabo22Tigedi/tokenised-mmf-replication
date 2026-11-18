@@ -16,6 +16,15 @@ The remaining scientific stages were completed in the same isolated working copy
 
 Source data, scientific algorithms and reference results were not changed to obtain these passes. The checks establish computational consistency conditional on the included parsed tables and factual extracts. They do not reproduce live acquisition, independently recover omitted third-party texts, complete missing chain history or establish legal record authority. See `DATA_AVAILABILITY.md` and `METHODS.md`.
 
+## Version 1.2 (validated 18 November 2026)
+
+Version 1.2 adds the final, readability-revised dissertation (5,810 counted words, 40 pages) and the exploratory Franklin signer-timing check (script 25 and `data/processed/exploratory/2026-11-18/`), with a quick-route reproduction stage. Versions 1.0 and 1.1 remain unchanged at their tags.
+
+- The package passes `verify.py` (staged export: 3,335 files plus MANIFEST.csv).
+- `reproduce.py --quick` passed in a clean environment built from `requirements.txt` (Python 3.13, Windows): 5 commands and 10 of 10 CSV comparisons, including exact reproduction of `franklin_signer_timing.csv` and `franklin_signer_timing_summary.csv` from the packaged Stellar operations.
+- Before release, the signer-timing result was independently confirmed from the raw issuer operation history by three separate reviews in the private working record.
+- The main and extended routes are unchanged from version 1.0 and were not re-executed for this version.
+
 ## Version 1.1 (validated 18 November 2026)
 
 Version 1.1 adds the exploratory Fidelity class comparison dated 17 November 2026 (script 24 and `data/processed/exploratory/2026-11-17/`), the final dissertation and a quick-route reproduction stage. Version 1.0 remains unchanged at its tag.
