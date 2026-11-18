@@ -8,7 +8,7 @@ Fund identifiers: FOBXX/BENJI (Franklin), WTGXX/WTGX on Stellar (WisdomTree), JL
 
 The main window is 1 January to 30 September 2026 in America/New_York time. The July to September calibration window (called the feasibility pilot in earlier records) informed the thresholds and implementation. Earlier-month tests therefore assess a partly calibrated specification; they are not a wholly prospective test. Missing Aptos history prevents complete Franklin reconciliation. A missing chain is not treated as zero.
 
-## Manuscript navigation (final dissertation, version 1.2)
+## Manuscript navigation (final dissertation, version 1.3)
 
 | Item in current manuscript | Direct evidence and calculation | Documentary basis or important limit |
 |---|---|---|
@@ -25,6 +25,7 @@ The main window is 1 January to 30 September 2026 in America/New_York time. The 
 | Appendix B: Table 7 measures and falsifiers (`tab:measures`); Table 8 WisdomTree sensitivities (`tab:wtgxxsens`); Table 9 original results and power (`tab:verdicts`) | `scripts/rules.py`, `scripts/05_measures.py`, `scripts/07_key_numbers.py`; `freeze_falsifier_verdicts.csv`, `freeze_measures_status.csv`; `addl_oos_verdicts.csv`, `addl_oos_role_changes.csv`, `addl_f1_minsize.csv`, `addl_oos_measures.csv`; `freeze_sens_*`. | Original coded verdicts are preserved unchanged. Historical F4 partial codes are not the full three-condition finding. |
 | Appendix C: Table 10, Implementation choices (`tab:calibchoices`) | `scripts/05_measures.py` `MAIN`/`SENSITIVITIES`; `scripts/rules.py`; `freeze_sens_m0.csv` to `freeze_sens_m4.csv`, `freeze_sens_labels.csv`, `freeze_sens_roles.csv`. | Eleven choices were made after viewing the calibration window (METHODS.md), including Franklin's main Stellar redeemer classification. |
 | Appendix D: Table 11, Permission and use (`tab:permuse`); class-comparison detail | `prep_permissions_matrix.csv`; M1–M4 CSVs; signer, owner-match, control and route CSVs; `exploratory/2026-11-17/` for the Fidelity decomposition and cross-class flows. | Prospectuses establish stated permissions; transaction records establish observed use on covered chains. Cross-class flows are described only as consistent with conversion. |
+| Appendix F, Exchange-control routes in detail (`app:exchange`) | Documentary only: draft Crypto Asset Manual, draft CFM Regulations, Exchange Control Regulations 1961, authorised-dealer manual and fund sales terms, with section- and page-level citations. | Moved from Section 7.3 in version 1.3; Section 7.3 keeps the plain consequences. Drafts at the held vintage; "On my reading" marks interpretations; counter-readings retained. |
 
 All unnamed CSVs in this map are in `data/processed/`.
 
