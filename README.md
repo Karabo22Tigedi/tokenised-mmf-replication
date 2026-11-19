@@ -2,7 +2,7 @@
 
 Researcher: Karabo Tigedi. This repository accompanies the dissertation on operational transfer authorisation, legal record authority and tokenised government money-market funds. The empirical window is 1 January–30 September 2026; documentary and exploratory vintages are identified separately.
 
-**Version 1.4** (prepared 19 November 2026) is the final version: it contains the submitted dissertation with minor presentation edits (a one-sentence definition of Form N-MFP3, appendix glossary as a list, appendix paragraph headings). Data, code and results are unchanged from version 1.2. **Version 1.3** (prepared 18 November 2026) superseded earlier versions. It contains the final dissertation after a further readability revision; the exchange-control route detail now sits in its Appendix F. Data, code and results are unchanged from version 1.2. Version 1.2 history follows. **Version 1.2** (prepared 18 November 2026) superseded v1.0 and v1.1. Version 1.1 added the dated exploratory Fidelity class comparison (`data/processed/exploratory/2026-11-17/`, script 24). Version 1.2 adds the final, readability-revised dissertation PDF and source, and a dated exploratory check of Franklin's signer timing (`data/processed/exploratory/2026-11-18/`, script 25). Both scripts have quick-route reproduction stages. No frozen data, rule, measure or verdict changed. Versions 1.0 to 1.3 remain available unchanged at their tags.
+**Version 1.4** (19 November 2026) accompanies the submitted dissertation. Earlier versions remain available at their tags; `VALIDATION.md` records what each version changed and how it was checked.
 
 ## Read the dissertation and inspect its evidence
 
