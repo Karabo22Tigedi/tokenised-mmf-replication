@@ -1,6 +1,6 @@
 # Recorded validation: version 1.0
 
-Validation date: 15 November 2026. Python 3.13 was used on Windows. This note reports observed checks, not a dissertation grade or an independent validation of legal conclusions.
+Python 3.13 was used on Windows. This note reports observed checks, not a dissertation grade or an independent validation of legal conclusions.
 
 - All **55 original unit tests** passed without skips.
 - The complete offline scientific route was executed in isolated scratch: scripts 05, 13, 15, 16, 07, 17, 18, 19, 20, 22, 23, final 07 and the revised calendar renderer.
@@ -34,7 +34,7 @@ Version 1.3 replaces the dissertation source and PDF with the final readability-
 - The dissertation PDF in this version is byte-identical to the submitted final PDF.
 - The main and extended routes are unchanged from version 1.0 and were not re-executed for this version.
 
-## Version 1.2 (validated 18 November 2026)
+## Version 1.2
 
 Version 1.2 adds the final, readability-revised dissertation (5,810 counted words, 40 pages) and the exploratory Franklin signer-timing check (script 25 and `data/processed/exploratory/2026-11-18/`), with a quick-route reproduction stage. Versions 1.0 and 1.1 remain unchanged at their tags.
 
@@ -43,9 +43,9 @@ Version 1.2 adds the final, readability-revised dissertation (5,810 counted word
 - Before release, the signer-timing result was independently confirmed from the raw issuer operation history by three separate reviews in the private working record.
 - The main and extended routes are unchanged from version 1.0 and were not re-executed for this version.
 
-## Version 1.1 (validated 18 November 2026)
+## Version 1.1
 
-Version 1.1 adds the exploratory Fidelity class comparison dated 17 November 2026 (script 24 and `data/processed/exploratory/2026-11-17/`), the final dissertation and a quick-route reproduction stage. Version 1.0 remains unchanged at its tag.
+Version 1.1 adds the exploratory Fidelity class comparison (script 24 and `data/processed/exploratory/2026-11-17/`), the final dissertation and a quick-route reproduction stage. Version 1.0 remains unchanged at its tag.
 
 - `verify.py` passed: 3,331 files, 238,056,704 bytes.
 - `reproduce.py --quick` passed in a clean environment built from `requirements.txt` (Python 3.13, Windows): 4 commands and 8 of 8 CSV comparisons. They include exact reproduction of `fidelity_class_daily.csv`, `fidelity_class_monthly.csv` and `fidelity_class_gap_summary.csv` from the packaged N-MFP3 XML. The figure renderer completed.
