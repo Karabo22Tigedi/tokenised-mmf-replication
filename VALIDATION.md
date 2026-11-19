@@ -16,6 +16,15 @@ The remaining scientific stages were completed in the same isolated working copy
 
 Source data, scientific algorithms and reference results were not changed to obtain these passes. The checks establish computational consistency conditional on the included parsed tables and factual extracts. They do not reproduce live acquisition, independently recover omitted third-party texts, complete missing chain history or establish legal record authority. See `DATA_AVAILABILITY.md` and `METHODS.md`.
 
+## Version 1.4 (validated 19 November 2026)
+
+Version 1.4 replaces the dissertation source and PDF with the submitted final version (5,900 counted words, 42 pages): a one-sentence definition of Form N-MFP3 in Section 3.2, the Appendix A glossary as a list, and appendix paragraph-heading punctuation and spacing. Data, scripts and reference results are unchanged. Versions 1.0 to 1.3 remain unchanged at their tags.
+
+- `verify.py` passed on the staged export: 3,335 files.
+- `reproduce.py --quick` passed in a clean environment built from `requirements.txt` (Python 3.13, Windows): 5 commands and 10 of 10 CSV comparisons.
+- The dissertation PDF in this version is byte-identical to the submitted final PDF.
+- The main and extended routes are unchanged from version 1.0 and were not re-executed for this version.
+
 ## Version 1.3 (validated 18 November 2026)
 
 Version 1.3 replaces the dissertation source and PDF with the final readability-revised version (5,895 counted words, 41 pages; new Appendix F) and updates this documentation. Data, scripts and reference results are unchanged from version 1.2. Versions 1.0, 1.1 and 1.2 remain unchanged at their tags.

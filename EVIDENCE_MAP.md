@@ -8,7 +8,7 @@ Fund identifiers: FOBXX/BENJI (Franklin), WTGXX/WTGX on Stellar (WisdomTree), JL
 
 The main window is 1 January to 30 September 2026 in America/New_York time. The July to September calibration window (called the feasibility pilot in earlier records) informed the thresholds and implementation. Earlier-month tests therefore assess a partly calibrated specification; they are not a wholly prospective test. Missing Aptos history prevents complete Franklin reconciliation. A missing chain is not treated as zero.
 
-## Manuscript navigation (final dissertation, version 1.3)
+## Manuscript navigation (final dissertation, version 1.4)
 
 | Item in current manuscript | Direct evidence and calculation | Documentary basis or important limit |
 |---|---|---|
